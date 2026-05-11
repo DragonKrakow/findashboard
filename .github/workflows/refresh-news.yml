@@ -1,0 +1,64 @@
+name: Refresh AI News Digest
+
+on:
+  # Run automatically every 4 hours
+  schedule:
+    - cron: '0 */4 * * *'
+  # Allow manual trigger from the Actions tab
+  workflow_dispatch:
+    inputs:
+      max_articles:
+        description: 'Maximum articles to fetch per feed'
+        required: false
+        default: '10'
+      dry_run:
+        description: 'Dry run (do not commit changes)'
+        required: false
+        default: 'false'
+        type: boolean
+
+permissions:
+  contents: write   # needed to commit updated JSON files
+
+jobs:
+  refresh:
+    name: Fetch RSS → Summarise with Groq → Commit JSON
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      # ── 1. Checkout ──────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ── 2. Set up Python ─────────────────────────────────────────
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      # ── 3. Install dependencies ──────────────────────────────────
+      - name: Install Python dependencies
+        run: pip install feedparser groq python-dateutil
+
+      # ── 4. Run refresh script ────────────────────────────────────
+      - name: Refresh news data
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          MAX_ARTICLES: ${{ github.event.inputs.max_articles || '10' }}
+        run: python scripts/refresh_news.py
+
+      # ── 5. Commit & push (skip on dry run) ───────────────────────
+      - name: Commit updated data files
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/news.json data/signals.json data/market.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit — data is already up to date."
+          else
+            git commit -m "chore: auto-refresh news digest [skip ci]"
+            git push
+          fi

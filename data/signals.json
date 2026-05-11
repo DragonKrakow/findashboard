@@ -1,0 +1,77 @@
+{
+  "generated_at": "2026-05-11T21:00:00Z",
+  "watchlist": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "type": "stock",
+      "price": 942.80,
+      "change_pct": 6.14,
+      "signal": "buy",
+      "note": "Record earnings beat; data-centre momentum intact"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "type": "stock",
+      "price": 213.45,
+      "change_pct": 0.62,
+      "signal": "hold",
+      "note": "WWDC catalyst expected in June; AI Siri could re-rate"
+    },
+    {
+      "ticker": "SPY",
+      "name": "S&P 500 ETF",
+      "type": "etf",
+      "price": 528.30,
+      "change_pct": 0.41,
+      "signal": "hold",
+      "note": "Breadth improving; watch 530 resistance"
+    },
+    {
+      "ticker": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "price": 94850.00,
+      "change_pct": 3.28,
+      "signal": "watch",
+      "note": "Above $90k resistance; ETF inflows strong"
+    },
+    {
+      "ticker": "XOM",
+      "name": "Exxon Mobil",
+      "type": "stock",
+      "price": 108.20,
+      "change_pct": -2.05,
+      "signal": "sell",
+      "note": "OPEC+ supply boost pressures energy names"
+    },
+    {
+      "ticker": "GLD",
+      "name": "Gold ETF",
+      "type": "etf",
+      "price": 218.90,
+      "change_pct": 0.95,
+      "signal": "buy",
+      "note": "Safe-haven demand rising on macro uncertainty"
+    },
+    {
+      "ticker": "TLT",
+      "name": "20yr+ Treasury ETF",
+      "type": "etf",
+      "price": 94.15,
+      "change_pct": 0.33,
+      "signal": "watch",
+      "note": "Rate cut expectations lifting long bonds"
+    },
+    {
+      "ticker": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "price": 3620.00,
+      "change_pct": 2.10,
+      "signal": "hold",
+      "note": "ETF decision in Q3; staking yield at 4.2 %"
+    }
+  ]
+}
