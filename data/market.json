@@ -1,0 +1,25 @@
+{
+  "generated_at": "2026-05-11T21:00:00Z",
+  "indices": [
+    { "name": "S&P 500",    "value": 5282.70, "change_pct":  0.41, "region": "US" },
+    { "name": "NASDAQ",     "value": 18640.20,"change_pct":  0.88, "region": "US" },
+    { "name": "Dow Jones",  "value": 39145.50,"change_pct":  0.17, "region": "US" },
+    { "name": "FTSE 100",   "value": 8421.30, "change_pct": -0.22, "region": "EU" },
+    { "name": "DAX",        "value": 18965.80,"change_pct":  0.35, "region": "EU" },
+    { "name": "Nikkei 225", "value": 38480.10,"change_pct": -0.54, "region": "APAC" }
+  ],
+  "macro": [
+    { "label": "10Y UST Yield", "value": "4.32%",   "change": "-0.04", "direction": "down" },
+    { "label": "DXY",           "value": "103.20",  "change": "-0.31", "direction": "down" },
+    { "label": "Brent Crude",   "value": "$78.40",  "change": "-3.12%","direction": "down" },
+    { "label": "Gold",          "value": "$2,348",  "change": "+0.95%","direction": "up"   },
+    { "label": "VIX",           "value": "13.8",    "change": "-0.6",  "direction": "down" },
+    { "label": "EUR/USD",       "value": "1.0701",  "change": "-0.80%","direction": "down" }
+  ],
+  "sentiment": {
+    "overall": "cautiously_bullish",
+    "fear_greed_index": 62,
+    "fear_greed_label": "Greed",
+    "note": "Risk-on tone post-Fed; energy sector underperforming"
+  }
+}

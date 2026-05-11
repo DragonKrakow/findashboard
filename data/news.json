@@ -1,0 +1,77 @@
+{
+  "generated_at": "2026-05-11T21:00:00Z",
+  "articles": [
+    {
+      "id": "1",
+      "title": "Fed Holds Rates Steady, Signals Two Cuts Later This Year",
+      "source": "Reuters",
+      "url": "https://reuters.com",
+      "published_at": "2026-05-11T18:30:00Z",
+      "category": "macro",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The Federal Reserve held its benchmark rate at 5.25–5.50 % for a fifth consecutive meeting. Chair Powell indicated policymakers still expect two quarter-point reductions before year-end, conditional on inflation continuing its downward path. Markets reacted calmly, with the 10-year Treasury yield edging 4 bps lower to 4.32 %.",
+      "tags": ["fed", "rates", "macro", "bonds"]
+    },
+    {
+      "id": "2",
+      "title": "NVIDIA Reports Record Q1 Revenue of $36 Billion, Beats Estimates",
+      "source": "Bloomberg",
+      "url": "https://bloomberg.com",
+      "published_at": "2026-05-11T17:00:00Z",
+      "category": "earnings",
+      "sentiment": "bullish",
+      "signal": "buy",
+      "summary": "NVIDIA posted first-quarter revenue of $36 B, up 78 % year-over-year, driven by insatiable demand for its H100 and Blackwell GPU clusters. Data-centre revenue hit $32.6 B. Management guided Q2 revenue to approximately $38 B (±2 %), well above consensus at $35.5 B. Shares rose 6 % in after-hours trading.",
+      "tags": ["nvda", "ai", "semiconductors", "earnings"]
+    },
+    {
+      "id": "3",
+      "title": "Bitcoin Breaks $95,000 as Institutional Demand Surges",
+      "source": "CoinDesk",
+      "url": "https://coindesk.com",
+      "published_at": "2026-05-11T14:20:00Z",
+      "category": "crypto",
+      "sentiment": "bullish",
+      "signal": "watch",
+      "summary": "Bitcoin briefly topped $95,000 for the first time since January, buoyed by record weekly inflows into spot BTC ETFs ($2.1 B). Analysts cite a favourable macro backdrop—declining DXY and falling real yields—as tailwinds. On-chain data shows long-term holder supply near all-time highs, reducing near-term sell pressure.",
+      "tags": ["btc", "bitcoin", "crypto", "etf"]
+    },
+    {
+      "id": "4",
+      "title": "Oil Slides 3 % After OPEC+ Agrees to Accelerate Production Ramp-Up",
+      "source": "FT",
+      "url": "https://ft.com",
+      "published_at": "2026-05-11T13:00:00Z",
+      "category": "commodities",
+      "sentiment": "bearish",
+      "signal": "sell",
+      "summary": "Brent crude fell to $78.40/bbl after OPEC+ members voted to add 411,000 bpd in July—faster than the original tapering schedule. Saudi Arabia signalled willingness to tolerate lower prices to regain market share. Energy stocks underperformed; XOM and CVX each shed ~2 % intraday.",
+      "tags": ["oil", "opec", "energy", "commodities"]
+    },
+    {
+      "id": "5",
+      "title": "Apple Plans AI-Powered Siri Overhaul at WWDC 2026",
+      "source": "The Verge",
+      "url": "https://theverge.com",
+      "published_at": "2026-05-11T11:45:00Z",
+      "category": "tech",
+      "sentiment": "bullish",
+      "signal": "watch",
+      "summary": "Apple is expected to unveil a fully re-engineered Siri powered by a proprietary on-device LLM at WWDC in June. Leaks suggest deep integration with iOS 20 apps, real-time translation, and a new developer API. Analysts expect the upgrade to drive iPhone 17 upgrade cycles and potentially challenge OpenAI's consumer AI dominance.",
+      "tags": ["aapl", "ai", "apple", "tech"]
+    },
+    {
+      "id": "6",
+      "title": "ECB Cuts Rates by 25 bps, Euro Falls to 1.07 Against Dollar",
+      "source": "Reuters",
+      "url": "https://reuters.com",
+      "published_at": "2026-05-11T10:15:00Z",
+      "category": "macro",
+      "sentiment": "bearish",
+      "signal": "watch",
+      "summary": "The European Central Bank cut its deposit facility rate to 2.75 %, as expected, citing weak Eurozone growth and receding inflation. ECB President Lagarde left the door open for further easing. EUR/USD dropped 0.8 % to 1.07 on the announcement. European bond yields also dipped across the board.",
+      "tags": ["ecb", "rates", "euro", "fx", "macro"]
+    }
+  ]
+}
