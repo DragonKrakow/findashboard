@@ -4,6 +4,8 @@ refresh_news.py
 ───────────────
 Fetches RSS feeds, deduplicates articles, asks Groq to classify and
 summarise each one, then writes the results to data/news.json.
+Also generates a structured AI analysis block (headline, themes, risks,
+opportunities) in data/market.json and updates signals data.
 
 Run locally:
     GROQ_API_KEY=gsk_... python scripts/refresh_news.py
@@ -132,6 +134,74 @@ def classify_with_groq(client: Groq, entry: dict) -> dict | None:
         log.warning(f"Groq classification failed for '{entry['title'][:40]}': {exc}")
         return None
 
+AI_ANALYSIS_PROMPT = """You are a senior financial market strategist.
+Given a list of recent news headlines and their categories/sentiments, write a brief market analysis.
+Respond with a JSON object:
+{
+  "headline": "<10-15 word bold thesis statement>",
+  "body": "<3-4 sentence balanced market overview, 80-120 words>",
+  "key_themes": ["<theme1>", "<theme2>", "<theme3>", "<theme4>", "<theme5>"],
+  "risks": ["<risk1 – short>", "<risk2 – short>", "<risk3 – short>"],
+  "opportunities": ["<opportunity1 – short>", "<opportunity2 – short>", "<opportunity3 – short>"]
+}
+Rules:
+- Be factual and balanced (not overly bullish or bearish)
+- key_themes should identify dominant market narratives
+- risks should be concrete, near-term downside scenarios
+- opportunities should be actionable asset/sector ideas
+- Respond with ONLY the JSON, no preamble
+"""
+
+
+def generate_ai_analysis(client: Groq, articles: list[dict]) -> dict | None:
+    """Ask Groq to produce a structured market analysis from the classified articles."""
+    if not articles:
+        return None
+
+    # Build a brief summary of what was in the news
+    news_snapshot = "\n".join(
+        f"- [{a['category']}|{a['sentiment']}] {a['title']}"
+        for a in articles[:30]
+    )
+    user_msg = f"Recent financial news headlines:\n{news_snapshot}"
+
+    try:
+        resp = client.chat.completions.create(
+            model=GROQ_MODEL,
+            messages=[
+                {"role": "system", "content": AI_ANALYSIS_PROMPT},
+                {"role": "user",   "content": user_msg},
+            ],
+            temperature=0.3,
+            max_tokens=600,
+            response_format={"type": "json_object"},
+        )
+        return json.loads(resp.choices[0].message.content)
+    except Exception as exc:
+        log.warning(f"AI analysis generation failed: {exc}")
+        return None
+
+
+def update_market_json(ai_analysis: dict | None) -> None:
+    """Merge the fresh AI analysis block into data/market.json (preserves other fields)."""
+    market_path = DATA_DIR / "market.json"
+    try:
+        market = json.loads(market_path.read_text())
+    except Exception:
+        log.warning("Could not read market.json — skipping AI analysis merge")
+        return
+
+    now_iso = datetime.now(timezone.utc).isoformat()
+    market["generated_at"] = now_iso
+
+    if ai_analysis:
+        ai_analysis["generated_at"] = now_iso
+        market["ai_analysis"] = ai_analysis
+        log.info("Updated ai_analysis block in market.json")
+
+    market_path.write_text(json.dumps(market, indent=2, ensure_ascii=False))
+    log.info(f"Updated market.json ({market_path})")
+
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
@@ -183,6 +253,11 @@ def main():
     out_path = DATA_DIR / "news.json"
     out_path.write_text(json.dumps(output, indent=2, ensure_ascii=False))
     log.info(f"Wrote {len(articles)} articles → {out_path}")
+
+    # Generate structured AI market analysis and merge into market.json
+    log.info("Generating AI market analysis…")
+    ai_analysis = generate_ai_analysis(client, articles)
+    update_market_json(ai_analysis)
 
 
 if __name__ == "__main__":

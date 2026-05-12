@@ -5,7 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>FinDashboard Pro</title>
   <style>
-    /* ── Reset & variables ─────────────────────────────────────────── */
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     :root {
@@ -20,6 +19,7 @@
       --yellow:    #d29922;
       --blue:      #58a6ff;
       --purple:    #bc8cff;
+      --orange:    #e3b341;
       --radius:    8px;
       --font:      'Segoe UI', system-ui, sans-serif;
     }
@@ -30,54 +30,125 @@
       font-family: var(--font);
       font-size: 14px;
       line-height: 1.5;
+      min-height: 100vh;
     }
 
     a { color: var(--blue); text-decoration: none; }
     a:hover { text-decoration: underline; }
 
-    /* ── Layout ────────────────────────────────────────────────────── */
+    /* Header */
     header {
       background: var(--surface);
       border-bottom: 1px solid var(--border);
-      padding: 0 24px;
+      padding: 0 20px;
       display: flex;
       align-items: center;
       justify-content: space-between;
       height: 56px;
       position: sticky;
       top: 0;
-      z-index: 100;
+      z-index: 200;
+      gap: 16px;
     }
 
     .logo {
       display: flex;
       align-items: center;
       gap: 10px;
-      font-size: 18px;
+      font-size: 17px;
       font-weight: 700;
       color: var(--blue);
+      white-space: nowrap;
+      flex-shrink: 0;
     }
 
     .logo svg { flex-shrink: 0; }
 
-    .header-meta {
-      font-size: 12px;
-      color: var(--text-muted);
-      text-align: right;
+    /* Tab nav */
+    .tab-nav {
+      display: flex;
+      align-items: center;
+      gap: 2px;
+      overflow-x: auto;
+      scrollbar-width: none;
+      flex: 1;
+      justify-content: center;
     }
 
-    .header-meta span { display: block; }
+    .tab-nav::-webkit-scrollbar { display: none; }
 
-    main {
+    .tab-btn {
+      background: transparent;
+      border: none;
+      border-bottom: 2px solid transparent;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 13px;
+      font-weight: 500;
+      padding: 18px 14px 16px;
+      white-space: nowrap;
+      transition: color .15s, border-color .15s;
+      font-family: var(--font);
+    }
+
+    .tab-btn:hover { color: var(--text); }
+
+    .tab-btn.active {
+      color: var(--blue);
+      border-bottom-color: var(--blue);
+    }
+
+    /* Header right */
+    .header-right {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-shrink: 0;
+    }
+
+    #last-updated {
+      font-size: 11px;
+      color: var(--text-muted);
+      white-space: nowrap;
+    }
+
+    .btn-refresh {
+      background: rgba(88,166,255,.15);
+      border: 1px solid rgba(88,166,255,.4);
+      border-radius: 6px;
+      color: var(--blue);
+      cursor: pointer;
+      font-size: 12px;
+      font-weight: 600;
+      padding: 6px 14px;
+      white-space: nowrap;
+      transition: background .15s, border-color .15s;
+      font-family: var(--font);
+    }
+
+    .btn-refresh:hover {
+      background: rgba(88,166,255,.25);
+      border-color: var(--blue);
+    }
+
+    /* Tab content */
+    .tab-content { display: none; }
+    .tab-content.active { display: block; }
+
+    /* Layout */
+    .page-content {
       max-width: 1400px;
       margin: 0 auto;
-      padding: 24px 16px;
+      padding: 20px 16px;
       display: grid;
       gap: 20px;
-      grid-template-columns: 1fr;
     }
 
-    /* ── Cards ─────────────────────────────────────────────────────── */
+    .grid-2 { display: grid; gap: 20px; grid-template-columns: 1fr 1fr; }
+
+    @media (max-width: 900px) { .grid-2 { grid-template-columns: 1fr; } }
+
+    /* Cards */
     .card {
       background: var(--surface);
       border: 1px solid var(--border);
@@ -86,10 +157,10 @@
     }
 
     .card-title {
-      font-size: 13px;
+      font-size: 12px;
       font-weight: 600;
       text-transform: uppercase;
-      letter-spacing: .05em;
+      letter-spacing: .06em;
       color: var(--text-muted);
       margin-bottom: 16px;
       display: flex;
@@ -102,602 +173,722 @@
       height: 7px;
       border-radius: 50%;
       background: var(--blue);
+      flex-shrink: 0;
     }
 
-    /* ── Market ticker strip ────────────────────────────────────────── */
+    /* Ticker strip */
     #ticker-strip {
       background: var(--surface2);
       border: 1px solid var(--border);
       border-radius: var(--radius);
-      padding: 12px 20px;
+      padding: 14px 20px;
       display: flex;
       flex-wrap: wrap;
-      gap: 20px;
-    }
-
-    .ticker-item {
-      display: flex;
+      gap: 14px 26px;
       align-items: center;
-      gap: 10px;
-      min-width: 130px;
     }
 
-    .ticker-name {
-      font-weight: 600;
-      font-size: 13px;
-    }
+    .ticker-item { display: flex; align-items: center; gap: 8px; }
+    .ticker-name { font-weight: 700; font-size: 13px; }
+    .ticker-value { font-size: 13px; }
+    .ticker-change { font-size: 12px; font-weight: 600; }
 
-    .ticker-value {
-      font-size: 13px;
-    }
-
-    .ticker-change {
-      font-size: 12px;
-      font-weight: 600;
-    }
-
-    /* ── Macro bar ─────────────────────────────────────────────────── */
-    #macro-bar {
+    /* KPI row */
+    .kpi-row {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+      grid-template-columns: repeat(4, 1fr);
       gap: 12px;
     }
 
-    .macro-item {
-      background: var(--surface2);
+    @media (max-width: 900px) { .kpi-row { grid-template-columns: repeat(2, 1fr); } }
+
+    .kpi-card {
+      background: var(--surface);
       border: 1px solid var(--border);
       border-radius: var(--radius);
-      padding: 12px 14px;
+      padding: 16px;
+      text-align: center;
     }
 
-    .macro-label {
-      font-size: 11px;
-      color: var(--text-muted);
-      margin-bottom: 4px;
-    }
+    .kpi-label { font-size: 11px; color: var(--text-muted); margin-bottom: 6px; text-transform: uppercase; letter-spacing: .05em; }
+    .kpi-value { font-size: 28px; font-weight: 700; line-height: 1; }
+    .kpi-sub   { font-size: 11px; color: var(--text-muted); margin-top: 4px; }
 
-    .macro-value {
-      font-size: 16px;
-      font-weight: 700;
-    }
-
-    .macro-change {
-      font-size: 11px;
-      margin-top: 2px;
-    }
-
-    /* ── Sentiment ─────────────────────────────────────────────────── */
-    #sentiment-card {
-      display: flex;
-      align-items: center;
+    /* Overview row */
+    .overview-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
       gap: 20px;
-      flex-wrap: wrap;
     }
 
-    .sentiment-gauge {
-      position: relative;
-      width: 100px;
-      height: 50px;
-      flex-shrink: 0;
-    }
+    @media (max-width: 900px) { .overview-row { grid-template-columns: 1fr; } }
 
+    /* Sentiment */
+    .sentiment-wrap { display: flex; align-items: center; gap: 20px; flex-wrap: wrap; }
+    .sentiment-gauge { width: 110px; flex-shrink: 0; }
     .sentiment-gauge svg { width: 100%; height: auto; }
+    .sentiment-info .label { font-size: 22px; font-weight: 700; }
+    .sentiment-info .sub { font-size: 12px; color: var(--text-muted); }
+    .sentiment-note { font-size: 13px; color: var(--text-muted); border-left: 2px solid var(--border); padding-left: 12px; max-width: 420px; line-height: 1.6; }
 
-    .sentiment-info .label {
-      font-size: 20px;
-      font-weight: 700;
-    }
+    /* Stat grid */
+    .stat-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); gap: 12px; }
+    .stat-tile { background: var(--surface2); border: 1px solid var(--border); border-radius: var(--radius); padding: 14px; }
+    .stat-label { font-size: 11px; color: var(--text-muted); margin-bottom: 4px; }
+    .stat-value { font-size: 17px; font-weight: 700; }
+    .stat-change { font-size: 11px; margin-top: 3px; }
 
-    .sentiment-info .sub {
-      font-size: 12px;
-      color: var(--text-muted);
-    }
+    /* Markets table */
+    .markets-table { width: 100%; border-collapse: collapse; }
+    .markets-table th { text-align: left; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: .04em; color: var(--text-muted); padding: 8px 10px; border-bottom: 1px solid var(--border); }
+    .markets-table td { padding: 12px 10px; border-bottom: 1px solid var(--border); vertical-align: middle; }
+    .markets-table tr:last-child td { border-bottom: none; }
+    .markets-table tr:hover td { background: var(--surface2); }
+    .region-badge { font-size: 10px; padding: 2px 6px; border-radius: 4px; background: var(--surface2); border: 1px solid var(--border); color: var(--text-muted); }
 
-    .sentiment-note {
-      font-size: 13px;
-      color: var(--text-muted);
-      border-left: 2px solid var(--border);
-      padding-left: 12px;
-      max-width: 400px;
-    }
+    /* Portfolio */
+    .portfolio-summary { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 16px; }
+    .psummary-pill { display: flex; align-items: center; gap: 6px; background: var(--surface2); border: 1px solid var(--border); border-radius: 20px; padding: 5px 14px; font-size: 12px; font-weight: 600; }
 
-    /* ── Signals table ──────────────────────────────────────────────── */
-    .signals-table {
-      width: 100%;
-      border-collapse: collapse;
-    }
-
-    .signals-table th {
-      text-align: left;
-      font-size: 11px;
-      font-weight: 600;
-      text-transform: uppercase;
-      letter-spacing: .04em;
-      color: var(--text-muted);
-      padding: 6px 10px;
-      border-bottom: 1px solid var(--border);
-    }
-
-    .signals-table td {
-      padding: 10px 10px;
-      border-bottom: 1px solid var(--border);
-      vertical-align: middle;
-    }
-
+    .signals-table { width: 100%; border-collapse: collapse; }
+    .signals-table th { text-align: left; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: .04em; color: var(--text-muted); padding: 8px 10px; border-bottom: 1px solid var(--border); }
+    .signals-table td { padding: 10px; border-bottom: 1px solid var(--border); vertical-align: middle; }
     .signals-table tr:last-child td { border-bottom: none; }
-
     .signals-table tr:hover td { background: var(--surface2); }
 
-    .ticker-badge {
-      font-weight: 700;
-      font-size: 13px;
-      background: var(--surface2);
-      border: 1px solid var(--border);
-      border-radius: 4px;
-      padding: 2px 7px;
-      display: inline-block;
-    }
+    .ticker-badge { font-weight: 700; font-size: 13px; background: var(--surface2); border: 1px solid var(--border); border-radius: 4px; padding: 2px 8px; display: inline-block; }
+    .signal-badge { font-size: 11px; font-weight: 700; padding: 3px 9px; border-radius: 12px; text-transform: uppercase; letter-spacing: .04em; }
+    .signal-buy   { background: rgba(63,185,80,.15);  color: var(--green);  }
+    .signal-sell  { background: rgba(248,81,73,.15);  color: var(--red);    }
+    .signal-hold  { background: rgba(210,153,34,.15); color: var(--yellow); }
+    .signal-watch { background: rgba(88,166,255,.15); color: var(--blue);   }
+    .type-badge   { font-size: 10px; padding: 2px 6px; border-radius: 4px; border: 1px solid var(--border); color: var(--text-muted); text-transform: uppercase; }
 
-    .signal-badge {
-      font-size: 11px;
-      font-weight: 700;
-      padding: 3px 8px;
-      border-radius: 12px;
-      text-transform: uppercase;
-      letter-spacing: .04em;
-    }
+    /* AI Analysis */
+    .analysis-headline { font-size: 17px; font-weight: 700; margin-bottom: 12px; line-height: 1.4; }
+    .analysis-body { font-size: 13px; color: var(--text-muted); line-height: 1.7; margin-bottom: 20px; }
+    .analysis-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 14px; }
+    @media (max-width: 900px) { .analysis-grid { grid-template-columns: 1fr; } }
+    .analysis-column { background: var(--surface2); border: 1px solid var(--border); border-radius: var(--radius); padding: 14px; }
+    .analysis-col-title { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; margin-bottom: 10px; }
+    .analysis-column ul { list-style: none; display: flex; flex-direction: column; gap: 7px; }
+    .analysis-column li { font-size: 12px; color: var(--text-muted); line-height: 1.5; padding-left: 14px; position: relative; }
+    .analysis-column li::before { content: '\203A'; position: absolute; left: 0; font-weight: 700; font-size: 14px; }
+    .theme-col li::before  { color: var(--purple); }
+    .risk-col li::before   { color: var(--red);    }
+    .oppty-col li::before  { color: var(--green);  }
 
-    .signal-buy    { background: rgba(63,185,80,.15);  color: var(--green);  }
-    .signal-sell   { background: rgba(248,81,73,.15);  color: var(--red);    }
-    .signal-hold   { background: rgba(210,153,34,.15); color: var(--yellow); }
-    .signal-watch  { background: rgba(88,166,255,.15); color: var(--blue);   }
+    /* Geopolitical */
+    .geo-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px; }
+    .geo-card { background: var(--surface2); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px; transition: border-color .15s; }
+    .geo-card:hover { border-color: var(--blue); }
+    .geo-card-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px; gap: 10px; }
+    .geo-event { font-weight: 600; font-size: 14px; line-height: 1.3; }
+    .risk-pill { font-size: 10px; font-weight: 700; padding: 3px 8px; border-radius: 20px; text-transform: uppercase; letter-spacing: .04em; white-space: nowrap; flex-shrink: 0; }
+    .risk-high   { background: rgba(248,81,73,.2);  color: var(--red);    border: 1px solid rgba(248,81,73,.4); }
+    .risk-medium { background: rgba(227,179,65,.2); color: var(--orange); border: 1px solid rgba(227,179,65,.4); }
+    .risk-low    { background: rgba(63,185,80,.15); color: var(--green);  border: 1px solid rgba(63,185,80,.4); }
+    .geo-region { font-size: 11px; color: var(--text-muted); margin-bottom: 8px; }
+    .geo-sectors { display: flex; gap: 5px; flex-wrap: wrap; margin-bottom: 10px; }
+    .geo-sector-tag { font-size: 10px; background: var(--surface); border: 1px solid var(--border); border-radius: 4px; padding: 2px 7px; color: var(--text-muted); }
+    .geo-note { font-size: 12px; color: var(--text-muted); line-height: 1.5; }
 
-    /* ── News ───────────────────────────────────────────────────────── */
-    #news-filters {
-      display: flex;
-      gap: 8px;
-      flex-wrap: wrap;
-      margin-bottom: 16px;
-    }
-
-    .filter-btn {
-      background: var(--surface2);
-      border: 1px solid var(--border);
-      border-radius: 20px;
-      padding: 4px 12px;
-      font-size: 12px;
-      color: var(--text-muted);
-      cursor: pointer;
-      transition: all .15s;
-    }
-
-    .filter-btn:hover,
-    .filter-btn.active {
-      border-color: var(--blue);
-      color: var(--blue);
-      background: rgba(88,166,255,.1);
-    }
-
-    #news-list {
-      display: flex;
-      flex-direction: column;
-      gap: 12px;
-    }
-
-    .news-card {
-      background: var(--surface2);
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      padding: 16px;
-      transition: border-color .15s;
-    }
-
+    /* News */
+    #news-filters { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 16px; }
+    .filter-btn { background: var(--surface2); border: 1px solid var(--border); border-radius: 20px; padding: 5px 14px; font-size: 12px; color: var(--text-muted); cursor: pointer; transition: all .15s; font-family: var(--font); }
+    .filter-btn:hover, .filter-btn.active { border-color: var(--blue); color: var(--blue); background: rgba(88,166,255,.1); }
+    #news-list { display: flex; flex-direction: column; gap: 12px; }
+    .news-card { background: var(--surface2); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px; transition: border-color .15s; }
     .news-card:hover { border-color: var(--blue); }
-
-    .news-card-header {
-      display: flex;
-      justify-content: space-between;
-      align-items: flex-start;
-      gap: 12px;
-      margin-bottom: 8px;
-      flex-wrap: wrap;
-    }
-
-    .news-title {
-      font-weight: 600;
-      font-size: 14px;
-      color: var(--text);
-      flex: 1;
-    }
-
-    .news-meta {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      flex-shrink: 0;
-    }
-
-    .news-source {
-      font-size: 11px;
-      color: var(--text-muted);
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 4px;
-      padding: 2px 6px;
-    }
-
-    .news-time {
-      font-size: 11px;
-      color: var(--text-muted);
-    }
-
-    .news-summary {
-      font-size: 13px;
-      color: var(--text-muted);
-      line-height: 1.6;
-      margin-bottom: 10px;
-    }
-
-    .news-tags {
-      display: flex;
-      gap: 6px;
-      flex-wrap: wrap;
-      align-items: center;
-    }
-
-    .news-tag {
-      font-size: 11px;
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 4px;
-      padding: 1px 6px;
-      color: var(--text-muted);
-    }
-
+    .news-card-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; margin-bottom: 8px; flex-wrap: wrap; }
+    .news-title { font-weight: 600; font-size: 14px; color: var(--text); flex: 1; }
+    .news-meta { display: flex; align-items: center; gap: 8px; flex-shrink: 0; flex-wrap: wrap; justify-content: flex-end; }
+    .news-source { font-size: 11px; color: var(--text-muted); background: var(--surface); border: 1px solid var(--border); border-radius: 4px; padding: 2px 6px; }
+    .news-time { font-size: 11px; color: var(--text-muted); }
+    .news-summary { font-size: 13px; color: var(--text-muted); line-height: 1.65; margin-bottom: 10px; }
+    .news-tags { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+    .news-tag { font-size: 11px; background: var(--surface); border: 1px solid var(--border); border-radius: 4px; padding: 1px 6px; color: var(--text-muted); }
     .sentiment-bullish { color: var(--green); }
-    .sentiment-bearish { color: var(--red);   }
-    .sentiment-neutral { color: var(--yellow);}
+    .sentiment-bearish { color: var(--red); }
+    .sentiment-neutral { color: var(--yellow); }
 
-    /* ── Refresh info ───────────────────────────────────────────────── */
-    #refresh-info {
-      text-align: center;
-      font-size: 12px;
-      color: var(--text-muted);
-      padding: 16px;
-    }
-
-    #refresh-info a { color: var(--blue); }
-
-    /* ── Utilities ──────────────────────────────────────────────────── */
+    /* Utilities */
     .up   { color: var(--green); }
     .down { color: var(--red);   }
     .flat { color: var(--text-muted); }
+    .loading { text-align: center; padding: 40px; color: var(--text-muted); font-size: 13px; }
+    .error { background: rgba(248,81,73,.1); border: 1px solid var(--red); border-radius: var(--radius); padding: 12px 16px; color: var(--red); font-size: 13px; }
 
-    .loading {
-      text-align: center;
-      padding: 40px;
-      color: var(--text-muted);
-      font-size: 13px;
-    }
+    /* Modal */
+    .modal-overlay { position: fixed; inset: 0; background: rgba(0,0,0,.7); z-index: 300; display: flex; align-items: center; justify-content: center; padding: 20px; }
+    .modal-overlay[hidden] { display: none; }
+    .modal-box { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 28px; max-width: 520px; width: 100%; }
+    .modal-title { font-size: 17px; font-weight: 700; margin-bottom: 14px; }
+    .modal-body { font-size: 13px; color: var(--text-muted); line-height: 1.7; margin-bottom: 20px; }
+    .modal-body ul { margin: 10px 0 10px 16px; }
+    .modal-body li { margin-bottom: 6px; }
+    .modal-actions { display: flex; gap: 12px; flex-wrap: wrap; }
+    .btn-primary { background: var(--blue); border: none; border-radius: 6px; color: #fff; cursor: pointer; font-size: 13px; font-weight: 600; padding: 9px 18px; font-family: var(--font); text-decoration: none; display: inline-flex; align-items: center; gap: 6px; transition: opacity .15s; }
+    .btn-primary:hover { opacity: .85; text-decoration: none; }
+    .btn-secondary { background: transparent; border: 1px solid var(--border); border-radius: 6px; color: var(--text-muted); cursor: pointer; font-size: 13px; font-weight: 600; padding: 9px 18px; font-family: var(--font); transition: border-color .15s, color .15s; }
+    .btn-secondary:hover { border-color: var(--text-muted); color: var(--text); }
+    .notice { background: rgba(88,166,255,.08); border: 1px solid rgba(88,166,255,.3); border-radius: var(--radius); padding: 12px 14px; font-size: 12px; color: var(--text-muted); margin-top: 14px; line-height: 1.6; }
+    .notice strong { color: var(--blue); }
 
-    .error {
-      background: rgba(248,81,73,.1);
-      border: 1px solid var(--red);
-      border-radius: var(--radius);
-      padding: 12px 16px;
-      color: var(--red);
-      font-size: 13px;
-    }
-
-    footer {
-      border-top: 1px solid var(--border);
-      text-align: center;
-      padding: 20px;
-      color: var(--text-muted);
-      font-size: 12px;
-      margin-top: 20px;
-    }
-
-    /* ── Responsive two-column layout on wider screens ─────────────── */
-    @media (min-width: 900px) {
-      main {
-        grid-template-columns: 1fr 1fr;
-      }
-
-      #ticker-strip,
-      #macro-section,
-      #news-section {
-        grid-column: 1 / -1;
-      }
-    }
-
-    @media (min-width: 1200px) {
-      #news-section   { grid-column: 1 / 2; }
-      #signals-section { grid-column: 2 / 3; }
-    }
+    /* Footer */
+    footer { border-top: 1px solid var(--border); text-align: center; padding: 20px; color: var(--text-muted); font-size: 12px; margin-top: 24px; }
+    footer a { color: var(--blue); }
   </style>
 </head>
 <body>
 
-<!-- ══════════════════════════════════════════════════════ Header ═══ -->
+<!-- Header -->
 <header>
   <div class="logo">
-    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#58a6ff" stroke-width="2">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none"
+         stroke="#58a6ff" stroke-width="2" stroke-linecap="round">
       <polyline points="22 7 13.5 15.5 8.5 10.5 2 17"/>
       <polyline points="16 7 22 7 22 13"/>
     </svg>
     FinDashboard Pro
   </div>
-  <div class="header-meta">
-    <span id="last-updated">Loading…</span>
-    <span>Data refreshed via GitHub Actions · Groq AI</span>
+
+  <nav class="tab-nav" role="tablist" aria-label="Dashboard sections">
+    <button class="tab-btn active" data-tab="dashboard"    role="tab" aria-selected="true">&#x1F4CA; Overview</button>
+    <button class="tab-btn"        data-tab="markets"      role="tab" aria-selected="false">&#x1F4C8; Markets</button>
+    <button class="tab-btn"        data-tab="portfolio"    role="tab" aria-selected="false">&#x1F4BC; Portfolio</button>
+    <button class="tab-btn"        data-tab="analysis"     role="tab" aria-selected="false">&#x1F916; AI Insights</button>
+    <button class="tab-btn"        data-tab="geopolitical" role="tab" aria-selected="false">&#x1F30D; Geopolitical</button>
+    <button class="tab-btn"        data-tab="news"         role="tab" aria-selected="false">&#x1F4F0; News</button>
+  </nav>
+
+  <div class="header-right">
+    <span id="last-updated">Loading&hellip;</span>
+    <button class="btn-refresh" id="btn-refresh" aria-label="Refresh AI data">&#x1F504; Refresh AI</button>
   </div>
 </header>
 
-<!-- ══════════════════════════════════════════════════════ Main ═════ -->
-<main>
+<!-- Overview tab -->
+<div id="tab-dashboard" class="tab-content active" role="tabpanel">
+  <div class="page-content">
+    <section id="ticker-strip" aria-label="Market indices ticker"></section>
+    <div class="kpi-row">
+      <div class="kpi-card">
+        <div class="kpi-label">Fear &amp; Greed</div>
+        <div class="kpi-value" id="kpi-fg">&#x2013;</div>
+        <div class="kpi-sub" id="kpi-fg-label">Loading</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">Buy Signals</div>
+        <div class="kpi-value up" id="kpi-buy">&#x2013;</div>
+        <div class="kpi-sub">in watchlist</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">Geo Risk Events</div>
+        <div class="kpi-value" id="kpi-geo">&#x2013;</div>
+        <div class="kpi-sub" id="kpi-geo-sub">Active</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">News Articles</div>
+        <div class="kpi-value" id="kpi-news">&#x2013;</div>
+        <div class="kpi-sub">AI-summarised</div>
+      </div>
+    </div>
+    <div class="overview-row">
+      <section class="card" aria-label="Market sentiment">
+        <div class="card-title"><span class="dot" style="background:var(--purple)"></span>Market Sentiment</div>
+        <div id="sentiment-card"><div class="loading">Loading&hellip;</div></div>
+      </section>
+      <section class="card" aria-label="AI market analysis">
+        <div class="card-title"><span class="dot" style="background:var(--blue)"></span>AI Market Analysis</div>
+        <div id="overview-analysis"><div class="loading">Loading&hellip;</div></div>
+      </section>
+    </div>
+    <section class="card" aria-label="Top news stories">
+      <div class="card-title"><span class="dot" style="background:var(--yellow)"></span>Top Stories</div>
+      <div id="top-news-list"><div class="loading">Loading news&hellip;</div></div>
+    </section>
+  </div>
+</div>
 
-  <!-- ── Ticker strip ─────────────────────────────────────────────── -->
-  <section id="ticker-strip" aria-label="Market indices">
-    <div class="loading">Loading market data…</div>
-  </section>
+<!-- Markets tab -->
+<div id="tab-markets" class="tab-content" role="tabpanel">
+  <div class="page-content">
+    <section class="card" aria-label="Global market indices">
+      <div class="card-title"><span class="dot"></span>Global Market Indices</div>
+      <div id="markets-table-wrap" style="overflow-x:auto"><div class="loading">Loading&hellip;</div></div>
+    </section>
+    <section class="card" aria-label="Macro indicators">
+      <div class="card-title"><span class="dot" style="background:var(--orange)"></span>Macro Indicators</div>
+      <div id="macro-bar" class="stat-grid"><div class="loading">Loading&hellip;</div></div>
+    </section>
+    <section class="card" aria-label="Market sentiment">
+      <div class="card-title"><span class="dot" style="background:var(--purple)"></span>Market Sentiment</div>
+      <div id="sentiment-card-2"><div class="loading">Loading&hellip;</div></div>
+    </section>
+  </div>
+</div>
 
-  <!-- ── Macro data ────────────────────────────────────────────────── -->
-  <section id="macro-section" class="card" aria-label="Macro indicators">
-    <div class="card-title"><span class="dot"></span>Macro Indicators</div>
-    <div id="macro-bar"><div class="loading">Loading…</div></div>
-  </section>
+<!-- Portfolio tab -->
+<div id="tab-portfolio" class="tab-content" role="tabpanel">
+  <div class="page-content">
+    <section class="card" aria-label="Portfolio watchlist and signals">
+      <div class="card-title"><span class="dot" style="background:var(--green)"></span>Watchlist &amp; Signals</div>
+      <div id="portfolio-summary" class="portfolio-summary"></div>
+      <div id="signals-container" style="overflow-x:auto"><div class="loading">Loading&hellip;</div></div>
+    </section>
+  </div>
+</div>
 
-  <!-- ── Sentiment ─────────────────────────────────────────────────── -->
-  <section class="card" aria-label="Market sentiment">
-    <div class="card-title"><span class="dot" style="background:var(--purple)"></span>Market Sentiment</div>
-    <div id="sentiment-card"><div class="loading">Loading…</div></div>
-  </section>
+<!-- AI Insights tab -->
+<div id="tab-analysis" class="tab-content" role="tabpanel">
+  <div class="page-content">
+    <section class="card" aria-label="AI market analysis">
+      <div class="card-title"><span class="dot" style="background:var(--blue)"></span>AI Market Analysis</div>
+      <div id="full-analysis"><div class="loading">Loading AI analysis&hellip;</div></div>
+    </section>
+    <div class="notice">
+      <strong>About AI Refresh</strong> &mdash;
+      This analysis is generated by <strong>Groq LLaMA-3</strong> running inside a GitHub Actions workflow &mdash; not from your browser.
+      Click the <strong>&#x1F504; Refresh AI</strong> button in the top-right corner to open the workflow page and trigger a new data fetch.
+      You need to be signed in to GitHub with write access to the repository.
+    </div>
+  </div>
+</div>
 
-  <!-- ── Signals / Watchlist ───────────────────────────────────────── -->
-  <section id="signals-section" class="card" aria-label="Watchlist and signals">
-    <div class="card-title"><span class="dot" style="background:var(--green)"></span>Watchlist &amp; Signals</div>
-    <div id="signals-container"><div class="loading">Loading signals…</div></div>
-  </section>
+<!-- Geopolitical tab -->
+<div id="tab-geopolitical" class="tab-content" role="tabpanel">
+  <div class="page-content">
+    <section class="card" aria-label="Geopolitical risk monitor">
+      <div class="card-title"><span class="dot" style="background:var(--red)"></span>Geopolitical Risk Monitor</div>
+      <div id="geo-grid" class="geo-grid"><div class="loading">Loading&hellip;</div></div>
+    </section>
+    <section class="card" aria-label="Macro and FX snapshot">
+      <div class="card-title"><span class="dot" style="background:var(--orange)"></span>Macro &amp; FX Snapshot</div>
+      <div id="macro-bar-2" class="stat-grid"><div class="loading">Loading&hellip;</div></div>
+    </section>
+  </div>
+</div>
 
-  <!-- ── News ──────────────────────────────────────────────────────── -->
-  <section id="news-section" class="card" aria-label="AI-summarised news">
-    <div class="card-title"><span class="dot" style="background:var(--yellow)"></span>AI News Digest</div>
-    <div id="news-filters"></div>
-    <div id="news-list"><div class="loading">Loading news…</div></div>
-  </section>
+<!-- News tab -->
+<div id="tab-news" class="tab-content" role="tabpanel">
+  <div class="page-content">
+    <section class="card" aria-label="AI news digest and timeline">
+      <div class="card-title"><span class="dot" style="background:var(--yellow)"></span>AI News Digest &amp; Timeline</div>
+      <div id="news-filters"></div>
+      <div id="news-list"><div class="loading">Loading news&hellip;</div></div>
+    </section>
+  </div>
+</div>
 
-</main>
+<!-- Refresh modal -->
+<div id="refresh-modal" class="modal-overlay" hidden
+     aria-modal="true" role="dialog" aria-labelledby="modal-title">
+  <div class="modal-box">
+    <div class="modal-title" id="modal-title">&#x1F504; Refresh AI Data</div>
+    <div class="modal-body">
+      <p>The AI refresh triggers a <strong>GitHub Actions workflow</strong> that:</p>
+      <ul>
+        <li>Fetches the latest financial news from RSS feeds (Reuters, Bloomberg, CoinDesk&hellip;)</li>
+        <li>Classifies and summarises each article using <strong>Groq LLaMA-3 AI</strong></li>
+        <li>Updates <code>data/news.json</code>, <code>data/signals.json</code>, and <code>data/market.json</code></li>
+        <li>Commits and pushes &mdash; GitHub Pages re-serves fresh data within seconds</li>
+      </ul>
+      <p style="margin-top:10px">Click the button below to open the workflow page on GitHub, then click
+         <strong>Run workflow</strong>. You must be signed in with write access to the repository.</p>
+      <div class="notice">
+        <strong>Why not directly from the browser?</strong><br>
+        Calling AI APIs directly from client-side JavaScript exposes your secret API key to every visitor.
+        This dashboard uses a <em>static-first</em> architecture: the workflow runs server-side in GitHub
+        Actions with secrets stored securely, and only the pre-generated JSON files are served to the browser.
+        The original reference HTML (<a href="FinDashboard_Pro.html">FinDashboard_Pro.html</a>) demonstrates
+        the browser-side pattern, but it requires a key embedded in the page and is not suitable for production.
+      </div>
+    </div>
+    <div class="modal-actions">
+      <a class="btn-primary"
+         href="https://github.com/DragonKrakow/findashboard/actions/workflows/refresh-news.yml"
+         target="_blank" rel="noopener noreferrer">
+        &#x2197; Open GitHub Actions
+      </a>
+      <button class="btn-secondary" id="modal-close">Close</button>
+    </div>
+  </div>
+</div>
 
-<!-- ══════════════════════════════════════════════════════ Footer ═══ -->
+<!-- Footer -->
 <footer>
   <p>
-    FinDashboard Pro &mdash; static GitHub Pages site &mdash; data refreshed by
-    <a href=".github/workflows/refresh-news.yml">GitHub Actions + Groq AI</a>.
+    FinDashboard Pro &mdash; static GitHub Pages site &mdash; data refreshed automatically by
+    <a href="https://github.com/DragonKrakow/findashboard/actions/workflows/refresh-news.yml"
+       target="_blank" rel="noopener noreferrer">GitHub Actions + Groq AI</a>.
+    &nbsp;&middot;&nbsp;
+    <a href="FinDashboard_Pro.html">Reference HTML</a>
     <br/>
-    Prices &amp; summaries are illustrative. Not financial advice.
+    Prices &amp; summaries are illustrative and for informational purposes only. Not financial advice.
   </p>
 </footer>
 
-<!-- ══════════════════════════════════════════════════════ JS ═══════ -->
 <script>
 'use strict';
 
-/* ── Helpers ─────────────────────────────────────────────────────── */
-function fmt(n, decimals = 2) {
-  return Number(n).toLocaleString('en-US', { minimumFractionDigits: decimals, maximumFractionDigits: decimals });
+/* Tab navigation */
+const tabBtns     = document.querySelectorAll('.tab-btn');
+const tabContents = document.querySelectorAll('.tab-content');
+
+tabBtns.forEach(btn => {
+  btn.addEventListener('click', () => {
+    const target = btn.dataset.tab;
+    tabBtns.forEach(b => {
+      b.classList.toggle('active', b === btn);
+      b.setAttribute('aria-selected', String(b === btn));
+    });
+    tabContents.forEach(c => c.classList.toggle('active', c.id === 'tab-' + target));
+  });
+});
+
+/* Refresh modal */
+const modal = document.getElementById('refresh-modal');
+document.getElementById('btn-refresh').addEventListener('click', () => { modal.hidden = false; });
+document.getElementById('modal-close').addEventListener('click', () => { modal.hidden = true; });
+modal.addEventListener('click', e => { if (e.target === modal) modal.hidden = true; });
+document.addEventListener('keydown', e => { if (e.key === 'Escape') modal.hidden = true; });
+
+/* Helpers */
+function fmt(n, dec) {
+  dec = dec === undefined ? 2 : dec;
+  return Number(n).toLocaleString('en-US', { minimumFractionDigits: dec, maximumFractionDigits: dec });
 }
 
 function changeClass(pct) {
-  if (pct > 0)  return 'up';
-  if (pct < 0)  return 'down';
+  if (pct > 0) return 'up';
+  if (pct < 0) return 'down';
   return 'flat';
 }
 
 function changeSymbol(pct) {
-  if (pct > 0) return '▲';
-  if (pct < 0) return '▼';
-  return '–';
+  if (pct > 0) return '\u25b2';
+  if (pct < 0) return '\u25bc';
+  return '\u2013';
 }
 
 function relativeTime(isoStr) {
-  const diff = (Date.now() - new Date(isoStr)) / 1000;
+  var diff = (Date.now() - new Date(isoStr)) / 1000;
   if (diff < 60)    return 'just now';
   if (diff < 3600)  return Math.floor(diff / 60) + 'm ago';
   if (diff < 86400) return Math.floor(diff / 3600) + 'h ago';
   return Math.floor(diff / 86400) + 'd ago';
 }
 
-async function loadJSON(url) {
-  const r = await fetch(url);
-  if (!r.ok) throw new Error(`Failed to load ${url}: ${r.status}`);
-  return r.json();
-}
-
-/* ── Market data ─────────────────────────────────────────────────── */
-async function renderMarket() {
-  let data;
-  try {
-    data = await loadJSON('data/market.json');
-  } catch (e) {
-    document.getElementById('ticker-strip').innerHTML = `<div class="error">⚠ Could not load market data. ${e.message}</div>`;
-    return;
-  }
-
-  // Ticker strip (indices)
-  const strip = document.getElementById('ticker-strip');
-  strip.innerHTML = data.indices.map(idx => `
-    <div class="ticker-item">
-      <span class="ticker-name">${idx.name}</span>
-      <span class="ticker-value">${fmt(idx.value, 0)}</span>
-      <span class="ticker-change ${changeClass(idx.change_pct)}">
-        ${changeSymbol(idx.change_pct)} ${Math.abs(idx.change_pct).toFixed(2)}%
-      </span>
-    </div>
-  `).join('');
-
-  // Macro bar
-  const macroBar = document.getElementById('macro-bar');
-  macroBar.innerHTML = data.macro.map(m => `
-    <div class="macro-item">
-      <div class="macro-label">${m.label}</div>
-      <div class="macro-value">${m.value}</div>
-      <div class="macro-change ${m.direction === 'up' ? 'up' : m.direction === 'down' ? 'down' : 'flat'}">
-        ${m.direction === 'up' ? '▲' : m.direction === 'down' ? '▼' : '–'} ${m.change}
-      </div>
-    </div>
-  `).join('');
-
-  // Sentiment
-  const s = data.sentiment;
-  const fg = s.fear_greed_index;
-  // Gauge arc: semicircle, 0=fear (red) 100=greed (green)
-  const angle  = (fg / 100) * 180;      // 0–180 degrees
-  const rad    = angle * Math.PI / 180;
-  const r      = 40;
-  const cx     = 50;
-  const cy     = 50;
-  const nx     = cx + r * Math.cos(Math.PI - rad);
-  const ny     = cy - r * Math.sin(Math.PI - rad);
-  const fgColor = fg > 60 ? '#3fb950' : fg > 40 ? '#d29922' : '#f85149';
-
-  document.getElementById('sentiment-card').innerHTML = `
-    <div class="sentiment-gauge">
-      <svg viewBox="0 0 100 55">
-        <!-- Track arc -->
-        <path d="M10,50 A40,40 0 0,1 90,50" fill="none" stroke="#30363d" stroke-width="10" stroke-linecap="round"/>
-        <!-- Value arc -->
-        <path d="M10,50 A40,40 0 0,1 ${nx.toFixed(1)},${ny.toFixed(1)}" fill="none" stroke="${fgColor}" stroke-width="10" stroke-linecap="round"/>
-        <!-- Needle -->
-        <line x1="${cx}" y1="${cy}" x2="${nx.toFixed(1)}" y2="${ny.toFixed(1)}" stroke="#e6edf3" stroke-width="2" stroke-linecap="round"/>
-        <circle cx="${cx}" cy="${cy}" r="4" fill="#e6edf3"/>
-        <text x="${cx}" y="54" text-anchor="middle" font-size="11" fill="${fgColor}" font-weight="700">${fg}</text>
-      </svg>
-    </div>
-    <div class="sentiment-info">
-      <div class="label" style="color:${fgColor}">${s.fear_greed_label}</div>
-      <div class="sub">Fear &amp; Greed Index · ${s.overall.replace(/_/g,' ')}</div>
-    </div>
-    <div class="sentiment-note">${s.note}</div>
-  `;
-
-  // Update header timestamp
-  const ts = new Date(data.generated_at);
-  document.getElementById('last-updated').textContent = 'Updated ' + ts.toUTCString();
-}
-
-/* ── Signals / Watchlist ─────────────────────────────────────────── */
-async function renderSignals() {
-  let data;
-  try {
-    data = await loadJSON('data/signals.json');
-  } catch (e) {
-    document.getElementById('signals-container').innerHTML = `<div class="error">⚠ ${e.message}</div>`;
-    return;
-  }
-
-  const rows = data.watchlist.map(item => {
-    const dir   = changeClass(item.change_pct);
-    const sym   = changeSymbol(item.change_pct);
-    const price = item.type === 'crypto' ? fmt(item.price, item.price > 100 ? 0 : 2) : fmt(item.price);
-    return `
-      <tr>
-        <td><span class="ticker-badge">${item.ticker}</span></td>
-        <td style="max-width:120px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${item.name}</td>
-        <td>${price}</td>
-        <td class="${dir}">${sym} ${Math.abs(item.change_pct).toFixed(2)}%</td>
-        <td><span class="signal-badge signal-${item.signal}">${item.signal}</span></td>
-        <td style="font-size:12px;color:var(--text-muted);max-width:200px">${item.note}</td>
-      </tr>
-    `;
-  }).join('');
-
-  document.getElementById('signals-container').innerHTML = `
-    <table class="signals-table">
-      <thead>
-        <tr>
-          <th>Ticker</th>
-          <th>Name</th>
-          <th>Price</th>
-          <th>Chg %</th>
-          <th>Signal</th>
-          <th>Note</th>
-        </tr>
-      </thead>
-      <tbody>${rows}</tbody>
-    </table>
-  `;
-}
-
-/* ── News ────────────────────────────────────────────────────────── */
-let allArticles = [];
-let activeCategory = 'all';
-
-function renderNewsCards(articles) {
-  const list = document.getElementById('news-list');
-  if (!articles.length) {
-    list.innerHTML = '<div class="loading">No articles for this filter.</div>';
-    return;
-  }
-  list.innerHTML = articles.map(a => `
-    <article class="news-card">
-      <div class="news-card-header">
-        <div class="news-title">
-          <a href="${a.url}" target="_blank" rel="noopener">${a.title}</a>
-        </div>
-        <div class="news-meta">
-          <span class="news-source">${a.source}</span>
-          <span class="signal-badge signal-${a.signal}">${a.signal}</span>
-          <span class="news-time">${relativeTime(a.published_at)}</span>
-        </div>
-      </div>
-      <p class="news-summary">${a.summary}</p>
-      <div class="news-tags">
-        <span class="sentiment-${a.sentiment}" style="font-size:11px;font-weight:700;margin-right:4px">
-          ${a.sentiment === 'bullish' ? '▲ Bullish' : a.sentiment === 'bearish' ? '▼ Bearish' : '◆ Neutral'}
-        </span>
-        ${a.tags.map(t => `<span class="news-tag">#${t}</span>`).join('')}
-      </div>
-    </article>
-  `).join('');
-}
-
-function buildFilters(articles) {
-  const cats = ['all', ...new Set(articles.map(a => a.category))];
-  const filtersEl = document.getElementById('news-filters');
-  filtersEl.innerHTML = cats.map(c => `
-    <button class="filter-btn ${c === 'all' ? 'active' : ''}" data-cat="${c}">
-      ${c.charAt(0).toUpperCase() + c.slice(1)}
-    </button>
-  `).join('');
-
-  filtersEl.addEventListener('click', e => {
-    const btn = e.target.closest('.filter-btn');
-    if (!btn) return;
-    activeCategory = btn.dataset.cat;
-    filtersEl.querySelectorAll('.filter-btn').forEach(b => b.classList.toggle('active', b === btn));
-    const filtered = activeCategory === 'all' ? allArticles : allArticles.filter(a => a.category === activeCategory);
-    renderNewsCards(filtered);
+function loadJSON(url) {
+  return fetch(url).then(function(r) {
+    if (!r.ok) throw new Error('Failed to load ' + url + ': ' + r.status);
+    return r.json();
   });
 }
 
-async function renderNews() {
-  let data;
-  try {
-    data = await loadJSON('data/news.json');
-  } catch (e) {
-    document.getElementById('news-list').innerHTML = `<div class="error">⚠ ${e.message}</div>`;
-    return;
-  }
-  allArticles = data.articles || [];
-  buildFilters(allArticles);
-  renderNewsCards(allArticles);
+/* Sparkline SVG */
+function sparklineSVG(pts, w, h, isUp) {
+  if (!pts || pts.length < 2) return '';
+  var min = Math.min.apply(null, pts);
+  var max = Math.max.apply(null, pts);
+  var range = max - min || 1;
+  var step = w / (pts.length - 1);
+  var coords = pts.map(function(v, i) {
+    return (i * step).toFixed(1) + ',' + (h - ((v - min) / range) * h).toFixed(1);
+  }).join(' ');
+  var color = isUp ? '#3fb950' : '#f85149';
+  return '<svg width="' + w + '" height="' + h + '" viewBox="0 0 ' + w + ' ' + h + '" style="overflow:visible">' +
+    '<polyline points="' + coords + '" fill="none" stroke="' + color + '" stroke-width="1.5" stroke-linejoin="round"/>' +
+    '</svg>';
 }
 
-/* ── Boot ────────────────────────────────────────────────────────── */
+/* Market data */
+var marketData = null;
+
+function setInner(id, html) {
+  var el = document.getElementById(id);
+  if (el) el.innerHTML = html;
+}
+
+function renderSentiment(s, targetId) {
+  var fg = s.fear_greed_index;
+  var angle = (fg / 100) * 180;
+  var rad = angle * Math.PI / 180;
+  var R = 40, cx = 50, cy = 50;
+  var nx = (cx + R * Math.cos(Math.PI - rad)).toFixed(1);
+  var ny = (cy - R * Math.sin(Math.PI - rad)).toFixed(1);
+  var fgColor = fg > 60 ? '#3fb950' : fg > 40 ? '#d29922' : '#f85149';
+  setInner(targetId,
+    '<div class="sentiment-wrap">' +
+      '<div class="sentiment-gauge">' +
+        '<svg viewBox="0 0 100 55">' +
+          '<path d="M10,50 A40,40 0 0,1 90,50" fill="none" stroke="#30363d" stroke-width="10" stroke-linecap="round"/>' +
+          '<path d="M10,50 A40,40 0 0,1 ' + nx + ',' + ny + '" fill="none" stroke="' + fgColor + '" stroke-width="10" stroke-linecap="round"/>' +
+          '<line x1="' + cx + '" y1="' + cy + '" x2="' + nx + '" y2="' + ny + '" stroke="#e6edf3" stroke-width="2" stroke-linecap="round"/>' +
+          '<circle cx="' + cx + '" cy="' + cy + '" r="4" fill="#e6edf3"/>' +
+          '<text x="' + cx + '" y="54" text-anchor="middle" font-size="11" fill="' + fgColor + '" font-weight="700">' + fg + '</text>' +
+        '</svg>' +
+      '</div>' +
+      '<div class="sentiment-info">' +
+        '<div class="label" style="color:' + fgColor + '">' + s.fear_greed_label + '</div>' +
+        '<div class="sub">Fear &amp; Greed &middot; ' + s.overall.replace(/_/g, ' ') + '</div>' +
+      '</div>' +
+      '<div class="sentiment-note">' + s.note + '</div>' +
+    '</div>'
+  );
+}
+
+function renderMarket() {
+  return loadJSON('data/market.json').then(function(data) {
+    marketData = data;
+
+    /* Ticker strip */
+    var stripHTML = data.indices.map(function(idx) {
+      var dir = changeClass(idx.change_pct);
+      var spark = idx.sparkline ? sparklineSVG(idx.sparkline, 56, 24, idx.change_pct >= 0) : '';
+      return '<div class="ticker-item">' +
+        '<span class="ticker-name">' + idx.name + '</span>' +
+        (spark ? '<span style="display:flex;align-items:center">' + spark + '</span>' : '') +
+        '<span class="ticker-value">' + fmt(idx.value, 0) + '</span>' +
+        '<span class="ticker-change ' + dir + '">' + changeSymbol(idx.change_pct) + ' ' + Math.abs(idx.change_pct).toFixed(2) + '%</span>' +
+        '</div>';
+    }).join('');
+    setInner('ticker-strip', stripHTML);
+
+    /* Markets full table */
+    var tableHTML = '<table class="markets-table"><thead><tr>' +
+      '<th>Index</th><th>Region</th><th>Value</th><th>Change</th><th>Trend</th>' +
+      '</tr></thead><tbody>' +
+      data.indices.map(function(idx) {
+        var dir = changeClass(idx.change_pct);
+        var spark = idx.sparkline ? sparklineSVG(idx.sparkline, 80, 28, idx.change_pct >= 0) : '';
+        return '<tr>' +
+          '<td><strong>' + idx.name + '</strong></td>' +
+          '<td><span class="region-badge">' + idx.region + '</span></td>' +
+          '<td>' + fmt(idx.value, 0) + '</td>' +
+          '<td class="' + dir + '" style="font-weight:600">' + changeSymbol(idx.change_pct) + ' ' + Math.abs(idx.change_pct).toFixed(2) + '%</td>' +
+          '<td>' + spark + '</td>' +
+          '</tr>';
+      }).join('') +
+      '</tbody></table>';
+    setInner('markets-table-wrap', tableHTML);
+
+    /* Macro bar */
+    var macroHTML = data.macro.map(function(m) {
+      var dirClass = m.direction === 'up' ? 'up' : m.direction === 'down' ? 'down' : 'flat';
+      var arrow = m.direction === 'up' ? '\u25b2' : m.direction === 'down' ? '\u25bc' : '\u2013';
+      return '<div class="stat-tile">' +
+        '<div class="stat-label">' + m.label + '</div>' +
+        '<div class="stat-value">' + m.value + '</div>' +
+        '<div class="stat-change ' + dirClass + '">' + arrow + ' ' + m.change + '</div>' +
+        '</div>';
+    }).join('');
+    setInner('macro-bar', macroHTML);
+    setInner('macro-bar-2', macroHTML);
+
+    /* Sentiment */
+    renderSentiment(data.sentiment, 'sentiment-card');
+    renderSentiment(data.sentiment, 'sentiment-card-2');
+
+    /* KPI: F&G */
+    var fg = data.sentiment.fear_greed_index;
+    var fgColor = fg > 60 ? '#3fb950' : fg > 40 ? '#d29922' : '#f85149';
+    var kpiFg = document.getElementById('kpi-fg');
+    if (kpiFg) { kpiFg.textContent = fg; kpiFg.style.color = fgColor; }
+    setInner('kpi-fg-label', data.sentiment.fear_greed_label);
+
+    /* Geopolitical */
+    if (data.geopolitical) {
+      var highCount = data.geopolitical.filter(function(g) { return g.risk_level === 'high'; }).length;
+      var kpiGeo = document.getElementById('kpi-geo');
+      if (kpiGeo) {
+        kpiGeo.textContent = data.geopolitical.length;
+        kpiGeo.style.color = highCount > 0 ? 'var(--red)' : 'var(--yellow)';
+      }
+      setInner('kpi-geo-sub', highCount > 0 ? highCount + ' high risk' : 'Monitoring');
+
+      var geoHTML = data.geopolitical.map(function(g) {
+        var sectors = g.impact_sectors.map(function(s) {
+          return '<span class="geo-sector-tag">' + s + '</span>';
+        }).join('');
+        return '<div class="geo-card">' +
+          '<div class="geo-card-header">' +
+            '<div class="geo-event">' + g.event + '</div>' +
+            '<span class="risk-pill risk-' + g.risk_level + '">' + g.risk_level + ' risk</span>' +
+          '</div>' +
+          '<div class="geo-region">&#x1F310; ' + g.region + '</div>' +
+          '<div class="geo-sectors">' + sectors + '</div>' +
+          '<div class="geo-note">' + g.note + '</div>' +
+          '</div>';
+      }).join('');
+      setInner('geo-grid', geoHTML);
+    }
+
+    /* AI analysis */
+    if (data.ai_analysis) {
+      var a = data.ai_analysis;
+      var themesList = a.key_themes.map(function(t) { return '<li>' + t + '</li>'; }).join('');
+      var risksList  = a.risks.map(function(t)       { return '<li>' + t + '</li>'; }).join('');
+      var opptyList  = a.opportunities.map(function(t){ return '<li>' + t + '</li>'; }).join('');
+
+      /* Overview: brief */
+      setInner('overview-analysis',
+        '<p style="font-size:13px;font-weight:600;margin-bottom:8px">' + a.headline + '</p>' +
+        '<p style="font-size:13px;color:var(--text-muted);line-height:1.65">' + a.body + '</p>'
+      );
+
+      /* Full analysis tab */
+      setInner('full-analysis',
+        '<div class="analysis-headline">' + a.headline + '</div>' +
+        '<div class="analysis-body">' + a.body + '</div>' +
+        '<div class="analysis-grid">' +
+          '<div class="analysis-column theme-col">' +
+            '<div class="analysis-col-title" style="color:var(--purple)">&#x1F50D; Key Themes</div>' +
+            '<ul>' + themesList + '</ul>' +
+          '</div>' +
+          '<div class="analysis-column risk-col">' +
+            '<div class="analysis-col-title" style="color:var(--red)">&#x26A0; Key Risks</div>' +
+            '<ul>' + risksList + '</ul>' +
+          '</div>' +
+          '<div class="analysis-column oppty-col">' +
+            '<div class="analysis-col-title" style="color:var(--green)">&#x2728; Opportunities</div>' +
+            '<ul>' + opptyList + '</ul>' +
+          '</div>' +
+        '</div>'
+      );
+    }
+
+    /* Timestamp */
+    var ts = new Date(data.generated_at);
+    document.getElementById('last-updated').textContent = 'Updated ' + ts.toUTCString().replace(':00 GMT', ' UTC');
+
+  }).catch(function(e) {
+    setInner('ticker-strip', '<div class="error">&#x26A0; Could not load market data. ' + e.message + '</div>');
+  });
+}
+
+/* Signals */
+function renderSignals() {
+  return loadJSON('data/signals.json').then(function(data) {
+    var ps = data.portfolio_summary;
+    if (ps) {
+      setInner('portfolio-summary',
+        '<span class="psummary-pill"><span>' + ps.total_assets + '</span><span style="color:var(--text-muted)">Total</span></span>' +
+        '<span class="psummary-pill"><span class="up">' + ps.buy_count + '</span><span style="color:var(--text-muted)">Buy</span></span>' +
+        '<span class="psummary-pill"><span style="color:var(--yellow)">' + ps.hold_count + '</span><span style="color:var(--text-muted)">Hold</span></span>' +
+        '<span class="psummary-pill"><span class="down">' + ps.sell_count + '</span><span style="color:var(--text-muted)">Sell</span></span>' +
+        '<span class="psummary-pill"><span style="color:var(--blue)">' + ps.watch_count + '</span><span style="color:var(--text-muted)">Watch</span></span>'
+      );
+      var kpiBuy = document.getElementById('kpi-buy');
+      if (kpiBuy) kpiBuy.textContent = ps.buy_count;
+    }
+
+    var rows = data.watchlist.map(function(item) {
+      var dir   = changeClass(item.change_pct);
+      var sym   = changeSymbol(item.change_pct);
+      var price = item.type === 'crypto'
+        ? fmt(item.price, item.price > 100 ? 0 : 2)
+        : fmt(item.price, 2);
+      var spark = item.sparkline ? sparklineSVG(item.sparkline, 70, 26, item.change_pct >= 0) : '';
+      return '<tr>' +
+        '<td><span class="ticker-badge">' + item.ticker + '</span></td>' +
+        '<td style="max-width:160px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">' + item.name + '</td>' +
+        '<td><span class="type-badge">' + item.type + '</span></td>' +
+        '<td style="font-size:12px;color:var(--text-muted)">' + (item.sector || '\u2013') + '</td>' +
+        '<td>' + price + '</td>' +
+        '<td class="' + dir + '" style="font-weight:600">' + sym + ' ' + Math.abs(item.change_pct).toFixed(2) + '%</td>' +
+        '<td>' + spark + '</td>' +
+        '<td><span class="signal-badge signal-' + item.signal + '">' + item.signal + '</span></td>' +
+        '<td style="font-size:12px;color:var(--text-muted);max-width:220px">' + item.note + '</td>' +
+        '</tr>';
+    }).join('');
+
+    setInner('signals-container',
+      '<table class="signals-table">' +
+        '<thead><tr>' +
+          '<th>Ticker</th><th>Name</th><th>Type</th><th>Sector</th>' +
+          '<th>Price</th><th>Chg%</th><th>Trend</th><th>Signal</th><th>Note</th>' +
+        '</tr></thead>' +
+        '<tbody>' + rows + '</tbody>' +
+      '</table>'
+    );
+  }).catch(function(e) {
+    setInner('signals-container', '<div class="error">&#x26A0; ' + e.message + '</div>');
+  });
+}
+
+/* News */
+var allArticles = [];
+var activeCategory = 'all';
+
+function renderNewsCards(articles, containerId) {
+  var el = document.getElementById(containerId);
+  if (!el) return;
+  if (!articles.length) { el.innerHTML = '<div class="loading">No articles for this filter.</div>'; return; }
+  el.innerHTML = articles.map(function(a) {
+    var sentClass = 'sentiment-' + a.sentiment;
+    var sentLabel = a.sentiment === 'bullish' ? '\u25b2 Bullish' : a.sentiment === 'bearish' ? '\u25bc Bearish' : '\u25c6 Neutral';
+    var tags = (a.tags || []).map(function(t) { return '<span class="news-tag">#' + t + '</span>'; }).join('');
+    return '<article class="news-card">' +
+      '<div class="news-card-header">' +
+        '<div class="news-title"><a href="' + a.url + '" target="_blank" rel="noopener noreferrer">' + a.title + '</a></div>' +
+        '<div class="news-meta">' +
+          '<span class="news-source">' + a.source + '</span>' +
+          '<span class="signal-badge signal-' + a.signal + '">' + a.signal + '</span>' +
+          '<span class="news-time">' + relativeTime(a.published_at) + '</span>' +
+        '</div>' +
+      '</div>' +
+      '<p class="news-summary">' + a.summary + '</p>' +
+      '<div class="news-tags">' +
+        '<span class="' + sentClass + '" style="font-size:11px;font-weight:700;margin-right:4px">' + sentLabel + '</span>' +
+        tags +
+        '<span class="news-tag">' + a.category + '</span>' +
+      '</div>' +
+      '</article>';
+  }).join('');
+}
+
+function buildFilters(articles) {
+  var filtersEl = document.getElementById('news-filters');
+  if (!filtersEl) return;
+  var cats = ['all'];
+  articles.forEach(function(a) { if (cats.indexOf(a.category) < 0) cats.push(a.category); });
+  filtersEl.innerHTML = cats.map(function(c) {
+    return '<button class="filter-btn' + (c === 'all' ? ' active' : '') + '" data-cat="' + c + '">' +
+      c.charAt(0).toUpperCase() + c.slice(1) + '</button>';
+  }).join('');
+  filtersEl.addEventListener('click', function(e) {
+    var btn = e.target.closest('.filter-btn');
+    if (!btn) return;
+    activeCategory = btn.dataset.cat;
+    filtersEl.querySelectorAll('.filter-btn').forEach(function(b) { b.classList.toggle('active', b === btn); });
+    var filtered = activeCategory === 'all' ? allArticles : allArticles.filter(function(a) { return a.category === activeCategory; });
+    renderNewsCards(filtered, 'news-list');
+  });
+}
+
+function renderNews() {
+  return loadJSON('data/news.json').then(function(data) {
+    allArticles = data.articles || [];
+
+    var kpiNews = document.getElementById('kpi-news');
+    if (kpiNews) kpiNews.textContent = allArticles.length;
+
+    renderNewsCards(allArticles.slice(0, 3), 'top-news-list');
+    buildFilters(allArticles);
+    renderNewsCards(allArticles, 'news-list');
+  }).catch(function(e) {
+    setInner('news-list', '<div class="error">&#x26A0; ' + e.message + '</div>');
+    setInner('top-news-list', '<div class="error">&#x26A0; ' + e.message + '</div>');
+  });
+}
+
+/* Boot */
 renderMarket();
 renderSignals();
 renderNews();
 </script>
+
 </body>
 </html>

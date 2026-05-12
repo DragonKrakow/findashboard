@@ -1,25 +1,101 @@
 {
-  "generated_at": "2026-05-11T21:00:00Z",
+  "generated_at": "2026-05-12T21:00:00Z",
   "indices": [
-    { "name": "S&P 500",    "value": 5282.70, "change_pct":  0.41, "region": "US" },
-    { "name": "NASDAQ",     "value": 18640.20,"change_pct":  0.88, "region": "US" },
-    { "name": "Dow Jones",  "value": 39145.50,"change_pct":  0.17, "region": "US" },
-    { "name": "FTSE 100",   "value": 8421.30, "change_pct": -0.22, "region": "EU" },
-    { "name": "DAX",        "value": 18965.80,"change_pct":  0.35, "region": "EU" },
-    { "name": "Nikkei 225", "value": 38480.10,"change_pct": -0.54, "region": "APAC" }
+    { "name": "S&P 500",    "value": 5282.70, "change_pct":  0.41, "region": "US",   "sparkline": [5210, 5225, 5200, 5240, 5255, 5268, 5260, 5275, 5280, 5283] },
+    { "name": "NASDAQ",     "value": 18640.20,"change_pct":  0.88, "region": "US",   "sparkline": [18300, 18350, 18280, 18420, 18490, 18520, 18500, 18570, 18600, 18640] },
+    { "name": "Dow Jones",  "value": 39145.50,"change_pct":  0.17, "region": "US",   "sparkline": [38900, 38950, 38870, 39000, 39050, 39100, 39080, 39120, 39140, 39146] },
+    { "name": "FTSE 100",   "value": 8421.30, "change_pct": -0.22, "region": "EU",   "sparkline": [8440, 8445, 8430, 8450, 8460, 8440, 8435, 8428, 8420, 8421] },
+    { "name": "DAX",        "value": 18965.80,"change_pct":  0.35, "region": "EU",   "sparkline": [18820, 18850, 18800, 18870, 18900, 18930, 18920, 18950, 18960, 18966] },
+    { "name": "Nikkei 225", "value": 38480.10,"change_pct": -0.54, "region": "APAC", "sparkline": [38700, 38720, 38650, 38700, 38680, 38620, 38580, 38510, 38490, 38480] },
+    { "name": "Hang Seng",  "value": 22451.80,"change_pct": -0.31, "region": "APAC", "sparkline": [22550, 22560, 22500, 22520, 22510, 22490, 22470, 22460, 22455, 22452] },
+    { "name": "CAC 40",     "value": 7842.60, "change_pct":  0.12, "region": "EU",   "sparkline": [7800, 7810, 7790, 7820, 7830, 7840, 7835, 7838, 7840, 7843] }
   ],
   "macro": [
     { "label": "10Y UST Yield", "value": "4.32%",   "change": "-0.04", "direction": "down" },
+    { "label": "2Y UST Yield",  "value": "4.78%",   "change": "-0.02", "direction": "down" },
     { "label": "DXY",           "value": "103.20",  "change": "-0.31", "direction": "down" },
     { "label": "Brent Crude",   "value": "$78.40",  "change": "-3.12%","direction": "down" },
+    { "label": "WTI Crude",     "value": "$74.20",  "change": "-2.98%","direction": "down" },
     { "label": "Gold",          "value": "$2,348",  "change": "+0.95%","direction": "up"   },
+    { "label": "Silver",        "value": "$29.40",  "change": "+1.20%","direction": "up"   },
     { "label": "VIX",           "value": "13.8",    "change": "-0.6",  "direction": "down" },
-    { "label": "EUR/USD",       "value": "1.0701",  "change": "-0.80%","direction": "down" }
+    { "label": "EUR/USD",       "value": "1.0701",  "change": "-0.80%","direction": "down" },
+    { "label": "USD/JPY",       "value": "154.32",  "change": "+0.42%","direction": "up"   },
+    { "label": "GBP/USD",       "value": "1.2543",  "change": "-0.15%","direction": "down" },
+    { "label": "Natural Gas",   "value": "$2.18",   "change": "+1.40%","direction": "up"   }
   ],
   "sentiment": {
     "overall": "cautiously_bullish",
     "fear_greed_index": 62,
     "fear_greed_label": "Greed",
-    "note": "Risk-on tone post-Fed; energy sector underperforming"
+    "note": "Risk-on tone post-Fed; energy sector underperforming on supply-shock concerns from Strait of Hormuz tensions."
+  },
+  "geopolitical": [
+    {
+      "event": "US–China Trade Summit",
+      "region": "Global",
+      "risk_level": "medium",
+      "impact_sectors": ["tech", "commodities", "fx"],
+      "note": "Beijing summit underway; tariff adjustments and tech-transfer restrictions are focal points. Markets cautiously optimistic on a partial deal."
+    },
+    {
+      "event": "Iran – Strait of Hormuz Tensions",
+      "region": "Middle East",
+      "risk_level": "high",
+      "impact_sectors": ["energy", "shipping", "commodities"],
+      "note": "Iranian navy manoeuvres raise transit-disruption risk. Brent down 3 % as truce talks progress, but ceasefire remains fragile."
+    },
+    {
+      "event": "ECB Rate Decision (Jun)",
+      "region": "Europe",
+      "risk_level": "low",
+      "impact_sectors": ["fx", "bonds", "financials"],
+      "note": "25 bps cut consensus-priced; any hawkish surprise would strengthen EUR and pressure peripheral spreads."
+    },
+    {
+      "event": "Bank of Japan Policy Review",
+      "region": "APAC",
+      "risk_level": "medium",
+      "impact_sectors": ["fx", "bonds", "equities"],
+      "note": "YCC tweak rumours keep USD/JPY elevated. A surprise hike could trigger yen appreciation and global carry-trade unwind."
+    },
+    {
+      "event": "UK General Election (Q3)",
+      "region": "Europe",
+      "risk_level": "low",
+      "impact_sectors": ["gbp", "uk equities"],
+      "note": "Labour lead stable; markets pricing in continuity. Sterling volatility expected to pick up closer to the date."
+    },
+    {
+      "event": "Russia–Ukraine Ceasefire Talks",
+      "region": "Europe",
+      "risk_level": "medium",
+      "impact_sectors": ["energy", "agriculture", "defence"],
+      "note": "Preliminary talks in Istanbul; wheat and natural gas futures sensitive to any breakthrough or breakdown."
+    }
+  ],
+  "ai_analysis": {
+    "headline": "Risk-on momentum intact; selective caution warranted",
+    "body": "Global equities are posting modest gains on continued AI-investment optimism and improving earnings guidance. The primary headwind remains the Strait of Hormuz energy-supply shock, which caps gains in energy-importing regions. The Federal Reserve's data-dependent pause is broadly understood by markets, but stickier-than-expected core CPI could delay the anticipated rate-cut cycle. Emerging-market assets are underperforming as the DXY retreats selectively — a mixed signal for commodity exporters. Crypto markets are extending their recovery, led by BTC ETF inflows and improving on-chain fundamentals. Overall, the risk-on backdrop favours quality growth and defensive commodities.",
+    "key_themes": [
+      "AI infrastructure spending cycle sustaining tech earnings",
+      "Divergent central bank paths (Fed pause vs ECB cuts)",
+      "Middle East energy-supply shock risk",
+      "Crypto ETF inflows driving institutional allocation",
+      "US–China bilateral trade re-engagement"
+    ],
+    "risks": [
+      "Hormuz closure escalation → Brent spike to $100+",
+      "US core CPI re-acceleration delaying Fed cuts",
+      "China property sector tail risk spilling into banking",
+      "Yen carry-trade unwind triggering broad risk-off"
+    ],
+    "opportunities": [
+      "Semiconductor & AI-infrastructure names (NVDA, ASML)",
+      "Gold as portfolio hedge amid macro uncertainty",
+      "Long-duration Treasuries if rate-cut path materialises",
+      "Select EM local-currency bonds (India, Brazil)"
+    ],
+    "generated_at": "2026-05-12T21:00:00Z"
   }
 }
