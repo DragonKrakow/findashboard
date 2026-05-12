@@ -338,6 +338,53 @@
     /* Footer */
     footer { border-top: 1px solid var(--border); text-align: center; padding: 20px; color: var(--text-muted); font-size: 12px; margin-top: 24px; }
     footer a { color: var(--blue); }
+
+    /* ── Mobile responsive header ────────────────────────────────────────
+       On narrow screens the logo + header-right consume most of the 56 px
+       fixed-height row, leaving the tab-nav too narrow to use.
+       Fix: allow the header to wrap so the tab-nav gets its own full-width
+       scrollable row below the logo / controls.
+    ──────────────────────────────────────────────────────────────────── */
+    @media (max-width: 640px) {
+      header {
+        height: auto;
+        flex-wrap: wrap;
+        padding: 0 12px;
+        gap: 0;
+      }
+
+      .logo {
+        padding: 10px 0;
+        font-size: 15px;
+      }
+
+      .header-right {
+        padding: 8px 0;
+        gap: 8px;
+      }
+
+      /* Hide timestamp on mobile – not enough room */
+      #last-updated { display: none; }
+
+      .btn-refresh {
+        font-size: 11px;
+        padding: 5px 10px;
+      }
+
+      /* Tab nav moves to its own full-width row */
+      .tab-nav {
+        order: 3;
+        flex: 0 0 100%;
+        justify-content: flex-start;
+        border-top: 1px solid var(--border);
+        padding: 0 2px;
+      }
+
+      .tab-btn {
+        padding: 12px 10px;
+        font-size: 12px;
+      }
+    }
   </style>
 </head>
 <body>
