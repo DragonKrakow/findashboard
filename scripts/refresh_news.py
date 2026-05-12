@@ -192,9 +192,13 @@ def update_market_json(ai_analysis: dict | None) -> None:
         return
 
     now_iso = datetime.now(timezone.utc).isoformat()
+    # Update the top-level refresh timestamp for the whole file
     market["generated_at"] = now_iso
 
     if ai_analysis:
+        # Embed the same timestamp inside the analysis block so the frontend
+        # can display when this specific analysis was generated independently
+        # of when other market fields (indices, macro) were last updated.
         ai_analysis["generated_at"] = now_iso
         market["ai_analysis"] = ai_analysis
         log.info("Updated ai_analysis block in market.json")
