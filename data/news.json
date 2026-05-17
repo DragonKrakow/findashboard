@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-17T16:56:08.470843+00:00",
+  "generated_at": "2026-05-17T20:48:41.228552+00:00",
   "articles": [
+    {
+      "id": "af507eaf18e4",
+      "title": "Stocks in Focus After Bonds Send Inflation Alarm",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-17/stocks-in-focus-after-bonds-send-inflation-alarm-markets-wrap",
+      "published_at": "2026-05-17T20:00:03+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "With no clear-cut end in sight to the Iran war, investors enter a new week under the spell of its key economic consequence: rising global interest rates, and the inflation threat they signal.",
+      "tags": []
+    },
+    {
+      "id": "6fd1bb046d37",
+      "title": "Hundreds Swarm Swatch Stores for \"Royal Pop\" Release",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-17/hundreds-swarm-swatch-stores-for-royal-pop-release-video",
+      "published_at": "2026-05-17T19:49:28+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "After queuing for days to get their hands on the new Audemars Piguet-Swatch collaboration, fans on Saturday finally got their chance, but heaving crowds stopped some stores from opening their doors an",
+      "tags": []
+    },
+    {
+      "id": "772e2ef7228d",
+      "title": "Bloomberg This Weekend 5/17/2026",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-17/bloomberg-this-weekend-5-17-2026-video",
+      "published_at": "2026-05-17T16:33:43+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by",
+      "tags": []
+    },
     {
       "id": "0a629435e56d",
       "title": "Gundlach Says It’s ‘Just Not Possible’ for the Fed to Cut Rates",
@@ -50,18 +86,6 @@
       "tags": []
     },
     {
-      "id": "a69ce6411815",
-      "title": "WHO Ebola Emergency Declaration Seeks to Spur Global Response",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-17/who-declares-congo-uganda-ebola-outbreak-global-health-emergency",
-      "published_at": "2026-05-17T01:31:29+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The World Health Organization declared the Ebola outbreak in Democratic Republic of Congo and Uganda a public health emergency of international concern, seeking to mobilize support against a rare viru",
-      "tags": []
-    },
-    {
       "id": "502dfba74913",
       "title": "New Book Details Silicon Valley's Grip on College Campuses",
       "source": "Bloomberg Markets",
@@ -98,27 +122,27 @@
       "tags": []
     },
     {
-      "id": "71f6c2d844c4",
-      "title": "Record Drone Attack on Moscow Kills Three, Targets Refinery",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-17/record-drone-attack-on-moscow-kills-three-targets-refinery",
-      "published_at": "2026-05-17T05:21:12+00:00",
+      "id": "5aa94f854ba7",
+      "title": "Iran energy crisis enters new phase as peak summer season approaches",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/f636f726-b185-4f6a-91d2-75ea3d1b9beb",
+      "published_at": "2026-05-17T17:00:07+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Russia’s capital and the surrounding Moscow region came under record drone attacks overnight, leaving at least three people killed and over a dozen wounded.",
+      "summary": "Emergency measures spread as oil stockpiles run low",
       "tags": []
     },
     {
-      "id": "5c9f8c6f19ec",
-      "title": "National Gas Prices Near Record High",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-17/national-gas-prices-near-record-high-video",
-      "published_at": "2026-05-17T13:54:25+00:00",
+      "id": "faf44099dccb",
+      "title": "The looming energy crunch",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/08665686-f673-46ca-9dba-fd34e1546e7c",
+      "published_at": "2026-05-17T17:00:07+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "For decades &mdash; coincidentally, at least since the Iranian Revolution and hostage crisis of 1979-80 &mdash; the price at the pump has been a crucial lens through which Americans judge a president’",
+      "summary": "Supply squeeze due to the Iran war will get worse before it gets better",
       "tags": []
     },
     {
@@ -194,6 +218,18 @@
       "tags": []
     },
     {
+      "id": "2fe39e8a3789",
+      "title": "Publicis to buy US data company in $2.2bn deal as it deepens AI marketing push",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/fa33f1b3-ea8b-474b-9f75-a70536c8d2cb",
+      "published_at": "2026-05-17T19:36:31+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "French advertising group to purchase LiveRamp and enhance its focus on disruptive technology",
+      "tags": []
+    },
+    {
       "id": "7fd921024036",
       "title": "China’s two-wheelers ride EV wave into Europe",
       "source": "International homepage",
@@ -206,27 +242,15 @@
       "tags": []
     },
     {
-      "id": "72b33b18bcca",
-      "title": "Bain Capital closes largest Asia fund after raising $10.5bn",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/cf65b157-6a10-4525-851b-508333ee94d0",
-      "published_at": "2026-05-17T04:00:12+00:00",
+      "id": "14f0a4f72cab",
+      "title": "Saylor signals BTC buy as retail holders get push on STRC dividend vote",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/saylor-signals-btc-buy-as-retail-holders-get-push-on-strc-dividend-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-05-17T18:01:00+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Buyout firm raised $2.1bn more from external investors than had been targeted",
-      "tags": []
-    },
-    {
-      "id": "8dc0a811f832",
-      "title": "Chinese data centre spin-off plans dual IPO in Singapore and US",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/602baf9f-9e66-428e-baec-6c2850d5fad5",
-      "published_at": "2026-05-17T04:00:03+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "DayOne aims to raise $5bn using new rules intended to boost Asian listings in city-state",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Saylor signals BTC buy as retail holders get push on STRC dividend vote\" class=\"type:primaryImage\" src=\"https://images.cointeleg",
       "tags": []
     },
     {
@@ -338,15 +362,15 @@
       "tags": []
     },
     {
-      "id": "f486282165ab",
-      "title": "OpenAI partners with Malta to give all citizens free ChatGPT Plus access",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/openai-partners-with-malta-to-give-all-citizens-free-chatgpt-plus-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-05-16T14:12:55+00:00",
+      "id": "50852620630c",
+      "title": "The Clarity Act took a step forward: State of Crypto",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/policy/2026/05/17/the-clarity-act-took-a-step-forward-state-of-crypto",
+      "published_at": "2026-05-17T18:30:00+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OpenAI partners with Malta to give all citizens free ChatGPT Plus access\" class=\"type:primaryImage\" src=\"https://images.cointele",
+      "summary": "The Clarity Act took a step forward: State of Crypto",
       "tags": []
     },
     {
@@ -458,15 +482,63 @@
       "tags": []
     },
     {
-      "id": "82ba215fa925",
-      "title": "U.S. House lawmakers who oversee the CFTC are urging Trump to fill the commission",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/policy/2026/05/15/u-s-house-lawmakers-who-oversee-the-cftc-are-urging-trump-to-fill-the-commission",
-      "published_at": "2026-05-15T21:35:57+00:00",
+      "id": "ba1b522bd9d5",
+      "title": "George Noble On Bonds, Private Credit, Consumer Stocks (& Tesla) Falling Apart",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4905818-george-noble-on-bonds-private-credit-consumer-stocks-and-tesla-falling-apart?source=feed_all_articles",
+      "published_at": "2026-05-17T20:00:00+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "U.S. House lawmakers who oversee the CFTC are urging Trump to fill the commission",
+      "summary": "George Noble On Bonds, Private Credit, Consumer Stocks (& Tesla) Falling Apart",
+      "tags": []
+    },
+    {
+      "id": "d512cf336c7e",
+      "title": "S&P500: The Topping Process",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4905677-s-and-p500-the-topping-process?source=feed_all_articles",
+      "published_at": "2026-05-17T20:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "S&P500: The Topping Process",
+      "tags": []
+    },
+    {
+      "id": "f2172ca01bc4",
+      "title": "UroGen Pharma Ltd. (URGN) Discusses Real-World Experiences and Outcomes With ZUSDURI for Recurrent Bladder Cancer Transcript",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4905817-urogen-pharma-ltd-urgn-discusses-real-world-experiences-and-outcomes-with-zusduri-for?source=feed_all_articles",
+      "published_at": "2026-05-17T18:30:41+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "UroGen Pharma Ltd. (URGN) Discusses Real-World Experiences and Outcomes With ZUSDURI for Recurrent Bladder Cancer Transcript",
+      "tags": []
+    },
+    {
+      "id": "47fb4ac2ca95",
+      "title": "Wall Street Brunch: Nvidia Time",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4905816-wall-street-brunch-nvidia-time?source=feed_all_articles",
+      "published_at": "2026-05-17T18:29:17+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Wall Street Brunch: Nvidia Time",
+      "tags": []
+    },
+    {
+      "id": "787c814982df",
+      "title": "Hims & Hers Health: GLP-1 Drama Ending Signals Return To Growth",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4905814-hims-and-hers-health-glp-1-drama-ending-signals-return-to-growth?source=feed_all_articles",
+      "published_at": "2026-05-17T18:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Hims & Hers Health: GLP-1 Drama Ending Signals Return To Growth",
       "tags": []
     },
     {
@@ -527,66 +599,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "REITs Are Ready For A Big Comeback: Get Ready To Catch These Dividends",
-      "tags": []
-    },
-    {
-      "id": "f86674d58f20",
-      "title": "Intel: Bought The Rumor, Sell The Apple News",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4905811-intel-bought-the-rumor-sell-the-apple-news?source=feed_all_articles",
-      "published_at": "2026-05-17T14:03:20+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Intel: Bought The Rumor, Sell The Apple News",
-      "tags": []
-    },
-    {
-      "id": "446031493274",
-      "title": "Cerebras: IPO Lockup Comes Fast",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4905797-cerebras-ipo-lockup-comes-fast?source=feed_all_articles",
-      "published_at": "2026-05-17T14:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Cerebras: IPO Lockup Comes Fast",
-      "tags": []
-    },
-    {
-      "id": "d86fb0c607df",
-      "title": "Advanced Energy Industries: In An AI Gold Rush, Sell Picks And Shovels",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4905809-advanced-energy-industries-in-an-ai-gold-rush-sell-picks-and-shovels?source=feed_all_articles",
-      "published_at": "2026-05-17T13:50:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Advanced Energy Industries: In An AI Gold Rush, Sell Picks And Shovels",
-      "tags": []
-    },
-    {
-      "id": "915a02f42149",
-      "title": "D-Wave: Riding Quantum Mania",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4905772-d-wave-riding-quantum-mania?source=feed_all_articles",
-      "published_at": "2026-05-17T13:30:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "D-Wave: Riding Quantum Mania",
-      "tags": []
-    },
-    {
-      "id": "6c194deba5a0",
-      "title": "Micron Has Completely Proven Me Wrong (Rating Upgrade)",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4905810-micron-has-completely-proven-me-wrong-upgrade?source=feed_all_articles",
-      "published_at": "2026-05-17T13:30:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Micron Has Completely Proven Me Wrong (Rating Upgrade)",
       "tags": []
     }
   ]
