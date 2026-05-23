@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-23T16:57:12.554314+00:00",
+  "generated_at": "2026-05-23T20:48:57.163195+00:00",
   "articles": [
+    {
+      "id": "b440c00edc18",
+      "title": "More War-Driven Inflation Seen in Fed’s Favored Gauge",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-23/more-war-driven-inflation-seen-in-fed-s-favored-gauge",
+      "published_at": "2026-05-23T20:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The Federal Reserve’s favored top-line inflation gauge is rapidly approaching 4% as a war-driven spike in energy costs generates unease that price pressures will broaden.",
+      "tags": []
+    },
+    {
+      "id": "f5359a63d21d",
+      "title": "Hungary’s New Premier Warns Predecessor Left Budget ‘Skeletons’",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-23/hungary-s-new-premier-warns-predcessor-left-budget-skeletons",
+      "published_at": "2026-05-23T19:17:05+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Hungary’s new Prime Minister Peter Magyar said he was hoping for economic growth of about 2% this year but put voters on notice that the state of public finances left by his predecessor made it imposs",
+      "tags": []
+    },
+    {
+      "id": "3702368b7a4c",
+      "title": "Uber Proposes Delivery Hero Takeover in €33-Per-Share Offer",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-23/uber-doordash-in-talks-to-buy-delivery-hero-stakes-ft-says",
+      "published_at": "2026-05-23T13:17:56+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Uber Technologies Inc. proposed a takeover offer to buy Delivery Hero SE stock it doesn’t already own for €33 ($38) per share as it seeks to better compete with DoorDash Inc. outside the US.",
+      "tags": []
+    },
     {
       "id": "6787763d2ac1",
       "title": "Bloomberg This Weekend 5/23/2026 | Trump Weighs Iran Options, Tracking The Ebola Outbreak",
@@ -11,18 +47,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by",
-      "tags": []
-    },
-    {
-      "id": "3702368b7a4c",
-      "title": "Delivery Hero Says Uber Proposed €33 a Share Takeover Bid",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-23/uber-doordash-in-talks-to-buy-delivery-hero-stakes-ft-says",
-      "published_at": "2026-05-23T13:17:56+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Uber Technologies Inc. proposed buying Delivery Hero SE for €33 ($38) a share as it seeks to better compete with DoorDash Inc. outside the US.",
       "tags": []
     },
     {
@@ -98,35 +122,11 @@
       "tags": []
     },
     {
-      "id": "faf6891b2d37",
-      "title": "US Ebola Aid Plummets 99% Since Last Outbreak",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-23/us-ebola-aid-plummets-99-since-last-outbreak-video",
-      "published_at": "2026-05-23T13:34:44+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Former Executive Director of the USAID COVID-19 Task Force Jeremy Konyndyk joined Bloomberg This Weekend to discuss the Ebola outbreak in the Democratic Republic of the Congo. Konyndyk explains to hos",
-      "tags": []
-    },
-    {
-      "id": "e5305b40f4ff",
-      "title": "Trump’s 3,711 Trades Point to Multiple Stock-Market Strategies",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/features/2026-05-23/trump-s-3-711-trades-point-to-multiple-stock-market-strategies",
-      "published_at": "2026-05-23T13:00:16+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "<p>Index-tracking and automated execution appear to be on show in transactions linked to the president.</p>",
-      "tags": []
-    },
-    {
       "id": "446e1d501c77",
       "title": "US and Iran move closer to extending ceasefire by 60 days, say mediators",
       "source": "International homepage",
       "url": "https://www.ft.com/content/0f6f9962-c6c4-4c75-bba2-8b103edfbc85",
-      "published_at": "2026-05-23T16:23:48+00:00",
+      "published_at": "2026-05-23T18:31:47+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
@@ -182,15 +182,15 @@
       "tags": []
     },
     {
-      "id": "2440e8fe9278",
-      "title": "Indian youth ‘cockroach’ protest goes viral",
+      "id": "c26ec38badda",
+      "title": "US warns Japan of severe delays in Tomahawk deliveries due to Iran war",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/2bfed8a4-8ea0-4627-b7a8-e9ca46945239",
-      "published_at": "2026-05-22T20:00:09+00:00",
+      "url": "https://www.ft.com/content/406bc3bb-068b-4f4c-b064-23082e8a9f70",
+      "published_at": "2026-05-23T19:00:01+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "New online movement adopts mascot of household pest to express frustration over rising unemployment",
+      "summary": "Missiles could come two years late as Pentagon works to replenish stocks depleted in Middle East military campaign",
       "tags": []
     },
     {
@@ -206,15 +206,15 @@
       "tags": []
     },
     {
-      "id": "83ec816cc40a",
-      "title": "Trump administration to make foreigners leave US to apply for green cards",
+      "id": "d82271fe1f09",
+      "title": "Delivery Hero reveals Uber takeover bid at €10bn valuation",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/5d4c3de6-07d9-436e-8822-2dbafd10774a",
-      "published_at": "2026-05-22T22:48:37+00:00",
+      "url": "https://www.ft.com/content/6d5df0df-74b3-4be9-a1ec-27322e1c3184",
+      "published_at": "2026-05-23T17:35:44+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Move to tighten permanent residency requirements could have significant implications for businesses",
+      "summary": "German food group has also been approached by rival DoorDash, people familiar with the situation said",
       "tags": []
     },
     {
@@ -239,6 +239,18 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Elon Musk’s company demonstrates the technology at the heart of the biggest initial public offering in history",
+      "tags": []
+    },
+    {
+      "id": "16cc52da73f2",
+      "title": "Warsh will cut rates, despite consensus view of rate hikes: Analyst",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/warsh-cut-rate-despite-consensus-rate-hikes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-05-23T18:20:14+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Warsh will cut rates, despite consensus view of rate hikes: Analyst\" class=\"type:primaryImage\" src=\"https://images.cointelegraph",
       "tags": []
     },
     {
@@ -350,15 +362,15 @@
       "tags": []
     },
     {
-      "id": "e0bce082b506",
-      "title": "Price predictions 5/22: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/markets/price-predictions-522-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-05-22T19:33:51+00:00",
+      "id": "3ed07e40f776",
+      "title": "Bitcoin is ready to beat stocks and bonds again after underperformance against Wall Street",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/markets/2026/05/23/bitcoin-is-ready-to-beat-stocks-and-bonds-again-after-underperformance-against-wall-street",
+      "published_at": "2026-05-23T19:00:00+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 5/22: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH\" class=\"type:primaryImage\" src=\"https://images.cointe",
+      "summary": "Bitcoin is ready to beat stocks and bonds again after underperformance against Wall Street",
       "tags": []
     },
     {
@@ -470,15 +482,27 @@
       "tags": []
     },
     {
-      "id": "99e3dce13dde",
-      "title": "The agentic CFO in your pocket",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/opinion/2026/05/22/the-agentic-cfo-in-your-pocket",
-      "published_at": "2026-05-22T14:57:29+00:00",
+      "id": "ccc10236e31b",
+      "title": "Sprott Rare Earths Ex-China ETF: A Laser-Focused Pure Play On REEs",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4908313-sprott-rare-earths-ex-china-etf-laser-focused-pure-play-on-rees?source=feed_all_articles",
+      "published_at": "2026-05-23T18:57:09+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "The agentic CFO in your pocket",
+      "summary": "Sprott Rare Earths Ex-China ETF: A Laser-Focused Pure Play On REEs",
+      "tags": []
+    },
+    {
+      "id": "d29621e5a235",
+      "title": "A Golden Buying Opportunity: 6-10% Yields Going From Bargains To Buys",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4908269-golden-buying-opportunity-6-10-percent-yields-going-from-bargains-to-buys?source=feed_all_articles",
+      "published_at": "2026-05-23T17:05:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "A Golden Buying Opportunity: 6-10% Yields Going From Bargains To Buys",
       "tags": []
     },
     {
@@ -575,30 +599,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "AGNC Investment Corp.: Why I Am Not Selling A Single Share",
-      "tags": []
-    },
-    {
-      "id": "a6f4aaf06026",
-      "title": "META: Investors' Concerns Are Valid.",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4908306-meta-investors-concerns-are-valid?source=feed_all_articles",
-      "published_at": "2026-05-23T14:38:24+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "META: Investors' Concerns Are Valid.",
-      "tags": []
-    },
-    {
-      "id": "5dca1563303a",
-      "title": "GE Aerospace: Why The War In Iran Just Isn't That Bullish, And Technical Trouble",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4908305-ge-aerospace-why-the-war-in-iran-just-isnt-that-bullish-and-technical-trouble?source=feed_all_articles",
-      "published_at": "2026-05-23T14:38:15+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "GE Aerospace: Why The War In Iran Just Isn't That Bullish, And Technical Trouble",
       "tags": []
     }
   ]
