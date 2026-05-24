@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-05-24T06:57:17.955054+00:00",
+  "generated_at": "2026-05-24T09:52:40.129494+00:00",
   "articles": [
+    {
+      "id": "37817f1c8c66",
+      "title": "Trump Touts Imminent Iran Deal That Would Reopen Hormuz Strait",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-24/trump-touts-imminent-iran-deal-that-would-reopen-hormuz-strait",
+      "published_at": "2026-05-24T07:40:13+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "US President Donald Trump said a peace deal with Iran was nearing completion and that the reopening of the strategic Strait of Hormuz would be announced shortly, even as an Iranian media outlet cast d",
+      "tags": []
+    },
+    {
+      "id": "ab4996846179",
+      "title": "ECB Faces Pressure to Hike as Iran War Feeds Prices, Kocher Says",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-24/ecb-faces-pressure-to-hike-as-iran-war-feeds-prices-kocher-says",
+      "published_at": "2026-05-24T07:04:24+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The European Central Bank is heading for an interest-rate increase next month unless a sustainable peace deal between the US and Iran can be found, according to Governing Council member Martin Kocher.",
+      "tags": []
+    },
     {
       "id": "11a309220db2",
       "title": "China Coal Mine Blast Tests Limits of Xi’s Energy Security Push",
@@ -98,39 +122,27 @@
       "tags": []
     },
     {
-      "id": "9f4a6da94bd8",
-      "title": "Chanel’s Mega Dividend Brings Owners’ Windfall to $21B",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-23/chanel-s-mega-dividend-brings-owners-windfall-to-21b-video",
-      "published_at": "2026-05-23T15:10:26+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The billionaire family behind Chanel is on track to pocket at least $21 billion from payouts over the past decade, a huge windfall as their brand prospers during a downturn hitting some luxury-good ri",
-      "tags": []
-    },
-    {
-      "id": "d47bf872513a",
-      "title": "Restaurants Navigate Higher Food Costs as Burger Season Begins",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-23/navigating-higher-food-costs-as-burger-season-begins-video",
-      "published_at": "2026-05-23T14:31:36+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Memorial Day weekend marks the unofficial start of summer and burger season. Wayback Burgers President Patrick Conlin joined Christina Ruffini and David Gura on Bloomberg This Weekend to discuss chang",
-      "tags": []
-    },
-    {
       "id": "8eabb0890401",
       "title": "Trump says deal with Iran to reopen Hormuz ‘largely negotiated’",
       "source": "International homepage",
       "url": "https://www.ft.com/content/a27cc653-71ee-4668-8fcf-562fd7c9b93f",
-      "published_at": "2026-05-24T01:29:52+00:00",
+      "published_at": "2026-05-24T08:27:14+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "US president says he will announce agreement to end the war after talks with Gulf leaders and allies",
+      "summary": "US president plans to announce agreement to end war after talks with Gulf leaders and allies",
+      "tags": []
+    },
+    {
+      "id": "bb2890b2bc76",
+      "title": "Egypt deploys jets to UAE as Iran war strains Arab alliances",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/8e81a505-7aa4-4c42-a103-f89b5e095901",
+      "published_at": "2026-05-24T04:00:08+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Abu Dhabi had hit out at countries in region for not doing more to help defend against Iranian attacks",
       "tags": []
     },
     {
@@ -143,18 +155,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Records seen by FT show Tehran used procurement network in Gulf state that it later hit with missiles and drones",
-      "tags": []
-    },
-    {
-      "id": "63fdaa480210",
-      "title": "US oil producers increase output to capture price surge from Iran war",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/d0fc0074-86f1-46ec-bf80-9bbb6abb2c24",
-      "published_at": "2026-05-23T11:00:07+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Drilling expansion follows 40 per cent jump in cost from global supply crunch that has dented president’s approval ratings",
       "tags": []
     },
     {
@@ -182,6 +182,18 @@
       "tags": []
     },
     {
+      "id": "bfa1ba960055",
+      "title": "Russia pounds Ukraine with hypersonic ‘Oreshnik’ missile",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/334b2b9e-10c5-4292-aa53-c1c0589f1413",
+      "published_at": "2026-05-24T08:06:32+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Capital rocked by explosions after Ukrainian leader Volodymyr Zelenskyy warned of imminent large-scale attack",
+      "tags": []
+    },
+    {
       "id": "36a8b92f6aac",
       "title": "Suspect killed after gunfire exchange with Secret Service outside White House",
       "source": "International homepage",
@@ -191,18 +203,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Donald Trump was in the executive mansion when witnesses reported hearing dozens of shots",
-      "tags": []
-    },
-    {
-      "id": "bfa1ba960055",
-      "title": "Russia pounds Kyiv with missiles and drones in heavy overnight assault",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/334b2b9e-10c5-4292-aa53-c1c0589f1413",
-      "published_at": "2026-05-23T23:25:31+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Capital is rocked by explosions after Ukraine’s Zelenskyy warned of an imminent large-scale attack",
       "tags": []
     },
     {
@@ -218,15 +218,27 @@
       "tags": []
     },
     {
-      "id": "c64489887fd4",
-      "title": "South-east Asian economies struggle to counter energy shock",
+      "id": "c26ec38badda",
+      "title": "US warns Japan of severe delays in Tomahawk deliveries due to Iran war",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/746e3cbc-ebfd-40cc-915e-718643372989",
-      "published_at": "2026-05-24T01:06:58+00:00",
+      "url": "https://www.ft.com/content/406bc3bb-068b-4f4c-b064-23082e8a9f70",
+      "published_at": "2026-05-23T19:00:01+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Iran war leaves oil-poor nations trying to shore up countermeasures while battling inflation",
+      "summary": "Missiles could come two years late as Pentagon works to replenish stocks depleted in Middle East military campaign",
+      "tags": []
+    },
+    {
+      "id": "d0caaf6428f3",
+      "title": "Why is Bitcoin falling despite pro-crypto Kevin Warsh becoming Fed chair?",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/markets/why-is-bitcoin-falling-despite-pro-crypto-kevin-warsh-becoming-fed-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-05-24T09:02:25+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Why is Bitcoin falling despite pro-crypto Kevin Warsh becoming Fed chair?\" class=\"type:primaryImage\" src=\"https://images.cointel",
       "tags": []
     },
     {
@@ -335,18 +347,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"$1.26B Bitcoin ETF outflows spark ‘contrarian’ buy signal: Santiment\" class=\"type:primaryImage\" src=\"https://images.cointelegrap",
-      "tags": []
-    },
-    {
-      "id": "0e435f18575f",
-      "title": "‘Not unlikely’ Strategy will sell Bitcoin in 2026: Michael Saylor",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/michael-saylor-strategy-mstr-bitcoin-sell-speculation-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-05-23T04:24:09+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"‘Not unlikely’ Strategy will sell Bitcoin in 2026: Michael Saylor\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.c",
       "tags": []
     },
     {
@@ -470,6 +470,66 @@
       "tags": []
     },
     {
+      "id": "98de44edc5cd",
+      "title": "AXT: The Time To Be Really Greedy Is Over",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4908360-axt-the-time-to-be-really-greedy-is-over?source=feed_all_articles",
+      "published_at": "2026-05-24T09:40:07+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "AXT: The Time To Be Really Greedy Is Over",
+      "tags": []
+    },
+    {
+      "id": "8f22fb1ca083",
+      "title": "Aebi Schmidt: Correct Estimation Of The Lack Of Upside In 2026",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4908358-aebi-schmidt-correct-estimation-of-the-lack-of-upside-in-2026?source=feed_all_articles",
+      "published_at": "2026-05-24T08:55:33+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Aebi Schmidt: Correct Estimation Of The Lack Of Upside In 2026",
+      "tags": []
+    },
+    {
+      "id": "4beae640a3f7",
+      "title": "Week Ahead: U.S. Economic Resilience Supports The Dollar",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4908359-week-ahead-us-economic-resilience-supports-dollar?source=feed_all_articles",
+      "published_at": "2026-05-24T08:45:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Week Ahead: U.S. Economic Resilience Supports The Dollar",
+      "tags": []
+    },
+    {
+      "id": "ec8b3fedd9c9",
+      "title": "Intuit: Sell-Off Has Reset The Setup, Time To Underwrite The Franchise",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4908356-intuit-sell-off-has-reset-the-setup-time-to-underwrite-the-franchise?source=feed_all_articles",
+      "published_at": "2026-05-24T07:18:30+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Intuit: Sell-Off Has Reset The Setup, Time To Underwrite The Franchise",
+      "tags": []
+    },
+    {
+      "id": "8465d8521f2a",
+      "title": "Golar LNG: The FLNG Leader Accelerating Toward A Fourth Vessel (Downgrade)",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4908354-golar-lng-stock-flng-leader-accelerating-toward-a-fourth-vessel-downgrade?source=feed_all_articles",
+      "published_at": "2026-05-24T06:58:18+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Golar LNG: The FLNG Leader Accelerating Toward A Fourth Vessel (Downgrade)",
+      "tags": []
+    },
+    {
       "id": "550cfd911a0c",
       "title": "S&P 500: Sell The News (Technical Analysis)",
       "source": "All Articles on Seeking Alpha",
@@ -527,66 +587,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "PFN: Attractive Valuation Supported By Uptick In NAV",
-      "tags": []
-    },
-    {
-      "id": "bc1f6b943abb",
-      "title": "Paycom: Making Use Of The Low Valuation",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4908345-paycom-making-use-of-the-low-valuation?source=feed_all_articles",
-      "published_at": "2026-05-24T05:31:11+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Paycom: Making Use Of The Low Valuation",
-      "tags": []
-    },
-    {
-      "id": "020419211eb6",
-      "title": "Treasury Yields Snapshot: May 22, 2026",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4908228-treasury-yields-snapshot-may-22-2026?source=feed_all_articles",
-      "published_at": "2026-05-24T04:30:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Treasury Yields Snapshot: May 22, 2026",
-      "tags": []
-    },
-    {
-      "id": "d85f74f1f389",
-      "title": "Politics And The Markets 05/24/26",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4896376-politics-and-the-markets-052426?source=feed_all_articles",
-      "published_at": "2026-05-24T04:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Politics And The Markets 05/24/26",
-      "tags": []
-    },
-    {
-      "id": "62674894d4b2",
-      "title": "Amplify Energy Corp.: A Tale Of Developed Reserves And Real Options",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4908343-amplify-energy-corp-a-tale-of-developed-reserves-and-real-options?source=feed_all_articles",
-      "published_at": "2026-05-24T03:59:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Amplify Energy Corp.: A Tale Of Developed Reserves And Real Options",
-      "tags": []
-    },
-    {
-      "id": "993b6487756e",
-      "title": "Pool Corporation: Profiting From The Sunbelt's Long Term Growth Potential",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4908342-pool-corporation-profiting-from-the-sunbelts-long-term-growth-potential?source=feed_all_articles",
-      "published_at": "2026-05-24T03:50:37+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Pool Corporation: Profiting From The Sunbelt's Long Term Growth Potential",
       "tags": []
     }
   ]
