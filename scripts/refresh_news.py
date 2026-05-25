@@ -226,9 +226,11 @@ _TICKER_MAP = {
 
 def update_signals_prices() -> None:
     """
-    Update prices and 14-day sparklines in data/signals.json using yfinance.
-    Runs after classify_with_groq so price data is always refreshed even if
-    Groq classification is partially skipped.  Safe to no-op if yfinance is
+    Update prices and sparklines (last 14 trading days) in data/signals.json
+    using yfinance.  15 days of data are fetched to guarantee 14 usable points
+    after dropping any NaN values at the start of the period.  Runs after
+    classify_with_groq so price data is always refreshed even if Groq
+    classification is partially skipped.  Safe to no-op if yfinance is
     unavailable.
     """
     if not HAS_YFINANCE:
@@ -273,10 +275,12 @@ def update_signals_prices() -> None:
                 series = close[yf_sym]
             series = series.dropna()
             if len(series) < 2:
+                log.warning(f"  Insufficient data for {item['ticker']} ({yf_sym}): only {len(series)} point(s)")
                 continue
             prev_close = float(series.iloc[-2])
             last_close = float(series.iloc[-1])
             change_pct = (last_close - prev_close) / prev_close * 100 if prev_close else 0.0
+            # Use up to 14 trailing data points; may be fewer if less history is available
             sparkline   = [round(float(v), 4) for v in series.iloc[-14:].tolist()]
             item["price"]      = round(last_close, 4)
             item["change_pct"] = round(change_pct, 4)

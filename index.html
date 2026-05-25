@@ -8,20 +8,23 @@
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     :root {
-      --bg:        #0d1117;
-      --surface:   #161b22;
-      --surface2:  #1f2733;
-      --border:    #30363d;
-      --text:      #e6edf3;
-      --text-muted:#8b949e;
-      --green:     #3fb950;
-      --red:       #f85149;
-      --yellow:    #d29922;
-      --blue:      #58a6ff;
-      --purple:    #bc8cff;
-      --orange:    #e3b341;
-      --radius:    8px;
-      --font:      'Segoe UI', system-ui, sans-serif;
+      --bg:          #0d1117;
+      --surface:     #161b22;
+      --surface2:    #1f2733;
+      --border:      #30363d;
+      --text:        #e6edf3;
+      --text-muted:  #8b949e;
+      --green:       #3fb950;
+      --red:         #f85149;
+      --yellow:      #d29922;
+      --blue:        #58a6ff;
+      --purple:      #bc8cff;
+      --orange:      #e3b341;
+      --radius:      8px;
+      --font:        'Segoe UI', system-ui, sans-serif;
+      --header-h:    56px;
+      --quotebar-h:  32px;
+      --nav-offset:  calc(var(--header-h) + var(--quotebar-h));
     }
 
     body {
@@ -184,8 +187,11 @@
       overflow-x: auto;
       scrollbar-width: none;
       position: sticky;
-      top: 56px;
+      top: var(--header-h);
+      height: var(--quotebar-h);
       z-index: 100;
+      display: flex;
+      align-items: center;
     }
     #quote-bar::-webkit-scrollbar { display: none; }
     #ticker-strip { display: flex; gap: 20px; align-items: center; white-space: nowrap; }
@@ -375,7 +381,7 @@
     .sidebar {
       position: fixed;
       left: 0;
-      top: 88px; /* header (56px) + quote-bar (~32px) */
+      top: var(--nav-offset);
       bottom: 0;
       width: 178px;
       background: var(--surface);
@@ -498,12 +504,12 @@
 
 <!-- Sidebar navigation (desktop ≥1001px) -->
 <nav class="sidebar" aria-label="Dashboard sections">
-  <button class="sidebar-item active" data-tab="dashboard">&#x1F4CA; Overview</button>
-  <button class="sidebar-item" data-tab="markets">&#x1F4C8; Markets</button>
-  <button class="sidebar-item" data-tab="portfolio">&#x1F4BC; Portfolio</button>
-  <button class="sidebar-item" data-tab="analysis">&#x1F916; AI Insights</button>
-  <button class="sidebar-item" data-tab="geopolitical">&#x1F30D; Geopolitical</button>
-  <button class="sidebar-item" data-tab="news">&#x1F4F0; News</button>
+  <button class="sidebar-item active" data-tab="dashboard" role="tab" aria-selected="true">&#x1F4CA; Overview</button>
+  <button class="sidebar-item" data-tab="markets"      role="tab" aria-selected="false">&#x1F4C8; Markets</button>
+  <button class="sidebar-item" data-tab="portfolio"    role="tab" aria-selected="false">&#x1F4BC; Portfolio</button>
+  <button class="sidebar-item" data-tab="analysis"     role="tab" aria-selected="false">&#x1F916; AI Insights</button>
+  <button class="sidebar-item" data-tab="geopolitical" role="tab" aria-selected="false">&#x1F30D; Geopolitical</button>
+  <button class="sidebar-item" data-tab="news"         role="tab" aria-selected="false">&#x1F4F0; News</button>
 </nav>
 
 <div class="main-with-sidebar">
@@ -705,7 +711,10 @@ function switchTab(target) {
     b.classList.toggle('active', b.dataset.tab === target);
     b.setAttribute('aria-selected', String(b.dataset.tab === target));
   });
-  sidebarItems.forEach(b => b.classList.toggle('active', b.dataset.tab === target));
+  sidebarItems.forEach(b => {
+    b.classList.toggle('active', b.dataset.tab === target);
+    b.setAttribute('aria-selected', String(b.dataset.tab === target));
+  });
   tabContents.forEach(c => c.classList.toggle('active', c.id === 'tab-' + target));
 }
 
