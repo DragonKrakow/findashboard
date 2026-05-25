@@ -938,7 +938,7 @@ function buildFilters(articles) {
 function renderSources(articles) {
   var sourceMap = {};
   articles.forEach(function(article) {
-    var sourceName = (article.source || 'Unknown Source').trim() || 'Unknown Source';
+    var sourceName = (article.source || '').trim() || 'Unknown Source';
     sourceMap[sourceName] = (sourceMap[sourceName] || 0) + 1;
   });
   var sources = Object.keys(sourceMap).map(function(name) {
