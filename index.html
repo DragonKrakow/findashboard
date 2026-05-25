@@ -139,12 +139,12 @@
     .page-content {
       max-width: 1400px;
       margin: 0 auto;
-      padding: 20px 16px;
+      padding: 12px 16px;
       display: grid;
-      gap: 20px;
+      gap: 10px;
     }
 
-    .grid-2 { display: grid; gap: 20px; grid-template-columns: 1fr 1fr; }
+    .grid-2 { display: grid; gap: 10px; grid-template-columns: 1fr 1fr; }
 
     @media (max-width: 900px) { .grid-2 { grid-template-columns: 1fr; } }
 
@@ -153,7 +153,7 @@
       background: var(--surface);
       border: 1px solid var(--border);
       border-radius: var(--radius);
-      padding: 20px;
+      padding: 14px 16px;
     }
 
     .card-title {
@@ -162,7 +162,7 @@
       text-transform: uppercase;
       letter-spacing: .06em;
       color: var(--text-muted);
-      margin-bottom: 16px;
+      margin-bottom: 10px;
       display: flex;
       align-items: center;
       gap: 8px;
@@ -176,22 +176,23 @@
       flex-shrink: 0;
     }
 
-    /* Ticker strip */
-    #ticker-strip {
+    /* Quote bar (persistent ticker strip below header) */
+    #quote-bar {
       background: var(--surface2);
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      padding: 14px 20px;
-      display: flex;
-      flex-wrap: wrap;
-      gap: 14px 26px;
-      align-items: center;
+      border-bottom: 1px solid var(--border);
+      padding: 5px 16px;
+      overflow-x: auto;
+      scrollbar-width: none;
+      position: sticky;
+      top: 56px;
+      z-index: 100;
     }
-
-    .ticker-item { display: flex; align-items: center; gap: 8px; }
-    .ticker-name { font-weight: 700; font-size: 13px; }
-    .ticker-value { font-size: 13px; }
-    .ticker-change { font-size: 12px; font-weight: 600; }
+    #quote-bar::-webkit-scrollbar { display: none; }
+    #ticker-strip { display: flex; gap: 20px; align-items: center; white-space: nowrap; }
+    .ticker-item { display: flex; align-items: center; gap: 6px; }
+    .ticker-name { font-weight: 700; font-size: 11px; }
+    .ticker-value { font-size: 11px; }
+    .ticker-change { font-size: 11px; font-weight: 600; }
 
     /* KPI row */
     .kpi-row {
@@ -206,19 +207,24 @@
       background: var(--surface);
       border: 1px solid var(--border);
       border-radius: var(--radius);
-      padding: 16px;
+      padding: 10px 12px;
       text-align: center;
     }
 
     .kpi-label { font-size: 11px; color: var(--text-muted); margin-bottom: 6px; text-transform: uppercase; letter-spacing: .05em; }
-    .kpi-value { font-size: 28px; font-weight: 700; line-height: 1; }
+    .kpi-value { font-size: 22px; font-weight: 700; line-height: 1; }
     .kpi-sub   { font-size: 11px; color: var(--text-muted); margin-top: 4px; }
+
+    /* Overview split layout */
+    .overview-split { display: grid; grid-template-columns: 38% 1fr; gap: 10px; }
+    @media (max-width: 1000px) { .overview-split { grid-template-columns: 1fr; } }
+    .split-panel { display: flex; flex-direction: column; gap: 10px; }
 
     /* Overview row */
     .overview-row {
       display: grid;
       grid-template-columns: 1fr 1fr;
-      gap: 20px;
+      gap: 10px;
     }
 
     @media (max-width: 900px) { .overview-row { grid-template-columns: 1fr; } }
@@ -231,17 +237,29 @@
     .sentiment-info .sub { font-size: 12px; color: var(--text-muted); }
     .sentiment-note { font-size: 13px; color: var(--text-muted); border-left: 2px solid var(--border); padding-left: 12px; max-width: 420px; line-height: 1.6; }
 
-    /* Stat grid */
-    .stat-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); gap: 12px; }
-    .stat-tile { background: var(--surface2); border: 1px solid var(--border); border-radius: var(--radius); padding: 14px; }
+    /* Stat grid (Markets/Geopolitical tabs) */
+    .stat-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); gap: 10px; }
+    .stat-tile { background: var(--surface2); border: 1px solid var(--border); border-radius: var(--radius); padding: 8px 10px; }
     .stat-label { font-size: 11px; color: var(--text-muted); margin-bottom: 4px; }
-    .stat-value { font-size: 17px; font-weight: 700; }
+    .stat-value { font-size: 14px; font-weight: 700; }
     .stat-change { font-size: 11px; margin-top: 3px; }
+
+    /* Macro strip (compact horizontal bar) */
+    .macro-strip { display: flex; flex-wrap: wrap; border: 1px solid var(--border); border-radius: var(--radius); overflow: hidden; background: var(--surface2); }
+    .macro-item { flex: 0 0 auto; padding: 7px 12px; border-right: 1px solid var(--border); min-width: 100px; }
+    .macro-item:last-child { border-right: none; }
+
+    /* Mini watchlist */
+    .mini-watchlist { width: 100%; border-collapse: collapse; }
+    .mini-watchlist th { font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: .04em; color: var(--text-muted); padding: 5px 8px; border-bottom: 1px solid var(--border); }
+    .mini-watchlist td { padding: 6px 8px; border-bottom: 1px solid var(--border); font-size: 12px; vertical-align: middle; }
+    .mini-watchlist tr:last-child td { border-bottom: none; }
+    .mini-watchlist tr:hover td { background: var(--surface2); }
 
     /* Markets table */
     .markets-table { width: 100%; border-collapse: collapse; }
     .markets-table th { text-align: left; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: .04em; color: var(--text-muted); padding: 8px 10px; border-bottom: 1px solid var(--border); }
-    .markets-table td { padding: 12px 10px; border-bottom: 1px solid var(--border); vertical-align: middle; }
+    .markets-table td { padding: 7px 10px; border-bottom: 1px solid var(--border); vertical-align: middle; }
     .markets-table tr:last-child td { border-bottom: none; }
     .markets-table tr:hover td { background: var(--surface2); }
     .region-badge { font-size: 10px; padding: 2px 6px; border-radius: 4px; background: var(--surface2); border: 1px solid var(--border); color: var(--text-muted); }
@@ -252,7 +270,7 @@
 
     .signals-table { width: 100%; border-collapse: collapse; }
     .signals-table th { text-align: left; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: .04em; color: var(--text-muted); padding: 8px 10px; border-bottom: 1px solid var(--border); }
-    .signals-table td { padding: 10px; border-bottom: 1px solid var(--border); vertical-align: middle; }
+    .signals-table td { padding: 6px 10px; border-bottom: 1px solid var(--border); vertical-align: middle; }
     .signals-table tr:last-child td { border-bottom: none; }
     .signals-table tr:hover td { background: var(--surface2); }
 
@@ -279,7 +297,7 @@
     .oppty-col li::before  { color: var(--green);  }
 
     /* Geopolitical */
-    .geo-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px; }
+    .geo-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 10px; }
     .geo-card { background: var(--surface2); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px; transition: border-color .15s; }
     .geo-card:hover { border-color: var(--blue); }
     .geo-card-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px; gap: 10px; }
@@ -298,7 +316,7 @@
     .filter-btn { background: var(--surface2); border: 1px solid var(--border); border-radius: 20px; padding: 5px 14px; font-size: 12px; color: var(--text-muted); cursor: pointer; transition: all .15s; font-family: var(--font); }
     .filter-btn:hover, .filter-btn.active { border-color: var(--blue); color: var(--blue); background: rgba(88,166,255,.1); }
     #news-list { display: flex; flex-direction: column; gap: 12px; }
-    .news-card { background: var(--surface2); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px; transition: border-color .15s; }
+    .news-card { background: var(--surface2); border: 1px solid var(--border); border-radius: var(--radius); padding: 10px 12px; transition: border-color .15s; }
     .news-card:hover { border-color: var(--blue); }
     .news-card-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; margin-bottom: 8px; flex-wrap: wrap; }
     .news-title { font-weight: 600; font-size: 14px; color: var(--text); flex: 1; }
@@ -343,6 +361,59 @@
     /* Footer */
     footer { border-top: 1px solid var(--border); text-align: center; padding: 20px; color: var(--text-muted); font-size: 12px; margin-top: 24px; }
     footer a { color: var(--blue); }
+
+    /* Compact news rows (Overview top-stories) */
+    .news-rows { display: flex; flex-direction: column; }
+    .news-row { display: flex; align-items: center; gap: 8px; padding: 8px 0; border-bottom: 1px solid var(--border); font-size: 12px; }
+    .news-row:last-child { border-bottom: none; }
+    .news-row-title { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-weight: 500; }
+    .news-row-title a { color: var(--text); }
+    .news-row-title a:hover { color: var(--blue); text-decoration: none; }
+    .news-row-meta { display: flex; align-items: center; gap: 6px; flex-shrink: 0; }
+
+    /* Sidebar navigation */
+    .sidebar {
+      position: fixed;
+      left: 0;
+      top: 88px; /* header (56px) + quote-bar (~32px) */
+      bottom: 0;
+      width: 178px;
+      background: var(--surface);
+      border-right: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      padding: 6px 0;
+      z-index: 150;
+      overflow-y: auto;
+    }
+    .sidebar-item {
+      display: flex;
+      align-items: center;
+      gap: 9px;
+      padding: 10px 16px;
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--text-muted);
+      cursor: pointer;
+      border: none;
+      background: transparent;
+      border-left: 3px solid transparent;
+      width: 100%;
+      text-align: left;
+      font-family: var(--font);
+      transition: color .15s, background .15s, border-color .15s;
+      white-space: nowrap;
+    }
+    .sidebar-item:hover { color: var(--text); background: var(--surface2); }
+    .sidebar-item.active { color: var(--blue); border-left-color: var(--blue); background: rgba(88,166,255,.08); }
+    .main-with-sidebar { margin-left: 178px; }
+
+    @media (min-width: 1001px) { .tab-nav { display: none; } }
+    @media (max-width: 1000px) {
+      .sidebar { display: none; }
+      .main-with-sidebar { margin-left: 0; }
+      .overview-split { grid-template-columns: 1fr; }
+    }
 
     /* ── Mobile responsive header ────────────────────────────────────────
        On narrow screens the logo + header-right consume most of the 56 px
@@ -420,10 +491,26 @@
   </div>
 </header>
 
+<!-- Persistent quote bar (always visible, sticks below header) -->
+<div id="quote-bar" aria-label="Live price bar">
+  <div id="ticker-strip" aria-label="Market indices ticker"></div>
+</div>
+
+<!-- Sidebar navigation (desktop ≥1001px) -->
+<nav class="sidebar" aria-label="Dashboard sections">
+  <button class="sidebar-item active" data-tab="dashboard">&#x1F4CA; Overview</button>
+  <button class="sidebar-item" data-tab="markets">&#x1F4C8; Markets</button>
+  <button class="sidebar-item" data-tab="portfolio">&#x1F4BC; Portfolio</button>
+  <button class="sidebar-item" data-tab="analysis">&#x1F916; AI Insights</button>
+  <button class="sidebar-item" data-tab="geopolitical">&#x1F30D; Geopolitical</button>
+  <button class="sidebar-item" data-tab="news">&#x1F4F0; News</button>
+</nav>
+
+<div class="main-with-sidebar">
+
 <!-- Overview tab -->
 <div id="tab-dashboard" class="tab-content active" role="tabpanel">
   <div class="page-content">
-    <section id="ticker-strip" aria-label="Market indices ticker"></section>
     <div class="kpi-row">
       <div class="kpi-card">
         <div class="kpi-label">Fear &amp; Greed</div>
@@ -446,15 +533,29 @@
         <div class="kpi-sub">AI-summarised</div>
       </div>
     </div>
-    <div class="overview-row">
-      <section class="card" aria-label="Market sentiment">
-        <div class="card-title"><span class="dot" style="background:var(--purple)"></span>Market Sentiment</div>
-        <div id="sentiment-card"><div class="loading">Loading&hellip;</div></div>
-      </section>
-      <section class="card" aria-label="AI market analysis">
-        <div class="card-title"><span class="dot" style="background:var(--blue)"></span>AI Market Analysis</div>
-        <div id="overview-analysis"><div class="loading">Loading&hellip;</div></div>
-      </section>
+    <div class="overview-split">
+      <!-- Left panel: mini watchlist -->
+      <div class="split-panel">
+        <section class="card" aria-label="Watchlist">
+          <div class="card-title"><span class="dot" style="background:var(--green)"></span>Watchlist</div>
+          <div id="overview-watchlist"><div class="loading">Loading&hellip;</div></div>
+        </section>
+        <section class="card" aria-label="Market sentiment">
+          <div class="card-title"><span class="dot" style="background:var(--purple)"></span>Market Sentiment</div>
+          <div id="sentiment-card"><div class="loading">Loading&hellip;</div></div>
+        </section>
+      </div>
+      <!-- Right panel: AI analysis + top news -->
+      <div class="split-panel">
+        <section class="card" aria-label="AI market analysis">
+          <div class="card-title"><span class="dot" style="background:var(--blue)"></span>AI Market Analysis</div>
+          <div id="overview-analysis"><div class="loading">Loading&hellip;</div></div>
+        </section>
+        <section class="card" aria-label="Top news stories">
+          <div class="card-title"><span class="dot" style="background:var(--yellow)"></span>Top Stories</div>
+          <div id="top-news-list" class="news-rows"><div class="loading">Loading news&hellip;</div></div>
+        </section>
+      </div>
     </div>
     <div class="grid-2">
       <section class="card" aria-label="Full markets snapshot">
@@ -468,10 +569,6 @@
         <div class="section-subnote">Sources are aggregated from the same reference/archive-driven news flow that feeds the live dashboard, grouped from article source labels in <code>data/news.json</code>.</div>
       </section>
     </div>
-    <section class="card" aria-label="Top news stories">
-      <div class="card-title"><span class="dot" style="background:var(--yellow)"></span>Top Stories</div>
-      <div id="top-news-list"><div class="loading">Loading news&hellip;</div></div>
-    </section>
   </div>
 </div>
 
@@ -484,7 +581,7 @@
     </section>
     <section class="card" aria-label="Macro indicators">
       <div class="card-title"><span class="dot" style="background:var(--orange)"></span>Macro Indicators</div>
-      <div id="macro-bar" class="stat-grid"><div class="loading">Loading&hellip;</div></div>
+      <div id="macro-bar" class="macro-strip"><div class="loading">Loading&hellip;</div></div>
     </section>
     <section class="card" aria-label="Market sentiment">
       <div class="card-title"><span class="dot" style="background:var(--purple)"></span>Market Sentiment</div>
@@ -529,7 +626,7 @@
     </section>
     <section class="card" aria-label="Macro and FX snapshot">
       <div class="card-title"><span class="dot" style="background:var(--orange)"></span>Macro &amp; FX Snapshot</div>
-      <div id="macro-bar-2" class="stat-grid"><div class="loading">Loading&hellip;</div></div>
+      <div id="macro-bar-2" class="macro-strip"><div class="loading">Loading&hellip;</div></div>
     </section>
   </div>
 </div>
@@ -544,6 +641,8 @@
     </section>
   </div>
 </div>
+
+</div><!-- /.main-with-sidebar -->
 
 <!-- Refresh modal -->
 <div id="refresh-modal" class="modal-overlay" hidden
@@ -597,19 +696,21 @@
 'use strict';
 
 /* Tab navigation */
-const tabBtns     = document.querySelectorAll('.tab-btn');
-const tabContents = document.querySelectorAll('.tab-content');
+const tabBtns      = document.querySelectorAll('.tab-btn');
+const sidebarItems = document.querySelectorAll('.sidebar-item');
+const tabContents  = document.querySelectorAll('.tab-content');
 
-tabBtns.forEach(btn => {
-  btn.addEventListener('click', () => {
-    const target = btn.dataset.tab;
-    tabBtns.forEach(b => {
-      b.classList.toggle('active', b === btn);
-      b.setAttribute('aria-selected', String(b === btn));
-    });
-    tabContents.forEach(c => c.classList.toggle('active', c.id === 'tab-' + target));
+function switchTab(target) {
+  tabBtns.forEach(b => {
+    b.classList.toggle('active', b.dataset.tab === target);
+    b.setAttribute('aria-selected', String(b.dataset.tab === target));
   });
-});
+  sidebarItems.forEach(b => b.classList.toggle('active', b.dataset.tab === target));
+  tabContents.forEach(c => c.classList.toggle('active', c.id === 'tab-' + target));
+}
+
+tabBtns.forEach(btn => btn.addEventListener('click', () => switchTab(btn.dataset.tab)));
+sidebarItems.forEach(btn => btn.addEventListener('click', () => switchTab(btn.dataset.tab)));
 
 /* Refresh modal */
 const modal = document.getElementById('refresh-modal');
@@ -743,7 +844,7 @@ function renderMarket() {
     var macroHTML = data.macro.map(function(m) {
       var dirClass = m.direction === 'up' ? 'up' : m.direction === 'down' ? 'down' : 'flat';
       var arrow = m.direction === 'up' ? '\u25b2' : m.direction === 'down' ? '\u25bc' : '\u2013';
-      return '<div class="stat-tile">' +
+      return '<div class="macro-item">' +
         '<div class="stat-label">' + m.label + '</div>' +
         '<div class="stat-value">' + m.value + '</div>' +
         '<div class="stat-change ' + dirClass + '">' + arrow + ' ' + m.change + '</div>' +
@@ -880,14 +981,55 @@ function renderSignals() {
         '<tbody>' + rows + '</tbody>' +
       '</table>'
     );
+
+    /* Mini watchlist for Overview left panel */
+    var miniRows = data.watchlist.slice(0, 8).map(function(item) {
+      var dir   = changeClass(item.change_pct);
+      var sym   = changeSymbol(item.change_pct);
+      var price = item.type === 'crypto'
+        ? fmt(item.price, item.price > 100 ? 0 : 2)
+        : fmt(item.price, 2);
+      return '<tr>' +
+        '<td><span class="ticker-badge">' + item.ticker + '</span></td>' +
+        '<td>' + price + '</td>' +
+        '<td class="' + dir + '" style="font-weight:600">' + sym + ' ' + Math.abs(item.change_pct).toFixed(2) + '%</td>' +
+        '<td><span class="signal-badge signal-' + item.signal + '">' + item.signal + '</span></td>' +
+        '</tr>';
+    }).join('');
+    setInner('overview-watchlist',
+      '<table class="mini-watchlist">' +
+        '<thead><tr><th>Ticker</th><th>Price</th><th>Chg%</th><th>Signal</th></tr></thead>' +
+        '<tbody>' + miniRows + '</tbody>' +
+      '</table>'
+    );
   }).catch(function(e) {
     setInner('signals-container', '<div class="error">&#x26A0; ' + e.message + '</div>');
+    setInner('overview-watchlist', '<div class="error">&#x26A0; ' + e.message + '</div>');
   });
 }
 
 /* News */
 var allArticles = [];
 var activeCategory = 'all';
+
+function renderNewsRows(articles, containerId) {
+  var el = document.getElementById(containerId);
+  if (!el) return;
+  if (!articles.length) { el.innerHTML = '<div class="loading">No articles yet.</div>'; return; }
+  el.innerHTML = articles.map(function(a) {
+    var sentClass = 'sentiment-' + a.sentiment;
+    var sentLabel = a.sentiment === 'bullish' ? '\u25b2' : a.sentiment === 'bearish' ? '\u25bc' : '\u25c6';
+    return '<div class="news-row">' +
+      '<div class="news-row-title"><a href="' + a.url + '" target="_blank" rel="noopener noreferrer">' + a.title + '</a></div>' +
+      '<div class="news-row-meta">' +
+        '<span class="' + sentClass + '" style="font-size:11px;font-weight:700">' + sentLabel + '</span>' +
+        '<span class="news-source">' + a.source + '</span>' +
+        '<span class="news-time">' + relativeTime(a.published_at) + '</span>' +
+        '<span class="signal-badge signal-' + a.signal + '">' + a.signal + '</span>' +
+      '</div>' +
+    '</div>';
+  }).join('');
+}
 
 function renderNewsCards(articles, containerId) {
   var el = document.getElementById(containerId);
@@ -962,7 +1104,7 @@ function renderNews() {
     var kpiNews = document.getElementById('kpi-news');
     if (kpiNews) kpiNews.textContent = allArticles.length;
 
-    renderNewsCards(allArticles.slice(0, 3), 'top-news-list');
+    renderNewsRows(allArticles.slice(0, 6), 'top-news-list');
     renderSources(allArticles);
     buildFilters(allArticles);
     renderNewsCards(allArticles, 'news-list');
