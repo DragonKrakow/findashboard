@@ -311,6 +311,11 @@
     .sentiment-bullish { color: var(--green); }
     .sentiment-bearish { color: var(--red); }
     .sentiment-neutral { color: var(--yellow); }
+    .sources-panel { display: flex; flex-wrap: wrap; gap: 10px; }
+    .source-pill { display: inline-flex; align-items: center; gap: 8px; background: var(--surface2); border: 1px solid var(--border); border-radius: 999px; padding: 7px 12px; font-size: 12px; color: var(--text); }
+    .source-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--yellow); box-shadow: 0 0 0 3px rgba(210,153,34,.14); flex-shrink: 0; }
+    .source-count { font-size: 11px; color: var(--text-muted); background: rgba(88,166,255,.08); border: 1px solid rgba(88,166,255,.2); border-radius: 999px; padding: 1px 7px; }
+    .section-subnote { margin-top: 14px; font-size: 12px; color: var(--text-muted); line-height: 1.6; border-top: 1px solid var(--border); padding-top: 12px; }
 
     /* Utilities */
     .up   { color: var(--green); }
@@ -449,6 +454,18 @@
       <section class="card" aria-label="AI market analysis">
         <div class="card-title"><span class="dot" style="background:var(--blue)"></span>AI Market Analysis</div>
         <div id="overview-analysis"><div class="loading">Loading&hellip;</div></div>
+      </section>
+    </div>
+    <div class="grid-2">
+      <section class="card" aria-label="Full markets snapshot">
+        <div class="card-title"><span class="dot"></span>Full Markets Snapshot</div>
+        <div id="overview-markets-table" style="overflow-x:auto"><div class="loading">Loading&hellip;</div></div>
+        <div class="section-subnote">The full markets table is surfaced directly on Overview for a faster live snapshot while the dedicated Markets tab remains unchanged for the full monitor.</div>
+      </section>
+      <section class="card" aria-label="Sources monitored">
+        <div class="card-title"><span class="dot" style="background:var(--yellow)"></span>Sources Monitored</div>
+        <div id="sources-list" class="sources-panel"><div class="loading">Loading sources&hellip;</div></div>
+        <div class="section-subnote">Sources are aggregated from the same reference/archive-driven news flow that feeds the live dashboard, grouped from article source labels in <code>data/news.json</code>.</div>
       </section>
     </div>
     <section class="card" aria-label="Top news stories">
@@ -720,6 +737,7 @@ function renderMarket() {
       }).join('') +
       '</tbody></table>';
     setInner('markets-table-wrap', tableHTML);
+    setInner('overview-markets-table', tableHTML);
 
     /* Macro bar */
     var macroHTML = data.macro.map(function(m) {
@@ -812,6 +830,8 @@ function renderMarket() {
 
   }).catch(function(e) {
     setInner('ticker-strip', '<div class="error">&#x26A0; Could not load market data. ' + e.message + '</div>');
+    setInner('markets-table-wrap', '<div class="error">&#x26A0; Could not load market data. ' + e.message + '</div>');
+    setInner('overview-markets-table', '<div class="error">&#x26A0; Could not load market data. ' + e.message + '</div>');
   });
 }
 
@@ -915,6 +935,26 @@ function buildFilters(articles) {
   });
 }
 
+function renderSources(articles) {
+  var sourceMap = {};
+  articles.forEach(function(article) {
+    var sourceName = (article.source || 'Unknown Source').trim() || 'Unknown Source';
+    sourceMap[sourceName] = (sourceMap[sourceName] || 0) + 1;
+  });
+  var sources = Object.keys(sourceMap).map(function(name) {
+    return { name: name, count: sourceMap[name] };
+  }).sort(function(a, b) {
+    return b.count - a.count || a.name.localeCompare(b.name);
+  });
+  setInner('sources-list', sources.length ? sources.map(function(source) {
+    return '<span class="source-pill">' +
+      '<span class="source-dot"></span>' +
+      '<span>' + source.name + '</span>' +
+      '<span class="source-count">' + source.count + '</span>' +
+      '</span>';
+  }).join('') : '<div class="loading">No sources available yet.</div>');
+}
+
 function renderNews() {
   return loadJSON('data/news.json').then(function(data) {
     allArticles = data.articles || [];
@@ -923,11 +963,13 @@ function renderNews() {
     if (kpiNews) kpiNews.textContent = allArticles.length;
 
     renderNewsCards(allArticles.slice(0, 3), 'top-news-list');
+    renderSources(allArticles);
     buildFilters(allArticles);
     renderNewsCards(allArticles, 'news-list');
   }).catch(function(e) {
     setInner('news-list', '<div class="error">&#x26A0; ' + e.message + '</div>');
     setInner('top-news-list', '<div class="error">&#x26A0; ' + e.message + '</div>');
+    setInner('sources-list', '<div class="error">&#x26A0; ' + e.message + '</div>');
   });
 }
 
