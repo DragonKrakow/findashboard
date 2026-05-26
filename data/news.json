@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-05-26T02:34:20.262753+00:00",
+  "generated_at": "2026-05-26T02:56:07.918116+00:00",
   "articles": [
+    {
+      "id": "850f38ba07dd",
+      "title": "Treasuries Gain in Catch-Up Trade as Trump Sees Progress on Iran",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-26/treasuries-rally-as-trump-signals-progress-in-iran-negotiations",
+      "published_at": "2026-05-26T00:06:58+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Treasuries rose across the curve after a holiday, as optimism over a potential US-Iran deal pushed oil prices lower and eased inflation concerns.",
+      "tags": []
+    },
+    {
+      "id": "428259238d6c",
+      "title": "Oil Rebounds as Strikes Near Strait Muddy Outlook for Iran Deal",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-25/latest-oil-market-news-and-analysis-for-may-26",
+      "published_at": "2026-05-25T22:07:49+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Oil rebounded as fresh US military strikes in Iran clouded the outlook for an interim deal between Tehran and Washington to reopen the Strait of Hormuz, with the talks set to continue for several more",
+      "tags": []
+    },
+    {
+      "id": "2c89a93e9208",
+      "title": "MUFG Is Said to Explore Options for Stake in Indonesia’s Danamon",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-26/mufg-is-said-to-explore-options-for-stake-in-indonesia-s-danamon",
+      "published_at": "2026-05-26T02:42:15+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Mitsubishi UFJ Financial Group Inc. is exploring options for PT Bank Danamon Indonesia, including a take-private of the lender or selling some its stake to increase the public float, people with knowl",
+      "tags": []
+    },
+    {
+      "id": "3f38e131364a",
+      "title": "India Earnings Revival Under Threat as Commodity Prices Surge",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-05-26/india-corporate-earnings-come-under-threat-from-iran-war",
+      "published_at": "2026-05-26T02:39:41+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Even if the Middle East war ends soon, corporate profits would stay under pressure, BofA says.",
+      "tags": []
+    },
+    {
+      "id": "7234d169d8da",
+      "title": "Chinese Chip Stocks Rise in Hong Kong on Hopes for Huawei Tech",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-26/chinese-chip-stocks-rise-in-hong-kong-on-hopes-for-huawei-tech",
+      "published_at": "2026-05-26T01:55:58+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Chinese semiconductor stocks rose in Hong Kong on optimism over a potential breakthrough in technology by Huawei Technologies Co.",
+      "tags": []
+    },
+    {
+      "id": "794fc10607ef",
+      "title": "Wheat Extends Decline as Traders Digest Iran Ceasefire Talks",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-26/wheat-extends-decline-as-traders-digest-iran-ceasefire-talks",
+      "published_at": "2026-05-26T02:34:40+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Wheat futures were on track to extend their longest losing streak since January, as traders returning from a US holiday digested progress in negotiations to end the war in the Middle East.",
+      "tags": []
+    },
     {
       "id": "6b244a5604c3",
       "title": "China Traders Run for Exit After Cross-Border Flow Crackdown",
@@ -38,30 +110,6 @@
       "tags": []
     },
     {
-      "id": "7234d169d8da",
-      "title": "Chinese Chip Stocks Rise in Hong Kong on Hopes for Huawei Tech",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-26/chinese-chip-stocks-rise-in-hong-kong-on-hopes-for-huawei-tech",
-      "published_at": "2026-05-26T01:55:58+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Chinese semiconductor stocks rose in Hong Kong on optimism over a potential breakthrough in technology by Huawei Technologies Co.",
-      "tags": []
-    },
-    {
-      "id": "428259238d6c",
-      "title": "Oil Rebounds as Strikes Near Strait Muddy Outlook for Iran Deal",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-25/latest-oil-market-news-and-analysis-for-may-26",
-      "published_at": "2026-05-25T22:07:49+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Oil rebounded after slumping by more than 7% on Monday, as fresh US military strikes in Iran clouded the outlook for an interim deal between Tehran and Washington to reopen the Strait of Hormuz.",
-      "tags": []
-    },
-    {
       "id": "0da30d9a292d",
       "title": "Gold Slips as Strikes Raise Concerns on Iran Talks, Inflation",
       "source": "Bloomberg Markets",
@@ -71,54 +119,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Gold declined as US strikes in the Strait of Hormuz tempered optimism over the progress of talks to unlock the critical waterway, keeping inflation risks elevated.",
-      "tags": []
-    },
-    {
-      "id": "fa5ddcfa73f8",
-      "title": "Taiwan Overtakes India as World's Fifth-Largest Stock Market",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-26/tsmc-s-relentless-rise-powers-taiwan-s-market-value-above-india",
-      "published_at": "2026-05-26T00:28:11+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Taiwan overtook India in stock market value, powered mainly by a breakneck rally in the world’s largest chipmaker Taiwan Semiconductor Manufacturing Co.",
-      "tags": []
-    },
-    {
-      "id": "850f38ba07dd",
-      "title": "Treasuries Gain in Catch-Up Trade as Trump Sees Progress on Iran",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-26/treasuries-rally-as-trump-signals-progress-in-iran-negotiations",
-      "published_at": "2026-05-26T00:06:58+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Treasuries rallied across the curve as cash trading resumed after a holiday, with investors growing more optimistic about a potential US-Iran deal.",
-      "tags": []
-    },
-    {
-      "id": "70ebbe1e334d",
-      "title": "ASX Sinks Over 10% After Revising Up Spending for Tech Upgrades",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-26/asx-ramps-up-capital-spending-to-support-technology-upgrade",
-      "published_at": "2026-05-26T00:35:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "ASX Ltd. is increasing its capital spending to upgrade critical market infrastructure, as Australia’s embattled exchange operator seeks to regain the confidence of regulators and stakeholders after ye",
-      "tags": []
-    },
-    {
-      "id": "12e57b09a4e4",
-      "title": "India to Host Quad Foreign Ministers' Meeting",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-26/india-to-host-quad-foreign-ministers-meeting-video",
-      "published_at": "2026-05-26T00:27:19+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Shruti Pandalai, the India Chair of the Lowy Institute, talks to Bloomberg TV about the upcoming Quad meeting in India, where the security situation in the Strait of Hormuz is expected to be high on t",
       "tags": []
     },
     {
@@ -470,6 +470,30 @@
       "tags": []
     },
     {
+      "id": "955bba9c282d",
+      "title": "Itaú Unibanco Holding S.A. 2026 Q1 - Results - Earnings Call Presentation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4908657-itau-unibanco-holding-s-a-2026-q1-results-earnings-call-presentation?source=feed_all_articles",
+      "published_at": "2026-05-26T02:46:34+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Itaú Unibanco Holding S.A. 2026 Q1 - Results - Earnings Call Presentation",
+      "tags": []
+    },
+    {
+      "id": "f7d2a7de80ff",
+      "title": "Flowers Foods Is Just Too Tasty To Ignore",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4908654-flowers-foods-q1-discounted-valuation-debt-reduction-reiterate-buy?source=feed_all_articles",
+      "published_at": "2026-05-26T02:34:47+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Flowers Foods Is Just Too Tasty To Ignore",
+      "tags": []
+    },
+    {
       "id": "4466548e0a87",
       "title": "Tenaga Nasional Berhad 2026 Q1 - Results - Earnings Call Presentation",
       "source": "All Articles on Seeking Alpha",
@@ -563,30 +587,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Bangkok Airways Public Company Limited 2026 Q1 - Results - Earnings Call Presentation",
-      "tags": []
-    },
-    {
-      "id": "07250b91b5bb",
-      "title": "Enlight Renewable Energy Ltd (ENLT) Discusses Execution Excellence and Growth Engines in the Evolving Electricity Market - Slideshow",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4908645-enlight-renewable-energy-ltd-enlt-discusses-execution-excellence-and-growth-engines-in-the?source=feed_all_articles",
-      "published_at": "2026-05-25T23:18:02+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Enlight Renewable Energy Ltd (ENLT) Discusses Execution Excellence and Growth Engines in the Evolving Electricity Market - Slideshow",
-      "tags": []
-    },
-    {
-      "id": "3af7fe8b2e0f",
-      "title": "Vertiv Holdings Co (VRT) Discusses Strategic Direction, Innovation, and Financial Performance at Investor Conference - Slideshow",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4908644-vertiv-holdings-co-vrt-discusses-strategic-direction-innovation-and-financial-performance-at?source=feed_all_articles",
-      "published_at": "2026-05-25T23:16:41+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Vertiv Holdings Co (VRT) Discusses Strategic Direction, Innovation, and Financial Performance at Investor Conference - Slideshow",
       "tags": []
     }
   ]
