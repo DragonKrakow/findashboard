@@ -5,7 +5,8 @@ refresh_news.py
 Fetches RSS feeds, deduplicates articles, asks Groq to classify and
 summarise each one, then writes the results to data/news.json.
 Also generates a structured AI analysis block (headline, themes, risks,
-opportunities) in data/market.json and updates signals data.
+opportunities) in data/market.json and updates signals data with live
+prices fetched via yfinance.
 
 Run locally:
     GROQ_API_KEY=gsk_... python scripts/refresh_news.py
@@ -25,6 +26,12 @@ from pathlib import Path
 import feedparser
 from dateutil import parser as dateparser
 from groq import Groq
+
+try:
+    import yfinance as yf
+    HAS_YFINANCE = True
+except ImportError:
+    HAS_YFINANCE = False
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s %(message)s")
 log = logging.getLogger(__name__)
@@ -207,6 +214,86 @@ def update_market_json(ai_analysis: dict | None) -> None:
     log.info(f"Updated market.json ({market_path})")
 
 
+
+# ── Live price refresh ────────────────────────────────────────────────────────
+
+# Mapping from dashboard ticker labels to yfinance symbols
+_TICKER_MAP = {
+    "BTC": "BTC-USD",
+    "ETH": "ETH-USD",
+}
+
+
+def update_signals_prices() -> None:
+    """
+    Update prices and sparklines (last 14 trading days) in data/signals.json
+    using yfinance.  15 days of data are fetched to guarantee 14 usable points
+    after dropping any NaN values at the start of the period.  Runs after
+    classify_with_groq so price data is always refreshed even if Groq
+    classification is partially skipped.  Safe to no-op if yfinance is
+    unavailable.
+    """
+    if not HAS_YFINANCE:
+        log.warning("yfinance not installed — skipping live price refresh.")
+        return
+
+    signals_path = DATA_DIR / "signals.json"
+    try:
+        signals = json.loads(signals_path.read_text())
+    except Exception as exc:
+        log.warning(f"Could not read signals.json: {exc}")
+        return
+
+    watchlist = signals.get("watchlist", [])
+    if not watchlist:
+        return
+
+    # Build list of symbols for a single batch download
+    symbols = [_TICKER_MAP.get(item["ticker"], item["ticker"]) for item in watchlist]
+    log.info(f"Fetching live prices for: {symbols}")
+
+    try:
+        hist = yf.download(
+            symbols,
+            period="15d",
+            interval="1d",
+            auto_adjust=True,
+            progress=False,
+            threads=True,
+        )
+        close = hist["Close"] if "Close" in hist.columns else hist
+    except Exception as exc:
+        log.warning(f"yfinance download failed: {exc}")
+        return
+
+    for item in watchlist:
+        yf_sym = _TICKER_MAP.get(item["ticker"], item["ticker"])
+        try:
+            if len(symbols) == 1:
+                series = close
+            else:
+                series = close[yf_sym]
+            series = series.dropna()
+            if len(series) < 2:
+                log.warning(f"  Insufficient data for {item['ticker']} ({yf_sym}): only {len(series)} point(s)")
+                continue
+            prev_close = float(series.iloc[-2])
+            last_close = float(series.iloc[-1])
+            change_pct = (last_close - prev_close) / prev_close * 100 if prev_close else 0.0
+            # Use up to 14 trailing data points; may be fewer if less history is available
+            sparkline   = [round(float(v), 4) for v in series.iloc[-14:].tolist()]
+            item["price"]      = round(last_close, 4)
+            item["change_pct"] = round(change_pct, 4)
+            item["sparkline"]  = sparkline
+            log.info(f"  {item['ticker']}: {last_close:.2f} ({change_pct:+.2f}%)")
+        except Exception as exc:
+            log.warning(f"  Could not update {item['ticker']} ({yf_sym}): {exc}")
+
+    signals["generated_at"] = datetime.now(timezone.utc).isoformat()
+    signals_path.write_text(json.dumps(signals, indent=2, ensure_ascii=False))
+    log.info(f"Updated signals.json with live prices → {signals_path}")
+
+
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
@@ -262,6 +349,10 @@ def main():
     log.info("Generating AI market analysis…")
     ai_analysis = generate_ai_analysis(client, articles)
     update_market_json(ai_analysis)
+
+    # Refresh live prices in signals.json via yfinance
+    log.info("Refreshing live prices in signals.json…")
+    update_signals_prices()
 
 
 if __name__ == "__main__":
