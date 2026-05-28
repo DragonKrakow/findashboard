@@ -1,0 +1,153 @@
+{
+  "generated_at": "2026-05-28T20:34:11Z",
+  "totals": {
+    "instruments": 20,
+    "stocks": 10,
+    "etfs": 10
+  },
+  "completeness": {
+    "with_isin": 20,
+    "missing_isin": 0
+  },
+  "markets": [
+    {
+      "market": "Beijing",
+      "stocks": 1,
+      "etfs": 1,
+      "total": 2
+    },
+    {
+      "market": "Berlin",
+      "stocks": 1,
+      "etfs": 1,
+      "total": 2
+    },
+    {
+      "market": "London",
+      "stocks": 1,
+      "etfs": 1,
+      "total": 2
+    },
+    {
+      "market": "Madrid",
+      "stocks": 1,
+      "etfs": 1,
+      "total": 2
+    },
+    {
+      "market": "Milan",
+      "stocks": 1,
+      "etfs": 1,
+      "total": 2
+    },
+    {
+      "market": "New York",
+      "stocks": 1,
+      "etfs": 1,
+      "total": 2
+    },
+    {
+      "market": "Paris",
+      "stocks": 1,
+      "etfs": 1,
+      "total": 2
+    },
+    {
+      "market": "Seoul",
+      "stocks": 1,
+      "etfs": 1,
+      "total": 2
+    },
+    {
+      "market": "Shanghai",
+      "stocks": 1,
+      "etfs": 1,
+      "total": 2
+    },
+    {
+      "market": "Tokyo",
+      "stocks": 1,
+      "etfs": 1,
+      "total": 2
+    }
+  ],
+  "exchanges": [
+    {
+      "exchange": "BME",
+      "market": "Madrid",
+      "stocks": 1,
+      "etfs": 1,
+      "total": 2
+    },
+    {
+      "exchange": "Borsa Italiana",
+      "market": "Milan",
+      "stocks": 1,
+      "etfs": 1,
+      "total": 2
+    },
+    {
+      "exchange": "Euronext Paris",
+      "market": "Paris",
+      "stocks": 1,
+      "etfs": 1,
+      "total": 2
+    },
+    {
+      "exchange": "KRX",
+      "market": "Seoul",
+      "stocks": 1,
+      "etfs": 1,
+      "total": 2
+    },
+    {
+      "exchange": "LSE",
+      "market": "London",
+      "stocks": 1,
+      "etfs": 1,
+      "total": 2
+    },
+    {
+      "exchange": "NASDAQ",
+      "market": "New York",
+      "stocks": 1,
+      "etfs": 0,
+      "total": 1
+    },
+    {
+      "exchange": "NYSEARCA",
+      "market": "New York",
+      "stocks": 0,
+      "etfs": 1,
+      "total": 1
+    },
+    {
+      "exchange": "SSE",
+      "market": "Shanghai",
+      "stocks": 1,
+      "etfs": 1,
+      "total": 2
+    },
+    {
+      "exchange": "SZSE",
+      "market": "Beijing",
+      "stocks": 1,
+      "etfs": 1,
+      "total": 2
+    },
+    {
+      "exchange": "TSE",
+      "market": "Tokyo",
+      "stocks": 1,
+      "etfs": 1,
+      "total": 2
+    },
+    {
+      "exchange": "Xetra",
+      "market": "Berlin",
+      "stocks": 1,
+      "etfs": 1,
+      "total": 2
+    }
+  ]
+}

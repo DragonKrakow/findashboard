@@ -269,6 +269,7 @@
     .markets-table tr:last-child td { border-bottom: none; }
     .markets-table tr:hover td { background: var(--surface2); }
     .region-badge { font-size: 10px; padding: 2px 6px; border-radius: 4px; background: var(--surface2); border: 1px solid var(--border); color: var(--text-muted); }
+    .market-overview-table td:first-child { font-weight: 600; }
 
     /* Portfolio */
     .portfolio-summary { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 16px; }
@@ -592,6 +593,14 @@
     <section class="card" aria-label="Market sentiment">
       <div class="card-title"><span class="dot" style="background:var(--purple)"></span>Market Sentiment</div>
       <div id="sentiment-card-2"><div class="loading">Loading&hellip;</div></div>
+    </section>
+    <section class="card" aria-label="Instrument universe market overview">
+      <div class="card-title"><span class="dot" style="background:var(--blue)"></span>Instrument Universe Market Overview</div>
+      <div id="instrument-market-summary" class="stat-grid"><div class="loading">Loading&hellip;</div></div>
+      <div id="instrument-market-overview" style="overflow-x:auto;margin-top:10px"><div class="loading">Loading&hellip;</div></div>
+      <div class="section-subnote">
+        Best-effort weekly universe built from free/public sources. Coverage varies by market and source availability.
+      </div>
     </section>
   </div>
 </div>
@@ -945,6 +954,50 @@ function renderMarket() {
   });
 }
 
+function renderInstrumentOverview() {
+  return loadJSON('data/instruments/latest/market_overview.json').then(function(data) {
+    var totals = data.totals || {};
+    var completeness = data.completeness || {};
+    setInner('instrument-market-summary',
+      '<div class="stat-tile"><div class="stat-label">Total Instruments</div><div class="stat-value">' + fmt(totals.instruments || 0, 0) + '</div></div>' +
+      '<div class="stat-tile"><div class="stat-label">Stocks</div><div class="stat-value">' + fmt(totals.stocks || 0, 0) + '</div></div>' +
+      '<div class="stat-tile"><div class="stat-label">ETFs</div><div class="stat-value">' + fmt(totals.etfs || 0, 0) + '</div></div>' +
+      '<div class="stat-tile"><div class="stat-label">With ISIN</div><div class="stat-value">' + fmt(completeness.with_isin || 0, 0) + '</div></div>' +
+      '<div class="stat-tile"><div class="stat-label">Missing ISIN</div><div class="stat-value">' + fmt(completeness.missing_isin || 0, 0) + '</div></div>'
+    );
+
+    var marketRows = (data.markets || []).map(function(market) {
+      return '<tr>' +
+        '<td>' + market.market + '</td>' +
+        '<td>' + fmt(market.stocks || 0, 0) + '</td>' +
+        '<td>' + fmt(market.etfs || 0, 0) + '</td>' +
+        '<td>' + fmt(market.total || 0, 0) + '</td>' +
+        '</tr>';
+    }).join('');
+
+    var exchangeRows = (data.exchanges || []).slice(0, 12).map(function(exchange) {
+      return '<tr>' +
+        '<td>' + exchange.exchange + '</td>' +
+        '<td>' + exchange.market + '</td>' +
+        '<td>' + fmt(exchange.total || 0, 0) + '</td>' +
+        '</tr>';
+    }).join('');
+
+    setInner('instrument-market-overview',
+      '<table class="markets-table market-overview-table"><thead><tr>' +
+        '<th>Market</th><th>Stocks</th><th>ETFs</th><th>Total</th>' +
+      '</tr></thead><tbody>' + marketRows + '</tbody></table>' +
+      '<div style="height:10px"></div>' +
+      '<table class="markets-table market-overview-table"><thead><tr>' +
+        '<th>Exchange</th><th>Market</th><th>Total Instruments</th>' +
+      '</tr></thead><tbody>' + exchangeRows + '</tbody></table>'
+    );
+  }).catch(function() {
+    setInner('instrument-market-summary', '<div class="loading">Instrument universe overview is not available yet.</div>');
+    setInner('instrument-market-overview', '<div class="loading">Run the refresh-instruments workflow to generate market_overview.json.</div>');
+  });
+}
+
 /* Signals */
 function renderSignals() {
   return loadJSON('data/signals.json').then(function(data) {
@@ -1126,6 +1179,7 @@ function renderNews() {
 
 /* Boot */
 renderMarket();
+renderInstrumentOverview();
 renderSignals();
 renderNews();
 </script>

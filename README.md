@@ -46,12 +46,18 @@ findashboard/
 ├── data/
 │   ├── news.json                 # AI-summarised articles (auto-generated)
 │   ├── signals.json              # Watchlist & signals with sparklines (auto-generated)
-│   └── market.json               # Indices, macro, geopolitical & AI analysis (auto-generated)
+│   ├── market.json               # Indices, macro, geopolitical & AI analysis (auto-generated)
+│   └── instruments/
+│       └── latest/
+│           ├── instruments.json      # Normalised weekly instrument universe snapshot
+│           └── market_overview.json  # Aggregated instrument counts for dashboard rendering
 ├── scripts/
-│   └── refresh_news.py           # GitHub Actions refresh script
+│   ├── refresh_news.py           # GitHub Actions refresh script
+│   └── refresh_instruments.py    # Weekly best-effort instrument universe crawler
 ├── .github/
 │   └── workflows/
-│       └── refresh-news.yml      # Scheduled workflow (every 4 hours)
+│       ├── refresh-news.yml          # Scheduled workflow (every 4 hours)
+│       └── refresh-instruments.yml   # Scheduled workflow (weekly) + manual dispatch
 └── README.md
 ```
 
@@ -196,6 +202,45 @@ python scripts/refresh_news.py
 ```
 
 The script writes to `data/news.json` and updates `data/market.json` with a fresh AI analysis block.
+
+---
+
+## Instrument Universe Crawler
+
+The repository includes a separate **best-effort weekly instrument crawler** for a broad multi-market universe using only free/public sources.
+
+- Script: `scripts/refresh_instruments.py`
+- Workflow: `.github/workflows/refresh-instruments.yml`
+- Schedule: weekly (Monday) + manual `workflow_dispatch`
+- Dashboard integration: Markets tab reads `data/instruments/latest/market_overview.json`
+
+### Covered markets
+
+The current builder targets:
+
+- New York
+- Milan
+- Shanghai
+- Tokyo
+- London
+- Paris
+- Berlin
+- Madrid
+- Seoul
+- Beijing
+
+### Outputs
+
+- `data/instruments/latest/instruments.json`  
+  Normalised instrument universe snapshot with deduplication (`isin` first, fallback `exchange+ticker`).
+- `data/instruments/latest/market_overview.json`  
+  Lightweight totals/per-market/per-exchange summary used by the dashboard.
+
+### Scope and limitations
+
+- Coverage is **best effort**, not a guarantee of exact stock/ETF counts.
+- Paid/login-restricted/unstable sources are intentionally skipped.
+- Some markets may remain partially covered when source access is limited.
 
 ---
 
