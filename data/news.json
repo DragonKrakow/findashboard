@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-05-30T17:01:45.085974+00:00",
+  "generated_at": "2026-05-30T20:54:00.688039+00:00",
   "articles": [
+    {
+      "id": "9ced07d2fac1",
+      "title": "US Jobs Report Set to Reveal Solid Growth, Steady Unemployment Rate",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-30/us-jobs-report-set-to-reveal-solid-growth-steady-unemployment-rate",
+      "published_at": "2026-05-30T20:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Jobs week is coming up in the US, with a whole slate of indicators on the state of the labor market culminating on Friday with the government’s official report on employment for the month of May.",
+      "tags": []
+    },
+    {
+      "id": "8a04e23dae1a",
+      "title": "Brazil Extends Measures to Limit Fuel Price Hikes by Two Months",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-30/brazil-extends-measures-to-limit-fuel-price-hikes-by-two-months",
+      "published_at": "2026-05-30T19:47:53+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The Brazilian government extended by two months measures to contain the rise in fuel prices triggered by the conflict in Middle East.",
+      "tags": []
+    },
+    {
+      "id": "bfae80ede769",
+      "title": "Paramount Is Pulling Every Lever to Sell LBO Debt",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-30/paramount-is-pulling-every-lever-to-sell-lbo-debt-credit-weekly",
+      "published_at": "2026-05-30T19:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Paramount Skydance Corp. stretched, then stretched, then stretched again in its audacious $110 billion takeover bid for Warner Bros. Discovery Inc.",
+      "tags": []
+    },
+    {
+      "id": "c74b0058245b",
+      "title": "Bloomberg This Weekend 5/30/2026",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-30/bloomberg-this-weekend-5-30-2026-video",
+      "published_at": "2026-05-30T16:38:18+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by",
+      "tags": []
+    },
     {
       "id": "a53e67d23266",
       "title": "This Millennial University President Sees Running Grambling State Like an Enterprise",
@@ -63,7 +111,7 @@
     },
     {
       "id": "c9cceffceafd",
-      "title": "BP’s High-Stakes Reboot Descended Into an Ugly Boardroom Drama",
+      "title": "BP’s High-Stakes Reboot Has Descended Into Ugly Boardroom Drama",
       "source": "Bloomberg Markets",
       "url": "https://www.bloomberg.com/news/articles/2026-05-30/bp-s-high-stakes-reboot-descended-into-an-ugly-boardroom-drama",
       "published_at": "2026-05-30T13:30:59+00:00",
@@ -74,63 +122,15 @@
       "tags": []
     },
     {
-      "id": "d09948384be4",
-      "title": "Analysis Finds Trump's Deregulation Plan Falls Flat",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-30/analysis-finds-trump-s-deregulation-plan-falls-flat-video",
-      "published_at": "2026-05-30T13:25:29+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "A White House plan to rapidly repeal regulations has flopped, with just a handful of rules dumped via the expanded use of an administrative shortcut since a widespread review effort was ordered more t",
-      "tags": []
-    },
-    {
-      "id": "8ed6f9782805",
-      "title": "‘Dinosaur’ Tech Stocks Reborn as AI Fuels $1.7 Trillion Rally",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-30/-dinosaur-tech-stocks-reborn-as-ai-fuels-1-7-trillion-rally",
-      "published_at": "2026-05-30T13:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "They were all stars of the dot-com era before fading into the background as the bubble burst and a new generation of tech darlings rose to the forefront. But Dell Technologies Inc., Nokia Oyj and Leno",
-      "tags": []
-    },
-    {
-      "id": "4714acae1897",
-      "title": "Strait of Hormuz Ship Transits Are Rising Thanks to US Help",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-29/strait-of-hormuz-ship-transits-are-rising-thanks-to-help-from-us",
-      "published_at": "2026-05-29T20:24:27+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Shipowners are increasingly optimistic about a pickup in traffic through the Strait of Hormuz after more vessels left the waterway this week with the US providing information to aid those making the j",
-      "tags": []
-    },
-    {
-      "id": "4923a52f3e23",
-      "title": "Hegseth Praises Asian Allies, Takes Swipe at NATO",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-30/hegseth-praises-asian-allies-takes-swipe-at-nato-video",
-      "published_at": "2026-05-30T12:24:56+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "US Defense Secretary Pete Hegseth praised defense allies in Asia and hailed newly stable ties with China, while taking swipes at longstanding security partners in Europe. Bloomberg's Singapore Editor-",
-      "tags": []
-    },
-    {
-      "id": "c1337e32a743",
-      "title": "Hegseth says US-China ties are ‘better than in years’",
+      "id": "6f2d5f4773c8",
+      "title": "SoftBank pledges €75bn to build Europe’s biggest AI facility in France",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/0a601b2b-aeba-439d-8915-359f44cecf09",
-      "published_at": "2026-05-30T12:09:53+00:00",
+      "url": "https://www.ft.com/content/1022f9bd-5b6d-44a5-9303-c8b05b8c6463",
+      "published_at": "2026-05-30T18:39:31+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Pentagon chief still presses allies to boost defence spending to counter ‘military build-up’ by Beijing",
+      "summary": "Masayoshi Son places France at the centre of his global AI ambitions",
       "tags": []
     },
     {
@@ -146,6 +146,18 @@
       "tags": []
     },
     {
+      "id": "6e5c0e60cdae",
+      "title": "Trump, Texas and the risk of a Pyrrhic victory",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/437dae98-dc36-432e-a2f6-3eab2eb1bb84",
+      "published_at": "2026-05-30T04:00:51+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "By favouring a divisive candidate, the president may have put the Senate in play",
+      "tags": []
+    },
+    {
       "id": "2429e45d59b1",
       "title": "The floor versus the ceiling",
       "source": "International homepage",
@@ -155,6 +167,42 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "The world has come to prefer a high minimum to outright excellence",
+      "tags": []
+    },
+    {
+      "id": "c1337e32a743",
+      "title": "Hegseth says US-China ties are ‘better than in years’",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/0a601b2b-aeba-439d-8915-359f44cecf09",
+      "published_at": "2026-05-30T12:09:53+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Pentagon chief still presses allies to boost defence spending to counter ‘military build-up’ by Beijing",
+      "tags": []
+    },
+    {
+      "id": "1ea173177eba",
+      "title": "Historic cattle shortages push US beef prices to record highs",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/16468077-84b5-4d1c-b1d7-abe62ba3fa84",
+      "published_at": "2026-05-30T11:00:08+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "High feed costs and drought have thinned herds to the lowest levels in 60 years as protein-hungry consumers drive demand",
+      "tags": []
+    },
+    {
+      "id": "d40deb11ddc2",
+      "title": "Paris Saint-Germain retain Champions League with victory over Arsenal",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/42a9a9f3-3cb2-40dd-bab2-9c3d7f7e2554",
+      "published_at": "2026-05-30T19:52:29+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "French club triumph in penalty shootout over London side in win for Gulf sovereign wealth over US capital",
       "tags": []
     },
     {
@@ -170,30 +218,6 @@
       "tags": []
     },
     {
-      "id": "14d339552306",
-      "title": "US stocks post longest weekly winning streak since 2023",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/d218a534-7f63-4bd9-867d-f47f4727e2e1",
-      "published_at": "2026-05-29T17:09:58+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "AI enthusiasm and hopes for deal to extend US-Iran ceasefire boost markets",
-      "tags": []
-    },
-    {
-      "id": "5062db00d3bc",
-      "title": "Thiel moves family to Milei’s libertarian Argentina",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/3d7ab893-1842-4c6c-a3d9-26871d79dde4",
-      "published_at": "2026-05-29T18:51:42+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Palantir founder intends to spend several months in Buenos Aires initially",
-      "tags": []
-    },
-    {
       "id": "7e92817da8b5",
       "title": "Germany’s Merz struggles to contain ‘chancellor swap’ talk",
       "source": "International homepage",
@@ -203,6 +227,18 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Younger, more popular conservative Hendrik Wüst emerges as dark horse for the chancellery as polls slide",
+      "tags": []
+    },
+    {
+      "id": "59153639812f",
+      "title": "Circle freezes $12.6M of USDC linked to privacy protocol Zama",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/circle-freezes-126m-of-usdc-linked-to-privacy-protocol-zama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-05-30T19:11:15+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Circle freezes $12.6M of USDC linked to privacy protocol Zama\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/i",
       "tags": []
     },
     {
@@ -314,15 +350,15 @@
       "tags": []
     },
     {
-      "id": "516d929659fa",
-      "title": "Sui network temporarily stalls again after Thursday's outage",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/sui-temporary-stall-several-hours-second-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-05-29T18:46:50+00:00",
+      "id": "18d102b946c3",
+      "title": "SEC sues Texas man over $12.3 million alleged crypto scheme built on fake AI trading bots",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/business/2026/05/30/sec-sues-texas-man-over-usd12-3-million-alleged-crypto-scheme-built-on-fake-ai-trading-bots",
+      "published_at": "2026-05-30T17:27:34+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Sui network temporarily stalls again after Thursday's outage\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/im",
+      "summary": "SEC sues Texas man over $12.3 million alleged crypto scheme built on fake AI trading bots",
       "tags": []
     },
     {
@@ -434,15 +470,27 @@
       "tags": []
     },
     {
-      "id": "fd78c4749550",
-      "title": "Mass deployment of AI agents is a disaster waiting to happen, says CertiK CEO",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/tech/2026/05/29/mass-deployment-of-ai-agents-is-a-disaster-waiting-to-happen-says-certik-ceo",
-      "published_at": "2026-05-29T15:31:07+00:00",
+      "id": "7c1ffdef0523",
+      "title": "Vir Biotechnology, Inc. (VIR) Presents at EASL Congress 2026 - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4910309-vir-biotechnology-inc-vir-presents-at-easl-congress-2026-slideshow?source=feed_all_articles",
+      "published_at": "2026-05-30T17:30:30+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Mass deployment of AI agents is a disaster waiting to happen, says CertiK CEO",
+      "summary": "Vir Biotechnology, Inc. (VIR) Presents at EASL Congress 2026 - Slideshow",
+      "tags": []
+    },
+    {
+      "id": "31b1851bb440",
+      "title": "Important Warning For Dividend Investors: 4 Dangerous Misconceptions Quietly Sabotaging Your Portfolio",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4910266-important-warning-for-dividend-investors-4-dangerous-misconceptions-quietly-sabotaging-your?source=feed_all_articles",
+      "published_at": "2026-05-30T17:05:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Important Warning For Dividend Investors: 4 Dangerous Misconceptions Quietly Sabotaging Your Portfolio",
       "tags": []
     },
     {
@@ -539,30 +587,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Dell: Count Your Blessings And Sell The FOMO Rally",
-      "tags": []
-    },
-    {
-      "id": "e54ca2b9ffdc",
-      "title": "Super Micro's Next Act Could Be Bigger Than AI Servers",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4910301-super-micros-next-act-could-be-bigger-than-ai-servers?source=feed_all_articles",
-      "published_at": "2026-05-30T15:06:08+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Super Micro's Next Act Could Be Bigger Than AI Servers",
-      "tags": []
-    },
-    {
-      "id": "87e492dc8775",
-      "title": "Broadcom, Hewlett Packard Headline Earnings Next Week",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4910093-broadcom-hewlett-packard-headline-earnings-next-week?source=feed_all_articles",
-      "published_at": "2026-05-30T15:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Broadcom, Hewlett Packard Headline Earnings Next Week",
       "tags": []
     }
   ]
