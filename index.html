@@ -1512,7 +1512,7 @@ function renderCatalogSignals() {
       '<td><span class="ticker-badge">' + escHtml(sig.ticker) + '</span></td>' +
       '<td><span class="signal-badge signal-' + sig.signal + '">' + sig.signal + '</span></td>' +
       '<td style="font-size:11px;color:' + confColor + '">' + conf + '</td>' +
-      '<td style="font-size:12px;color:var(--text-muted);max-width:260px">' + escHtml((sig.reasoning || '').substring(0, 120)) + (sig.reasoning.length > 120 ? '…' : '') + '</td>' +
+      '<td style="font-size:12px;color:var(--text-muted);max-width:260px">' + escHtml((sig.reasoning || '').substring(0, 120)) + ((sig.reasoning || '').length > 120 ? '…' : '') + '</td>' +
       '</tr>';
   }).join('');
   setInner('catalog-signals-wrap',
