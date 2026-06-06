@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-06-06T17:11:18.368250+00:00",
+  "generated_at": "2026-06-06T21:02:12.688436+00:00",
   "articles": [
+    {
+      "id": "b6287271e48a",
+      "title": "ECB Steps Up as G7’s Lead Hawk With Interest-Rate Hike Primed",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-06/ecb-steps-up-as-g7-s-lead-hawk-with-interest-rate-hike-primed",
+      "published_at": "2026-06-06T20:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "A euro-zone interest-rate hike in the coming week is set to place the European Central Bank at the vanguard of global tightening caused by the Iran war.",
+      "tags": []
+    },
+    {
+      "id": "ddeca2fe2688",
+      "title": "IATA Director Willie Walsh on Rising Cost of Jet Fuel",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-06/iata-director-willie-walsh-on-rising-cost-of-jet-fuel-video",
+      "published_at": "2026-06-06T19:16:50+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The International Air Transport Association (IATA) Director Willie Walsh speaks on how the cost of jet fuel will provide an incentive for refineries to increase production. (Source: Bloomberg)",
+      "tags": []
+    },
+    {
+      "id": "643631f1a795",
+      "title": "IATA Director on Air Transport Stagflation & Challenges",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-06/iata-director-on-air-transport-stagflation-challenges-video",
+      "published_at": "2026-06-06T19:10:26+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The International Air Transport Association (IATA) Director Willie Walsh speaks on the stagflation & challenges for the industry air transport industry. (Source: Bloomberg)",
+      "tags": []
+    },
+    {
+      "id": "58cc34d41fc1",
+      "title": "DoubleLine, Oaktree Brace for Potential AI Pain",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-06/doubleline-oaktree-brace-for-potential-ai-pain-credit-weekly",
+      "published_at": "2026-06-06T19:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Credit heavyweights like DoubleLine Capital LP and Oaktree Capital Management are buying debt now that can perform well if the artificial intelligence boom turns into a credit bust.",
+      "tags": []
+    },
     {
       "id": "600dfa4b2c4b",
       "title": "Bloomberg This Weekend 6/06/2026",
@@ -11,6 +59,18 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by",
+      "tags": []
+    },
+    {
+      "id": "049e818ac2e1",
+      "title": "Fed’s Barr Warns of Risks Tied to Looser Wall Street Bank Rules",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-06/fed-s-barr-warns-of-risks-tied-to-looser-wall-street-bank-rules",
+      "published_at": "2026-06-06T16:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Federal Reserve Governor Michael Barr criticized moves from regulators over the past year to relax the rules for US lenders, saying the proposals “considerably weaken bank regulation and supervision.”",
       "tags": []
     },
     {
@@ -59,66 +119,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Mike Ashley’s Frasers Group Plc is considering a £500 million ($667 million) bid for Metrocentre, one of the UK’s biggest shopping centers, Sky News reports.",
-      "tags": []
-    },
-    {
-      "id": "67fb818442d8",
-      "title": "Trump Holds Profanity-Filled Call with Netanyahu",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-06/trump-holds-profanity-filled-call-with-netanyahu-video",
-      "published_at": "2026-06-06T14:05:45+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "President Donald Trump has spent months projecting confidence that a deal to end the Iran conflict is within reach. Israel’s determination to press ahead with its own objectives underscores his tenuou",
-      "tags": []
-    },
-    {
-      "id": "98f8a616147a",
-      "title": "How Bolivia's Plans to Tap Mineral Riches Are Being Tested by Mass Unrest",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-06/why-protests-are-threatening-bolivia-s-investment-push-video",
-      "published_at": "2026-06-06T14:03:40+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Bolivia’s new president, Rodrigo Paz, is attempting to rebrand the country as a destination for foreign investment after two decades of socialist rule. Sitting atop some of the world’s largest lithium",
-      "tags": []
-    },
-    {
-      "id": "e63c15903ad3",
-      "title": "Broadway Shows Eye London, NY Wooing With Tax Credits",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-06/broadway-shows-eye-london-ny-wooing-with-tax-credits-video",
-      "published_at": "2026-06-06T13:25:41+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Catching a Broadway musical is a quintessential experience for many in New York City. But it’s not cheap, not for showgoers nor for show producers, who saw costs go up in the aftermath of the pandemic",
-      "tags": []
-    },
-    {
-      "id": "6993c274394f",
-      "title": "US Proposes New Tariffs Over Forced Labor",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-06/us-proposes-new-tariffs-over-forced-labor-video",
-      "published_at": "2026-06-06T13:13:51+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The Trump administration has hit on a new way to impose tariffs on 60 nations that supply almost all US imports &mdash; accuse them of failing to enforce bans on foreign goods made with forced labor. ",
-      "tags": []
-    },
-    {
-      "id": "3a63124d9c79",
-      "title": "Macro Soothsayers, Stock Analysts See Vastly Different Markets",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-06/macro-soothsayers-stock-analysts-see-vastly-different-markets",
-      "published_at": "2026-06-06T13:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The strongest earnings season in years is coming to a close, and the Wall Street analysts who focus on individual companies have rarely been this bullish.",
       "tags": []
     },
     {
@@ -215,18 +215,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Most countries only impose levies once gains are realised",
-      "tags": []
-    },
-    {
-      "id": "d43e1d194040",
-      "title": "Trump says US may take equity stakes in AI companies",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/b1ab6106-77e6-4218-9eb4-e44bd56ca400",
-      "published_at": "2026-06-05T20:22:33+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "President suggests ‘partnership’ will ease voter concerns about the technology ahead of November’s midterm elections",
       "tags": []
     },
     {
@@ -350,6 +338,18 @@
       "tags": []
     },
     {
+      "id": "fdb3d7cb3c25",
+      "title": "Bitcoin, ether eye worst weekly rout since FTX collapse as cryptos shed $390 billion",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/markets/2026/06/06/bitcoin-ether-eye-worst-weekly-rout-since-ftx-collapse-as-cryptos-shed-usd390-billion",
+      "published_at": "2026-06-06T19:58:54+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Bitcoin, ether eye worst weekly rout since FTX collapse as cryptos shed $390 billion",
+      "tags": []
+    },
+    {
       "id": "93acef97d753",
       "title": "Meta is paying creators in Stablecoins. Spending them is someone else's problem",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
@@ -458,15 +458,15 @@
       "tags": []
     },
     {
-      "id": "c123a71fb4ba",
-      "title": "Bitcoin back above $61,000 after rout leads to $1.6 billion liquidations",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/06/06/bitcoin-back-above-usd61-000-after-rout-leads-to-usd1-6-billion-liquidations",
-      "published_at": "2026-06-06T06:40:17+00:00",
+      "id": "3bebe458abf0",
+      "title": "Senseonics Holdings, Inc. (SENS) Shareholder/Analyst Call Transcript",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4912632-senseonics-holdings-inc-sens-shareholder-analyst-call-transcript?source=feed_all_articles",
+      "published_at": "2026-06-06T19:22:53+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Bitcoin back above $61,000 after rout leads to $1.6 billion liquidations",
+      "summary": "Senseonics Holdings, Inc. (SENS) Shareholder/Analyst Call Transcript",
       "tags": []
     },
     {
@@ -575,18 +575,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "The Withdrawal Trap: Why Paper Wealth Fails Retirees",
-      "tags": []
-    },
-    {
-      "id": "e6b086933038",
-      "title": "Torrid's Expected 14% FCF Yield Is Fair For A Falling Knife Retailer",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4912626-torrids-expected-14-percent-fcf-yield-is-fair-for-a-falling-knife-retailer?source=feed_all_articles",
-      "published_at": "2026-06-06T14:17:26+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Torrid's Expected 14% FCF Yield Is Fair For A Falling Knife Retailer",
       "tags": []
     }
   ]
