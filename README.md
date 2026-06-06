@@ -53,7 +53,11 @@ findashboard/
 │           └── market_overview.json  # Aggregated instrument counts for dashboard rendering
 ├── scripts/
 │   ├── refresh_news.py           # GitHub Actions refresh script
-│   └── refresh_instruments.py    # Weekly best-effort instrument universe crawler
+│   ├── refresh_instruments.py    # Weekly best-effort instrument universe crawler
+│   └── build_new_system.py       # Builds dist/ and backs up old system HTML
+├── backup/
+│   └── old-system/
+│       └── FinDashboard_Pro.backup.html  # Backup of old system reference file
 ├── .github/
 │   └── workflows/
 │       ├── refresh-news.yml          # Scheduled workflow (every 4 hours)
@@ -111,6 +115,20 @@ python -m http.server 8080
 ```
 
 > **Why a server?** Browsers block `fetch()` calls to local `file://` paths. Any static server works — Python, Node `serve`, VS Code Live Server, etc.
+
+---
+
+## Build New System + Backup Old System
+
+If you want a local build output and an automatic backup of the old system:
+
+```bash
+python scripts/build_new_system.py
+```
+
+This command:
+- Creates/updates `backup/old-system/FinDashboard_Pro.backup.html`
+- Rebuilds `dist/` with the current `index.html`, `FinDashboard_Pro.html`, and `data/`
 
 ---
 
