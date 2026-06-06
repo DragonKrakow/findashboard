@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<!--
+  FinDashboard_Pro.html
+  ─────────────────────
+  REFERENCE / ARCHIVE COPY — NOT FOR PRODUCTION USE
+  ════════════════════════════════════════════════════════════════════════
+  This file is the original design reference that was used as the basis
+  for the live GitHub Pages dashboard at:
+      https://dragonkrakow.github.io/findashboard/
+
+  It demonstrates a client-side AI assistant panel that calls an AI API
+  (Anthropic Claude) directly from the browser.
+
+  ⚠️  SECURITY WARNING ⚠️
+  ════════════════════════════════════════════════════════════════════════
+  Embedding an AI API key in a web page (or typing it into a browser UI)
+  exposes that key to EVERY person who visits or views the page source.
+  Anyone could:
+    • Copy your key and run up charges on your account
+    • Exfiltrate it with browser extensions
+    • Access it through browser dev-tools
+
+  The production dashboard (index.html) solves this by running all AI
+  inference inside a GitHub Actions workflow. The workflow reads
+  GROQ_API_KEY from GitHub Secrets — it is never transmitted to the
+  browser. Only the resulting JSON files (data/*.json) are served.
+
+  The AI Assistant section below requires you to paste your own API key
+  and is intentionally left non-functional by default (the input is
+  disabled and the endpoint placeholder is masked) to prevent accidental
+  key exposure.
+
+  For a fully secured AI assistant on a static site, the recommended
+  approach is to route requests through a lightweight serverless function
+  (Cloudflare Workers, Vercel Edge Functions, AWS Lambda) that holds the
+  key server-side.
+  ════════════════════════════════════════════════════════════════════════
+-->
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FinDashboard Pro — Reference</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:        #0d1117;
+      --surface:   #161b22;
+      --surface2:  #1f2733;
+      --border:    #30363d;
+      --text:      #e6edf3;
+      --text-muted:#8b949e;
+      --green:     #3fb950;
+      --red:       #f85149;
+      --yellow:    #d29922;
+      --blue:      #58a6ff;
+      --purple:    #bc8cff;
+      --orange:    #e3b341;
+      --radius:    8px;
+      --font:      'Segoe UI', system-ui, sans-serif;
+    }
+
+    body { background: var(--bg); color: var(--text); font-family: var(--font); font-size: 14px; line-height: 1.5; }
+    a { color: var(--blue); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* Security banner */
+    .security-banner {
+      background: rgba(248,81,73,.15);
+      border-bottom: 2px solid var(--red);
+      padding: 12px 24px;
+      font-size: 13px;
+      color: var(--text);
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .security-banner strong { color: var(--red); }
+    .security-banner a { color: var(--red); text-decoration: underline; }
+
+    /* Header */
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 0 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 56px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    .logo { display: flex; align-items: center; gap: 10px; font-size: 17px; font-weight: 700; color: var(--blue); }
+    .logo svg { flex-shrink: 0; }
+
+    .header-meta { font-size: 12px; color: var(--text-muted); text-align: right; }
+    .header-meta span { display: block; }
+
+    /* Layout */
+    main { max-width: 1400px; margin: 0 auto; padding: 24px 16px; display: grid; gap: 20px; }
+
+    .grid-2 { display: grid; gap: 20px; grid-template-columns: 1fr 1fr; }
+    @media (max-width: 900px) { .grid-2 { grid-template-columns: 1fr; } }
+
+    /* Cards */
+    .card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 20px; }
+
+    .card-title {
+      font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: .06em;
+      color: var(--text-muted); margin-bottom: 16px; display: flex; align-items: center; gap: 8px;
+    }
+    .card-title .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--blue); flex-shrink: 0; }
+
+    /* Ticker */
+    #ticker-strip {
+      background: var(--surface2); border: 1px solid var(--border); border-radius: var(--radius);
+      padding: 14px 20px; display: flex; flex-wrap: wrap; gap: 14px 26px; align-items: center;
+    }
+    .ticker-item { display: flex; align-items: center; gap: 8px; }
+    .ticker-name { font-weight: 700; font-size: 13px; }
+    .ticker-value { font-size: 13px; }
+    .ticker-change { font-size: 12px; font-weight: 600; }
+
+    /* Stat grid */
+    .stat-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); gap: 12px; }
+    .stat-tile { background: var(--surface2); border: 1px solid var(--border); border-radius: var(--radius); padding: 14px; }
+    .stat-label { font-size: 11px; color: var(--text-muted); margin-bottom: 4px; }
+    .stat-value { font-size: 17px; font-weight: 700; }
+    .stat-change { font-size: 11px; margin-top: 3px; }
+
+    /* Sentiment */
+    .sentiment-wrap { display: flex; align-items: center; gap: 20px; flex-wrap: wrap; }
+    .sentiment-gauge { width: 110px; flex-shrink: 0; }
+    .sentiment-gauge svg { width: 100%; height: auto; }
+    .sentiment-info .label { font-size: 22px; font-weight: 700; }
+    .sentiment-info .sub { font-size: 12px; color: var(--text-muted); }
+    .sentiment-note { font-size: 13px; color: var(--text-muted); border-left: 2px solid var(--border); padding-left: 12px; max-width: 420px; line-height: 1.6; }
+
+    /* Portfolio / signals */
+    .signals-table { width: 100%; border-collapse: collapse; }
+    .signals-table th { text-align: left; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: .04em; color: var(--text-muted); padding: 8px 10px; border-bottom: 1px solid var(--border); }
+    .signals-table td { padding: 10px; border-bottom: 1px solid var(--border); vertical-align: middle; }
+    .signals-table tr:last-child td { border-bottom: none; }
+    .signals-table tr:hover td { background: var(--surface2); }
+    .ticker-badge { font-weight: 700; font-size: 13px; background: var(--surface2); border: 1px solid var(--border); border-radius: 4px; padding: 2px 8px; display: inline-block; }
+    .signal-badge { font-size: 11px; font-weight: 700; padding: 3px 9px; border-radius: 12px; text-transform: uppercase; letter-spacing: .04em; }
+    .signal-buy   { background: rgba(63,185,80,.15);  color: var(--green);  }
+    .signal-sell  { background: rgba(248,81,73,.15);  color: var(--red);    }
+    .signal-hold  { background: rgba(210,153,34,.15); color: var(--yellow); }
+    .signal-watch { background: rgba(88,166,255,.15); color: var(--blue);   }
+
+    /* Geopolitical */
+    .geo-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px; }
+    .geo-card { background: var(--surface2); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px; }
+    .geo-card-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px; gap: 10px; }
+    .geo-event { font-weight: 600; font-size: 14px; }
+    .risk-pill { font-size: 10px; font-weight: 700; padding: 3px 8px; border-radius: 20px; text-transform: uppercase; }
+    .risk-high   { background: rgba(248,81,73,.2);  color: var(--red);    border: 1px solid rgba(248,81,73,.4); }
+    .risk-medium { background: rgba(227,179,65,.2); color: var(--orange); border: 1px solid rgba(227,179,65,.4); }
+    .risk-low    { background: rgba(63,185,80,.15); color: var(--green);  border: 1px solid rgba(63,185,80,.4); }
+    .geo-region  { font-size: 11px; color: var(--text-muted); margin-bottom: 8px; }
+    .geo-sectors { display: flex; gap: 5px; flex-wrap: wrap; margin-bottom: 10px; }
+    .geo-sector-tag { font-size: 10px; background: var(--surface); border: 1px solid var(--border); border-radius: 4px; padding: 2px 7px; color: var(--text-muted); }
+    .geo-note { font-size: 12px; color: var(--text-muted); line-height: 1.5; }
+
+    /* News */
+    #news-filters { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 16px; }
+    .filter-btn { background: var(--surface2); border: 1px solid var(--border); border-radius: 20px; padding: 5px 14px; font-size: 12px; color: var(--text-muted); cursor: pointer; font-family: var(--font); }
+    .filter-btn.active { border-color: var(--blue); color: var(--blue); background: rgba(88,166,255,.1); }
+    #news-list { display: flex; flex-direction: column; gap: 12px; }
+    .news-card { background: var(--surface2); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px; }
+    .news-card-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; margin-bottom: 8px; flex-wrap: wrap; }
+    .news-title { font-weight: 600; font-size: 14px; color: var(--text); flex: 1; }
+    .news-meta { display: flex; align-items: center; gap: 8px; flex-shrink: 0; flex-wrap: wrap; }
+    .news-source { font-size: 11px; color: var(--text-muted); background: var(--surface); border: 1px solid var(--border); border-radius: 4px; padding: 2px 6px; }
+    .news-time { font-size: 11px; color: var(--text-muted); }
+    .news-summary { font-size: 13px; color: var(--text-muted); line-height: 1.65; margin-bottom: 10px; }
+    .news-tags { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+    .news-tag { font-size: 11px; background: var(--surface); border: 1px solid var(--border); border-radius: 4px; padding: 1px 6px; color: var(--text-muted); }
+    .sentiment-bullish { color: var(--green); }
+    .sentiment-bearish { color: var(--red); }
+    .sentiment-neutral { color: var(--yellow); }
+
+    /* AI assistant (REFERENCE ONLY) */
+    .ai-section {
+      background: var(--surface);
+      border: 2px solid rgba(248,81,73,.4);
+      border-radius: var(--radius);
+      padding: 20px;
+    }
+    .ai-section-warning {
+      background: rgba(248,81,73,.1);
+      border: 1px solid rgba(248,81,73,.4);
+      border-radius: 6px;
+      padding: 12px 14px;
+      font-size: 12px;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+      line-height: 1.6;
+    }
+    .ai-section-warning strong { color: var(--red); }
+    .ai-input-row { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 12px; }
+    .ai-input { background: var(--surface2); border: 1px solid var(--border); border-radius: 6px; color: var(--text); font-family: var(--font); font-size: 13px; padding: 8px 12px; flex: 1; min-width: 200px; }
+    .ai-input:disabled { opacity: .5; cursor: not-allowed; }
+    .ai-input::placeholder { color: var(--text-muted); }
+    .ai-btn { background: rgba(88,166,255,.15); border: 1px solid rgba(88,166,255,.4); border-radius: 6px; color: var(--blue); cursor: pointer; font-size: 12px; font-weight: 600; padding: 8px 16px; font-family: var(--font); white-space: nowrap; }
+    .ai-btn:disabled { opacity: .5; cursor: not-allowed; }
+    .ai-response { background: var(--surface2); border: 1px solid var(--border); border-radius: 6px; padding: 14px; font-size: 13px; color: var(--text-muted); line-height: 1.7; min-height: 80px; white-space: pre-wrap; }
+
+    /* Utilities */
+    .up   { color: var(--green); }
+    .down { color: var(--red); }
+    .flat { color: var(--text-muted); }
+    .loading { text-align: center; padding: 40px; color: var(--text-muted); font-size: 13px; }
+    .error   { background: rgba(248,81,73,.1); border: 1px solid var(--red); border-radius: var(--radius); padding: 12px 16px; color: var(--red); font-size: 13px; }
+
+    /* Footer */
+    footer { border-top: 1px solid var(--border); text-align: center; padding: 20px; color: var(--text-muted); font-size: 12px; margin-top: 24px; }
+    footer a { color: var(--blue); }
+  </style>
+</head>
+<body>
+
+<!-- Security banner -->
+<div class="security-banner">
+  <strong>&#x26A0; REFERENCE FILE ONLY</strong>
+  This HTML is an archived design reference. The AI Assistant section below is intentionally disabled.
+  The live dashboard is at <a href="index.html">index.html</a>.
+  See the <a href="#ai-section-ref">note in the AI section</a> for details on why browser-side API calls are insecure.
+</div>
+
+<!-- Header -->
+<header>
+  <div class="logo">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none"
+         stroke="#58a6ff" stroke-width="2" stroke-linecap="round">
+      <polyline points="22 7 13.5 15.5 8.5 10.5 2 17"/>
+      <polyline points="16 7 22 7 22 13"/>
+    </svg>
+    FinDashboard Pro <span style="font-size:12px;color:var(--text-muted);margin-left:8px">(Reference Copy)</span>
+  </div>
+  <div class="header-meta">
+    <span id="last-updated">Loading&hellip;</span>
+    <span>Data refreshed via GitHub Actions &middot; Groq AI</span>
+  </div>
+</header>
+
+<!-- Main -->
+<main>
+
+  <!-- Ticker strip -->
+  <section id="ticker-strip" aria-label="Market indices">
+    <div class="loading">Loading market data&hellip;</div>
+  </section>
+
+  <!-- Macro & Sentiment row -->
+  <div class="grid-2">
+    <section class="card" aria-label="Macro indicators">
+      <div class="card-title"><span class="dot" style="background:var(--orange)"></span>Macro Indicators</div>
+      <div id="macro-bar" class="stat-grid"><div class="loading">Loading&hellip;</div></div>
+    </section>
+
+    <section class="card" aria-label="Market sentiment">
+      <div class="card-title"><span class="dot" style="background:var(--purple)"></span>Market Sentiment</div>
+      <div id="sentiment-card"><div class="loading">Loading&hellip;</div></div>
+    </section>
+  </div>
+
+  <!-- Geopolitical risk -->
+  <section class="card" aria-label="Geopolitical risk monitor">
+    <div class="card-title"><span class="dot" style="background:var(--red)"></span>Geopolitical Risk Monitor</div>
+    <div id="geo-grid" class="geo-grid"><div class="loading">Loading&hellip;</div></div>
+  </section>
+
+  <!-- AI Market Analysis (from pre-generated JSON) -->
+  <section class="card" aria-label="AI market analysis">
+    <div class="card-title"><span class="dot" style="background:var(--blue)"></span>AI Market Analysis (pre-generated)</div>
+    <div id="ai-analysis-display"><div class="loading">Loading&hellip;</div></div>
+  </section>
+
+  <!-- Portfolio / Watchlist -->
+  <section class="card" aria-label="Watchlist and signals">
+    <div class="card-title"><span class="dot" style="background:var(--green)"></span>Watchlist &amp; Signals</div>
+    <div id="signals-container" style="overflow-x:auto"><div class="loading">Loading&hellip;</div></div>
+  </section>
+
+  <!-- AI Assistant — REFERENCE / DISABLED -->
+  <section class="ai-section" id="ai-section-ref" aria-label="AI assistant (reference, disabled)">
+    <div class="card-title"><span class="dot" style="background:var(--red)"></span>AI Assistant (Browser-side Pattern &mdash; Reference Only, Disabled)</div>
+    <div class="ai-section-warning">
+      <strong>&#x26A0; Security notice:</strong> This section demonstrates a pattern where an AI model is called directly from
+      the browser using a user-supplied API key. This approach is <strong>not safe for production</strong> because:
+      <ul style="margin:8px 0 0 16px">
+        <li>The key is visible in browser memory, network inspector, and JS source.</li>
+        <li>Any visitor or browser extension could exfiltrate it.</li>
+        <li>There is no rate-limiting or spending cap you can enforce client-side.</li>
+      </ul>
+      <br>
+      <strong>Production alternative (used in index.html):</strong> Run inference in a GitHub Actions workflow
+      that reads the key from GitHub Secrets. Commit only the resulting JSON to the repository. GitHub Pages
+      serves the static JSON — no key ever reaches the browser.<br><br>
+      <strong>If you need real-time AI from a static site:</strong> Proxy requests through a serverless function
+      (Cloudflare Workers, Vercel Edge Functions, AWS Lambda) that holds the key server-side.
+      The browser sends only the user question; the function appends the key before forwarding to the AI API.
+    </div>
+
+    <p style="font-size:13px;color:var(--text-muted);margin-bottom:14px">
+      The inputs below are disabled in this reference copy. In the original design they would accept an API key
+      and a question, and call the AI model directly from the browser.
+    </p>
+
+    <div class="ai-input-row">
+      <input class="ai-input" type="password" placeholder="API key (disabled — see warning above)" disabled />
+      <input class="ai-input" type="text"     placeholder="Ask about the market&hellip;" disabled />
+      <button class="ai-btn" disabled>Ask AI (disabled)</button>
+    </div>
+
+    <div class="ai-response" aria-live="polite">
+      AI response would appear here. This feature is disabled in the reference copy.
+      Use the live dashboard at <a href="index.html">index.html</a> which uses
+      pre-generated AI analysis refreshed securely by GitHub Actions.
+    </div>
+  </section>
+
+  <!-- News timeline -->
+  <section class="card" aria-label="AI news digest">
+    <div class="card-title"><span class="dot" style="background:var(--yellow)"></span>AI News Digest &amp; Timeline</div>
+    <div id="news-filters"></div>
+    <div id="news-list"><div class="loading">Loading news&hellip;</div></div>
+  </section>
+
+</main>
+
+<!-- Footer -->
+<footer>
+  <p>
+    FinDashboard Pro &mdash; Reference HTML &mdash; see
+    <a href="index.html">index.html</a> for the production dashboard.<br/>
+    Data refreshed via <a href="https://github.com/DragonKrakow/findashboard/actions/workflows/refresh-news.yml"
+      target="_blank" rel="noopener noreferrer">GitHub Actions + Groq AI</a>.
+    Prices &amp; summaries are illustrative. Not financial advice.
+  </p>
+</footer>
+
+<script>
+'use strict';
+
+/* Helpers */
+function fmt(n, dec) {
+  dec = dec === undefined ? 2 : dec;
+  return Number(n).toLocaleString('en-US', { minimumFractionDigits: dec, maximumFractionDigits: dec });
+}
+function changeClass(pct) { return pct > 0 ? 'up' : pct < 0 ? 'down' : 'flat'; }
+function changeSymbol(pct) { return pct > 0 ? '\u25b2' : pct < 0 ? '\u25bc' : '\u2013'; }
+function relativeTime(iso) {
+  var d = (Date.now() - new Date(iso)) / 1000;
+  if (d < 60)    return 'just now';
+  if (d < 3600)  return Math.floor(d/60) + 'm ago';
+  if (d < 86400) return Math.floor(d/3600) + 'h ago';
+  return Math.floor(d/86400) + 'd ago';
+}
+function loadJSON(url) {
+  return fetch(url).then(function(r) { if (!r.ok) throw new Error('Failed: ' + url); return r.json(); });
+}
+function setInner(id, html) { var el = document.getElementById(id); if (el) el.innerHTML = html; }
+
+function sparklineSVG(pts, w, h, isUp) {
+  if (!pts || pts.length < 2) return '';
+  var min = Math.min.apply(null, pts), max = Math.max.apply(null, pts), range = max - min || 1;
+  var step = w / (pts.length - 1);
+  var coords = pts.map(function(v,i){ return (i*step).toFixed(1)+','+(h-((v-min)/range)*h).toFixed(1); }).join(' ');
+  var color = isUp ? '#3fb950' : '#f85149';
+  return '<svg width="'+w+'" height="'+h+'" viewBox="0 0 '+w+' '+h+'" style="overflow:visible">' +
+    '<polyline points="'+coords+'" fill="none" stroke="'+color+'" stroke-width="1.5" stroke-linejoin="round"/></svg>';
+}
+
+/* Market */
+function renderMarket() {
+  return loadJSON('data/market.json').then(function(data) {
+
+    /* Ticker */
+    setInner('ticker-strip', data.indices.map(function(idx) {
+      var dir   = changeClass(idx.change_pct);
+      var spark = idx.sparkline ? sparklineSVG(idx.sparkline, 56, 24, idx.change_pct >= 0) : '';
+      return '<div class="ticker-item">' +
+        '<span class="ticker-name">' + idx.name + '</span>' +
+        (spark ? '<span style="display:flex;align-items:center">'+spark+'</span>' : '') +
+        '<span class="ticker-value">' + fmt(idx.value,0) + '</span>' +
+        '<span class="ticker-change '+dir+'">' + changeSymbol(idx.change_pct) + ' ' + Math.abs(idx.change_pct).toFixed(2) + '%</span>' +
+        '</div>';
+    }).join(''));
+
+    /* Macro */
+    var macroHTML = data.macro.map(function(m) {
+      var dc = m.direction==='up'?'up':m.direction==='down'?'down':'flat';
+      var ar = m.direction==='up'?'\u25b2':m.direction==='down'?'\u25bc':'\u2013';
+      return '<div class="stat-tile"><div class="stat-label">'+m.label+'</div>' +
+        '<div class="stat-value">'+m.value+'</div>' +
+        '<div class="stat-change '+dc+'">'+ar+' '+m.change+'</div></div>';
+    }).join('');
+    setInner('macro-bar', macroHTML);
+
+    /* Sentiment */
+    var s = data.sentiment, fg = s.fear_greed_index;
+    var angle = (fg/100)*180, rad = angle*Math.PI/180;
+    var R=40,cx=50,cy=50,nx=(cx+R*Math.cos(Math.PI-rad)).toFixed(1),ny=(cy-R*Math.sin(Math.PI-rad)).toFixed(1);
+    var fgColor = fg>60?'#3fb950':fg>40?'#d29922':'#f85149';
+    setInner('sentiment-card',
+      '<div class="sentiment-wrap">' +
+        '<div class="sentiment-gauge"><svg viewBox="0 0 100 55">' +
+          '<path d="M10,50 A40,40 0 0,1 90,50" fill="none" stroke="#30363d" stroke-width="10" stroke-linecap="round"/>' +
+          '<path d="M10,50 A40,40 0 0,1 '+nx+','+ny+'" fill="none" stroke="'+fgColor+'" stroke-width="10" stroke-linecap="round"/>' +
+          '<line x1="'+cx+'" y1="'+cy+'" x2="'+nx+'" y2="'+ny+'" stroke="#e6edf3" stroke-width="2" stroke-linecap="round"/>' +
+          '<circle cx="'+cx+'" cy="'+cy+'" r="4" fill="#e6edf3"/>' +
+          '<text x="'+cx+'" y="54" text-anchor="middle" font-size="11" fill="'+fgColor+'" font-weight="700">'+fg+'</text>' +
+        '</svg></div>' +
+        '<div class="sentiment-info">' +
+          '<div class="label" style="color:'+fgColor+'">'+s.fear_greed_label+'</div>' +
+          '<div class="sub">Fear &amp; Greed &middot; '+s.overall.replace(/_/g,' ')+'</div>' +
+        '</div>' +
+        '<div class="sentiment-note">'+s.note+'</div>' +
+      '</div>'
+    );
+
+    /* Geopolitical */
+    if (data.geopolitical) {
+      setInner('geo-grid', data.geopolitical.map(function(g) {
+        var sectors = g.impact_sectors.map(function(s){ return '<span class="geo-sector-tag">'+s+'</span>'; }).join('');
+        return '<div class="geo-card">' +
+          '<div class="geo-card-header"><div class="geo-event">'+g.event+'</div>' +
+          '<span class="risk-pill risk-'+g.risk_level+'">'+g.risk_level+' risk</span></div>' +
+          '<div class="geo-region">&#x1F310; '+g.region+'</div>' +
+          '<div class="geo-sectors">'+sectors+'</div>' +
+          '<div class="geo-note">'+g.note+'</div></div>';
+      }).join(''));
+    }
+
+    /* AI analysis (pre-generated) */
+    if (data.ai_analysis) {
+      var a = data.ai_analysis;
+      setInner('ai-analysis-display',
+        '<p style="font-size:15px;font-weight:700;margin-bottom:10px">'+a.headline+'</p>' +
+        '<p style="font-size:13px;color:var(--text-muted);line-height:1.7;margin-bottom:16px">'+a.body+'</p>' +
+        '<p style="font-size:11px;color:var(--text-muted)">Generated '+new Date(a.generated_at).toUTCString()+'</p>'
+      );
+    }
+
+    /* Timestamp */
+    var ts = new Date(data.generated_at);
+    setInner('last-updated', 'Updated ' + ts.toUTCString().replace(':00 GMT',' UTC'));
+
+  }).catch(function(e) {
+    setInner('ticker-strip', '<div class="error">&#x26A0; Could not load market data. '+e.message+'</div>');
+  });
+}
+
+/* Signals */
+function renderSignals() {
+  return loadJSON('data/signals.json').then(function(data) {
+    var rows = data.watchlist.map(function(item) {
+      var dir   = changeClass(item.change_pct);
+      var sym   = changeSymbol(item.change_pct);
+      var price = item.type==='crypto' ? fmt(item.price, item.price>100?0:2) : fmt(item.price,2);
+      var spark = item.sparkline ? sparklineSVG(item.sparkline,70,26,item.change_pct>=0) : '';
+      return '<tr>' +
+        '<td><span class="ticker-badge">'+item.ticker+'</span></td>' +
+        '<td style="max-width:160px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">'+item.name+'</td>' +
+        '<td style="font-size:12px;color:var(--text-muted)">'+(item.sector||'\u2013')+'</td>' +
+        '<td>'+price+'</td>' +
+        '<td class="'+dir+'" style="font-weight:600">'+sym+' '+Math.abs(item.change_pct).toFixed(2)+'%</td>' +
+        '<td>'+spark+'</td>' +
+        '<td><span class="signal-badge signal-'+item.signal+'">'+item.signal+'</span></td>' +
+        '<td style="font-size:12px;color:var(--text-muted);max-width:220px">'+item.note+'</td>' +
+        '</tr>';
+    }).join('');
+    setInner('signals-container',
+      '<table class="signals-table">' +
+        '<thead><tr><th>Ticker</th><th>Name</th><th>Sector</th><th>Price</th><th>Chg%</th><th>Trend</th><th>Signal</th><th>Note</th></tr></thead>' +
+        '<tbody>'+rows+'</tbody></table>'
+    );
+  }).catch(function(e) {
+    setInner('signals-container','<div class="error">&#x26A0; '+e.message+'</div>');
+  });
+}
+
+/* News */
+var allArticles = [], activeCategory = 'all';
+
+function renderNewsCards(articles) {
+  var el = document.getElementById('news-list');
+  if (!el) return;
+  if (!articles.length) { el.innerHTML = '<div class="loading">No articles.</div>'; return; }
+  el.innerHTML = articles.map(function(a) {
+    var sLabel = a.sentiment==='bullish'?'\u25b2 Bullish':a.sentiment==='bearish'?'\u25bc Bearish':'\u25c6 Neutral';
+    var tags = (a.tags||[]).map(function(t){ return '<span class="news-tag">#'+t+'</span>'; }).join('');
+    return '<article class="news-card">' +
+      '<div class="news-card-header">' +
+        '<div class="news-title"><a href="'+a.url+'" target="_blank" rel="noopener noreferrer">'+a.title+'</a></div>' +
+        '<div class="news-meta">' +
+          '<span class="news-source">'+a.source+'</span>' +
+          '<span class="signal-badge signal-'+a.signal+'">'+a.signal+'</span>' +
+          '<span class="news-time">'+relativeTime(a.published_at)+'</span>' +
+        '</div>' +
+      '</div>' +
+      '<p class="news-summary">'+a.summary+'</p>' +
+      '<div class="news-tags"><span class="sentiment-'+a.sentiment+'" style="font-size:11px;font-weight:700;margin-right:4px">'+sLabel+'</span>'+tags+'<span class="news-tag">'+a.category+'</span></div>' +
+      '</article>';
+  }).join('');
+}
+
+function renderNews() {
+  return loadJSON('data/news.json').then(function(data) {
+    allArticles = data.articles || [];
+    var cats = ['all'];
+    allArticles.forEach(function(a){ if(cats.indexOf(a.category)<0) cats.push(a.category); });
+    var filtersEl = document.getElementById('news-filters');
+    if (filtersEl) {
+      filtersEl.innerHTML = cats.map(function(c){
+        return '<button class="filter-btn'+(c==='all'?' active':'')+'" data-cat="'+c+'">'+c.charAt(0).toUpperCase()+c.slice(1)+'</button>';
+      }).join('');
+      filtersEl.addEventListener('click', function(e) {
+        var btn = e.target.closest('.filter-btn'); if(!btn) return;
+        activeCategory = btn.dataset.cat;
+        filtersEl.querySelectorAll('.filter-btn').forEach(function(b){ b.classList.toggle('active', b===btn); });
+        renderNewsCards(activeCategory==='all' ? allArticles : allArticles.filter(function(a){ return a.category===activeCategory; }));
+      });
+    }
+    renderNewsCards(allArticles);
+  }).catch(function(e) {
+    setInner('news-list','<div class="error">&#x26A0; '+e.message+'</div>');
+  });
+}
+
+/* Boot */
+renderMarket();
+renderSignals();
+renderNews();
+</script>
+
+</body>
+</html>
