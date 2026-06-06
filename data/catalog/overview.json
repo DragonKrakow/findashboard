@@ -1,0 +1,24 @@
+{
+  "generated_at": "2026-06-06T18:03:55Z",
+  "snapshot_date": "2026-06-06",
+  "totals": {
+    "catalog_instruments": 39,
+    "signals": 139,
+    "news_articles": 30
+  },
+  "by_type": {
+    "etf": 34,
+    "stock": 3,
+    "unknown": 2
+  },
+  "signal_summary": {
+    "neutral": 115,
+    "bullish": 23,
+    "bearish": 1
+  },
+  "source_status": {
+    "watchlist": true,
+    "signals": true,
+    "news": true
+  }
+}

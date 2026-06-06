@@ -1,0 +1,44 @@
+name: Sync financenews catalog
+
+on:
+  schedule:
+    - cron: '30 5 * * *'   # daily at 05:30 UTC, after financenews typically refreshes
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-catalog:
+    name: Fetch financenews data and build catalog
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Sync financenews catalog
+        run: python scripts/sync_financenews.py
+
+      - name: Commit catalog files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/catalog/
+          if git diff --cached --quiet; then
+            echo "No catalog changes to commit."
+          else
+            git commit -m "chore: auto-sync financenews catalog [skip ci]"
+            git push
+          fi

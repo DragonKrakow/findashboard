@@ -348,6 +348,73 @@
     .flat { color: var(--text-muted); }
     .loading { text-align: center; padding: 40px; color: var(--text-muted); font-size: 13px; }
     .error { background: rgba(248,81,73,.1); border: 1px solid var(--red); border-radius: var(--radius); padding: 12px 16px; color: var(--red); font-size: 13px; }
+    .badge-user { font-size: 10px; padding: 2px 7px; border-radius: 4px; background: rgba(188,140,255,.15); border: 1px solid rgba(188,140,255,.3); color: var(--purple); margin-left: 4px; }
+
+    /* Catalog / instrument search */
+    .search-bar { display: flex; gap: 8px; margin-bottom: 14px; }
+    .search-input { flex: 1; background: var(--surface2); border: 1px solid var(--border); border-radius: 6px; color: var(--text); font-size: 13px; font-family: var(--font); padding: 8px 12px; outline: none; }
+    .search-input:focus { border-color: var(--blue); }
+    .catalog-table { width: 100%; border-collapse: collapse; }
+    .catalog-table th { text-align: left; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: .04em; color: var(--text-muted); padding: 8px 10px; border-bottom: 1px solid var(--border); }
+    .catalog-table td { padding: 6px 10px; border-bottom: 1px solid var(--border); vertical-align: middle; font-size: 12px; }
+    .catalog-table tr:last-child td { border-bottom: none; }
+    .catalog-table tr:hover td { background: var(--surface2); }
+    .btn-add { font-size: 11px; font-weight: 600; padding: 3px 10px; border-radius: 4px; border: 1px solid rgba(63,185,80,.4); background: rgba(63,185,80,.1); color: var(--green); cursor: pointer; font-family: var(--font); transition: background .15s; white-space: nowrap; }
+    .btn-add:hover { background: rgba(63,185,80,.2); }
+    .btn-add.added { border-color: var(--border); background: var(--surface2); color: var(--text-muted); cursor: default; }
+    .btn-remove { font-size: 11px; font-weight: 600; padding: 3px 10px; border-radius: 4px; border: 1px solid rgba(248,81,73,.4); background: rgba(248,81,73,.1); color: var(--red); cursor: pointer; font-family: var(--font); transition: background .15s; }
+    .btn-remove:hover { background: rgba(248,81,73,.2); }
+    .tag-badge { font-size: 10px; background: var(--surface2); border: 1px solid var(--border); border-radius: 4px; padding: 1px 5px; color: var(--text-muted); }
+
+    /* User watchlist */
+    .wl-empty { padding: 40px; text-align: center; color: var(--text-muted); font-size: 13px; }
+    .wl-kpi-row { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 16px; }
+    .wl-kpi { background: var(--surface2); border: 1px solid var(--border); border-radius: var(--radius); padding: 10px 14px; min-width: 90px; }
+    .wl-kpi .label { font-size: 11px; color: var(--text-muted); margin-bottom: 4px; }
+    .wl-kpi .value { font-size: 18px; font-weight: 700; }
+
+    /* Add instrument modal */
+    #add-modal .modal-box { max-width: 600px; }
+    .add-search-results { max-height: 260px; overflow-y: auto; margin-top: 10px; border: 1px solid var(--border); border-radius: var(--radius); }
+    .add-result-item { display: flex; align-items: center; gap: 10px; padding: 10px 14px; border-bottom: 1px solid var(--border); cursor: pointer; transition: background .12s; }
+    .add-result-item:last-child { border-bottom: none; }
+    .add-result-item:hover { background: var(--surface2); }
+    .add-result-ticker { font-weight: 700; font-size: 13px; min-width: 60px; }
+    .add-result-name { flex: 1; font-size: 12px; color: var(--text-muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .add-result-type { font-size: 10px; text-transform: uppercase; border: 1px solid var(--border); border-radius: 4px; padding: 2px 5px; color: var(--text-muted); }
+    .add-custom-form { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 14px; }
+    @media (max-width: 600px) { .add-custom-form { grid-template-columns: 1fr; } }
+    .form-group { display: flex; flex-direction: column; gap: 5px; }
+    .form-group label { font-size: 11px; font-weight: 600; color: var(--text-muted); text-transform: uppercase; letter-spacing: .04em; }
+    .form-group input, .form-group select { background: var(--surface2); border: 1px solid var(--border); border-radius: 6px; color: var(--text); font-size: 13px; font-family: var(--font); padding: 7px 10px; outline: none; }
+    .form-group input:focus, .form-group select:focus { border-color: var(--blue); }
+    .form-note { font-size: 11px; color: var(--text-muted); margin-top: 6px; }
+
+    /* Chatbot */
+    .chat-fab { position: fixed; bottom: 24px; right: 24px; z-index: 400; width: 52px; height: 52px; border-radius: 50%; background: var(--blue); border: none; cursor: pointer; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 16px rgba(0,0,0,.4); transition: transform .15s, box-shadow .15s; }
+    .chat-fab:hover { transform: scale(1.07); box-shadow: 0 6px 20px rgba(0,0,0,.5); }
+    .chat-fab svg { width: 24px; height: 24px; stroke: #fff; fill: none; }
+    .chat-panel { position: fixed; bottom: 88px; right: 24px; width: 360px; max-height: 520px; background: var(--surface); border: 1px solid var(--border); border-radius: 12px; z-index: 400; display: flex; flex-direction: column; box-shadow: 0 8px 32px rgba(0,0,0,.4); transition: opacity .2s, transform .2s; }
+    .chat-panel[hidden] { display: none; }
+    @media (max-width: 400px) { .chat-panel { width: calc(100vw - 20px); right: 10px; } }
+    .chat-header { display: flex; align-items: center; justify-content: space-between; padding: 12px 16px; border-bottom: 1px solid var(--border); }
+    .chat-title { font-weight: 700; font-size: 14px; display: flex; align-items: center; gap: 8px; }
+    .chat-close { background: none; border: none; color: var(--text-muted); cursor: pointer; font-size: 18px; line-height: 1; padding: 2px; }
+    .chat-messages { flex: 1; overflow-y: auto; padding: 12px; display: flex; flex-direction: column; gap: 10px; min-height: 180px; max-height: 320px; }
+    .chat-msg { max-width: 90%; padding: 9px 12px; border-radius: 10px; font-size: 13px; line-height: 1.5; }
+    .chat-msg.user { background: rgba(88,166,255,.15); border: 1px solid rgba(88,166,255,.2); align-self: flex-end; }
+    .chat-msg.bot { background: var(--surface2); border: 1px solid var(--border); align-self: flex-start; }
+    .chat-msg.bot strong { color: var(--blue); }
+    .chat-msg a { color: var(--blue); }
+    .chat-suggestions { display: flex; flex-wrap: wrap; gap: 6px; padding: 0 12px 10px; }
+    .chat-suggest-btn { font-size: 11px; background: var(--surface2); border: 1px solid var(--border); border-radius: 20px; padding: 4px 10px; cursor: pointer; color: var(--text-muted); font-family: var(--font); transition: border-color .12s, color .12s; }
+    .chat-suggest-btn:hover { border-color: var(--blue); color: var(--blue); }
+    .chat-input-row { display: flex; gap: 8px; padding: 10px 12px; border-top: 1px solid var(--border); }
+    .chat-input { flex: 1; background: var(--surface2); border: 1px solid var(--border); border-radius: 6px; color: var(--text); font-size: 13px; font-family: var(--font); padding: 7px 10px; outline: none; }
+    .chat-input:focus { border-color: var(--blue); }
+    .chat-send { background: var(--blue); border: none; border-radius: 6px; color: #fff; cursor: pointer; font-size: 13px; font-weight: 600; padding: 7px 14px; font-family: var(--font); white-space: nowrap; transition: opacity .15s; }
+    .chat-send:hover { opacity: .85; }
+    .chat-disclaimer { font-size: 10px; color: var(--text-muted); padding: 0 12px 8px; line-height: 1.4; }
 
     /* Modal */
     .modal-overlay { position: fixed; inset: 0; background: rgba(0,0,0,.7); z-index: 300; display: flex; align-items: center; justify-content: center; padding: 20px; }
@@ -487,6 +554,8 @@
     <button class="tab-btn active" data-tab="dashboard"    role="tab" aria-selected="true">&#x1F4CA; Overview</button>
     <button class="tab-btn"        data-tab="markets"      role="tab" aria-selected="false">&#x1F4C8; Markets</button>
     <button class="tab-btn"        data-tab="portfolio"    role="tab" aria-selected="false">&#x1F4BC; Portfolio</button>
+    <button class="tab-btn"        data-tab="mywatchlist"  role="tab" aria-selected="false">&#x2B50; My Watchlist</button>
+    <button class="tab-btn"        data-tab="catalog"      role="tab" aria-selected="false">&#x1F50D; Catalog</button>
     <button class="tab-btn"        data-tab="analysis"     role="tab" aria-selected="false">&#x1F916; AI Insights</button>
     <button class="tab-btn"        data-tab="geopolitical" role="tab" aria-selected="false">&#x1F30D; Geopolitical</button>
     <button class="tab-btn"        data-tab="news"         role="tab" aria-selected="false">&#x1F4F0; News</button>
@@ -508,6 +577,8 @@
   <button class="sidebar-item active" data-tab="dashboard" role="tab" aria-selected="true">&#x1F4CA; Overview</button>
   <button class="sidebar-item" data-tab="markets"      role="tab" aria-selected="false">&#x1F4C8; Markets</button>
   <button class="sidebar-item" data-tab="portfolio"    role="tab" aria-selected="false">&#x1F4BC; Portfolio</button>
+  <button class="sidebar-item" data-tab="mywatchlist"  role="tab" aria-selected="false">&#x2B50; My Watchlist</button>
+  <button class="sidebar-item" data-tab="catalog"      role="tab" aria-selected="false">&#x1F50D; Catalog</button>
   <button class="sidebar-item" data-tab="analysis"     role="tab" aria-selected="false">&#x1F916; AI Insights</button>
   <button class="sidebar-item" data-tab="geopolitical" role="tab" aria-selected="false">&#x1F30D; Geopolitical</button>
   <button class="sidebar-item" data-tab="news"         role="tab" aria-selected="false">&#x1F4F0; News</button>
@@ -657,6 +728,54 @@
   </div>
 </div>
 
+<!-- My Watchlist tab -->
+<div id="tab-mywatchlist" class="tab-content" role="tabpanel">
+  <div class="page-content">
+    <section class="card" aria-label="My personal watchlist">
+      <div class="card-title" style="justify-content:space-between">
+        <span><span class="dot" style="background:var(--purple)"></span>My Watchlist</span>
+        <button class="btn-primary" id="btn-open-add-modal" style="font-size:12px;padding:5px 12px">&#x2B; Add Instrument</button>
+      </div>
+      <div id="user-wl-kpis" class="wl-kpi-row"></div>
+      <div id="user-wl-content" style="overflow-x:auto"><div class="wl-empty">&#x2B50; Your personal watchlist is empty.<br>Click <strong>Add Instrument</strong> to get started.</div></div>
+      <div class="section-subnote">Saved in your browser (localStorage). No account required. Clears when you clear browser data.</div>
+    </section>
+    <section class="card" aria-label="Custom instruments">
+      <div class="card-title"><span class="dot" style="background:var(--orange)"></span>Custom Instruments <span class="badge-user">User-defined</span></div>
+      <div id="user-custom-content" style="overflow-x:auto"><div class="wl-empty">No custom instruments yet. Use <strong>Add Instrument</strong> to create one not in the catalog.</div></div>
+    </section>
+  </div>
+</div>
+
+<!-- Catalog tab -->
+<div id="tab-catalog" class="tab-content" role="tabpanel">
+  <div class="page-content">
+    <section class="card" aria-label="Instrument catalog from financenews">
+      <div class="card-title"><span class="dot" style="background:var(--blue)"></span>Instrument Catalog <span style="font-size:11px;font-weight:400;color:var(--text-muted);margin-left:4px">— sourced from financenews</span></div>
+      <div class="search-bar">
+        <input type="search" class="search-input" id="catalog-search" placeholder="Search by ticker or name…" autocomplete="off" />
+        <select id="catalog-type-filter" class="search-input" style="max-width:120px;flex:none">
+          <option value="">All types</option>
+          <option value="etf">ETF</option>
+          <option value="stock">Stock</option>
+        </select>
+      </div>
+      <div id="catalog-overview-kpis" class="wl-kpi-row" style="margin-bottom:10px"></div>
+      <div style="overflow-x:auto">
+        <div id="catalog-table-wrap"><div class="loading">Loading catalog…</div></div>
+      </div>
+      <div class="section-subnote">
+        Catalog is sourced read-only from <a href="https://github.com/DragonKrakow/financenews" target="_blank" rel="noopener noreferrer">DragonKrakow/financenews</a> and refreshed daily via GitHub Actions.
+        Click <strong>+ Add</strong> on any row to add it to your personal watchlist.
+      </div>
+    </section>
+    <section class="card" aria-label="financenews AI signals">
+      <div class="card-title"><span class="dot" style="background:var(--green)"></span>financenews AI Signals</div>
+      <div id="catalog-signals-wrap" style="overflow-x:auto"><div class="loading">Loading signals…</div></div>
+    </section>
+  </div>
+</div>
+
 </div><!-- /.main-with-sidebar -->
 
 <!-- Refresh modal -->
@@ -692,6 +811,90 @@
       <button class="btn-secondary" id="modal-close">Close</button>
     </div>
   </div>
+</div>
+
+<!-- Add Instrument modal -->
+<div id="add-modal" class="modal-overlay" hidden
+     aria-modal="true" role="dialog" aria-labelledby="add-modal-title">
+  <div class="modal-box">
+    <div class="modal-title" id="add-modal-title">&#x2B; Add Instrument to Watchlist</div>
+    <div class="search-bar">
+      <input type="search" class="search-input" id="add-search-input" placeholder="Search ticker or name in catalog…" autocomplete="off" />
+    </div>
+    <div id="add-search-results" class="add-search-results" style="display:none"></div>
+    <div style="margin-top:14px;border-top:1px solid var(--border);padding-top:14px">
+      <div style="font-size:12px;font-weight:600;color:var(--text-muted);margin-bottom:10px">Or add a custom instrument not in the catalog:</div>
+      <div class="add-custom-form">
+        <div class="form-group">
+          <label>Ticker *</label>
+          <input type="text" id="custom-ticker" placeholder="e.g. MYETF" maxlength="20" />
+        </div>
+        <div class="form-group">
+          <label>Name</label>
+          <input type="text" id="custom-name" placeholder="e.g. My Fund" maxlength="80" />
+        </div>
+        <div class="form-group">
+          <label>Type</label>
+          <select id="custom-type">
+            <option value="stock">Stock</option>
+            <option value="etf">ETF</option>
+            <option value="crypto">Crypto</option>
+            <option value="bond">Bond</option>
+            <option value="other">Other</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label>Exchange</label>
+          <input type="text" id="custom-exchange" placeholder="e.g. NYSE" maxlength="40" />
+        </div>
+        <div class="form-group" style="grid-column:1/-1">
+          <label>Notes</label>
+          <input type="text" id="custom-notes" placeholder="Optional notes" maxlength="200" />
+        </div>
+      </div>
+      <div class="form-note">Fields marked * are required. Custom instruments are marked as user-defined.</div>
+    </div>
+    <div class="modal-actions" style="margin-top:14px">
+      <button class="btn-primary" id="btn-add-custom">&#x2B; Add Custom</button>
+      <button class="btn-secondary" id="add-modal-close">Cancel</button>
+    </div>
+  </div>
+</div>
+
+<!-- Chatbot panel -->
+<button class="chat-fab" id="chat-fab" aria-label="Open stock/ETF chatbot" title="Ask about stocks &amp; ETFs">
+  <svg viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>
+  </svg>
+</button>
+
+<div id="chat-panel" class="chat-panel" hidden aria-label="Stock/ETF Q&amp;A chatbot">
+  <div class="chat-header">
+    <div class="chat-title">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="var(--blue)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>
+      </svg>
+      Stock &amp; ETF Q&amp;A
+    </div>
+    <button class="chat-close" id="chat-close" aria-label="Close chatbot">&times;</button>
+  </div>
+  <div class="chat-messages" id="chat-messages">
+    <div class="chat-msg bot">
+      👋 Hi! I can answer questions about stocks and ETFs using data from this dashboard.<br>
+      <strong>Try asking:</strong> what sectors does my watchlist cover, or about a specific ticker.
+    </div>
+  </div>
+  <div class="chat-suggestions" id="chat-suggestions">
+    <button class="chat-suggest-btn" data-q="What ETFs are in the catalog?">What ETFs are in catalog?</button>
+    <button class="chat-suggest-btn" data-q="Which instruments have a bullish signal?">Bullish signals?</button>
+    <button class="chat-suggest-btn" data-q="What is in my watchlist?">My watchlist</button>
+    <button class="chat-suggest-btn" data-q="What are the top news topics?">Top news topics</button>
+  </div>
+  <div class="chat-input-row">
+    <input type="text" class="chat-input" id="chat-input" placeholder="Ask about a ticker or market…" autocomplete="off" />
+    <button class="chat-send" id="chat-send">Send</button>
+  </div>
+  <div class="chat-disclaimer">&#x26A0; Demo mode — answers are based on local catalog/signal data. Not financial advice.</div>
 </div>
 
 <!-- Footer -->
@@ -1182,6 +1385,447 @@ renderMarket();
 renderInstrumentOverview();
 renderSignals();
 renderNews();
+renderCatalog();
+renderUserWatchlist();
+
+/* =========================================================
+   USER STATE  (localStorage persistence)
+   ========================================================= */
+
+var USER_STATE_KEY = 'findashboard_user_state_v1';
+
+function loadUserState() {
+  try {
+    var raw = localStorage.getItem(USER_STATE_KEY);
+    if (raw) return JSON.parse(raw);
+  } catch (e) {}
+  return { watchlist: [], customInstruments: [], chatHistory: [] };
+}
+
+function saveUserState(state) {
+  try { localStorage.setItem(USER_STATE_KEY, JSON.stringify(state)); } catch (e) {}
+}
+
+/* =========================================================
+   CATALOG  (data/catalog/*.json)
+   ========================================================= */
+
+var catalogData = { instruments: [], signals: [], news: [] };
+
+function loadCatalog() {
+  return Promise.all([
+    loadJSON('data/catalog/instruments.json').catch(function() { return { instruments: [] }; }),
+    loadJSON('data/catalog/signals.json').catch(function()     { return { signals: [] }; }),
+    loadJSON('data/catalog/news.json').catch(function()        { return { articles: [] }; }),
+    loadJSON('data/catalog/overview.json').catch(function()    { return {}; }),
+  ]).then(function(results) {
+    catalogData.instruments = results[0].instruments || [];
+    catalogData.signals     = results[1].signals     || [];
+    catalogData.news        = results[2].articles    || [];
+    catalogData.overview    = results[3];
+    return catalogData;
+  });
+}
+
+function searchCatalog(query, typeFilter) {
+  var q = (query || '').toLowerCase().trim();
+  return catalogData.instruments.filter(function(inst) {
+    if (typeFilter && inst.instrument_type !== typeFilter) return false;
+    if (!q) return true;
+    return (inst.ticker || '').toLowerCase().includes(q) ||
+           (inst.name   || '').toLowerCase().includes(q);
+  });
+}
+
+function getSignalForTicker(ticker) {
+  return catalogData.signals.find(function(s) {
+    return s.ticker === ticker;
+  });
+}
+
+function renderCatalogKPIs(overview) {
+  var totals = overview.totals || {};
+  var byType = overview.by_type || {};
+  var sigSummary = overview.signal_summary || {};
+  setInner('catalog-overview-kpis',
+    '<div class="wl-kpi"><div class="label">Catalog</div><div class="value">' + (totals.catalog_instruments || 0) + '</div></div>' +
+    '<div class="wl-kpi"><div class="label">ETFs</div><div class="value">' + (byType.etf || 0) + '</div></div>' +
+    '<div class="wl-kpi"><div class="label">Stocks</div><div class="value">' + (byType.stock || 0) + '</div></div>' +
+    '<div class="wl-kpi"><div class="label">Signals</div><div class="value">' + (totals.signals || 0) + '</div></div>' +
+    '<div class="wl-kpi"><div class="label" style="color:var(--green)">Bullish</div><div class="value" style="color:var(--green)">' + (sigSummary.bullish || 0) + '</div></div>' +
+    '<div class="wl-kpi"><div class="label" style="color:var(--red)">Bearish</div><div class="value" style="color:var(--red)">' + (sigSummary.bearish || 0) + '</div></div>'
+  );
+}
+
+function renderCatalogTable(instruments) {
+  var state = loadUserState();
+  var wlTickers = state.watchlist.map(function(i) { return i.ticker; });
+  if (!instruments.length) {
+    setInner('catalog-table-wrap', '<div class="loading">No instruments match your filter.</div>');
+    return;
+  }
+  var rows = instruments.slice(0, 200).map(function(inst) {
+    var inWl = wlTickers.indexOf(inst.ticker) >= 0;
+    var sigObj = getSignalForTicker(inst.ticker);
+    var sigBadge = sigObj
+      ? '<span class="signal-badge signal-' + sigObj.signal + '">' + sigObj.signal + '</span>'
+      : '<span style="color:var(--text-muted);font-size:11px">—</span>';
+    var tags = (inst.tags || []).slice(0, 3).map(function(t) {
+      return '<span class="tag-badge">' + t + '</span>';
+    }).join(' ');
+    var addBtn = inWl
+      ? '<button class="btn-add added" disabled>&#x2713; Added</button>'
+      : '<button class="btn-add" data-ticker="' + escHtml(inst.ticker) + '">&#x2B; Add</button>';
+    return '<tr>' +
+      '<td><span class="ticker-badge">' + escHtml(inst.ticker) + '</span></td>' +
+      '<td style="max-width:200px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">' + escHtml(inst.name || '') + '</td>' +
+      '<td><span class="type-badge">' + (inst.instrument_type || '?') + '</span></td>' +
+      '<td>' + tags + '</td>' +
+      '<td>' + sigBadge + '</td>' +
+      '<td>' + addBtn + '</td>' +
+      '</tr>';
+  }).join('');
+  setInner('catalog-table-wrap',
+    '<table class="catalog-table"><thead><tr>' +
+      '<th>Ticker</th><th>Name</th><th>Type</th><th>Tags</th><th>Signal</th><th></th>' +
+    '</tr></thead><tbody>' + rows + '</tbody></table>'
+  );
+  document.getElementById('catalog-table-wrap').addEventListener('click', function(e) {
+    var btn = e.target.closest('.btn-add');
+    if (!btn || btn.disabled) return;
+    var ticker = btn.dataset.ticker;
+    var inst = catalogData.instruments.find(function(i) { return i.ticker === ticker; });
+    if (inst) addToWatchlist(inst, false);
+  });
+}
+
+function renderCatalogSignals() {
+  var signals = catalogData.signals.filter(function(s) { return s.signal !== 'neutral'; }).slice(0, 30);
+  if (!signals.length) {
+    setInner('catalog-signals-wrap', '<div class="loading">No non-neutral signals available.</div>');
+    return;
+  }
+  var rows = signals.map(function(sig) {
+    var conf = (sig.confidence || 'low').toLowerCase();
+    var confColor = conf === 'high' ? 'var(--green)' : conf === 'medium' ? 'var(--yellow)' : 'var(--text-muted)';
+    return '<tr>' +
+      '<td><span class="ticker-badge">' + escHtml(sig.ticker) + '</span></td>' +
+      '<td><span class="signal-badge signal-' + sig.signal + '">' + sig.signal + '</span></td>' +
+      '<td style="font-size:11px;color:' + confColor + '">' + conf + '</td>' +
+      '<td style="font-size:12px;color:var(--text-muted);max-width:260px">' + escHtml((sig.reasoning || '').substring(0, 120)) + (sig.reasoning.length > 120 ? '…' : '') + '</td>' +
+      '</tr>';
+  }).join('');
+  setInner('catalog-signals-wrap',
+    '<table class="catalog-table"><thead><tr><th>Ticker</th><th>Signal</th><th>Confidence</th><th>Reasoning</th></tr></thead><tbody>' + rows + '</tbody></table>'
+  );
+}
+
+function renderCatalog() {
+  loadCatalog().then(function() {
+    renderCatalogKPIs(catalogData.overview || {});
+    renderCatalogTable(searchCatalog('', ''));
+    renderCatalogSignals();
+  }).catch(function(e) {
+    setInner('catalog-table-wrap', '<div class="error">&#x26A0; Could not load catalog. ' + e.message + '</div>');
+  });
+
+  var searchInput = document.getElementById('catalog-search');
+  var typeFilter  = document.getElementById('catalog-type-filter');
+  function applyFilter() {
+    renderCatalogTable(searchCatalog(searchInput.value, typeFilter.value));
+  }
+  if (searchInput) searchInput.addEventListener('input', applyFilter);
+  if (typeFilter)  typeFilter.addEventListener('change', applyFilter);
+}
+
+/* =========================================================
+   USER WATCHLIST
+   ========================================================= */
+
+function addToWatchlist(instrument, isCustom) {
+  var state = loadUserState();
+  var tickers = state.watchlist.map(function(i) { return i.ticker; });
+  if (tickers.indexOf(instrument.ticker) >= 0) {
+    alert(instrument.ticker + ' is already in your watchlist.');
+    return;
+  }
+  var entry = Object.assign({}, instrument, {
+    added_at: new Date().toISOString(),
+    is_custom: !!isCustom,
+    source:    isCustom ? 'user' : (instrument.source || 'catalog'),
+  });
+  state.watchlist.push(entry);
+  saveUserState(state);
+  renderUserWatchlist();
+  renderCatalogTable(searchCatalog(
+    (document.getElementById('catalog-search') || {}).value || '',
+    (document.getElementById('catalog-type-filter') || {}).value || ''
+  ));
+}
+
+function removeFromWatchlist(ticker) {
+  var state = loadUserState();
+  state.watchlist = state.watchlist.filter(function(i) { return i.ticker !== ticker; });
+  saveUserState(state);
+  renderUserWatchlist();
+}
+
+function renderUserWatchlist() {
+  var state = loadUserState();
+  var wl    = state.watchlist.filter(function(i) { return !i.is_custom; });
+  var custom= state.watchlist.filter(function(i) { return !!i.is_custom; });
+
+  /* KPIs */
+  var byType = {};
+  state.watchlist.forEach(function(i) {
+    var t = i.instrument_type || 'other';
+    byType[t] = (byType[t] || 0) + 1;
+  });
+  var kpiHtml = '<div class="wl-kpi"><div class="label">Total</div><div class="value">' + state.watchlist.length + '</div></div>';
+  Object.keys(byType).forEach(function(t) {
+    kpiHtml += '<div class="wl-kpi"><div class="label">' + t + '</div><div class="value">' + byType[t] + '</div></div>';
+  });
+  setInner('user-wl-kpis', kpiHtml);
+
+  /* Catalog-sourced watchlist */
+  if (!wl.length) {
+    setInner('user-wl-content', '<div class="wl-empty">&#x2B50; No catalog instruments yet. Use the <strong>Catalog</strong> tab to add instruments.</div>');
+  } else {
+    var rows = wl.map(function(inst) {
+      var sigObj = getSignalForTicker(inst.ticker);
+      var sigBadge = sigObj
+        ? '<span class="signal-badge signal-' + sigObj.signal + '">' + sigObj.signal + '</span>'
+        : '<span style="color:var(--text-muted);font-size:11px">—</span>';
+      var tags = (inst.tags || []).slice(0, 3).map(function(t) { return '<span class="tag-badge">' + t + '</span>'; }).join(' ');
+      return '<tr>' +
+        '<td><span class="ticker-badge">' + escHtml(inst.ticker) + '</span></td>' +
+        '<td style="max-width:200px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">' + escHtml(inst.name || '') + '</td>' +
+        '<td><span class="type-badge">' + (inst.instrument_type || '?') + '</span></td>' +
+        '<td>' + tags + '</td>' +
+        '<td>' + sigBadge + '</td>' +
+        '<td><button class="btn-remove" data-ticker="' + escHtml(inst.ticker) + '">&#x2715; Remove</button></td>' +
+        '</tr>';
+    }).join('');
+    setInner('user-wl-content',
+      '<table class="catalog-table"><thead><tr><th>Ticker</th><th>Name</th><th>Type</th><th>Tags</th><th>Signal</th><th></th></tr></thead><tbody>' + rows + '</tbody></table>'
+    );
+    document.getElementById('user-wl-content').addEventListener('click', function(e) {
+      var btn = e.target.closest('.btn-remove');
+      if (btn) removeFromWatchlist(btn.dataset.ticker);
+    });
+  }
+
+  /* Custom instruments */
+  if (!custom.length) {
+    setInner('user-custom-content', '<div class="wl-empty">No custom instruments yet.</div>');
+  } else {
+    var crows = custom.map(function(inst) {
+      return '<tr>' +
+        '<td><span class="ticker-badge">' + escHtml(inst.ticker) + '</span> <span class="badge-user">custom</span></td>' +
+        '<td>' + escHtml(inst.name || '') + '</td>' +
+        '<td><span class="type-badge">' + (inst.instrument_type || '?') + '</span></td>' +
+        '<td>' + escHtml(inst.exchange || '') + '</td>' +
+        '<td style="color:var(--text-muted);font-size:12px">' + escHtml(inst.notes || '') + '</td>' +
+        '<td><button class="btn-remove" data-ticker="' + escHtml(inst.ticker) + '">&#x2715;</button></td>' +
+        '</tr>';
+    }).join('');
+    setInner('user-custom-content',
+      '<table class="catalog-table"><thead><tr><th>Ticker</th><th>Name</th><th>Type</th><th>Exchange</th><th>Notes</th><th></th></tr></thead><tbody>' + crows + '</tbody></table>'
+    );
+    document.getElementById('user-custom-content').addEventListener('click', function(e) {
+      var btn = e.target.closest('.btn-remove');
+      if (btn) removeFromWatchlist(btn.dataset.ticker);
+    });
+  }
+}
+
+/* =========================================================
+   ADD INSTRUMENT MODAL
+   ========================================================= */
+
+var addModal = document.getElementById('add-modal');
+
+function openAddModal() { if (addModal) addModal.hidden = false; }
+function closeAddModal() { if (addModal) addModal.hidden = true; }
+
+document.getElementById('btn-open-add-modal').addEventListener('click', openAddModal);
+document.getElementById('add-modal-close').addEventListener('click', closeAddModal);
+addModal.addEventListener('click', function(e) { if (e.target === addModal) closeAddModal(); });
+
+var addSearchInput = document.getElementById('add-search-input');
+var addSearchResults = document.getElementById('add-search-results');
+
+addSearchInput.addEventListener('input', function() {
+  var q = addSearchInput.value.trim();
+  if (!q) { addSearchResults.style.display = 'none'; addSearchResults.innerHTML = ''; return; }
+  var results = searchCatalog(q, '').slice(0, 10);
+  if (!results.length) {
+    addSearchResults.innerHTML = '<div style="padding:12px;color:var(--text-muted);font-size:13px">No catalog matches for "' + escHtml(q) + '"</div>';
+    addSearchResults.style.display = 'block';
+    return;
+  }
+  addSearchResults.style.display = 'block';
+  addSearchResults.innerHTML = results.map(function(inst) {
+    return '<div class="add-result-item" data-ticker="' + escHtml(inst.ticker) + '">' +
+      '<span class="add-result-ticker">' + escHtml(inst.ticker) + '</span>' +
+      '<span class="add-result-name">' + escHtml(inst.name || '') + '</span>' +
+      '<span class="add-result-type">' + (inst.instrument_type || '?') + '</span>' +
+      '</div>';
+  }).join('');
+  addSearchResults.querySelectorAll('.add-result-item').forEach(function(item) {
+    item.addEventListener('click', function() {
+      var ticker = item.dataset.ticker;
+      var inst = catalogData.instruments.find(function(i) { return i.ticker === ticker; });
+      if (inst) { addToWatchlist(inst, false); closeAddModal(); addSearchInput.value = ''; addSearchResults.style.display = 'none'; }
+    });
+  });
+});
+
+document.getElementById('btn-add-custom').addEventListener('click', function() {
+  var ticker = (document.getElementById('custom-ticker').value || '').trim().toUpperCase();
+  if (!ticker) { alert('Ticker is required.'); return; }
+  var name     = document.getElementById('custom-name').value.trim() || ticker;
+  var type     = document.getElementById('custom-type').value || 'stock';
+  var exchange = document.getElementById('custom-exchange').value.trim();
+  var notes    = document.getElementById('custom-notes').value.trim();
+  addToWatchlist({
+    ticker: ticker, name: name, instrument_type: type,
+    exchange: exchange || null, notes: notes, tags: [], is_custom: true,
+  }, true);
+  closeAddModal();
+  ['custom-ticker','custom-name','custom-exchange','custom-notes'].forEach(function(id) {
+    document.getElementById(id).value = '';
+  });
+  switchTab('mywatchlist');
+});
+
+/* =========================================================
+   CHATBOT  (template-based, no external API)
+   ========================================================= */
+
+var chatPanel    = document.getElementById('chat-panel');
+var chatMessages = document.getElementById('chat-messages');
+var chatInput    = document.getElementById('chat-input');
+var chatFab      = document.getElementById('chat-fab');
+
+document.getElementById('chat-fab').addEventListener('click', function() {
+  chatPanel.hidden = !chatPanel.hidden;
+});
+document.getElementById('chat-close').addEventListener('click', function() {
+  chatPanel.hidden = true;
+});
+
+document.getElementById('chat-suggestions').addEventListener('click', function(e) {
+  var btn = e.target.closest('.chat-suggest-btn');
+  if (!btn) return;
+  chatInput.value = btn.dataset.q;
+  sendChatMessage();
+});
+
+document.getElementById('chat-send').addEventListener('click', sendChatMessage);
+chatInput.addEventListener('keydown', function(e) {
+  if (e.key === 'Enter') sendChatMessage();
+});
+
+function appendChatMsg(text, role) {
+  var div = document.createElement('div');
+  div.className = 'chat-msg ' + role;
+  div.innerHTML = text;
+  chatMessages.appendChild(div);
+  chatMessages.scrollTop = chatMessages.scrollHeight;
+}
+
+function sendChatMessage() {
+  var q = chatInput.value.trim();
+  if (!q) return;
+  chatInput.value = '';
+  appendChatMsg(escHtml(q), 'user');
+  setTimeout(function() { appendChatMsg(buildChatResponse(q), 'bot'); }, 300);
+}
+
+function buildChatResponse(q) {
+  var ql = q.toLowerCase();
+  var state = loadUserState();
+
+  /* watchlist query */
+  if (ql.includes('watchlist') || ql.includes('my list')) {
+    if (!state.watchlist.length) return 'Your personal watchlist is empty. Go to the ⭐ My Watchlist tab and click <strong>Add Instrument</strong>.';
+    var items = state.watchlist.map(function(i) { return '<strong>' + escHtml(i.ticker) + '</strong> (' + (i.instrument_type || '?') + ')'; }).join(', ');
+    return 'Your watchlist has <strong>' + state.watchlist.length + '</strong> instrument(s): ' + items + '.';
+  }
+
+  /* bullish signals */
+  if (ql.includes('bullish') || ql.includes('buy signal')) {
+    var bulls = catalogData.signals.filter(function(s) { return s.signal === 'bullish'; }).slice(0, 8);
+    if (!bulls.length) return 'No bullish signals in the current catalog data.';
+    return '<strong>' + bulls.length + ' bullish signal(s):</strong> ' + bulls.map(function(s) { return '<strong>' + escHtml(s.ticker) + '</strong>'; }).join(', ') + '. See the Catalog tab for details.';
+  }
+
+  /* bearish signals */
+  if (ql.includes('bearish') || ql.includes('sell signal')) {
+    var bears = catalogData.signals.filter(function(s) { return s.signal === 'bearish'; }).slice(0, 8);
+    if (!bears.length) return 'No bearish signals in the current catalog data.';
+    return '<strong>' + bears.length + ' bearish signal(s):</strong> ' + bears.map(function(s) { return '<strong>' + escHtml(s.ticker) + '</strong>'; }).join(', ') + '.';
+  }
+
+  /* ETF query */
+  if (ql.includes('etf')) {
+    var etfs = catalogData.instruments.filter(function(i) { return i.instrument_type === 'etf'; });
+    if (!etfs.length) return 'No ETFs found in the catalog. Try syncing the catalog.';
+    var sample = etfs.slice(0, 8).map(function(i) { return '<strong>' + escHtml(i.ticker) + '</strong>'; }).join(', ');
+    return 'Catalog has <strong>' + etfs.length + ' ETFs</strong>. Examples: ' + sample + '. Search the <strong>Catalog</strong> tab for full list.';
+  }
+
+  /* stock query */
+  if (ql.includes('stock')) {
+    var stocks = catalogData.instruments.filter(function(i) { return i.instrument_type === 'stock'; });
+    if (!stocks.length) return 'No stocks found in the catalog.';
+    var sample = stocks.slice(0, 8).map(function(i) { return '<strong>' + escHtml(i.ticker) + '</strong>'; }).join(', ');
+    return 'Catalog has <strong>' + stocks.length + ' stock(s)</strong>. Examples: ' + sample + '.';
+  }
+
+  /* news */
+  if (ql.includes('news') || ql.includes('topic')) {
+    var articles = catalogData.news.slice(0, 5);
+    if (!articles.length) return 'No news articles loaded yet. Check the News tab.';
+    var lines = articles.map(function(a) { return '• <a href="' + escHtml(a.url) + '" target="_blank" rel="noopener noreferrer">' + escHtml(a.title.substring(0, 80)) + (a.title.length > 80 ? '…' : '') + '</a>'; });
+    return '<strong>Top news from financenews:</strong><br>' + lines.join('<br>');
+  }
+
+  /* specific ticker lookup */
+  var tickerMatch = q.match(/\b([A-Z]{1,5}(?:\.[A-Z]{1,2})?)\b/);
+  if (tickerMatch) {
+    var ticker = tickerMatch[1];
+    var inst = catalogData.instruments.find(function(i) { return i.ticker === ticker; });
+    var sig  = catalogData.signals.find(function(s) { return s.ticker === ticker; });
+    if (inst || sig) {
+      var parts = [];
+      if (inst) parts.push('<strong>' + escHtml(ticker) + '</strong> — ' + escHtml(inst.name || ticker) + ' (' + (inst.instrument_type || '?') + ')');
+      if (sig)  parts.push('Signal: <span class="signal-badge signal-' + sig.signal + '">' + sig.signal + '</span> (confidence: ' + sig.confidence + ')');
+      if (sig && sig.reasoning) parts.push('<em>' + escHtml(sig.reasoning.substring(0, 200)) + '</em>');
+      if (sig && sig.headline_title) parts.push('Related: <a href="' + escHtml(sig.headline_url) + '" target="_blank" rel="noopener noreferrer">' + escHtml(sig.headline_title.substring(0, 80)) + '</a>');
+      return parts.join('<br>');
+    }
+  }
+
+  /* how many / count */
+  if (ql.includes('how many') || ql.includes('count')) {
+    var ov = catalogData.overview || {};
+    var totals = ov.totals || {};
+    return 'Catalog has <strong>' + (totals.catalog_instruments || 0) + '</strong> instruments, <strong>' + (totals.signals || 0) + '</strong> signal entries, and <strong>' + (totals.news_articles || 0) + '</strong> news articles (sourced from financenews).';
+  }
+
+  /* fallback */
+  return 'I\'m a template-based assistant using the local catalog and signal data. Try asking:<br>• <em>What ETFs are in the catalog?</em><br>• <em>Which have bullish signals?</em><br>• <em>Tell me about NVDA</em><br>• <em>What is in my watchlist?</em>';
+}
+
+/* =========================================================
+   Utility: HTML escape
+   ========================================================= */
+
+function escHtml(str) {
+  return String(str || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
 </script>
 
 </body>
