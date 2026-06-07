@@ -1,23 +1,67 @@
 {
-  "generated_at": "2026-06-06T18:03:55Z",
-  "snapshot_date": "2026-06-06",
+  "generated_at": "2026-06-07T08:34:24Z",
+  "snapshot_date": "2026-06-07",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "The blowout jobs report is bad news for stocks — but it shouldn’t force the Fed’s hand on interest rates",
-      "url": "https://www.marketwatch.com/story/the-blowout-jobs-report-is-bad-news-for-stocks-but-it-shouldnt-force-the-feds-hand-on-interest-rates-66eaa2b9?mod=mw_rss_topstories",
+      "title": "‘No one wears bling’: What does it say about America if people are afraid to wear their jewelry?",
+      "url": "https://www.marketwatch.com/story/no-one-seems-to-wear-their-bling-is-it-safe-to-show-off-your-expensive-jewelry-a807bc55?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-06T13:40:00+00:00",
-      "summary": "Rate hikes now will choke off the critical investments needed to lower prices.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.5346,
+      "published_at": "2026-06-06T23:15:00+00:00",
+      "summary": "“I’ve been to many shows, operas, big parties and fundraisers.”",
+      "sentiment": "bullish",
+      "sentiment_score": 0.4019,
       "tags": [
-        "Interest Rates",
-        "Fed"
+        "AI"
       ],
       "signal": "watch",
-      "category": "macro",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "‘He’s very short-tempered’: My husband won’t sell his home so we can combine our finances and live in comfort. Am I unreasonable?",
+      "url": "https://www.marketwatch.com/story/hes-very-short-tempered-my-husband-wont-sell-his-home-so-we-can-combine-our-finances-and-live-in-comfort-am-i-unreasonable-f261176a?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-06T22:49:00+00:00",
+      "summary": "“Our homes are 20 miles apart, and he still drives back and forth almost daily.”",
+      "sentiment": "bullish",
+      "sentiment_score": 0.3612,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "A new wave of weight-loss therapies aims to be better than today’s GLP-1s",
+      "url": "https://www.marketwatch.com/story/tired-of-nausea-or-taking-a-glp-1-pill-every-day-these-experimental-drugs-could-be-better-than-zepbound-and-wegovy-587bf648?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-06T21:10:00+00:00",
+      "summary": "Retatrutide is one of those drugs. It helped people lose a massive amount of weight in clinical trials. It also improved sleep apnea and knee pain.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Most robo-advisers will never profit from Wall Street’s AI-generated stock picks",
+      "url": "https://www.marketwatch.com/story/wall-street-keeps-its-ai-stock-picking-secrets-heres-what-robo-advisers-actually-do-93871e31?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-06T18:50:00+00:00",
+      "summary": "Retail robo-advisors excel at tax-loss harvesting and portfolio discipline, but market-beating returns aren’t part of the package.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0765,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
       "source_repo": "financenews"
     },
     {
@@ -36,51 +80,6 @@
       "source_repo": "financenews"
     },
     {
-      "title": "America’s crude inventories are getting perilously low. But that’s not the full story.",
-      "url": "https://www.marketwatch.com/story/americas-crude-inventories-are-getting-perilously-low-but-thats-not-the-full-story-c3104976?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-06T12:00:00+00:00",
-      "summary": "U.S. commercial oil inventories may be too low for comfort as the war with Iran enters its fourth month far from a clear resolution — and a lot is riding on how much longer the conflict drags on.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.85,
-      "tags": [
-        "Oil"
-      ],
-      "signal": "watch",
-      "category": "energy",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Apple’s WWDC will be a make-or-break moment for the company’s fledgling AI strategy",
-      "url": "https://www.marketwatch.com/story/apples-wwdc-will-be-a-make-or-break-moment-for-the-companys-fledgling-ai-strategy-42086cc1?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-06T11:30:00+00:00",
-      "summary": "At Monday’s keynote, Apple will get a second chance to show users it can make Siri smarter and more contextually aware.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6124,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "‘No one wears bling’: What does it say about America if people are afraid to wear their jewelry?",
-      "url": "https://www.marketwatch.com/story/no-one-seems-to-wear-their-bling-is-it-safe-to-show-off-your-expensive-jewelry-a807bc55?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-06T11:14:00+00:00",
-      "summary": "“I’ve been to many shows, operas, big parties and fundraisers.”",
-      "sentiment": "bullish",
-      "sentiment_score": 0.4019,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
       "title": "On China, Trump picked the right battle but the wrong strategy",
       "url": "https://www.theguardian.com/business/2026/jun/06/us-china-trump-trade-war",
       "source": "The Guardian Economics",
@@ -90,37 +89,6 @@
       "sentiment_score": -0.8735,
       "tags": [
         "Trade War",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "‘He’s very short-tempered’: My husband won’t sell his home so we can combine our finances and live in comfort. Am I unreasonable?",
-      "url": "https://www.marketwatch.com/story/hes-very-short-tempered-my-husband-wont-sell-his-home-so-we-can-combine-our-finances-and-live-in-comfort-am-i-unreasonable-f261176a?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-06T11:00:00+00:00",
-      "summary": "“Our homes are 20 miles apart, and he still drives back and forth almost daily.”",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3612,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "The key to the upcoming Fed meeting? How Warsh reacts to all the hints of a rate hike.",
-      "url": "https://www.marketwatch.com/story/the-key-to-the-upcoming-fed-meeting-how-warsh-reacts-to-all-the-hints-of-a-rate-hike-3cbdce15?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-06T11:00:00+00:00",
-      "summary": "The new Fed chair might make swift changes to how the central bank communicates.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.2023,
-      "tags": [
-        "Fed",
         "AI"
       ],
       "signal": "watch",
@@ -467,6 +435,36 @@
       ],
       "signal": "watch",
       "category": "markets",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Despite what the UK right will tell you, appeasing bond markets has actually led to instability | Andy Beckett",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/02/uk-right-bond-markets-instability-austerity-populism",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-02T05:00:38+00:00",
+      "summary": "<p>Austerity has benefitted bond traders but impoverished British society and led to the rise of populism. Is it right that we carry on adhering to their interests?</p><p>Should politics always be dominated by economics? Should questions about how governments and voters pay for things – whether by earnings, taxes or borrowing – be settled before we consider the wider consequences?</p><p>In an anxious capitalist democracy such as Britain, with a modern history of patchy economic success and intermittent but recurring crises over public debt, the answer may seem obvious: governments and voters always need to behave in ways that fit with the market forces that shape our economy.</p><p>Andy Beckett is a Guardian columnist</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/02/uk-right-bond-markets-instability-austerity-populism\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7041,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Nvidia, Meta and SLB rank among top companies in adopting AI, new study says",
+      "url": "https://www.cnbc.com/2026/06/01/nvidia-meta-walmart-among-top-companies-adopting-ai.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-01T17:58:25+00:00",
+      "summary": "The AI-Driven Enterprise Institute released new research that breaks down the degree to which S&amp;P 500 companies are adopting AI compared with their peers.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.2023,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
       "source_repo": "financenews"
     }
   ]
