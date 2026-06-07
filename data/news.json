@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T07:53:10.644954+00:00",
+  "generated_at": "2026-06-07T10:27:19.673006+00:00",
   "articles": [
     {
       "id": "b6287271e48a",
@@ -11,6 +11,42 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "A euro-zone interest-rate hike in the coming week is set to place the European Central Bank at the vanguard of global tightening caused by the Iran war.",
+      "tags": []
+    },
+    {
+      "id": "46036fe2603e",
+      "title": "OpenAI Readies ‘Superapp’ Pivot Ahead of Planned IPO, FT Reports",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-07/openai-plans-superapp-pivot-ahead-of-planned-ipo-ft-reports",
+      "published_at": "2026-06-07T10:08:43+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "OpenAI is readying a major platform overhaul ahead of its highly anticipated IPO later this year to better compete with rivals such as Anthropic, the Financial Times reported.",
+      "tags": []
+    },
+    {
+      "id": "549a98813398",
+      "title": "South Korea Unveils Measures to Stem Won Slide, Curb Speculation",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-07/south-korea-unveils-measures-to-stem-won-slide-curb-speculation",
+      "published_at": "2026-06-07T09:07:11+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "South Korea laid out a series of targeted measures to curb pressure on the won after the currency slid to its weakest level since 2009, pledging firm action against speculative trading and other activ",
+      "tags": []
+    },
+    {
+      "id": "ce5b4f6ac703",
+      "title": "Fire Erupts on Luxury Yacht Near Singapore's Sentosa Cove",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-07/fire-erupts-on-luxury-yacht-near-singapore-s-sentosa-cove",
+      "published_at": "2026-06-07T08:23:25+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Firefighters attempt to extinguish a fire that broke out on a luxury yacht berthed in Singapore's Sentosa Cove. (Source: Bloomberg)",
       "tags": []
     },
     {
@@ -86,42 +122,6 @@
       "tags": []
     },
     {
-      "id": "13d1d607447f",
-      "title": "Delta President on Middle East Flights & Premium Travel",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-06/delta-president-on-middle-east-flights-premium-travel",
-      "published_at": "2026-06-06T21:50:29+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Delta Airlines President Peter Carter speaks at the International Air Transport Association (IATA) on Middle East, Rhiad flights and premium travel.  (Source: Bloomberg)",
-      "tags": []
-    },
-    {
-      "id": "480078f1af45",
-      "title": "Delta's Peter Carter on Consumer Premium Travel Appetite",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-06/delta-s-peter-carter-on-consumer-premium-travel-appetite-video",
-      "published_at": "2026-06-06T21:34:18+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Delta Airlines President Peter Carter speaks at the International Air Transport Association (IATA) on consumers \"insatiable appetite\" for premium travel. (Source: Bloomberg)",
-      "tags": []
-    },
-    {
-      "id": "79536b402e89",
-      "title": "JetBlue CEO Speaks on Potential Consolidation at IATA",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-06/jetblue-ceo-speaks-on-potential-consolidation-at-iata-video",
-      "published_at": "2026-06-06T21:02:51+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "JetBlue CEO Joanna Geraghty speaks at the International Air Transport Association (IATA) on potential consolidation saying \"never say never\". (Source: Bloomberg)",
-      "tags": []
-    },
-    {
       "id": "a84d10b28620",
       "title": "OpenAI plots biggest ChatGPT overhaul since launch",
       "source": "International homepage",
@@ -170,6 +170,18 @@
       "tags": []
     },
     {
+      "id": "a3ddbc237474",
+      "title": "Voters sour on Trump’s handling of inflation and grocery prices — FT poll",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/e8a0a845-c812-4158-ba1b-85613719f861",
+      "published_at": "2026-06-07T10:00:04+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "US president blamed for high cost of living as Iran war deepens discontent",
+      "tags": []
+    },
+    {
       "id": "9624dfb70ab7",
       "title": "US weighs using Iranian assets to compensate Gulf allies for war damage",
       "source": "International homepage",
@@ -191,18 +203,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "US president’s threat against longtime mediator heightens concerns about unpredictability of Washington’s policy",
-      "tags": []
-    },
-    {
-      "id": "10a1c178f5d5",
-      "title": "Bouygues Telecom consortium agrees to buy Patrick Drahi’s SFR for €20.35bn",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/64686829-95e6-4af2-8568-579684606403",
-      "published_at": "2026-06-06T22:16:57+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Bid from group including Orange and Free-Iliad faces showdown with antitrust regulators in Paris and Brussels",
       "tags": []
     },
     {
@@ -230,15 +230,15 @@
       "tags": []
     },
     {
-      "id": "a4de9531acd6",
-      "title": "Tokio Marine boss to use Berkshire deal for global growth drive",
+      "id": "3ca37bd9bb59",
+      "title": "Europe risks ‘mass unemployment’ without reform, warns ABB boss",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/20449d8d-90e4-461c-b3de-f9f30fcd474d",
-      "published_at": "2026-06-07T01:08:39+00:00",
+      "url": "https://www.ft.com/content/c7d9e440-49a9-4254-bc18-748baa99c7d8",
+      "published_at": "2026-06-07T04:00:11+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Masahiro Koike aims to turn Japanese group into top five global insurer within a decade",
+      "summary": "Morten Wierod calls for urgent deregulation as energy shock from Iran war dents EU competitiveness",
       "tags": []
     },
     {
@@ -482,6 +482,114 @@
       "tags": []
     },
     {
+      "id": "1cb9ea831c56",
+      "title": "ASE Technology: No Longer Just An OSAT, The LEAP Ramp Changes Everything",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4912674-ase-technology-no-longer-just-osat-leap-ramp-changes-everything?source=feed_all_articles",
+      "published_at": "2026-06-07T09:56:36+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "ASE Technology: No Longer Just An OSAT, The LEAP Ramp Changes Everything",
+      "tags": []
+    },
+    {
+      "id": "66886a33f320",
+      "title": "AutoNation: The Ride Could Get Bumpy, But That Doesn't Change The Opportunity",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4912673-autonation-the-ride-could-get-bumpy-but-that-doesnt-change-the-opportunity?source=feed_all_articles",
+      "published_at": "2026-06-07T09:55:02+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "AutoNation: The Ride Could Get Bumpy, But That Doesn't Change The Opportunity",
+      "tags": []
+    },
+    {
+      "id": "277dc42e01cc",
+      "title": "Two-Month Market Rally: What Comes Next?",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4912675-2-month-market-rally-what-comes-next?source=feed_all_articles",
+      "published_at": "2026-06-07T09:45:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Two-Month Market Rally: What Comes Next?",
+      "tags": []
+    },
+    {
+      "id": "a589a3fa8f88",
+      "title": "Micron: Robotics Supercycle Meets Fed Rate Hike Risks",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4912671-micron-robotics-supercycle-meets-fed-rate-hike-risks-rating-downgrade?source=feed_all_articles",
+      "published_at": "2026-06-07T09:38:51+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Micron: Robotics Supercycle Meets Fed Rate Hike Risks",
+      "tags": []
+    },
+    {
+      "id": "c343d99aa6bf",
+      "title": "The Reasons Why I Believe A Buy Rating Is Not Justified For Clorox (Rating Upgrade)",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4912667-reasons-why-i-believe-a-buy-rating-is-not-justified-for-clorox?source=feed_all_articles",
+      "published_at": "2026-06-07T09:21:20+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The Reasons Why I Believe A Buy Rating Is Not Justified For Clorox (Rating Upgrade)",
+      "tags": []
+    },
+    {
+      "id": "c0f57720e96b",
+      "title": "S&P 500: This Is Not A Dip Yet (Rating Downgrade)",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4912665-s-and-p-500-this-is-not-a-dip-yet-rating-downgrade?source=feed_all_articles",
+      "published_at": "2026-06-07T08:57:01+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "S&P 500: This Is Not A Dip Yet (Rating Downgrade)",
+      "tags": []
+    },
+    {
+      "id": "134dc6518531",
+      "title": "Credo's Next Growth Phase",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4912664-credos-next-growth-phase?source=feed_all_articles",
+      "published_at": "2026-06-07T08:44:17+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Credo's Next Growth Phase",
+      "tags": []
+    },
+    {
+      "id": "158bfb17ea90",
+      "title": "Younger Generations Drive Investment Growth In Southeast Asia",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4912670-younger-generations-drive-investment-growth-in-southeast-asia?source=feed_all_articles",
+      "published_at": "2026-06-07T08:40:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Younger Generations Drive Investment Growth In Southeast Asia",
+      "tags": []
+    },
+    {
+      "id": "382332e6aacf",
+      "title": "This Week's Market Wrap: AI Ups And Downs, Oil Roars Back, And Strong Data",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4912666-market-wrap-ai-ups-downs-oil-roars-back-strong-data?source=feed_all_articles",
+      "published_at": "2026-06-07T08:20:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "This Week's Market Wrap: AI Ups And Downs, Oil Roars Back, And Strong Data",
+      "tags": []
+    },
+    {
       "id": "9b0f9eb241bb",
       "title": "Drifting In The Same Lane: The Convergence Of Porsche And Ferrari",
       "source": "All Articles on Seeking Alpha",
@@ -491,114 +599,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Drifting In The Same Lane: The Convergence Of Porsche And Ferrari",
-      "tags": []
-    },
-    {
-      "id": "2cff56f535af",
-      "title": "Week Ahead: Surging Greenback On Robust Jobs Data, While ECB Hike Seen As A Done Deal",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4912662-week-ahead-surging-greenback-on-robust-jobs-data-while-ecb-hike-seen-as-done-deal?source=feed_all_articles",
-      "published_at": "2026-06-07T07:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Week Ahead: Surging Greenback On Robust Jobs Data, While ECB Hike Seen As A Done Deal",
-      "tags": []
-    },
-    {
-      "id": "7385518775d5",
-      "title": "Investor AB: Short-Term Outperformance Masks Fundamental Growth Issues",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4912656-investor-ab-short-term-outperformance-masks-fundamental-growth-issues?source=feed_all_articles",
-      "published_at": "2026-06-07T06:24:23+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Investor AB: Short-Term Outperformance Masks Fundamental Growth Issues",
-      "tags": []
-    },
-    {
-      "id": "505d43617e61",
-      "title": "Legence: A Home Run",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4912653-legence-a-home-run?source=feed_all_articles",
-      "published_at": "2026-06-07T05:45:16+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Legence: A Home Run",
-      "tags": []
-    },
-    {
-      "id": "1769b8628f48",
-      "title": "Coty Inc. (COTY) Presents at TD Cowen 10th Annual Future of the Consumer Conference Transcript",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4912659-coty-inc-coty-presents-at-td-cowen-10th-annual-future-of-the-consumer-conference-transcript?source=feed_all_articles",
-      "published_at": "2026-06-07T05:42:55+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Coty Inc. (COTY) Presents at TD Cowen 10th Annual Future of the Consumer Conference Transcript",
-      "tags": []
-    },
-    {
-      "id": "8e1627a8ceb8",
-      "title": "SS&C Technologies Holdings, Inc. (SSNC) Presents at 46th Annual William Blair Growth Stock Conference Transcript",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4912654-ss-and-c-technologies-holdings-inc-ssnc-presents-at-46th-annual-william-blair-growth-stock?source=feed_all_articles",
-      "published_at": "2026-06-07T05:03:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "SS&C Technologies Holdings, Inc. (SSNC) Presents at 46th Annual William Blair Growth Stock Conference Transcript",
-      "tags": []
-    },
-    {
-      "id": "861690b9a4a5",
-      "title": "Health Care Flies High",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4912541-health-care-flies-high?source=feed_all_articles",
-      "published_at": "2026-06-07T04:30:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Health Care Flies High",
-      "tags": []
-    },
-    {
-      "id": "24a096f419e6",
-      "title": "S&P 500 Snapshot: Sharpest Drop Since April 2025",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4912555-sp-500-snapshot-sharpest-drop-since-april-2025?source=feed_all_articles",
-      "published_at": "2026-06-07T04:30:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "S&P 500 Snapshot: Sharpest Drop Since April 2025",
-      "tags": []
-    },
-    {
-      "id": "70827418518b",
-      "title": "Politics And The Markets 06/07/26",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4910470-politics-and-the-markets-060726?source=feed_all_articles",
-      "published_at": "2026-06-07T04:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Politics And The Markets 06/07/26",
-      "tags": []
-    },
-    {
-      "id": "c37526469dfb",
-      "title": "Magnite: Great Start To 2026 Should Drive The Stock's Recovery",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4912652-magnite-great-start-to-2026-should-drive-the-stocks-recovery?source=feed_all_articles",
-      "published_at": "2026-06-07T03:48:27+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Magnite: Great Start To 2026 Should Drive The Stock's Recovery",
       "tags": []
     }
   ]
