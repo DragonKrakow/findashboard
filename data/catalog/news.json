@@ -1,17 +1,32 @@
 {
-  "generated_at": "2026-06-07T08:34:24Z",
-  "snapshot_date": "2026-06-07",
+  "generated_at": "2026-06-08T10:01:45Z",
+  "snapshot_date": "2026-06-08",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "‘No one wears bling’: What does it say about America if people are afraid to wear their jewelry?",
-      "url": "https://www.marketwatch.com/story/no-one-seems-to-wear-their-bling-is-it-safe-to-show-off-your-expensive-jewelry-a807bc55?mod=mw_rss_topstories",
+      "title": "U.S. stock futures mixed, oil prices surge as new attacks threaten the cease-fire with Iran",
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-slide-oil-prices-surge-as-new-attacks-threaten-the-cease-fire-with-iran-6e433c90?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-06T23:15:00+00:00",
-      "summary": "“I’ve been to many shows, operas, big parties and fundraisers.”",
-      "sentiment": "bullish",
-      "sentiment_score": 0.4019,
+      "published_at": "2026-06-08T03:03:00+00:00",
+      "summary": "U.S. stock-index futures swung back for forth Sunday, after a massive tech selloff on Friday interrupted Wall Street’s two-month rally, and after new developments threatened the fragile cease-fire in the Iran war.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.9274,
+      "tags": [
+        "Oil"
+      ],
+      "signal": "watch",
+      "category": "energy",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Nvidia strikes a new memory-chip deal — but SK Hynix and Samsung shares are under heavy pressure",
+      "url": "https://www.marketwatch.com/story/nvidia-strikes-a-new-memory-chip-deal-but-sk-hynix-and-samsung-shares-are-under-heavy-pressure-1033c853?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-08T02:03:00+00:00",
+      "summary": "South Korea’s once-hot Kospi index is headed for another day of sharp declines as the AI trade loses steam.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.5719,
       "tags": [
         "AI"
       ],
@@ -20,13 +35,43 @@
       "source_repo": "financenews"
     },
     {
-      "title": "‘He’s very short-tempered’: My husband won’t sell his home so we can combine our finances and live in comfort. Am I unreasonable?",
-      "url": "https://www.marketwatch.com/story/hes-very-short-tempered-my-husband-wont-sell-his-home-so-we-can-combine-our-finances-and-live-in-comfort-am-i-unreasonable-f261176a?mod=mw_rss_topstories",
+      "title": "The Wegovy pill is still dominating the GLP-1 pill market",
+      "url": "https://www.marketwatch.com/story/the-wegovy-pill-is-still-dominating-the-glp-1-pill-market-f7add507?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-06T22:49:00+00:00",
-      "summary": "“Our homes are 20 miles apart, and he still drives back and forth almost daily.”",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3612,
+      "published_at": "2026-06-07T23:35:00+00:00",
+      "summary": "It has remained a top choice among Americans trying to lose weight even after the launch of Foundayo, Eli Lilly’s GLP-1 pill.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.4767,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "S&P 500 companies can’t stop talking about higher oil prices. But few say they’ll actually hurt profits.",
+      "url": "https://www.marketwatch.com/story/s-p-500-companies-cant-stop-talking-about-higher-oil-prices-but-few-say-theyll-actually-hit-profits-c3a4e4ea?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-07T19:14:00+00:00",
+      "summary": "Only seven companies cited oil prices as a reason for cutting or not updating their profit outlooks for the year.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.7359,
+      "tags": [
+        "Oil"
+      ],
+      "signal": "watch",
+      "category": "energy",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "These are the market’s new hot stocks as investors flee from tech",
+      "url": "https://www.marketwatch.com/story/these-are-the-markets-new-hot-stocks-as-investors-flee-from-tech-826096c2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-07T16:00:00+00:00",
+      "summary": "Investors are suddenly dumping technology stocks and rotating into other areas — including health insurers, banks and retailers.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.3182,
       "tags": [
         "AI"
       ],
@@ -38,7 +83,7 @@
       "title": "A new wave of weight-loss therapies aims to be better than today’s GLP-1s",
       "url": "https://www.marketwatch.com/story/tired-of-nausea-or-taking-a-glp-1-pill-every-day-these-experimental-drugs-could-be-better-than-zepbound-and-wegovy-587bf648?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-06T21:10:00+00:00",
+      "published_at": "2026-06-07T14:18:00+00:00",
       "summary": "Retatrutide is one of those drugs. It helped people lose a massive amount of weight in clinical trials. It also improved sleep apnea and knee pain.",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
@@ -50,13 +95,28 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Most robo-advisers will never profit from Wall Street’s AI-generated stock picks",
-      "url": "https://www.marketwatch.com/story/wall-street-keeps-its-ai-stock-picking-secrets-heres-what-robo-advisers-actually-do-93871e31?mod=mw_rss_topstories",
+      "title": "‘No one wears bling’: What does it say about America if people are afraid to wear their jewelry?",
+      "url": "https://www.marketwatch.com/story/no-one-seems-to-wear-their-bling-is-it-safe-to-show-off-your-expensive-jewelry-a807bc55?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-06T18:50:00+00:00",
-      "summary": "Retail robo-advisors excel at tax-loss harvesting and portfolio discipline, but market-beating returns aren’t part of the package.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0765,
+      "published_at": "2026-06-07T14:00:00+00:00",
+      "summary": "“I’ve been to many shows, operas, big parties and fundraisers.”",
+      "sentiment": "bullish",
+      "sentiment_score": 0.4019,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Rachel Reeves may be unpopular, but she is quietly rebalancing UK plc | Heather Stewart",
+      "url": "https://www.theguardian.com/politics/2026/jun/07/rachel-reeves-unpopular-quietly-rebalancing-uk-plc",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-07T11:13:20+00:00",
+      "summary": "<p>Policy U-turns could define her stint at No 11 despite many sure-footed advances on devolved spending to help kickstart growth</p><p>An air of unreality settled on a Westminster conference room last week, as Rachel Reeves, upbeat in a powder pink power suit, gave a speech about boosting jobs and growth along the “OxCam corridor”.</p><p>“If we get this right, working together, this corridor will not just compete globally, it will lead globally. We can do that together!” she told the audience of investors, policymakers and entrepreneurs.</p> <a href=\"https://www.theguardian.com/politics/2026/jun/07/rachel-reeves-unpopular-quietly-rebalancing-uk-plc\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8197,
       "tags": [
         "AI"
       ],
@@ -180,9 +240,9 @@
       "url": "https://www.theguardian.com/commentisfree/2026/jun/05/child-care-councils-private-equity-companies",
       "source": "The Guardian Economics",
       "published_at": "2026-06-05T07:00:29+00:00",
-      "summary": "<p>Councils are sending vulnerable kids to homes run by money-grabbing cowboys and private-equity vultures</p><p>Bring your suitcase, your bin liner, your dumpy bag. They’re handing out money faster than you can stuff it in a sack. All you need do is join the market in what may now be England’s most lucrative commodity. A commodity with arms and legs, hearts and brains, thoughts and feelings. Children.</p><p>Two years ago I <a href=\"https://www.theguardian.com/commentisfree/article/2024/may/18/child-care-cost-year-wealth-funds-councils-britain-residential\">stumbled into this issue</a> after discovering that children in care who were being helped by a local charity I’m involved with were suddenly being whisked away, terminating the amazing progress they had been making, breaking their relationships, their sense of home, stability and security. When I began exploring why this was happening, I could scarcely believe what I was seeing: a highly lucrative trade in highly vulnerable young people. Children in “care” were being exchanged between private equity companies for £100,000 apiece. That figure is now wrong. Today they are worth far more.</p><p>George Monbiot is a Guardian columnist</p><p><em><strong>Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our<a href=\"https://www.theguardian.com/tone/letters\"> letters</a> section, please <a href=\"mailto:guardian.letters@theguardian.com?body=Please%20include%20your%20name,%20full%20postal%20address%20and%20phone%20number%20with%20your%20letter%20below.%20Letters%20are%20usually%20published%20with%20the%20author%27s%20name%20and%20city/town/village.%20The%20rest%20of%20the%20information%20is%20for%20verification%20only%20and%20to%20contact%20you%20where%20necessary.\">click here</a>.</strong></em></p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/05/child-care-councils-private-equity-companies\">Continue reading...</a>",
+      "summary": "<p>Councils are sending vulnerable kids to homes run by money-grabbing cowboys and private-equity vultures</p><p>Bring your suitcase, your bin liner, your dumpy bag. They’re handing out money faster than you can stuff it in a sack. All you need do is join the market in what may now be England’s most lucrative commodity. A commodity with arms and legs, hearts and brains, thoughts and feelings. Children.</p><p>Two years ago I <a href=\"https://www.theguardian.com/commentisfree/article/2024/may/18/child-care-cost-year-wealth-funds-councils-britain-residential\">stumbled into this issue</a> after discovering that children in care who were being helped by a local charity I’m involved with were suddenly being whisked away, terminating the amazing progress they had been making, breaking their relationships, their sense of home, stability and security. When I began exploring why this was happening, I could scarcely believe what I was seeing: a highly lucrative trade in highly vulnerable young people. Children in “care” were being exchanged between private equity companies for £100,000 apiece. That figure is now wrong. Today they are worth far more.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/05/child-care-councils-private-equity-companies\">Continue reading...</a>",
       "sentiment": "bullish",
-      "sentiment_score": 0.9621,
+      "sentiment_score": 0.9382,
       "tags": [
         "AI"
       ],
@@ -398,69 +458,6 @@
       "tags": [
         "Oil",
         "Gold",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Will the AI economy create a permanent underclass?",
-      "url": "https://www.theguardian.com/business/2026/jun/02/will-the-ai-economy-create-a-permanent-underclass",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-02T12:27:52+00:00",
-      "summary": "<p>From India and Africa to Europe, countries not yet in the AI supply chain risk mass job losses, losing the tax revenue needed to deal with the tech’s fallout</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/02/alphabet-80bn-share-sales-ai-spending-berkshire-hathaway-stock-markets-oil-interest-rates-inflation-latest-news-updates\">Business live – AI to drive up UK youth unemployment</a></p></li></ul><p>The San Francisco Bay Area is in the midst of an AI frenzy that makes the California gold rush of the mid-19th century look like a scavenger hunt. Top programmers and developers are being offered compensation packages worth <a href=\"https://www.wired.com/story/mark-zuckerberg-meta-offer-top-ai-talent-300-million/\">hundreds of millions of dollars</a> to switch firms, while young engineers lucky enough to have joined leading AI startups early are contemplating retirement before age 35.</p><p>Driving up the Bayshore Freeway from San Francisco International airport into the city, you pass hyper-specific billboards advertising obscure AI applications seemingly aimed at absurdly niche audiences. How can that possibly be profitable? The answer is that in a city crawling with startups, getting the right software product in front of a founder whose company could soon be worth billions of dollars is far more lucrative than using billboard space to sell burgers or laundry detergent.</p> <a href=\"https://www.theguardian.com/business/2026/jun/02/will-the-ai-economy-create-a-permanent-underclass\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6966,
-      "tags": [
-        "Oil",
-        "Gold",
-        "AI",
-        "Supply Chain"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Orbán’s oligarchs on edge as Hungary poised to launch wealth tax",
-      "url": "https://www.theguardian.com/world/2026/jun/02/orban-oligarchs-on-edge-hungary-wealth-tax-peter-magyar",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-02T05:00:39+00:00",
-      "summary": "<p>New PM Péter Magyar calls policy a sign of ‘social justice’ after years of political loyalty being rewarded with economic opportunity</p><p>In a dimly lit television studio, one of Hungary’s richest men is on the verge of tears. It is early May, weeks after the general election that ended Viktor Orbán’s 16-year grip on power, and the advertising mogul Gyula Balásy has an announcement to make.</p><p>Balásy <a href=\"https://www.youtube.com/watch?v=cslzmXaC51M\">tells the interviewer</a> that he has just surrendered his businesses to the state, along with a chunk of his private savings. He has even brought along a notarised deed – a legal document setting out the change of ownership.</p> <a href=\"https://www.theguardian.com/world/2026/jun/02/orban-oligarchs-on-edge-hungary-wealth-tax-peter-magyar\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.9313,
-      "tags": [
-        "Election"
-      ],
-      "signal": "watch",
-      "category": "markets",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Despite what the UK right will tell you, appeasing bond markets has actually led to instability | Andy Beckett",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/02/uk-right-bond-markets-instability-austerity-populism",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-02T05:00:38+00:00",
-      "summary": "<p>Austerity has benefitted bond traders but impoverished British society and led to the rise of populism. Is it right that we carry on adhering to their interests?</p><p>Should politics always be dominated by economics? Should questions about how governments and voters pay for things – whether by earnings, taxes or borrowing – be settled before we consider the wider consequences?</p><p>In an anxious capitalist democracy such as Britain, with a modern history of patchy economic success and intermittent but recurring crises over public debt, the answer may seem obvious: governments and voters always need to behave in ways that fit with the market forces that shape our economy.</p><p>Andy Beckett is a Guardian columnist</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/02/uk-right-bond-markets-instability-austerity-populism\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7041,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Nvidia, Meta and SLB rank among top companies in adopting AI, new study says",
-      "url": "https://www.cnbc.com/2026/06/01/nvidia-meta-walmart-among-top-companies-adopting-ai.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-01T17:58:25+00:00",
-      "summary": "The AI-Driven Enterprise Institute released new research that breaks down the degree to which S&amp;P 500 companies are adopting AI compared with their peers.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.2023,
-      "tags": [
         "AI"
       ],
       "signal": "watch",
