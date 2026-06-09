@@ -1,45 +1,15 @@
 {
-  "generated_at": "2026-06-08T10:01:45Z",
-  "snapshot_date": "2026-06-08",
+  "generated_at": "2026-06-09T08:45:47Z",
+  "snapshot_date": "2026-06-09",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "U.S. stock futures mixed, oil prices surge as new attacks threaten the cease-fire with Iran",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-slide-oil-prices-surge-as-new-attacks-threaten-the-cease-fire-with-iran-6e433c90?mod=mw_rss_topstories",
+      "title": "Your tech portfolio could be on the wrong side of the AI boom",
+      "url": "https://www.marketwatch.com/story/your-next-videogame-console-could-cost-1-000-and-it-has-nothing-to-do-with-better-hardware-8cb180dd?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-08T03:03:00+00:00",
-      "summary": "U.S. stock-index futures swung back for forth Sunday, after a massive tech selloff on Friday interrupted Wall Street’s two-month rally, and after new developments threatened the fragile cease-fire in the Iran war.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9274,
-      "tags": [
-        "Oil"
-      ],
-      "signal": "watch",
-      "category": "energy",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Nvidia strikes a new memory-chip deal — but SK Hynix and Samsung shares are under heavy pressure",
-      "url": "https://www.marketwatch.com/story/nvidia-strikes-a-new-memory-chip-deal-but-sk-hynix-and-samsung-shares-are-under-heavy-pressure-1033c853?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-08T02:03:00+00:00",
-      "summary": "South Korea’s once-hot Kospi index is headed for another day of sharp declines as the AI trade loses steam.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.5719,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "The Wegovy pill is still dominating the GLP-1 pill market",
-      "url": "https://www.marketwatch.com/story/the-wegovy-pill-is-still-dominating-the-glp-1-pill-market-f7add507?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-07T23:35:00+00:00",
-      "summary": "It has remained a top choice among Americans trying to lose weight even after the launch of Foundayo, Eli Lilly’s GLP-1 pill.",
+      "published_at": "2026-06-09T01:52:00+00:00",
+      "summary": "Why the coming $1,000 videogame console will squeeze hardware stocks.",
       "sentiment": "bearish",
       "sentiment_score": -0.4767,
       "tags": [
@@ -50,43 +20,13 @@
       "source_repo": "financenews"
     },
     {
-      "title": "S&P 500 companies can’t stop talking about higher oil prices. But few say they’ll actually hurt profits.",
-      "url": "https://www.marketwatch.com/story/s-p-500-companies-cant-stop-talking-about-higher-oil-prices-but-few-say-theyll-actually-hit-profits-c3a4e4ea?mod=mw_rss_topstories",
+      "title": "Elon Musk says SpaceX doesn’t need ‘magic’ to put AI data centers up in space",
+      "url": "https://www.marketwatch.com/story/elon-musk-says-spacex-doesnt-need-magic-to-put-ai-data-centers-up-in-space-30f2d564?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-07T19:14:00+00:00",
-      "summary": "Only seven companies cited oil prices as a reason for cutting or not updating their profit outlooks for the year.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.7359,
-      "tags": [
-        "Oil"
-      ],
-      "signal": "watch",
-      "category": "energy",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "These are the market’s new hot stocks as investors flee from tech",
-      "url": "https://www.marketwatch.com/story/these-are-the-markets-new-hot-stocks-as-investors-flee-from-tech-826096c2?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-07T16:00:00+00:00",
-      "summary": "Investors are suddenly dumping technology stocks and rotating into other areas — including health insurers, banks and retailers.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.3182,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "A new wave of weight-loss therapies aims to be better than today’s GLP-1s",
-      "url": "https://www.marketwatch.com/story/tired-of-nausea-or-taking-a-glp-1-pill-every-day-these-experimental-drugs-could-be-better-than-zepbound-and-wegovy-587bf648?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-07T14:18:00+00:00",
-      "summary": "Retatrutide is one of those drugs. It helped people lose a massive amount of weight in clinical trials. It also improved sleep apnea and knee pain.",
+      "published_at": "2026-06-08T22:59:00+00:00",
+      "summary": "Critics say that setting up orbital data centers is easier said than done. But Musk argues that it’s not a “super hard problem” to solve.",
       "sentiment": "neutral",
-      "sentiment_score": 0.0,
+      "sentiment_score": -0.1169,
       "tags": [
         "AI"
       ],
@@ -95,18 +35,96 @@
       "source_repo": "financenews"
     },
     {
-      "title": "‘No one wears bling’: What does it say about America if people are afraid to wear their jewelry?",
-      "url": "https://www.marketwatch.com/story/no-one-seems-to-wear-their-bling-is-it-safe-to-show-off-your-expensive-jewelry-a807bc55?mod=mw_rss_topstories",
+      "title": "OpenAI files confidentially for IPO — but there’s a catch",
+      "url": "https://www.marketwatch.com/story/openai-files-confidentially-for-ipo-but-theres-a-catch-3f13fc13?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-07T14:00:00+00:00",
-      "summary": "“I’ve been to many shows, operas, big parties and fundraisers.”",
+      "published_at": "2026-06-08T21:55:00+00:00",
+      "summary": "“It may be a while because there are things we want to do that are likely easier as a private company,” OpenAI says.",
       "sentiment": "bullish",
-      "sentiment_score": 0.4019,
+      "sentiment_score": 0.631,
       "tags": [
         "AI"
       ],
       "signal": "watch",
       "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Eli Lilly stock rises after late-stage trial of next-generation weight-loss drug",
+      "url": "https://www.marketwatch.com/story/eli-lilly-stock-jumps-after-late-stage-trial-of-next-generation-weight-loss-drug-edfae9a2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-08T21:01:00+00:00",
+      "summary": "Eli Lilly shares gained on Monday, after a late-stage trial of its next-generation weight-loss drug impressed analysts.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7845,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Micron’s stock bounces back in a big way: ‘The memory trade is alive and well’",
+      "url": "https://www.marketwatch.com/story/microns-stock-bounces-back-in-a-big-way-the-memory-trade-is-alive-and-well-3466929f?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-08T20:55:00+00:00",
+      "summary": "Long-term supply agreements are altering memory companies’ long-term earnings potential for the better, an analyst said.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.765,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Oil price falls back and Wall Street rallies after Iran announces ‘end of military operations’ against Israel – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/jun/08/stock-markets-fall-oil-jumps-middle-east-conflict-ai-boom-falters-live-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-08T15:43:40+00:00",
+      "summary": "<p>Rolling coverage of the latest economic and financial news, as South Korea’s KOSPI index slumps by 8%</p><ul><li><p><a href=\"https://www.theguardian.com/money/2026/jun/08/uk-companies-opting-to-hire-temporary-workers-over-permanent-staff-recruitment-firms-say\">UK companies opting to hire temporary workers over permanent staff, recruitment firms say</a></p></li><li><p><a href=\"https://www.theguardian.com/science/2026/jun/06/spacex-ipo-buy-shares-elon-musk-stock-market-launch-risks\"><strong>SpaceX IPO: how can I buy shares, and what are the risks?</strong></a></p></li></ul><p><strong>Shares in European companies at the heart of the AI boom are falling sharply at the start of trading.</strong></p><p>Chip firms such as <strong>Besi</strong> – <strong>BE</strong> <strong>Semiconductor</strong> <strong>Industries</strong> – (-4.5%) and <strong>ASML</strong> (-3.2%) which makes chipmaking machines are among the big fallers on the pan-European <strong>Stoxx 600</strong> index, which is down almost 0.9%.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/08/stock-markets-fall-oil-jumps-middle-east-conflict-ai-boom-falters-live-news-updates\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7003,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Stock markets fall as concerns persist over tech firms at heart of AI boom",
+      "url": "https://www.theguardian.com/business/2026/jun/08/stock-markets-fall-tech-firms-ai-boom-oil-prices-iran-israel",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-08T13:55:28+00:00",
+      "summary": "<p>Drops follow sharp sell-off of US tech stock last week while oil prices seesaw after Iran and Israel exchange strikes</p><p>Stock markets have fallen amid concern about the prospects for tech stocks, while oil prices have risen after renewed conflict in the Middle East dampened hopes that the strait of Hormuz would soon reopen.</p><p>Markets in Asia and Europe fell on Monday after a sharp sell-off in US tech stocks late last week, as investors fretted over how firms at the forefront of the artificial intelligence boom would fund their “eye-watering” spending plans.</p> <a href=\"https://www.theguardian.com/business/2026/jun/08/stock-markets-fall-tech-firms-ai-boom-oil-prices-iran-israel\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8176,
+      "tags": [
+        "Oil",
+        "AI",
+        "Artificial Intelligence"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "UK companies opting to hire temporary workers over permanent staff, recruitment firms say",
+      "url": "https://www.theguardian.com/money/2026/jun/08/uk-companies-opting-to-hire-temporary-workers-over-permanent-staff-recruitment-firms-say",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-08T05:00:17+00:00",
+      "summary": "<p>Report blames Middle East conflict and rising business costs for fragile jobs market and steep fall in recruitment</p><p>UK companies are increasingly hiring temporary workers instead of permanent staff because of low confidence in the economy and higher cost pressures, according to a report.</p><p>Recruiters reported a strong increase in offers of temporary roles in May, according to new research from <a href=\"https://www.theguardian.com/business/kpmg\">KPMG</a> and the Recruitment and Employment Confederation (REC).</p> <a href=\"https://www.theguardian.com/money/2026/jun/08/uk-companies-opting-to-hire-temporary-workers-over-permanent-staff-recruitment-firms-say\">Continue reading...</a>",
+      "sentiment": "neutral",
+      "sentiment_score": 0.128,
+      "tags": [
+        "Fed"
+      ],
+      "signal": "watch",
+      "category": "macro",
       "source_repo": "financenews"
     },
     {
@@ -441,23 +459,6 @@
       "sentiment": "bearish",
       "sentiment_score": -0.9856,
       "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Alphabet’s shares drop after announcing $80bn share sale, as AI threatens to drive up youth unemployment – as it happened",
-      "url": "https://www.theguardian.com/business/live/2026/jun/02/alphabet-80bn-share-sales-ai-spending-berkshire-hathaway-stock-markets-oil-interest-rates-inflation-latest-news-updates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-02T15:41:21+00:00",
-      "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/jun/01/anthropic-ai-ipo\">Anthropic confidentially files for initial public offering on US stock market</a></p></li></ul><p><strong>In a landmark moment, gold has overtaken US government bonds as the world’s top reserve asset, according to calculations from the European Central Bank.</strong></p><p>The <strong>ECB</strong> says that gold made up 27% of total official foreign reserves at the end of 2025, ahead of US Treasuries (22% of reserves) and the euro (15%).</p><p>Forces of fragmentation are becoming more pronounced. Geopolitical tensions continue to drive strong central bank demand for gold.</p><p>In nominal terms, the gold price surged by around 60% and 30% in 2025 and 2024 respectively, which mechanically increases the share of gold in total official foreign reserves.</p><p>Correcting for such valuation effects by using the gold price at the end of 2023, the share of the euro (16%) remains at par with the share of gold (16%), while the share of US Treasuries continues to be markedly higher (26%).</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/02/alphabet-80bn-share-sales-ai-spending-berkshire-hathaway-stock-markets-oil-interest-rates-inflation-latest-news-updates\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.9049,
-      "tags": [
-        "Oil",
-        "Gold",
         "AI"
       ],
       "signal": "watch",
