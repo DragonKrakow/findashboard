@@ -1,32 +1,33 @@
 {
-  "generated_at": "2026-06-09T08:45:47Z",
-  "snapshot_date": "2026-06-09",
+  "generated_at": "2026-06-10T09:04:41Z",
+  "snapshot_date": "2026-06-10",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Your tech portfolio could be on the wrong side of the AI boom",
-      "url": "https://www.marketwatch.com/story/your-next-videogame-console-could-cost-1-000-and-it-has-nothing-to-do-with-better-hardware-8cb180dd?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-09T01:52:00+00:00",
-      "summary": "Why the coming $1,000 videogame console will squeeze hardware stocks.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.4767,
+      "title": "Beijing escalating AI espionage to catch up with the U.S. on tech, cybersecurity firm says",
+      "url": "https://www.cnbc.com/2026/06/10/crowdstrike-warns-of-increasing-chinese-ai-cyberattacks-on-us-tech.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-10T05:02:45+00:00",
+      "summary": "U.S. cybersecurity giant CrowdStrike said China-based entities made over half of state-sponsored cyberattacks on tech firms for artificial intelligence assets.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5859,
       "tags": [
-        "AI"
+        "AI",
+        "Artificial Intelligence"
       ],
       "signal": "watch",
       "category": "technology",
       "source_repo": "financenews"
     },
     {
-      "title": "Elon Musk says SpaceX doesn’t need ‘magic’ to put AI data centers up in space",
-      "url": "https://www.marketwatch.com/story/elon-musk-says-spacex-doesnt-need-magic-to-put-ai-data-centers-up-in-space-30f2d564?mod=mw_rss_topstories",
+      "title": "Oracle’s stock has surged on AI hype. Now it has to deliver the earnings to match.",
+      "url": "https://www.marketwatch.com/story/oracles-stock-has-surged-on-ai-hype-now-it-has-to-deliver-the-earnings-to-match-3b56592b?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-08T22:59:00+00:00",
-      "summary": "Critics say that setting up orbital data centers is easier said than done. But Musk argues that it’s not a “super hard problem” to solve.",
+      "published_at": "2026-06-10T02:42:00+00:00",
+      "summary": "Oracle’s fourth-quarter earnings call will deliver critical updates about the progress of its data-center build-out and the financial impact of its AI pivot.",
       "sentiment": "neutral",
-      "sentiment_score": -0.1169,
+      "sentiment_score": 0.128,
       "tags": [
         "AI"
       ],
@@ -35,13 +36,29 @@
       "source_repo": "financenews"
     },
     {
-      "title": "OpenAI files confidentially for IPO — but there’s a catch",
-      "url": "https://www.marketwatch.com/story/openai-files-confidentially-for-ipo-but-theres-a-catch-3f13fc13?mod=mw_rss_topstories",
+      "title": "This proposed federal budget cut could eliminate job training for 42,000 vulnerable seniors",
+      "url": "https://www.marketwatch.com/story/this-proposed-federal-budget-cut-could-eliminate-job-training-for-42-000-vulnerable-seniors-2520ac73?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-08T21:55:00+00:00",
-      "summary": "“It may be a while because there are things we want to do that are likely easier as a private company,” OpenAI says.",
+      "published_at": "2026-06-10T01:31:00+00:00",
+      "summary": "A job-training program for low-income older adults is set to lose funding under President Donald Trump’s proposed budget for 2027 — just as more stringent work requirements for food aid and healthcare coverage go into effect.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.6908,
+      "tags": [
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Super Micro stock plunges as $7 billion equity raise overshadows booming backlog",
+      "url": "https://www.marketwatch.com/story/super-micro-stock-plunges-as-7-billion-equity-raise-overshadows-booming-backlog-c5df2fc8?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-10T00:12:00+00:00",
+      "summary": "Super Micro looks to raise equity as it faces staggering AI demand but also an intense cash burn",
       "sentiment": "bullish",
-      "sentiment_score": 0.631,
+      "sentiment_score": 0.6249,
       "tags": [
         "AI"
       ],
@@ -50,13 +67,13 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Eli Lilly stock rises after late-stage trial of next-generation weight-loss drug",
-      "url": "https://www.marketwatch.com/story/eli-lilly-stock-jumps-after-late-stage-trial-of-next-generation-weight-loss-drug-edfae9a2?mod=mw_rss_topstories",
+      "title": "This stock-market strategy has cheap exposure to AI and points to an advantage for closed-end funds",
+      "url": "https://www.marketwatch.com/story/this-investing-strategy-has-beaten-the-market-with-exposure-to-cheap-ai-stocks-5e743b12?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-08T21:01:00+00:00",
-      "summary": "Eli Lilly shares gained on Monday, after a late-stage trial of its next-generation weight-loss drug impressed analysts.",
+      "published_at": "2026-06-09T23:17:00+00:00",
+      "summary": "The fund is diversified and has been an excellent performer, highlighting the advantages of a closed-end structure.",
       "sentiment": "bullish",
-      "sentiment_score": 0.7845,
+      "sentiment_score": 0.802,
       "tags": [
         "AI"
       ],
@@ -65,13 +82,106 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Micron’s stock bounces back in a big way: ‘The memory trade is alive and well’",
-      "url": "https://www.marketwatch.com/story/microns-stock-bounces-back-in-a-big-way-the-memory-trade-is-alive-and-well-3466929f?mod=mw_rss_topstories",
+      "title": "Apple’s AI could usher in a historic upgrade cycle that investors are overlooking",
+      "url": "https://www.marketwatch.com/story/apples-ai-could-usher-in-a-historic-upgrade-cycle-that-investors-are-overlooking-2b47fbb3?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-08T20:55:00+00:00",
-      "summary": "Long-term supply agreements are altering memory companies’ long-term earnings potential for the better, an analyst said.",
+      "published_at": "2026-06-09T22:00:00+00:00",
+      "summary": "Apple’s new AI features are on track to be monetized faster than expected, thanks to increased hardware requirements and new “killer apps.”",
       "sentiment": "bullish",
-      "sentiment_score": 0.765,
+      "sentiment_score": 0.6124,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Angst over SpaceX IPO adds to dive in tech stocks",
+      "url": "https://www.marketwatch.com/story/tech-stocks-dive-as-fridays-incoming-spacex-ipo-creates-bad-psychology-9e50510e?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-09T21:14:00+00:00",
+      "summary": "Technology stocks tumbled on Tuesday, extending a swoon that began in early June, as investors anxiously await the historic SpaceX IPO later this week and retreat from hot parts of the AI playbook.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0772,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Kalshi trading in 'perps' crosses $1 billion in volume within a week of launch",
+      "url": "https://www.cnbc.com/2026/06/09/kalshi-perpetual-futures-trading-perps-crosses-1-billion-in-volume-within-a-week-of-launch.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-09T19:03:54+00:00",
+      "summary": "A spokesperson for the company said that the product is the fastest growing in the prediction market platform's history.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.1779,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Chip stocks bouncing back on Wall Street and South Korea; UK investigating Paramount-Warner Bros merger – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/jun/09/chip-stocks-bounce-back-kospi-openai-wall-street-float-stock-markets-oil-live-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-09T15:03:34+00:00",
+      "summary": "<p>Rolling coverage of the latest economic and financial news, as the AI trade bounces back</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/jun/08/openai-ipo-files-for-public-stock-market\"><strong>OpenAI confidentially files for initial public offering on US stock market</strong></a></p></li></ul><p><strong>The pound is strengthening against the US dollar today, as calm returns to the markets.</strong></p><p>Sterling is up a third of a cent at $1.3376.</p><p>A light week in terms of macroeconomic news out of the UK meant the focus for sterling traders was mostly elsewhere. We did see an MPC member (Greene) stating that she would consider voting for a hike at the next Bank of England meeting later this month.</p><p>A notable upward revision in the PMI business indices last week suggests that the initial confidence drop was overstated and that the UK economy is more resilient to the Middle East events than first feared. We look to this week’s April monthly GDP data, released Friday, to validate this modestly optimistic view.</p><p>“Just when the supersized tech rally was looking a little tired, along comes the news of OpenAI’s decision to IPO.</p><p>Presumably the move has been spurred along by Anthropic’s recent move towards a public listing, but and now markets face the test of yet another superheavyweight firm listing to test demand for these highly-valued companies that promise to reshape not just the investing landscape, but the entirety of human society.”</p><p>The race is on to extract money out of the roar of enthusiasm for companies providing the backbone to the artificial intelligence revolution. There’s now a hat trick of mega listings on the cards, with OpenAI’s filing for an IPO coming hot on the heels of Anthropic and SpaceX. The research company behind the hugely successful ChatGPT had first-mover advantage, buoyed by an early deal with Microsoft, but Anthropic has gained ground and is tackling adeptly from behind, winning reams of enterprise contracts.</p><p>The price of staying at the top of the game is eye-watering for OpenAI – it’s estimated to be spending more than $100 billion a year on the infrastructure and processing power to support its services and power the next generation of AI models. To stay high and dry in its AI fortress, the company reckons that by spending at this level, it will create a moat too difficult to cross for the competition, enabling it to keep raking in revenues and eventually turn big profits.</p><p>OpenAI is currently valued at $850bn, the ‘baby’ of the group, since Anthropic is now valued ahead of OpenAI at $965bn. The company laid out the ‘third phase of OpenAI’ on Monday and said that it is undertaking research into artificial general intelligence, and looking at becoming a ‘product company’.</p><p>The latter is interesting for investors, since it would be a major potential source of future revenue. Although it is early days, if OpenAI launches its own product range, it could become a major competitor to Apple and Google, and their share prices are worth watching closely on Tuesday.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/09/chip-stocks-bounce-back-kospi-openai-wall-street-float-stock-markets-oil-live-news-updates\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.9947,
+      "tags": [
+        "Oil",
+        "AI",
+        "Artificial Intelligence"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Trump claims US fuel prices ‘not very high’ as costs surge amid Iran war",
+      "url": "https://www.theguardian.com/business/2026/jun/09/trump-gas-prices-not-very-high",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-09T15:01:05+00:00",
+      "summary": "<p>National average gas price stands at about $4.16 per gallon as Americans grapple with price hikes sparked by the war</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has claimed US fuel prices are “not very high, relatively speaking” as his administration grapples with <a href=\"https://www.theguardian.com/us-news/2026/may/13/trump-iran-war-americans-finances\">affordability</a> <a href=\"https://www.theguardian.com/business/2026/may/23/iran-war-us-gas-prices-oil-fuel\">concerns</a> after the surge in costs sparked by his war on <a href=\"https://www.theguardian.com/world/iran\">Iran</a>.</p><p>The national average gas price stood at about $4.16 per gallon on Tuesday, according to <a href=\"https://gasprices.aaa.com/\">AAA</a> – $0.37 lower than a month ago, but still about $1 more expensive than the same time last year.</p> <a href=\"https://www.theguardian.com/business/2026/jun/09/trump-gas-prices-not-very-high\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.6705,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "JPMorgan Chase plans to deploy more powerful AI agents this year",
+      "url": "https://www.cnbc.com/2026/06/09/jpmorgan-chase-ai-agents.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-09T14:00:01+00:00",
+      "summary": "JPMorgan Chase's move suggests long-running AI agents are close to clearing the security and governance hurdles that have slowed adoption inside big companies.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6697,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "The spectre of gen Z socialism is haunting the world … according to the Economist | Normon Solomon",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/09/gen-z-socialism-the-economist",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-09T10:00:49+00:00",
+      "summary": "<p>The magazine writes: ‘Resisting Gen-Z socialism is therefore an urgent task.’ That urgency must outweigh any urgency of feeding hungry people</p><p>A spectre is haunting Europe and America – the spectre of gen Z socialism.</p><p>That’s the urgent warning from the Economist in a new cover-story editorial, <a href=\"https://www.economist.com/leaders/2026/06/04/how-to-fight-back-against-gen-z-socialism\">How to fight back against Gen-Z socialism</a>. Alarmed by a youthful threat to the established order, the magazine is calling for heightened vigilance from defenders of private enterprise.</p><p>Norman Solomon is the director of RootsAction and executive director of the Institute for Public Accuracy</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/09/gen-z-socialism-the-economist\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.8316,
       "tags": [
         "AI"
       ],
@@ -351,113 +461,6 @@
       "summary": "<p>Some will question its credibility – but the alternative future to the one imagined in the Global Justice Report is far more bleak</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2026/jun/04/world-inequality-lab-equality-academics-planetary-survival\">‘An equal and habitable world is possible’: academics set out sweeping vision for planetary survival</a></p></li></ul><p>In our increasingly dystopian world, who wouldn’t want to at least be open to a utopian antidote? The <a href=\"https://www.theguardian.com/environment/2026/jun/04/world-inequality-lab-equality-academics-planetary-survival\">Global Justice Report</a>, published on Thursday, outlines how to build a prosperous, equitable world within safe planetary boundaries. It’s a push from the modern eco-socialist left in a global battle for ideas that will shape the future.</p><p>Based on past social achievements and future energy transformation, it indicates that the overwhelming majority of people on the planet could, by the end of the century, work less and earn more – while keeping temperatures down and avoiding much of the current destruction of nature. It is an ambitious, comprehensive and upbeat plan, and a stronger argument around which to build a political campaign than abstract goals of net zero or decarbonisation.</p> <a href=\"https://www.theguardian.com/environment/2026/jun/04/happiness-is-not-just-about-gdp-ambitious-plan-or-utopia\">Continue reading...</a>",
       "sentiment": "bullish",
       "sentiment_score": 0.966,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "A good life  for the 99% isn’t a pipe dream: it can be done. Here’s how",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/04/a-good-life-for-the-99-isnt-a-pipe-dream-it-can-be-done-heres-how",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-04T06:00:27+00:00",
-      "summary": "<p>Our plan is radical – but by transforming how we live on a finite planet, nearly everyone gains</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2026/jun/04/world-inequality-lab-equality-academics-planetary-survival\"><strong>‘An equal and habitable world is possible’: academics set out sweeping vision for planetary survival</strong></a></p></li></ul><p>Imagine a future in which everyone enjoys high levels of wellbeing; where 90% of the world’s population doubles their income but works half the hours we work today. A world in which the bottom half of humanity sees its share of global wealth rise from <a href=\"https://www.theguardian.com/inequality/2025/dec/10/just-0001-hold-three-times-the-wealth-of-poorest-half-of-humanity-report-finds\">just 2% today</a> to 30%; a world where we consume enough, but nobody over-consumes. And imagine achieving this on a planet that can comfortably sustain human life without its climate breaking down.</p><p>Against the bleak techno-authoritarian futures now being sold to us, a radical new vision for global progress in the 21st century feels urgently needed. The most credible vision is one in which the habitability of the planet is a precondition for human development and equality.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/04/a-good-life-for-the-99-isnt-a-pipe-dream-it-can-be-done-heres-how\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.9823,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "'Disrupted or dead': AI is crushing a generation of startups built before ChatGPT",
-      "url": "https://www.cnbc.com/2026/06/01/ai-startup-valuations-pre-chatgpt.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-03T20:48:40+00:00",
-      "summary": "The AI boom that has funneled more than $250 billion into OpenAI and Anthropic has left hundreds of startups built before ChatGPT's arrival in 2022 stranded.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.7717,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Morgan Stanley will soon open its trillion-dollar wealth management funnel to AI agents",
-      "url": "https://www.cnbc.com/2026/06/03/ai-agents-morgan-stanley-wealth-management-funnel.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-03T15:32:54+00:00",
-      "summary": "Morgan Stanley's move is one of the earliest instances of a major Wall Street bank opening its platforms to external AI tools.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5106,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Fed Chair Warsh makes first hires at central bank, including 'Project 2025' author",
-      "url": "https://www.cnbc.com/2026/06/02/fed-chair-warsh-makes-first-hires-at-central-bank-including-project-2025-author.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-03T14:38:04+00:00",
-      "summary": "The new Fed chair has made his first hires. One wrote the Fed chapter in the conservative policy blueprint \"Project 2025.\"",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Trump threatens tariffs on 60 trading partners including UK and Canada over ‘forced labour’",
-      "url": "https://www.theguardian.com/business/2026/jun/03/trump-threatens-tariffs-60-countries-forced-labour",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-03T10:41:03+00:00",
-      "summary": "<p>Proposal for 10-12.5% levies, to also include EU, Taiwan and Australia, would allow US president to skirt court-imposed limits</p><p>Donald Trump has threatened tariffs of between 10% and 12.5% on 60 trading partners including the UK, the EU and Australia over alleged forced labour failures, in the latest attempt to revive his signature trade policy.</p><p>The EU immediately hit back, saying it expected the US to respect the tariff deal it entered into last July and arguing that stealth tariffs breached the spirit of that agreement.</p> <a href=\"https://www.theguardian.com/business/2026/jun/03/trump-threatens-tariffs-60-countries-forced-labour\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.7783,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Goldman Sachs CEO David Solomon says markets are in 'greed' mode as AI companies seek billions",
-      "url": "https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-02T19:06:48+00:00",
-      "summary": "Goldman Sachs CEO David Solomon's comments come as investors prepare for what will be one of the busiest periods for equity issuance in years.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.4019,
-      "tags": [
-        "Gold",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "What Blair gets wrong about the economy – it is fired by people, not business | Letters",
-      "url": "https://www.theguardian.com/business/2026/jun/02/what-blair-gets-wrong-about-the-economy-it-is-fired-by-people-not-business",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-02T16:38:36+00:00",
-      "summary": "<p>Readers respond to Jonathan Freedland’s article about Tony Blair’s vision for the future</p><p>Jonathan Freedland says Tony Blair “would say you can only address [poverty and inequality] once the economy is firing. Maybe” (<a href=\"https://www.theguardian.com/commentisfree/2026/may/29/tony-blair-says-he-is-all-about-the-future-but-his-vision-is-woefully-stuck-in-the-past\">Tony Blair says he is all about the future – but his vision is woefully stuck in the past, 29 May</a>). In fact poverty and inequality are the reasons the economy is misfiring. In the big economic crashes of history, gross inequality has been present.</p><p>After 47 years, you would think that the obsession with supply-side economics might have been rumbled, but no: acres of newsprint are expended on the idea that incentivised businessmen alone can reboot the economy. There can be no animal spirits if there is no market to buy the goods. And things like people having to spend as much as 40% of their weekly salary on rent explains why there is no market, at least not without people having to get into dangerous and silly amounts of debt.</p> <a href=\"https://www.theguardian.com/business/2026/jun/02/what-blair-gets-wrong-about-the-economy-it-is-fired-by-people-not-business\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9856,
       "tags": [
         "AI"
       ],
