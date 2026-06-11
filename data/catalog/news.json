@@ -1,50 +1,19 @@
 {
-  "generated_at": "2026-06-10T09:04:41Z",
-  "snapshot_date": "2026-06-10",
+  "generated_at": "2026-06-11T07:08:18Z",
+  "snapshot_date": "2026-06-11",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Beijing escalating AI espionage to catch up with the U.S. on tech, cybersecurity firm says",
-      "url": "https://www.cnbc.com/2026/06/10/crowdstrike-warns-of-increasing-chinese-ai-cyberattacks-on-us-tech.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-10T05:02:45+00:00",
-      "summary": "U.S. cybersecurity giant CrowdStrike said China-based entities made over half of state-sponsored cyberattacks on tech firms for artificial intelligence assets.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5859,
-      "tags": [
-        "AI",
-        "Artificial Intelligence"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Oracle’s stock has surged on AI hype. Now it has to deliver the earnings to match.",
-      "url": "https://www.marketwatch.com/story/oracles-stock-has-surged-on-ai-hype-now-it-has-to-deliver-the-earnings-to-match-3b56592b?mod=mw_rss_topstories",
+      "title": "My plumber charged $160 to fix the cistern on my toilet — but created another problem. Do I pay again?",
+      "url": "https://www.marketwatch.com/story/my-plumber-charged-160-to-fix-a-problem-in-my-bathroom-but-appears-to-have-created-another-one-do-i-pay-again-f64903ae?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-10T02:42:00+00:00",
-      "summary": "Oracle’s fourth-quarter earnings call will deliver critical updates about the progress of its data-center build-out and the financial impact of its AI pivot.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.128,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "This proposed federal budget cut could eliminate job training for 42,000 vulnerable seniors",
-      "url": "https://www.marketwatch.com/story/this-proposed-federal-budget-cut-could-eliminate-job-training-for-42-000-vulnerable-seniors-2520ac73?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-10T01:31:00+00:00",
-      "summary": "A job-training program for low-income older adults is set to lose funding under President Donald Trump’s proposed budget for 2027 — just as more stringent work requirements for food aid and healthcare coverage go into effect.",
+      "published_at": "2026-06-11T00:15:00+00:00",
+      "summary": "“The cistern on my toilet has been constantly refilling and making a hissing noise.”",
       "sentiment": "bearish",
-      "sentiment_score": -0.6908,
+      "sentiment_score": -0.3919,
       "tags": [
-        "Fed",
+        "Oil",
         "AI"
       ],
       "signal": "watch",
@@ -52,58 +21,58 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Super Micro stock plunges as $7 billion equity raise overshadows booming backlog",
-      "url": "https://www.marketwatch.com/story/super-micro-stock-plunges-as-7-billion-equity-raise-overshadows-booming-backlog-c5df2fc8?mod=mw_rss_topstories",
+      "title": "My elderly mother and I own a home together. Will Medicaid force its sale?",
+      "url": "https://www.marketwatch.com/story/my-elderly-mother-and-i-own-a-home-together-will-medicaid-force-its-sale-fdfbad4a?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-10T00:12:00+00:00",
-      "summary": "Super Micro looks to raise equity as it faces staggering AI demand but also an intense cash burn",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6249,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "This stock-market strategy has cheap exposure to AI and points to an advantage for closed-end funds",
-      "url": "https://www.marketwatch.com/story/this-investing-strategy-has-beaten-the-market-with-exposure-to-cheap-ai-stocks-5e743b12?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-09T23:17:00+00:00",
-      "summary": "The fund is diversified and has been an excellent performer, highlighting the advantages of a closed-end structure.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.802,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Apple’s AI could usher in a historic upgrade cycle that investors are overlooking",
-      "url": "https://www.marketwatch.com/story/apples-ai-could-usher-in-a-historic-upgrade-cycle-that-investors-are-overlooking-2b47fbb3?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-09T22:00:00+00:00",
-      "summary": "Apple’s new AI features are on track to be monetized faster than expected, thanks to increased hardware requirements and new “killer apps.”",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6124,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Angst over SpaceX IPO adds to dive in tech stocks",
-      "url": "https://www.marketwatch.com/story/tech-stocks-dive-as-fridays-incoming-spacex-ipo-creates-bad-psychology-9e50510e?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-09T21:14:00+00:00",
-      "summary": "Technology stocks tumbled on Tuesday, extending a swoon that began in early June, as investors anxiously await the historic SpaceX IPO later this week and retreat from hot parts of the AI playbook.",
+      "published_at": "2026-06-10T23:48:00+00:00",
+      "summary": "“My sister thinks Medicaid will take the house my mom and I own together.”",
       "sentiment": "neutral",
-      "sentiment_score": 0.0772,
+      "sentiment_score": 0.0,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Oracle’s stock slides after earnings, as the steep price of AI spooks investors",
+      "url": "https://www.marketwatch.com/story/oracles-stock-slides-after-earnings-as-the-steep-price-of-ai-spooks-investors-0653b309?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-10T23:17:00+00:00",
+      "summary": "Oracle blew past earnings expectations and grew its contract pipeline to $638 billion, but Wall Street is concerned about its rising AI costs.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "North Carolina treasurer passes on SpaceX citing valuation concerns; favors OpenAI, Anthropic",
+      "url": "https://www.cnbc.com/2026/06/10/north-carolina-treasurer-passes-on-spacex-citing-valuation-concerns-favors-openai-anthropic.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-10T17:46:32+00:00",
+      "summary": "North Carolina has invested heavily in AI startups OpenAI and Anthropic while avoiding a direct stake in SpaceX.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0258,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Trump says ‘I love the inflation’ as rate rises to 4.2% amid Iran war pressure",
+      "url": "https://www.theguardian.com/business/2026/jun/10/inflation-report-rate",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-10T17:37:06+00:00",
+      "summary": "<p>Before the conflict began, inflation was at 2.4%, but the closure of the strait of Hormuz has affected energy prices</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> said “I love the inflation” after new data showed that <a href=\"https://www.theguardian.com/business/inflation\">inflation</a> jumped to an annual rate of 4.2% in May, the third consecutive monthly increase since the start of the <a href=\"https://www.theguardian.com/world/us-israel-war-on-iran\">Iran war</a> and a three-year high.</p><p>Speaking from the White House on Wednesday, the US president <a href=\"https://x.com/Acyn/status/2064741127249690894\">said</a> that he was not concerned about inflation because of recent developments in the conflict.</p> <a href=\"https://www.theguardian.com/business/2026/jun/10/inflation-report-rate\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.875,
       "tags": [
         "AI"
       ],
@@ -115,12 +84,43 @@
       "title": "Kalshi trading in 'perps' crosses $1 billion in volume within a week of launch",
       "url": "https://www.cnbc.com/2026/06/09/kalshi-perpetual-futures-trading-perps-crosses-1-billion-in-volume-within-a-week-of-launch.html",
       "source": "CNBC Finance",
-      "published_at": "2026-06-09T19:03:54+00:00",
+      "published_at": "2026-06-10T16:43:41+00:00",
       "summary": "A spokesperson for the company said that the product is the fastest growing in the prediction market platform's history.",
       "sentiment": "neutral",
       "sentiment_score": 0.1779,
       "tags": [
         "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "We economists have done the maths: ‘growth’ is a doomed strategy – there is a better way | Olivier De Schutter and others",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/10/economists-maths-growth-doomed-strategy-un-agencies-political-leaders",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-10T08:00:14+00:00",
+      "summary": "<p>Our roadmap has been shaped by experts across the world, from UN agencies to grassroots movements. We call on political leaders at all levels to use it</p><p>We live in an age of manufactured scarcity. In a world richer than ever before, <a href=\"https://social.desa.un.org/world-summit-2025/blog/the-sustainable-development-goals-have-improved-millions-of-lives-over-the\">roughly one 10th of the world’s population still lives in extreme destitution</a>. Millions of people cannot afford enough food, proper housing or basic healthcare, while a tiny minority accumulates unprecedented wealth and power. At the same time, droughts, megafires, floods and heatwaves remind us that our economies are pushing the planet beyond its limits.</p><p>These are not separate crises. They are symptoms of an economic model that has reached the end of the road. Poverty and inequality are not accidents; they are predictable outcomes of policy choices: how we design tax systems, regulate labour markets, value care, structure public services and decide whose needs and whose voices matter. Crucially, if governments can manufacture poverty, they can also dismantle it.</p><p><strong>Olivier De Schutter</strong> is the chair of New Economies for Eradicating Poverty; <strong>Joseph Stiglitz</strong> is a Nobel laureate in economics; <strong>Jayati Ghosh</strong> is professor of economics at University of Massachusetts Amherst; <strong>Thomas Piketty</strong> is professor of economics at the Paris School of Economics; <strong>Kate Raworth</strong> is an economist at Oxford University’s Environmental Change Institute; <strong>Jason Hickel</strong> is a political economist and professor at the Autonomous University of Barcelona</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/10/economists-maths-growth-doomed-strategy-un-agencies-political-leaders\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.3532,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Beijing escalating AI espionage to catch up with the U.S. on tech, cybersecurity firm says",
+      "url": "https://www.cnbc.com/2026/06/10/crowdstrike-warns-of-increasing-chinese-ai-cyberattacks-on-us-tech.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-10T05:02:45+00:00",
+      "summary": "U.S. cybersecurity giant CrowdStrike said China-based entities made over half of state-sponsored cyberattacks on tech firms for artificial intelligence assets.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5859,
+      "tags": [
+        "AI",
+        "Artificial Intelligence"
       ],
       "signal": "watch",
       "category": "technology",
