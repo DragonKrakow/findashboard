@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-06-13T16:33:18.529244+00:00",
+  "generated_at": "2026-06-13T20:31:08.203531+00:00",
   "articles": [
+    {
+      "id": "3172ccfb3615",
+      "title": "Fed and BOE Stay Guarded After 100 Days of Iran War",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-13/fed-boe-to-hold-rates-as-trump-seeks-iran-peace-deal",
+      "published_at": "2026-06-13T20:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "For several global central banks, the question of whether the Iran war poses more of an immediate danger to inflation or to growth is likely to remain open in the coming week.",
+      "tags": []
+    },
+    {
+      "id": "cc1fbbb1ee4f",
+      "title": "CLO ETFs Boom on Higher Rates, Private Debt Woes",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-13/clo-etfs-boom-on-higher-rates-private-debt-woes-credit-weekly",
+      "published_at": "2026-06-13T19:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Wall Street has an answer for retail investors seeking to profit from elevated interest rates and dodge defaults in private credit: funds that buy collateralized loan obligations.",
+      "tags": []
+    },
+    {
+      "id": "d72aa7f786d7",
+      "title": "Bloomberg This Weekend 6/13/2026",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-13/bloomberg-this-weekend-6-13-2026-video",
+      "published_at": "2026-06-13T18:09:11+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by",
+      "tags": []
+    },
+    {
+      "id": "c8a88ea24bf6",
+      "title": "Caffeine Minimalists Rewrite Routines to Battle Coffee Jitters",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-13/consumers-embrace-caffeine-minimalism-video",
+      "published_at": "2026-06-13T17:04:06+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "While plenty of Americans are emphatically unready to give up caffeine, many are experimenting with a new range of options beyond the traditional cup of hot java, paying heed to caffeine’s impact on t",
+      "tags": []
+    },
     {
       "id": "1f49d6b84df3",
       "title": "How Kalshi’s Lopes Lara Turned Kylie Jenner Gossip Into Billions",
@@ -74,54 +122,6 @@
       "tags": []
     },
     {
-      "id": "d3610aa34d26",
-      "title": "US’s Screwworm Fix Is Still a Year Away, Risking More Spread",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-13/us-s-screwworm-fix-is-still-a-year-away-risking-more-spread",
-      "published_at": "2026-06-13T14:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The US’s best weapon against a deadly cattle parasite threatening the beef industry is more than a year away from showing meaningful results, raising concerns over how far the outbreak could spread be",
-      "tags": []
-    },
-    {
-      "id": "fa0d96309cc7",
-      "title": "Brazil’s World Cup Grilling Tradition Challenged by Beef Prices",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-13/what-are-brazil-s-world-cup-fans-grilling-more-chicken-and-pork-less-beef",
-      "published_at": "2026-06-13T13:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Soaring prices for the world’s largest beef producer, Brazil, mean households will be buying less red meat when they gather to watch Brazil’s first game of the FIFA World Cup this Saturday.",
-      "tags": []
-    },
-    {
-      "id": "74d17f3b8425",
-      "title": "Can Tech Justify a Trillion-Dollar Valuation?",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-13/can-tech-justify-a-trillion-dollar-valuation-video",
-      "published_at": "2026-06-13T12:04:13+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The long-awaited SpaceX IPO tested the limits of modern capital markets, and is expected to be followed by OpenAI and Anthropic. Investor Steve Rattner says the scale of the valuations and fundraising",
-      "tags": []
-    },
-    {
-      "id": "599cb7763a09",
-      "title": "We’re All on Starship Elon Now",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-13/spacex-ipo-shows-wall-street-still-can-t-get-enough-of-elon-musk",
-      "published_at": "2026-06-13T12:00:19+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "<p>SpaceX is coming to a mutual fund or 401(k) near you.</p>",
-      "tags": []
-    },
-    {
       "id": "f29e9aef0473",
       "title": "How Wall Street pulled off the biggest IPO in history for SpaceX",
       "source": "International homepage",
@@ -143,18 +143,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "The technology is leading to a fundamental shift in the way investors allocate funds and diversify risks across every asset class",
-      "tags": []
-    },
-    {
-      "id": "2be4f87aced4",
-      "title": "SpaceX’s IPO is a display of Musk’s dominance",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/71372647-bf7f-448a-bb4c-a2d278020e33",
-      "published_at": "2026-06-12T17:40:55+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "His unrivalled grip on the public imagination has transmuted into Wall Street gold",
       "tags": []
     },
     {
@@ -194,6 +182,18 @@
       "tags": []
     },
     {
+      "id": "1e39f8b35d96",
+      "title": "Trump says US and Iran will sign deal on Sunday to reopen Strait",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/726f4afe-c3ff-4ec0-bfc9-b572b419e11f",
+      "published_at": "2026-06-13T19:31:47+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Tehran cautions that timing is unclear but Pakistan says agreement to extend ceasefire is close",
+      "tags": []
+    },
+    {
       "id": "e3744bdd953b",
       "title": "Investment firms join Donald Trump’s $100bn race for Venezuelan oil",
       "source": "International homepage",
@@ -218,18 +218,6 @@
       "tags": []
     },
     {
-      "id": "1e39f8b35d96",
-      "title": "Pakistan says US-Iran deal to be signed within 24 hours",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/726f4afe-c3ff-4ec0-bfc9-b572b419e11f",
-      "published_at": "2026-06-13T14:38:59+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Strait of Hormuz will be reopened as part of ceasefire extension, Prime Minister Shehbaz Sharif says",
-      "tags": []
-    },
-    {
       "id": "eb6efcaf6837",
       "title": "Anthropic suspends latest AI models after US blocks access to foreigners",
       "source": "International homepage",
@@ -239,6 +227,18 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Trump administration directs company to limit access to foreign nationals on national security grounds",
+      "tags": []
+    },
+    {
+      "id": "dbe2e25b8e7a",
+      "title": "France opposes ‘anglicisation’ of EU trade talks",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/fa0545f4-3663-460b-b4ab-773bb3ce7294",
+      "published_at": "2026-06-13T04:00:22+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Trade commissioner argues translation into 24 languages slows down bloc’s ability to strike up deals",
       "tags": []
     },
     {
@@ -362,6 +362,42 @@
       "tags": []
     },
     {
+      "id": "9c5a5ae41bd0",
+      "title": "Crypto’s next billion-dollar hacker may move at superhuman speed",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/tech/2026/06/13/crypto-s-next-billion-dollar-hacker-may-move-at-superhuman-speed",
+      "published_at": "2026-06-13T18:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Crypto’s next billion-dollar hacker may move at superhuman speed",
+      "tags": []
+    },
+    {
+      "id": "0b34bef4421c",
+      "title": "Here's what SpaceX's IPO means for its $1.3 billion bitcoin reserve",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/business/2026/06/13/here-s-what-spacex-s-ipo-means-for-its-usd1-3-billion-bitcoin-reserve",
+      "published_at": "2026-06-13T17:00:16+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Here's what SpaceX's IPO means for its $1.3 billion bitcoin reserve",
+      "tags": []
+    },
+    {
+      "id": "4745facc218a",
+      "title": "Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/opinion/2026/06/13/stablecoins-were-meant-to-disrupt-finance-instead-they-became-idle-cash",
+      "published_at": "2026-06-13T16:51:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.",
+      "tags": []
+    },
+    {
       "id": "b7b16f93391c",
       "title": "Bitcoin rises above $64,000 after Pakistan prime minister says Iran peace deal is near",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
@@ -446,39 +482,63 @@
       "tags": []
     },
     {
-      "id": "219ebdbbf43c",
-      "title": "Top cryptographers can't agree on Bitcoin's biggest quantum question",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/tech/2026/06/13/top-cryptographers-can-t-agree-on-bitcoin-s-biggest-quantum-question",
-      "published_at": "2026-06-13T06:07:00+00:00",
+      "id": "835add9d5a4d",
+      "title": "Strive's Debt-Free Bitcoin Treasury And Daily Dividend Make SATA And ASST Cleaner Plays",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4914808-strives-debt-free-bitcoin-treasury-and-daily-dividend-make-sata-and-asst-cleaner-plays?source=feed_all_articles",
+      "published_at": "2026-06-13T18:59:33+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Top cryptographers can't agree on Bitcoin's biggest quantum question",
+      "summary": "Strive's Debt-Free Bitcoin Treasury And Daily Dividend Make SATA And ASST Cleaner Plays",
       "tags": []
     },
     {
-      "id": "3c21534393b3",
-      "title": "Anthropic's pre-IPO shares fall as U.S. government shuts down its most powerful AI model",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/06/13/anthropic-s-pre-ipo-shares-fall-as-us-government-shuts-down-its-most-powerful-ai-model",
-      "published_at": "2026-06-13T06:02:05+00:00",
+      "id": "04c998b4e61f",
+      "title": "Agios Pharmaceuticals, Inc. (AGIO) Discusses New Data and Strategic Expansion in Rare Hematology at EHA Investor Event Transcript",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4914792-agios-pharmaceuticals-inc-agio-discusses-new-data-and-strategic-expansion-in-rare-hematology?source=feed_all_articles",
+      "published_at": "2026-06-13T18:02:09+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Anthropic's pre-IPO shares fall as U.S. government shuts down its most powerful AI model",
+      "summary": "Agios Pharmaceuticals, Inc. (AGIO) Discusses New Data and Strategic Expansion in Rare Hematology at EHA Investor Event Transcript",
       "tags": []
     },
     {
-      "id": "59f10d2e34de",
-      "title": "Bitcoin steadies above $63,000 as its worst week in months got a late macro rescue",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/06/13/bitcoin-steady-above-usd63-000-as-its-worst-week-in-months-got-a-late-macro-rescue",
-      "published_at": "2026-06-13T05:46:38+00:00",
+      "id": "06e83a55ee72",
+      "title": "SpaceX: Wall Street's $226 Billion Assumption Is Frail",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4914807-spacex-wall-streets-226-billion-assumption-is-frail?source=feed_all_articles",
+      "published_at": "2026-06-13T17:16:42+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Bitcoin steadies above $63,000 as its worst week in months got a late macro rescue",
+      "summary": "SpaceX: Wall Street's $226 Billion Assumption Is Frail",
+      "tags": []
+    },
+    {
+      "id": "4699957072ca",
+      "title": "Genius Sports: A Perfect Blend",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4914806-genius-sports-a-perfect-blend?source=feed_all_articles",
+      "published_at": "2026-06-13T17:02:20+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Genius Sports: A Perfect Blend",
+      "tags": []
+    },
+    {
+      "id": "bb2169975722",
+      "title": "Kali & Salz - Outperformance, If Only Slight, Updating For 2026-2028E",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4914803-kali-and-salz-outperformance-if-only-slight-updating-for-2026-2028e?source=feed_all_articles",
+      "published_at": "2026-06-13T16:42:20+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Kali & Salz - Outperformance, If Only Slight, Updating For 2026-2028E",
       "tags": []
     },
     {
@@ -539,66 +599,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "SpaceX Is No Longer A Company - It's A Belief System",
-      "tags": []
-    },
-    {
-      "id": "478ad89dc1c7",
-      "title": "Kratos Defense & Security Solutions, Inc: Why I Am Buying The Dip",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4914794-kratos-defense-and-security-solutions-inc-why-i-am-buying-the-dip?source=feed_all_articles",
-      "published_at": "2026-06-13T16:05:17+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Kratos Defense & Security Solutions, Inc: Why I Am Buying The Dip",
-      "tags": []
-    },
-    {
-      "id": "c751eb2ef2dd",
-      "title": "Alphabet: Buckle Up For What's Coming",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4914757-alphabet-buckle-up-for-whats-coming?source=feed_all_articles",
-      "published_at": "2026-06-13T16:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Alphabet: Buckle Up For What's Coming",
-      "tags": []
-    },
-    {
-      "id": "dda8120518a1",
-      "title": "Why Factor Diversification Matters In The Stock Market Now",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4914805-factor-diversification-matters-in-stock-market-now?source=feed_all_articles",
-      "published_at": "2026-06-13T16:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Why Factor Diversification Matters In The Stock Market Now",
-      "tags": []
-    },
-    {
-      "id": "f5dbd60ff840",
-      "title": "Tokenomics: The New Divide Between AI Winners And Renters",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4914791-tokenomics-the-new-divide-between-ai-winners-and-renters?source=feed_all_articles",
-      "published_at": "2026-06-13T15:50:41+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Tokenomics: The New Divide Between AI Winners And Renters",
-      "tags": []
-    },
-    {
-      "id": "10b5c1b68a5f",
-      "title": "Russell 1000 And S&P 500 - Same Lane, Different Construction",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4914804-russell-1000-sp-500-same-lane-different-construction?source=feed_all_articles",
-      "published_at": "2026-06-13T15:50:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Russell 1000 And S&P 500 - Same Lane, Different Construction",
       "tags": []
     }
   ]
