@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-14T05:37:09.119786+00:00",
+  "generated_at": "2026-06-14T09:08:53.839138+00:00",
   "articles": [
+    {
+      "id": "28225f5060fe",
+      "title": "SpaceX Surge Further Boosts Saudi Billionaire Prince’s Fortune",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-14/spacex-surge-further-boosts-saudi-billionaire-prince-s-fortune",
+      "published_at": "2026-06-14T07:33:34+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Friday’s debut share surge for SpaceX is bolstering the fortunes of one of Saudi Arabia’s richest men.",
+      "tags": []
+    },
     {
       "id": "e7aafd8b1792",
       "title": "Switzerland Asks If 10 Million People Is Where to Draw the Line",
@@ -110,18 +122,6 @@
       "tags": []
     },
     {
-      "id": "13d9793cee2b",
-      "title": "US and Iran Move Closer to Deal Despite Hormuz Skirmishes",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-13/us-iran-move-closer-to-deal-despite-hormuz-skirmishes-video",
-      "published_at": "2026-06-13T15:50:57+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Pakistan said an interim US-Iran deal to reopen the Strait of Hormuz could be finalized within 24 hours, raising expectations that the sides may be nearing a broader agreement after recent skirmishes ",
-      "tags": []
-    },
-    {
       "id": "3ea2f0308eed",
       "title": "Wall Street digests record fundraising haul as AI race intensifies",
       "source": "International homepage",
@@ -158,6 +158,18 @@
       "tags": []
     },
     {
+      "id": "8d41f5155d31",
+      "title": "How Israel’s ‘trampoline’ economy has adapted to war",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/3cce2be6-0fe4-47db-acce-1df6e7c83dfd",
+      "published_at": "2026-06-14T08:09:41+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "After two decades of growth the country has proven to be surprisingly resilient to war and energy shocks",
+      "tags": []
+    },
+    {
       "id": "6bfe7f925c7e",
       "title": "Macron and Trump test their bruised bromance at G7 summit",
       "source": "International homepage",
@@ -191,6 +203,30 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "CEO of California-based group wants to enlist allies in helping with production of lower-cost weapons",
+      "tags": []
+    },
+    {
+      "id": "78f7a83e386d",
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-06-14T05:32:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1",
+      "tags": []
+    },
+    {
+      "id": "75d738449fff",
+      "title": "Trump says Iran peace deal to be signed Sunday, contradicting Tehran",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/trump-says-iran-peace-deal-to-be-signed-sunday-contradicting-tehran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-06-14T05:07:31+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump says Iran peace deal to be signed Sunday, contradicting Tehran\" class=\"type:primaryImage\" src=\"https://images.cointelegrap",
       "tags": []
     },
     {
@@ -287,30 +323,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin’s ‘calm top’ challenges most market bottom estimates: Research\" class=\"type:primaryImage\" src=\"https://images.cointelegr",
-      "tags": []
-    },
-    {
-      "id": "730daec3fbeb",
-      "title": "Bitcoin rally to $70K builds as orderbook structure highlights traders’ confidence",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/markets/bitcoin-data-points-to-a-relief-rally-as-order-book-demand-targets-70k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-06-12T23:42:12+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin rally to $70K builds as orderbook structure highlights traders’ confidence\" class=\"type:primaryImage\" src=\"https://image",
-      "tags": []
-    },
-    {
-      "id": "9e6110b510d9",
-      "title": "Sam Bankman-Fried loses appeal to overturn 25-year prison sentence",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/sam-bankman-fried-loses-appeal-to-overturn-25-year-prison-sentence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-06-12T16:39:16+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Sam Bankman-Fried loses appeal to overturn 25-year prison sentence\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.",
       "tags": []
     },
     {
@@ -434,6 +446,42 @@
       "tags": []
     },
     {
+      "id": "f6365a59cc76",
+      "title": "'No Idea' Investing: How I Built A Concentrated, Fundamentals-Based Portfolio Using Nothing But Algorithms",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4914835-no-idea-investing-how-i-built-concentrated-fundamentals-based-portfolio-using-algorithms?source=feed_all_articles",
+      "published_at": "2026-06-14T06:47:06+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "'No Idea' Investing: How I Built A Concentrated, Fundamentals-Based Portfolio Using Nothing But Algorithms",
+      "tags": []
+    },
+    {
+      "id": "1a6b71b8f253",
+      "title": "ON Semiconductor: Growth Recovery Underway With Margin Expansion",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4914833-on-semiconductor-growth-recovery-underway-with-margin-expansion?source=feed_all_articles",
+      "published_at": "2026-06-14T06:21:11+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "ON Semiconductor: Growth Recovery Underway With Margin Expansion",
+      "tags": []
+    },
+    {
+      "id": "a51de722e076",
+      "title": "Eli Lilly: The Macro Health Crisis Is Still Undervalued",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4914832-eli-lilly-macro-health-crisis-still-undervalued?source=feed_all_articles",
+      "published_at": "2026-06-14T06:14:12+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Eli Lilly: The Macro Health Crisis Is Still Undervalued",
+      "tags": []
+    },
+    {
       "id": "cbccbf94de7a",
       "title": "SPS Commerce: Amazon Weakness Has Created A Buying Opportunity",
       "source": "All Articles on Seeking Alpha",
@@ -459,14 +507,14 @@
     },
     {
       "id": "9370974faffc",
-      "title": "EOS: Provides Monthly Income & Stability For Retirees",
+      "title": "EOS: Provides Monthly Income And Stability For Retirees",
       "source": "All Articles on Seeking Alpha",
       "url": "https://seekingalpha.com/article/4914830-eos-cef-provides-monthly-income-and-stability-for-retirees?source=feed_all_articles",
       "published_at": "2026-06-14T04:04:55+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "EOS: Provides Monthly Income & Stability For Retirees",
+      "summary": "EOS: Provides Monthly Income And Stability For Retirees",
       "tags": []
     },
     {
@@ -515,42 +563,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "PGP: Falling To A Discount Makes This An Attractive PIMCO Offering",
-      "tags": []
-    },
-    {
-      "id": "3782ec00c6ef",
-      "title": "CEF Weekly Review: CEF To OEF Mergers Are A Win-Win",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4914826-cef-weekly-review-cef-to-oef-mergers-are-a-win-win?source=feed_all_articles",
-      "published_at": "2026-06-14T03:14:17+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "CEF Weekly Review: CEF To OEF Mergers Are A Win-Win",
-      "tags": []
-    },
-    {
-      "id": "a0c7e5416557",
-      "title": "Uniti Group: Growth, Debt Reduction, And A Potential Buyout Should Drive Upside",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4914825-uniti-group-growth-debt-reduction-potential-buyout-should-drive-upside?source=feed_all_articles",
-      "published_at": "2026-06-14T03:09:08+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Uniti Group: Growth, Debt Reduction, And A Potential Buyout Should Drive Upside",
-      "tags": []
-    },
-    {
-      "id": "a5d5dec58b1f",
-      "title": "Federal Realty Preferreds: Yield Advantage Over The Common, Backed By Strong Coverage",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4914824-federal-realty-reitpreferreds-yield-advantage-over-the-common-backed-by-strong-coverage?source=feed_all_articles",
-      "published_at": "2026-06-14T03:06:27+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Federal Realty Preferreds: Yield Advantage Over The Common, Backed By Strong Coverage",
       "tags": []
     }
   ]
