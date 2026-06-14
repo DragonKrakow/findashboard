@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-13T20:31:08.203531+00:00",
+  "generated_at": "2026-06-14T00:53:45.629104+00:00",
   "articles": [
+    {
+      "id": "bd28b39dd733",
+      "title": "World’s Hottest Stock Market Turns Attention to MSCI Moment",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-14/world-s-hottest-stock-market-turns-attention-to-msci-moment",
+      "published_at": "2026-06-14T00:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "After one of its most volatile weeks in years, South Korea’s stock market is approaching a milestone it has long been chasing: a potential path into MSCI Inc.’s developed-market status.",
+      "tags": []
+    },
     {
       "id": "3172ccfb3615",
       "title": "Fed and BOE Stay Guarded After 100 Days of Iran War",
@@ -107,18 +119,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "The FIFA World Cup is expected to create a \"hospitable environment\" for pathogens, with millions of people gathering in packed stadiums, and there are concerns about the spread of diseases such as Ebo",
-      "tags": []
-    },
-    {
-      "id": "0ad53053f7b6",
-      "title": "SpaceX Shares Close 19% Higher After Historic $75 Billion IPO",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-13/spacex-shares-close-higher-post-historic-75-billion-ipo-video",
-      "published_at": "2026-06-13T14:05:10+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "SpaceX’s first day on the stock market transformed the startup into one of the world’s most-valuable public companies, handed buyers of the IPO a 19% return and turned its founder Elon Musk into the w",
       "tags": []
     },
     {
@@ -482,6 +482,66 @@
       "tags": []
     },
     {
+      "id": "17cc2a06511e",
+      "title": "EnQuest PLC (ENQUF) EnQuest PLC, E&P Malaysia Venture Sdn Bhd, EnQuest Petroleum Production Malaysia Ltd - M&A Call - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4914813-enquest-plc-enquf-enquest-plc-e-and-p-malaysia-venture-sdn-bhd-enquest-petroleum-production?source=feed_all_articles",
+      "published_at": "2026-06-13T23:17:01+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "EnQuest PLC (ENQUF) EnQuest PLC, E&P Malaysia Venture Sdn Bhd, EnQuest Petroleum Production Malaysia Ltd - M&A Call - Slideshow",
+      "tags": []
+    },
+    {
+      "id": "d411d1fa799d",
+      "title": "Hinge Health, Inc. (HNGE) Analyst/Investor Day - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4914812-hinge-health-inc-hnge-analyst-investor-day-slideshow?source=feed_all_articles",
+      "published_at": "2026-06-13T23:16:43+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Hinge Health, Inc. (HNGE) Analyst/Investor Day - Slideshow",
+      "tags": []
+    },
+    {
+      "id": "7f8b0c041783",
+      "title": "Volkswagen AG (VWA:CA) Discusses ESG Strategy Updates, Regenerate+ Initiative and Circular Economy - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4914811-volkswagen-ag-vwa-ca-discusses-esg-strategy-updates-regenerate-initiative-and-circular?source=feed_all_articles",
+      "published_at": "2026-06-13T23:15:30+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Volkswagen AG (VWA:CA) Discusses ESG Strategy Updates, Regenerate+ Initiative and Circular Economy - Slideshow",
+      "tags": []
+    },
+    {
+      "id": "a6cb55128a62",
+      "title": "hVIVO plc (OPORF) Analyst/Investor Day - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4914810-hvivo-plc-oporf-analyst-investor-day-slideshow?source=feed_all_articles",
+      "published_at": "2026-06-13T23:15:13+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "hVIVO plc (OPORF) Analyst/Investor Day - Slideshow",
+      "tags": []
+    },
+    {
+      "id": "e0cfa9b806c6",
+      "title": "Hitachi, Ltd. (HTCI:CA) Analyst/Investor Day - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4914809-hitachi-ltd-htci-ca-analyst-investor-day-slideshow?source=feed_all_articles",
+      "published_at": "2026-06-13T23:12:52+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Hitachi, Ltd. (HTCI:CA) Analyst/Investor Day - Slideshow",
+      "tags": []
+    },
+    {
       "id": "835add9d5a4d",
       "title": "Strive's Debt-Free Bitcoin Treasury And Daily Dividend Make SATA And ASST Cleaner Plays",
       "source": "All Articles on Seeking Alpha",
@@ -539,66 +599,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Kali & Salz - Outperformance, If Only Slight, Updating For 2026-2028E",
-      "tags": []
-    },
-    {
-      "id": "357eea1959ce",
-      "title": "Lyell Immunopharma: Undervalued Ahead Of A Major CAR-T Inflection",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4914802-lyell-immunopharma-undervalued-ahead-of-a-major-car-t-inflection?source=feed_all_articles",
-      "published_at": "2026-06-13T16:23:38+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Lyell Immunopharma: Undervalued Ahead Of A Major CAR-T Inflection",
-      "tags": []
-    },
-    {
-      "id": "b9fb93796871",
-      "title": "Lee Enterprises: Interest Costs Coming Down",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4914800-lee-enterprises-interest-costs-coming-down?source=feed_all_articles",
-      "published_at": "2026-06-13T16:17:04+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Lee Enterprises: Interest Costs Coming Down",
-      "tags": []
-    },
-    {
-      "id": "9883ecfeea34",
-      "title": "Peoples Financial Services Remains Compelling Enough To Bank On",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4914799-peoples-financial-services-remains-compelling-enough-to-bank-on?source=feed_all_articles",
-      "published_at": "2026-06-13T16:15:11+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Peoples Financial Services Remains Compelling Enough To Bank On",
-      "tags": []
-    },
-    {
-      "id": "66596ee899dc",
-      "title": "Securitize: A Crypto Use Case That Actually Works, And A Buy On Macro Tailwinds",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4914796-securitize-a-crypto-use-case-that-actually-works-and-a-buy-on-macro-tailwinds?source=feed_all_articles",
-      "published_at": "2026-06-13T16:08:50+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Securitize: A Crypto Use Case That Actually Works, And A Buy On Macro Tailwinds",
-      "tags": []
-    },
-    {
-      "id": "6b46c6071114",
-      "title": "SpaceX Is No Longer A Company - It's A Belief System",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4914795-spacex-is-no-longer-a-company-its-a-belief-system?source=feed_all_articles",
-      "published_at": "2026-06-13T16:06:42+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "SpaceX Is No Longer A Company - It's A Belief System",
       "tags": []
     }
   ]
