@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T07:03:53Z",
-  "snapshot_date": "2026-06-14",
+  "generated_at": "2026-06-15T07:17:48Z",
+  "snapshot_date": "2026-06-15",
   "source": "financenews",
   "count": 39,
   "instruments": [
@@ -21,7 +21,7 @@
         "Benchmark"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "neutral",
       "confidence": "low",
       "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice."
@@ -43,7 +43,7 @@
         "Technology"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "neutral",
       "confidence": "low",
       "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice."
@@ -65,7 +65,7 @@
         "Duration"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "neutral",
       "confidence": "low",
       "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice."
@@ -87,7 +87,7 @@
         "US Equities"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "neutral",
       "confidence": "low",
       "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice."
@@ -109,7 +109,7 @@
         "Oil & Gas"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "bullish",
       "confidence": "high",
       "reasoning": "Oil supply disruptions and geopolitics can raise crude prices and support traditional energy exposures. Triggered by 16 related headline(s) from the latest news run. Educational use only."
@@ -131,10 +131,10 @@
         "Geopolitics"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "bullish",
       "confidence": "high",
-      "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold. Triggered by 5 related headline(s) from the latest news run. Educational use only."
+      "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold. Triggered by 6 related headline(s) from the latest news run. Educational use only."
     },
     {
       "id": "gld",
@@ -153,10 +153,10 @@
         "Risk-off"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "bullish",
       "confidence": "high",
-      "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold. Triggered by 6 related headline(s) from the latest news run. Educational use only."
+      "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold. Triggered by 7 related headline(s) from the latest news run. Educational use only."
     },
     {
       "id": "nvda",
@@ -175,7 +175,7 @@
         "Growth"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "bullish",
       "confidence": "high",
       "reasoning": "AI/data-center demand can support semiconductor revenue and capex cycles. Triggered by 29 related headline(s) from the latest news run. Educational use only."
@@ -197,7 +197,7 @@
         "Trade Exposure"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "neutral",
       "confidence": "low",
       "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice."
@@ -218,10 +218,10 @@
         "Aerospace"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "bullish",
       "confidence": "high",
-      "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold. Triggered by 5 related headline(s) from the latest news run. Educational use only."
+      "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold. Triggered by 6 related headline(s) from the latest news run. Educational use only."
     },
     {
       "id": "xar",
@@ -239,10 +239,10 @@
         "Aerospace"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "bullish",
       "confidence": "high",
-      "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold. Triggered by 5 related headline(s) from the latest news run. Educational use only."
+      "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold. Triggered by 6 related headline(s) from the latest news run. Educational use only."
     },
     {
       "id": "vaneck_defense_ucits",
@@ -260,10 +260,10 @@
         "Europe"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "bullish",
       "confidence": "high",
-      "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold. Triggered by 5 related headline(s) from the latest news run. Educational use only."
+      "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold. Triggered by 6 related headline(s) from the latest news run. Educational use only."
     },
     {
       "id": "wteu_defence_ucits",
@@ -281,10 +281,10 @@
         "Europe"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "bullish",
       "confidence": "high",
-      "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold. Triggered by 5 related headline(s) from the latest news run. Educational use only."
+      "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold. Triggered by 6 related headline(s) from the latest news run. Educational use only."
     },
     {
       "id": "invesco_bcom_ucits",
@@ -302,7 +302,7 @@
         "Broad"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "neutral",
       "confidence": "low",
       "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice."
@@ -323,7 +323,7 @@
         "Broad"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "neutral",
       "confidence": "low",
       "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice."
@@ -344,7 +344,7 @@
         "Broad"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "neutral",
       "confidence": "low",
       "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice."
@@ -365,7 +365,7 @@
         "Metals"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "neutral",
       "confidence": "low",
       "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice."
@@ -386,7 +386,7 @@
         "Metals"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "neutral",
       "confidence": "low",
       "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice."
@@ -407,7 +407,7 @@
         "Precious Metals"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "bullish",
       "confidence": "low",
       "reasoning": "Risk-off sentiment can support precious metals demand. Triggered by 1 related headline(s) from the latest news run. Educational use only."
@@ -428,7 +428,7 @@
         "Precious Metals"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "bullish",
       "confidence": "low",
       "reasoning": "Risk-off sentiment can support precious metals demand. Triggered by 1 related headline(s) from the latest news run. Educational use only."
@@ -449,7 +449,7 @@
         "AI"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "bullish",
       "confidence": "high",
       "reasoning": "AI/data-center demand can support semiconductor revenue and capex cycles. Triggered by 29 related headline(s) from the latest news run. Educational use only."
@@ -471,7 +471,7 @@
         "UCITS"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "bullish",
       "confidence": "high",
       "reasoning": "AI/data-center demand can support semiconductor revenue and capex cycles. Triggered by 29 related headline(s) from the latest news run. Educational use only."
@@ -492,7 +492,7 @@
         "AI"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "bullish",
       "confidence": "high",
       "reasoning": "AI/data-center demand can support semiconductor revenue and capex cycles. Triggered by 29 related headline(s) from the latest news run. Educational use only."
@@ -514,7 +514,7 @@
         "UCITS"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "neutral",
       "confidence": "low",
       "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice."
@@ -535,7 +535,7 @@
         "Broad Tech"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "neutral",
       "confidence": "low",
       "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice."
@@ -556,7 +556,7 @@
         "Broad Tech"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "neutral",
       "confidence": "low",
       "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice."
@@ -578,7 +578,7 @@
         "UCITS"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "neutral",
       "confidence": "low",
       "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice."
@@ -599,7 +599,7 @@
         "Robotics"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "neutral",
       "confidence": "low",
       "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice."
@@ -621,7 +621,7 @@
         "UCITS"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "neutral",
       "confidence": "low",
       "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice."
@@ -642,7 +642,7 @@
         "UCITS"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "neutral",
       "confidence": "low",
       "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice."
@@ -663,7 +663,7 @@
         "Big Data"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "neutral",
       "confidence": "low",
       "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice."
@@ -684,10 +684,10 @@
         "Traditional"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "bullish",
       "confidence": "high",
-      "reasoning": "Oil supply disruptions and geopolitics can raise crude prices and support traditional energy exposures. Triggered by 11 related headline(s) from the latest news run. Educational use only."
+      "reasoning": "Oil supply disruptions and geopolitics can raise crude prices and support traditional energy exposures. Triggered by 10 related headline(s) from the latest news run. Educational use only."
     },
     {
       "id": "inrg",
@@ -706,7 +706,7 @@
         "UCITS"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "neutral",
       "confidence": "low",
       "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice."
@@ -727,7 +727,7 @@
         "Clean"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "neutral",
       "confidence": "low",
       "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice."
@@ -748,10 +748,10 @@
         "Transportation"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "bullish",
       "confidence": "high",
-      "reasoning": "Supply-chain disruptions and freight rate moves can affect transport/logistics exposures. Triggered by 7 related headline(s) from the latest news run. Educational use only."
+      "reasoning": "Supply-chain disruptions and freight rate moves can affect transport/logistics exposures. Triggered by 8 related headline(s) from the latest news run. Educational use only."
     },
     {
       "id": "xtn",
@@ -769,10 +769,10 @@
         "Transportation"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "bullish",
       "confidence": "high",
-      "reasoning": "Supply-chain disruptions and freight rate moves can affect transport/logistics exposures. Triggered by 7 related headline(s) from the latest news run. Educational use only."
+      "reasoning": "Supply-chain disruptions and freight rate moves can affect transport/logistics exposures. Triggered by 8 related headline(s) from the latest news run. Educational use only."
     },
     {
       "id": "supl",
@@ -790,10 +790,10 @@
         "Logistics"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "bullish",
       "confidence": "high",
-      "reasoning": "Supply-chain disruptions and freight rate moves can affect transport/logistics exposures. Triggered by 7 related headline(s) from the latest news run. Educational use only."
+      "reasoning": "Supply-chain disruptions and freight rate moves can affect transport/logistics exposures. Triggered by 8 related headline(s) from the latest news run. Educational use only."
     },
     {
       "id": "uso",
@@ -811,10 +811,10 @@
         "Oil"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "bullish",
       "confidence": "high",
-      "reasoning": "Oil supply disruptions and geopolitics can raise crude prices and support traditional energy exposures. Triggered by 11 related headline(s) from the latest news run. Educational use only."
+      "reasoning": "Oil supply disruptions and geopolitics can raise crude prices and support traditional energy exposures. Triggered by 10 related headline(s) from the latest news run. Educational use only."
     },
     {
       "id": "ung",
@@ -832,7 +832,7 @@
         "Natural Gas"
       ],
       "source": "financenews",
-      "snapshot_date": "2026-06-14",
+      "snapshot_date": "2026-06-15",
       "signal": "neutral",
       "confidence": "low",
       "reasoning": "No specific impact-rule match was found in the latest headline set. Treat this as a neutral research starting point, not investment advice."
