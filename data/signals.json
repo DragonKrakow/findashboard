@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T01:00:22.478087+00:00",
+  "generated_at": "2026-06-16T05:53:19.381247+00:00",
   "portfolio_summary": {
     "total_assets": 10,
     "buy_count": 3,
@@ -13,11 +13,12 @@
       "name": "NVIDIA Corporation",
       "sector": "Technology",
       "type": "stock",
-      "price": 212.45,
-      "change_pct": 3.5382,
+      "price": 205.19,
+      "change_pct": 0.1562,
       "signal": "buy",
       "note": "Record earnings beat; data-centre momentum intact",
       "sparkline": [
+        214.6099,
         212.3525,
         214.0006,
         210.8942,
@@ -30,8 +31,7 @@
         208.19,
         200.42,
         204.87,
-        205.19,
-        212.45
+        205.19
       ]
     },
     {
@@ -65,11 +65,12 @@
       "name": "Microsoft Corporation",
       "sector": "Technology",
       "type": "stock",
-      "price": 399.76,
-      "change_pct": 2.3084,
+      "price": 390.74,
+      "change_pct": 0.1025,
       "signal": "buy",
       "note": "Azure AI growth accelerating; Copilot adoption exceeding estimates",
       "sparkline": [
+        416.03,
         412.67,
         426.99,
         450.24,
@@ -82,8 +83,7 @@
         403.41,
         397.36,
         390.34,
-        390.74,
-        399.76
+        390.74
       ]
     },
     {
@@ -91,11 +91,12 @@
       "name": "S&P 500 ETF",
       "sector": "Broad Market",
       "type": "etf",
-      "price": 754.83,
-      "change_pct": 1.7634,
+      "price": 741.75,
+      "change_pct": 0.5408,
       "signal": "hold",
       "note": "Breadth improving; watch 530 resistance",
       "sparkline": [
+        750.59,
         750.46,
         754.6,
         756.48,
@@ -108,8 +109,7 @@
         737.05,
         725.43,
         737.76,
-        741.75,
-        754.83
+        741.75
       ]
     },
     {
@@ -117,8 +117,8 @@
       "name": "Bitcoin",
       "sector": "Crypto",
       "type": "crypto",
-      "price": 66210.4922,
-      "change_pct": 0.7611,
+      "price": 66089.1484,
+      "change_pct": 0.5764,
       "signal": "watch",
       "note": "Above $90k resistance; ETF inflows strong",
       "sparkline": [
@@ -135,7 +135,7 @@
         63543.1992,
         64421.3242,
         65710.3984,
-        66210.4922
+        66089.1484
       ]
     },
     {
@@ -143,8 +143,8 @@
       "name": "Ethereum",
       "sector": "Crypto",
       "type": "crypto",
-      "price": 1788.01,
-      "change_pct": 3.676,
+      "price": 1762.51,
+      "change_pct": 2.1974,
       "signal": "hold",
       "note": "ETF decision in Q3; staking yield at 4.2%",
       "sparkline": [
@@ -161,7 +161,7 @@
         1665.1278,
         1680.2146,
         1724.6133,
-        1788.01
+        1762.51
       ]
     },
     {
@@ -169,11 +169,12 @@
       "name": "Gold ETF",
       "sector": "Commodities",
       "type": "etf",
-      "price": 396.55,
-      "change_pct": 2.5896,
+      "price": 386.54,
+      "change_pct": 0.0569,
       "signal": "buy",
       "note": "Safe-haven demand rising on macro uncertainty",
       "sparkline": [
+        414.0,
         408.49,
         412.77,
         417.12,
@@ -186,8 +187,7 @@
         390.78,
         374.58,
         386.32,
-        386.54,
-        396.55
+        386.54
       ]
     },
     {
@@ -221,11 +221,12 @@
       "name": "Exxon Mobil",
       "sector": "Energy",
       "type": "stock",
-      "price": 140.92,
-      "change_pct": -4.1426,
+      "price": 147.01,
+      "change_pct": 0.2797,
       "signal": "sell",
       "note": "OPEC+ supply boost pressures energy names",
       "sparkline": [
+        149.81,
         147.9,
         146.96,
         145.26,
@@ -238,8 +239,7 @@
         148.91,
         150.62,
         146.6,
-        147.01,
-        140.92
+        147.01
       ]
     },
     {
