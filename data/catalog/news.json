@@ -1,17 +1,48 @@
 {
-  "generated_at": "2026-06-16T07:18:31Z",
-  "snapshot_date": "2026-06-16",
+  "generated_at": "2026-06-17T07:16:23Z",
+  "snapshot_date": "2026-06-17",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "How to work in retirement without seeing your Social Security checks slashed",
-      "url": "https://www.marketwatch.com/story/how-to-work-in-retirement-without-seeing-your-social-security-checks-slashed-05d6c830?mod=mw_rss_topstories",
+      "title": "Oil may move through the Strait of Hormuz first, leaving fertilizer supplies stranded",
+      "url": "https://www.marketwatch.com/story/oil-may-move-through-the-strait-of-hormuz-first-leaving-fertilizer-supplies-stranded-0897742c?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-16T00:11:00+00:00",
-      "summary": "Claiming benefits before full retirement age while keeping a job can trigger unexpected withholdings — but the money isn’t lost forever.",
+      "published_at": "2026-06-17T00:46:00+00:00",
+      "summary": "The interim peace agreement between the U.S. and Iran seems to be doing little to answer some of the thornier questions about the Strait of Hormuz, including how much longer it will take for products other than crude to start moving through again.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.4588,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?",
+      "url": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-16T21:45:00+00:00",
+      "summary": "“We have combined savings of $950,000 in retirement plans, Roth IRAs and Treasuries.”",
+      "sentiment": "bullish",
+      "sentiment_score": 0.34,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Michael Burry says he's tempted to bet against SpaceX, but passes on expensive options",
+      "url": "https://www.cnbc.com/2026/06/16/michael-burry-says-hes-tempted-to-bet-against-spacex-but-passes-on-expensive-options.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-16T20:55:45+00:00",
+      "summary": "Burry argued the company's market capitalization had reached levels that dwarf many established businesses and fortunes.",
       "sentiment": "bearish",
-      "sentiment_score": -0.2263,
+      "sentiment_score": -0.3919,
       "tags": [
         "AI"
       ],
@@ -20,13 +51,63 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Need a credit-score boost? Call your credit-card company and ask for this — but proceed with caution.",
-      "url": "https://www.marketwatch.com/story/need-a-credit-score-boost-call-your-credit-card-company-and-ask-for-this-but-proceed-with-caution-c1d028c5?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-15T23:07:00+00:00",
-      "summary": "A credit-limit increase can help strained borrowers improve how their financial picture looks on paper.",
+      "title": "Fed Chair Warsh expected to withhold 'dot' from central bank's interest rate outlook",
+      "url": "https://www.cnbc.com/2026/06/16/fed-chair-warsh-expected-to-withhold-dot-from-central-banks-interest-rate-outlook.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-16T19:12:13+00:00",
+      "summary": "The central bank's Federal Open Market Committee is set to release its quarterly update of where individual officials expect interest rates to head.",
       "sentiment": "bullish",
-      "sentiment_score": 0.8248,
+      "sentiment_score": 0.7184,
+      "tags": [
+        "Interest Rates",
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
+      "url": "https://www.cnbc.com/2026/06/16/the-new-oil-inside-the-effort-to-turn-ai-computing-power-into-a-tradeable-commodity.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-16T18:42:28+00:00",
+      "summary": "AI compute futures could eventually rival some of the world's largest commodity markets, Silicon Data's Carmen Li believes.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "US small business owners: how are you operating in the current economic climate?",
+      "url": "https://www.theguardian.com/business/2026/jun/16/us-small-business-owners-economy-callout",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-16T17:17:07+00:00",
+      "summary": "<p>We would like to hear from small business owners in the US about how they’re adapting to challenges such as inflation</p><p>An index of <a href=\"https://www.theguardian.com/business/us-small-business\">US small business</a> optimism reportedly fell in May to the lowest level since October 2024, which <a href=\"https://www.bloomberg.com/news/articles/2026-06-09/us-small-business-optimism-falls-to-lowest-since-october-2024\">Bloomberg</a> says has erased “almost all of the gains seen since President Donald Trump was elected for a second term”.</p><p>The National Federation of Independent Business optimism index fell 0.6 points to 95.3, according to data put out last week. The measure had previously hit a six-year high in December 2024 following Trump’s re-election.</p> <a href=\"https://www.theguardian.com/business/2026/jun/16/us-small-business-owners-economy-callout\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8625,
+      "tags": [
+        "Election",
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Prediction market traders speculate Anthropic will restore access quickly to AI model after Trump admin directed it to limit reach",
+      "url": "https://www.cnbc.com/2026/06/16/kalshi-traders-think-anthropic-will-restore-access-to-ai-model-quickly.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-16T15:44:01+00:00",
+      "summary": "Traders think it's more likely than not that access is restored by July 1.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5719,
       "tags": [
         "AI"
       ],
@@ -35,14 +116,65 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Roku’s sale to Fox for $22 billion raises a big question",
-      "url": "https://www.marketwatch.com/story/rokus-sale-to-fox-for-22-billion-raises-a-big-question-aecb5346?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-15T23:03:00+00:00",
-      "summary": "Roku’s stock is rallying to a four-year high after agreeing to be bought by Fox in a deal valued at $22 billion.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6486,
+      "title": "Brent crude falls to three-month low below $80 as Iranian oil tankers ‘resume shipping’ – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/jun/16/japan-hikes-interest-rates-inflation-iran-war-thames-water-rescue-nationalisation-latest-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-16T14:15:13+00:00",
+      "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Over at the G7 summit in Évian-les-Bains, European allies don’t appear to share Donald Trump’s optimism that the strait of Hormuz will reopen by Friday.</strong></p><p>One G7 official has told <strong>Bloomberg</strong> there are serious difficulties in finding a common position among the group about how to deal with the situation in Iran.</p><p>One senior US official said traffic in the waterway would ramp up over time, and it could take as many as two weeks for shipping to significantly increase — and even longer for it to return to the levels seen before the US and Israel attacked Iran in February.</p><p>There are mines in the strait that still need to be cleared and shippers have different risk tolerances about navigating Hormuz, the official said.</p><p>Bosses of the world’s biggest shipping companies want to see more than just an agreement in place, mines need to be swept, and all hostilities must end, before tankers with hundreds of millions of dollars’ worth of cargo will be able to traverse the Strait without fear of a flare up in tensions that could close the Strait mid-voyage.</p><p>Thus, even if a deal is signed to end the US/Iran war, the situation is not without its challenges. Brent crude remains above $80 per barrel, and it is unlikely to fall below this level until we start to see cargo ships successfully get through the Strait.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/16/japan-hikes-interest-rates-inflation-iran-war-thames-water-rescue-nationalisation-latest-news-updates\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.7722,
       "tags": [
+        "Oil",
+        "AI",
+        "Shipping"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "SpaceX IPO leaves retail investors with too few shares and a tough hold-or-sell decision",
+      "url": "https://www.cnbc.com/2026/06/15/spacex-ipo-leaves-retail-investors-with-too-few-shares-and-a-tough-hold-or-sell-decision.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-16T12:51:29+00:00",
+      "summary": "Those who did receive stock are taking different approaches, with some selling into the company's market debut while others holding for the long haul.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.1779,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Bank of Japan raises interest rates to 31-year high … of 1%",
+      "url": "https://www.theguardian.com/business/2026/jun/16/bank-of-japan-raises-interest-rates-iran-war-inflation-us-fed-bank-of-england",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-16T10:41:08+00:00",
+      "summary": "<p>Country acts amid Iran war inflation pressures, but US Fed and Bank of England expected to hold rates</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/16/japan-hikes-interest-rates-inflation-iran-war-thames-water-rescue-nationalisation-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The Bank of Japan (BoJ) has raised interest rates to a 31-year high as it tries to dampen inflationary pressures created by the Iran war.</p><p>Policymakers in Tokyo raised the BoJ’s short-term policy rate by a quarter of one percentage point, <a href=\"https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260616c.pdf\">to 1% from 0.75%</a>, and warned that companies were passing on rising oil costs to each other at a “relatively fast pace”.</p> <a href=\"https://www.theguardian.com/business/2026/jun/16/bank-of-japan-raises-interest-rates-iran-war-inflation-us-fed-bank-of-england\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.296,
+      "tags": [
+        "Interest Rates",
+        "Fed",
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "RBA interest rates: Reserve Bank holds official cash rate at 4.35%",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/16/rba-interest-rate-announcement-decision-cash-rates-economy-unemployment-inflation",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-16T07:35:40+00:00",
+      "summary": "<p>Reserve Bank of Australia decision on Tuesday comes after three consecutive cash rate hikes this year</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jun/16/australia-news-live-victoria-wfh-work-from-home-labor-fuel-excise-budget-cost-of-living-albanese-chalmers-one-nation-hanson-rba-interest-rates-decision-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Reserve Bank has warned it is ready to raise interest rates further despite leaving its official interest rate on hold at 4.35%.</p><p>The widely expected decision on Tuesday will bring little relief to mortgage holders, already strained by the RBA’s three consecutive rate hikes earlier in 2026.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jun/16/rba-interest-rate-announcement-decision-cash-rates-economy-unemployment-inflation\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.871,
+      "tags": [
+        "Interest Rates",
         "AI"
       ],
       "signal": "watch",
@@ -65,51 +197,6 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Here’s when gas prices will come down if the U.S. deal to end the Iran war pans out",
-      "url": "https://www.marketwatch.com/story/heres-when-gas-prices-will-go-down-now-that-theres-a-deal-to-end-the-iran-war-6a482f4d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-15T22:31:00+00:00",
-      "summary": "The average retail gasoline price was just above the psychologically significant $4-per-gallon mark on Monday.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.4767,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000 Social Security now or wait?",
-      "url": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-15T22:15:00+00:00",
-      "summary": "“We have combined savings of $950,000 in retirement plans, Roth IRAs and Treasuries.”",
-      "sentiment": "bullish",
-      "sentiment_score": 0.34,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Why Western Digital’s stock was the S&P 500’s biggest gainer on Monday",
-      "url": "https://www.marketwatch.com/story/why-western-digitals-stock-was-the-s-p-500s-biggest-gainer-on-monday-2aebd3e9?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-15T21:57:00+00:00",
-      "summary": "Storage stocks are hot as investor appreciation builds for the companies’ pricing potential.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5106,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
       "title": "Starmer vows new sanctions on Russia and nuclear energy support for Ukraine",
       "url": "https://www.theguardian.com/world/2026/jun/15/starmer-g7-sanctions-russia-nuclear-energy-support-ukraine",
       "source": "The Guardian Economics",
@@ -117,21 +204,6 @@
       "summary": "<p>G7 told ‘we will stand with Ukraine for as long as it takes’, with Russia’s finance networks and shadow fleet targeted</p><p>Keir Starmer has vowed to “choke off” Russian revenue with further sanctions and to provide hundreds of millions of pounds worth of energy support for Ukraine, as he met world leaders in France for the G7.</p><p>After <a href=\"https://www.theguardian.com/politics/2026/jun/12/keir-starmer-john-healey-defence-secretary-exit\">a torrid political week at home</a>, the British prime minister sought to put himself on the front foot on the international stage at the meeting of the group of seven, which kicked off on Monday in the French spa town of Évian-les-Bains, on the shore of Lake Geneva.</p> <a href=\"https://www.theguardian.com/world/2026/jun/15/starmer-g7-sanctions-russia-nuclear-energy-support-ukraine\">Continue reading...</a>",
       "sentiment": "bullish",
       "sentiment_score": 0.8591,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "SpaceX IPO leaves retail investors with too few shares and a tough hold-or-sell decision",
-      "url": "https://www.cnbc.com/2026/06/15/spacex-ipo-leaves-retail-investors-with-too-few-shares-and-a-tough-hold-or-sell-decision.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-15T19:17:48+00:00",
-      "summary": "Those who did receive stock are taking different approaches, with some selling into the company's market debut while others holding for the long haul.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.1779,
       "tags": [
         "AI"
       ],
@@ -400,70 +472,6 @@
       ],
       "signal": "watch",
       "category": "macro",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Middle East war is hurting eurozone economy, warns ECB, after announcing first interest rate rise since 2023 – as it happened",
-      "url": "https://www.theguardian.com/business/live/2026/jun/11/ryanair-investigation-seating-children-eurozone-interest-rates-middle-east-oil-uk-housing-live-news-updates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-11T15:19:17+00:00",
-      "summary": "<p>European Central Bank has lifted interest rates and warned that the war in the Middle East is generating inflation pressures</p><p><strong>The financial markets are surprisingly calm this morning, as conflict erupts again in the Middle East.</strong></p><p>European stock markets are mostly higher this morning, while the oil price is now slipping back.</p><p>As has often been the case during the Iran conflict, the UK’s flagship index has found support from its collection of energy companies and more traditionally defensive names. Miners and other China-linked stocks were lifted by data suggesting the country is investing heavily in AI and consuming raw materials at a healthy rate.</p><p>Selling in AI-related stocks, of which London has very few, put shares on Wall Street under pressure yesterday and that’s extended to Asia today.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/11/ryanair-investigation-seating-children-eurozone-interest-rates-middle-east-oil-uk-housing-live-news-updates\">Continue reading...</a>",
-      "sentiment": "neutral",
-      "sentiment_score": 0.1134,
-      "tags": [
-        "Interest Rates",
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "ECB raises eurozone interest rates as Iran war stokes inflation",
-      "url": "https://www.theguardian.com/business/2026/jun/11/ecb-eurozone-interest-rates-iran-war-inflation",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-11T12:18:30+00:00",
-      "summary": "<p>European Central Bank increases main deposit rate to 2.25%, with two further rises expected by next spring</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/11/ryanair-investigation-seating-children-eurozone-interest-rates-middle-east-oil-uk-housing-live-news-updates\">Business live – latest updates</a></p></li></ul><p>The European Central Bank has raised interest rates for the first time since 2023 in response to higher inflation caused by the war in Iran.</p><p>The ECB raised its main deposit rate from 2% to 2.25% in a move that financial markets expect to be the first of three rises by next spring.</p> <a href=\"https://www.theguardian.com/business/2026/jun/11/ecb-eurozone-interest-rates-iran-war-inflation\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.4215,
-      "tags": [
-        "Interest Rates",
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Young people in Britain are suffering a joblessness epidemic – and, so far, Labour is just making it worse | Larry Elliott",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/11/young-people-britain-joblessness-epidemic-labour-mental-health-economy",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-11T10:53:56+00:00",
-      "summary": "<p>Youth unemployment is harming the mental health of a generation. A sluggish economy will only make things harder</p><p>Unemployment is bad for anyone, but really hard on the young. That’s because prolonged periods of worklessness in your late teens or early 20s scar you for life. As <a href=\"https://bpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/5/2216/files/2026/06/Blanchflower-Bryson-and-Bell-2026-Deteriorating-Mental-Well%E2%80%90Being-of-the-Young-in-the-UK.pdf\">academic studies </a>have shown, it can cause depression and affect earning potential for years to come. There is a clear link between poor mental health and being unemployed.</p><p>That’s why <a href=\"https://www.theguardian.com/society/2026/may/28/a-record-of-failure-whats-in-the-first-part-of-alan-milburns-neet-report\">Alan Milburn’s probe into youth unemployment</a> won’t be one of the government-commissioned reports that is quickly filed away and allowed to gather dust. It makes uncomfortable reading for ministers. The number of people aged 16 to 24 not in education, employment or training (Neets) is rising, and the costs of inactivity are increasing. Britain has a jobs problem, and it’s getting worse.</p><p>Larry Elliott is a Guardian columnist</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/11/young-people-britain-joblessness-epidemic-labour-mental-health-economy\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9744,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "KKR says AI productivity boom to keep on going — but warns of 'extreme' trend not seen since the 19th century",
-      "url": "https://www.cnbc.com/2026/06/11/ais-impact-on-economic-growth-kkr.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-11T05:39:55+00:00",
-      "summary": "KKR said in its mid-year outlook Thursday that AI will drive economic growth for years to come, but only in specific sectors.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.4215,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
       "source_repo": "financenews"
     }
   ]
