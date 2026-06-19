@@ -1,19 +1,18 @@
 {
-  "generated_at": "2026-06-18T07:09:13Z",
-  "snapshot_date": "2026-06-18",
+  "generated_at": "2026-06-19T07:16:08Z",
+  "snapshot_date": "2026-06-19",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Rumble gets 22,000 Nvidia chips, but the video company’s CEO insists this isn’t a fad-like pivot",
-      "url": "https://www.marketwatch.com/story/rumble-gets-22-000-nvidia-chips-but-the-video-companys-ceo-insists-this-isnt-a-fad-like-pivot-b52b2036?mod=mw_rss_topstories",
+      "title": "This AI company wants to replace MRIs with a 60-second dip in the spa. Can that really work?",
+      "url": "https://www.marketwatch.com/story/this-ai-company-wants-to-replace-mris-with-a-60-second-dip-in-the-spa-can-that-really-work-3bce6681?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-18T00:13:00+00:00",
-      "summary": "Is Rumble’s AI expansion just Allbirds 2.0 — or a move modeled after Elon Musk?",
+      "published_at": "2026-06-18T23:22:00+00:00",
+      "summary": "Midjourney is making a foray into healthcare with its latest body-scanner product, aiming to make medical imaging more accessible.",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "tags": [
-        "Chips",
         "AI"
       ],
       "signal": "watch",
@@ -21,42 +20,11 @@
       "source_repo": "financenews"
     },
     {
-      "title": "It’s ‘unavoidable’: Apple says it will be forced to raise prices due to the AI boom",
-      "url": "https://www.marketwatch.com/story/its-unavoidable-apple-says-it-will-be-forced-to-raise-prices-due-to-the-ai-boom-e3d1e4c4?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-17T23:19:00+00:00",
-      "summary": "Tech giants are gobbling up memory chips for AI servers, leaving Apple with soaring component costs that Tim Cook says will inevitably be passed on to consumers.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.4588,
-      "tags": [
-        "Chips",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Warren Buffett’s mentor said his wealth came down to luck. Is your life savings riding on a coin flip?",
-      "url": "https://www.marketwatch.com/story/warren-buffetts-mentor-said-his-wealth-came-down-to-luck-is-your-life-savings-riding-on-a-coin-flip-2498c60c?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-17T22:48:00+00:00",
-      "summary": "The illusion of investing knowledge is powerful: Why you’re probably paying a financial adviser for pure chance.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.875,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Kevin Warsh launches his push to change how the Fed operates",
-      "url": "https://www.marketwatch.com/story/warsh-launches-his-push-to-change-how-the-fed-operates-3ddd9b90?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-17T22:44:00+00:00",
-      "summary": "The new Federal Reserve chair rolls out five task forces that will focus on the central bank’s communications, inflation frameworks and more",
+      "title": "Chairman Warsh drastically alters Fed rate statement. Here's what's changed",
+      "url": "https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-18T22:03:50+00:00",
+      "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in April.",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "tags": [
@@ -68,14 +36,125 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Stock-market pessimists have one less reason to worry as shares of banks and retailers perk up",
-      "url": "https://www.marketwatch.com/story/stock-market-pessimists-have-one-less-reason-to-worry-as-shares-of-banks-and-retailers-perk-up-12d749b8?mod=mw_rss_topstories",
+      "title": "SpaceX is vastly more expensive than any stock in the S&P 500, fueled by ‘FOMO’ mentality",
+      "url": "https://www.marketwatch.com/story/spacex-is-vastly-more-expensive-than-any-stock-in-the-s-p-500-fueled-by-fomo-mentality-eb61cd69?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-17T21:54:00+00:00",
-      "summary": "The rally is once again broadening beyond tech",
-      "sentiment": "bearish",
-      "sentiment_score": -0.3477,
+      "published_at": "2026-06-18T22:03:00+00:00",
+      "summary": "Billions of dollars have flowed into SpaceX ETFs as retail investors look past conventional valuations.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
       "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Intel’s stock jumps 11% — even as analysts say new Apple chip deal might start small",
+      "url": "https://www.marketwatch.com/story/intel-shares-rally-as-trump-says-company-will-build-chips-for-apple-in-the-u-s-c72d8c88?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-18T22:00:00+00:00",
+      "summary": "Intel “is steadily expanding its domestic capacity and converting political and strategic tailwinds into concrete foundry wins,” an analyst says.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Micron’s stock is on the rise. Even Apple isn’t safe from ballooning memory-chip costs.",
+      "url": "https://www.marketwatch.com/story/microns-stock-is-on-the-rise-even-apple-isnt-safe-from-ballooning-memory-chip-costs-ddd04d74?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-18T21:56:00+00:00",
+      "summary": "Demand for memory chips will continue to outpace supply in the near term despite efforts to add manufacturing capacity, an analyst says.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.34,
+      "tags": [
+        "Chips"
+      ],
+      "signal": "watch",
+      "category": "markets",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "These stocks are in trouble after Fed Chair Kevin Warsh removed the market’s guardrails",
+      "url": "https://www.marketwatch.com/story/these-stocks-are-in-trouble-now-that-kevin-warsh-removed-the-markets-guardrails-f7f1e51c?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-18T21:35:00+00:00",
+      "summary": "The new chief is ditching the central bank’s playbook — leaving your portfolio flying blind.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.6597,
+      "tags": [
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Micron, other memory stocks are having their best year ever. Why do they still look so cheap?",
+      "url": "https://www.marketwatch.com/story/memory-stocks-are-having-their-best-year-ever-why-do-they-still-look-so-cheap-a506466d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-18T21:14:00+00:00",
+      "summary": "Some of the AI boom’s biggest earners have become its biggest bargains.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6369,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Markets are set for a much more hawkish Warsh Fed than expected",
+      "url": "https://www.cnbc.com/2026/06/18/markets-are-set-for-a-much-more-hawkish-warsh-fed-than-expected.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-18T18:04:41+00:00",
+      "summary": "Fed Chairman Kevin Warsh's tough talk on inflation Wednesday reverberated through financial markets.",
+      "sentiment": "neutral",
+      "sentiment_score": -0.128,
+      "tags": [
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Bank of England governor warns UK public to expect higher costs this year",
+      "url": "https://www.theguardian.com/business/2026/jun/18/interest-rates-bank-of-england-hold-keep-iran",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-18T17:23:28+00:00",
+      "summary": "<p>Andrew Bailey says ‘inflationary pressure in pipeline’ despite US and Iran signing initial peace deal as interest rates kept on hold</p><p>The governor of the Bank of England has warned consumers to expect higher costs this year as a result of the conflict in the Middle East, despite falling oil prices as the US and Iran signing an initial peace deal.</p><p>Speaking after the Bank kept interest rates on hold at 3.75%, Andrew Bailey said there was “still some inflationary pressure in the pipeline” after the conflict pushed up energy prices.</p> <a href=\"https://www.theguardian.com/business/2026/jun/18/interest-rates-bank-of-england-hold-keep-iran\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7222,
+      "tags": [
+        "Interest Rates",
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Bank of England leaves interest rates on hold and lowers inflation forecast amid Middle East ‘uncertainty’ – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/jun/18/bank-of-england-interest-rates-uk-unemployment-wages-oil-price-stock-markets-latest-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-18T15:12:54+00:00",
+      "summary": "<p>Rolling coverage of the latest economic and financial news, including the latest UK jobs report and the Bank of England’s interest rate decision</p><p><strong>Tesco’s UK sales growth has more than halved as it said the conflict in the Middle East had created “ongoing uncertainty for many households”, knocking its shares in early trading.</strong></p><p>The UK’s biggest retailer said comparable sales rose 1.8% to £13.4bn in the three months to the end of May, below both the 4.2% reported in the previous quarter and the 2.3% growth City analysts had expected.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/18/bank-of-england-interest-rates-uk-unemployment-wages-oil-price-stock-markets-latest-news-updates\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8481,
+      "tags": [
+        "Interest Rates",
+        "Oil",
         "AI"
       ],
       "signal": "watch",
@@ -121,22 +200,6 @@
       "summary": "The median projection called for the federal funds rate to end 2026 at 3.8%, a quarter percentage point above the current target range.",
       "sentiment": "bullish",
       "sentiment_score": 0.34,
-      "tags": [
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Chairman Warsh drastically alters Fed rate statement. Here's what's changed",
-      "url": "https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-17T19:25:18+00:00",
-      "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in April.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
       "tags": [
         "Fed",
         "AI"
@@ -414,68 +477,6 @@
       "sentiment": "bullish",
       "sentiment_score": 0.5187,
       "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Starmer vows new sanctions on Russia and nuclear energy support for Ukraine",
-      "url": "https://www.theguardian.com/world/2026/jun/15/starmer-g7-sanctions-russia-nuclear-energy-support-ukraine",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-15T21:30:35+00:00",
-      "summary": "<p>G7 told ‘we will stand with Ukraine for as long as it takes’, with Russia’s finance networks and shadow fleet targeted</p><p>Keir Starmer has vowed to “choke off” Russian revenue with further sanctions and to provide hundreds of millions of pounds worth of energy support for Ukraine, as he met world leaders in France for the G7.</p><p>After <a href=\"https://www.theguardian.com/politics/2026/jun/12/keir-starmer-john-healey-defence-secretary-exit\">a torrid political week at home</a>, the British prime minister sought to put himself on the front foot on the international stage at the meeting of the group of seven, which kicked off on Monday in the French spa town of Évian-les-Bains, on the shore of Lake Geneva.</p> <a href=\"https://www.theguardian.com/world/2026/jun/15/starmer-g7-sanctions-russia-nuclear-energy-support-ukraine\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8591,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Wall Street and European markets hit record highs and oil price falls to three-month low after US-Iran peace deal – as it happened",
-      "url": "https://www.theguardian.com/business/live/2026/jun/15/oil-price-low-stock-markets-rally-us-iran-peace-deal-ftse-wall-street-live-news-updates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-15T15:57:04+00:00",
-      "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/jun/15/oil-prices-fall-strait-of-hormuz-reopening-hopes-iran-us-peace-deal\">Oil prices tumble amid hopes strait of Hormuz will soon reopen</a></p></li></ul><p><strong>European stock markets have hit a record high at the start of trading, as relief over the US-Iran peace deal ripples across global markets.</strong></p><p>The pan-European Stoxx 600 index has jumped by 0.9% to 639 points, over the previous record high set just before the Iran war started, with shares rising in London, Frankfurt, Paris, Madrid and Milan.</p><p>The move has given investors a clear reason to dial back some of the geopolitical risk premium that has hung over markets, especially as the Strait of Hormuz is expected to reopen and oil prices move sharply lower.</p><p>Energy prices have been one of the clearest transmission channels from Middle East tensions into inflation, bond yields and equity sentiment, and there is likely to be a concerted effort to get prices down even further once this deal is finalised.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/15/oil-price-low-stock-markets-rally-us-iran-peace-deal-ftse-wall-street-live-news-updates\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7845,
-      "tags": [
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Ron Baron bought $1 billion of SpaceX shares in IPO, lifting stake to $25 billion",
-      "url": "https://www.cnbc.com/2026/06/15/ron-baron-bought-1-billion-of-spacex-shares-in-ipo-lifting-stake-to-25-billion.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-15T15:27:00+00:00",
-      "summary": "\"I think we're gonna make hundreds of billions of dollars,\" Baron said Monday on CNBC's \"Squawk Box.\"",
-      "sentiment": "bullish",
-      "sentiment_score": 0.296,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Oil and gas unlikely to return to prewar prices for months even if Hormuz reopens",
-      "url": "https://www.theguardian.com/business/2026/jun/15/return-pre-crisis-oil-gas-supplies-months-away-iran-strait-of-hormuz",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-15T14:48:36+00:00",
-      "summary": "<p>Markets welcome US-Iran peace deal but prices may stay high as buyers race to refill depleted emergency crude stockpiles</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/jun/15/oil-prices-fall-strait-of-hormuz-reopening-hopes-iran-us-peace-deal\">Oil prices hit three-month low and markets rally</a></p></li></ul><p>After more than 100 days of the greatest recorded disruption to the world’s energy supplies, the global oil and gas markets have breathed a sigh of relief.</p><p>Hours after Donald Trump <a href=\"https://www.theguardian.com/world/2026/jun/14/trump-calls-for-restraint-israel-airstrikes-beirut-us-iran-peace-deal\">confirmed</a> that a US-Iran peace deal would lead to the reopening of the strait of Hormuz for tankers carrying millions of barrels of oil and gas, the price of Brent crude <a href=\"https://www.theguardian.com/business/2026/jun/15/oil-prices-fall-strait-of-hormuz-reopening-hopes-iran-us-peace-deal\">tumbled to lows of $82 a barrel</a>. Wholesale gas prices fell about 6%.</p> <a href=\"https://www.theguardian.com/business/2026/jun/15/return-pre-crisis-oil-gas-supplies-months-away-iran-strait-of-hormuz\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.6124,
-      "tags": [
-        "Oil",
         "AI"
       ],
       "signal": "watch",
