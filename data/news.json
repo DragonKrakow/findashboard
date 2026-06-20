@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-06-20T16:34:09.563841+00:00",
+  "generated_at": "2026-06-20T20:30:56.223175+00:00",
   "articles": [
+    {
+      "id": "ac16449d4213",
+      "title": "Fed’s Favorite Gauge Is Seen Showing Faster Inflation",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-20/fed-s-favorite-gauge-is-seen-showing-faster-inflation",
+      "published_at": "2026-06-20T20:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The latest update to the Federal Reserve’s favorite inflation gauge is unlikely to challenge a growing consensus at the US central bank around the need for interest-rate hikes this year.",
+      "tags": []
+    },
+    {
+      "id": "5e723752666b",
+      "title": "Brazil’s Lula Holds Lead Against Bolsonaro After Bank Scandal",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-20/brazil-lula-maintains-lead-against-bolsonaro-after-bank-scandal",
+      "published_at": "2026-06-20T16:30:41+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "President Luiz Inacio Lula da Silva maintained his lead in polls on the Brazilian presidential election against Senator Flavio Bolsonaro, who is weighed down by his ties to a former banker involved in",
+      "tags": []
+    },
     {
       "id": "408eac791b98",
       "title": "Pointed News Quiz | Bonds, Streaming, Yogurt",
@@ -98,35 +122,11 @@
       "tags": []
     },
     {
-      "id": "b73ccb9a4007",
-      "title": "MOU Gives US and Iran Breathing Room",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-20/mou-gives-us-and-iran-breathing-room-video",
-      "published_at": "2026-06-20T14:07:22+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Georgetown University School of Foreign Service Adjunct Professor Ali Vaez joins David Gura and Christina Ruffini on Bloomberg This Weekend and explains his cautious optimism for the recent Memorandum",
-      "tags": []
-    },
-    {
-      "id": "57cba578cf50",
-      "title": "SpaceX IPO Sparks Anticipation for OpenAI and Anthropic",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-20/spacex-ipo-sparks-anticipation-for-openai-and-anthropic-video",
-      "published_at": "2026-06-20T13:36:49+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The capital influx from the SpaceX IPO, which ended its first week of trading up 37% from its IPO price, highlights strong investor enthusiasm. Bloomberg Radio host of \"Masters in Business\" Barry Rith",
-      "tags": []
-    },
-    {
       "id": "344e72be4731",
-      "title": "Iran closes Strait of Hormuz after Israel and Hizbollah exchange fire",
+      "title": "Iran says it closed Strait of Hormuz after Israel and Hizbollah exchange fire",
       "source": "International homepage",
       "url": "https://www.ft.com/content/fad77f6e-b1db-460a-a0c8-c2fd132932f5",
-      "published_at": "2026-06-20T15:17:07+00:00",
+      "published_at": "2026-06-20T19:58:32+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
@@ -134,15 +134,15 @@
       "tags": []
     },
     {
-      "id": "f241a94427d0",
-      "title": "‘Beware small states’: why Lebanon endangers the unfinished Israel-Iran war",
+      "id": "e5d50429053f",
+      "title": "Rahm Emanuel says Trump ‘got schooled’ by Iran in bad ceasefire deal",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/bd4c29d7-8893-4007-8fff-0c4db216d06c",
-      "published_at": "2026-06-19T16:31:51+00:00",
+      "url": "https://www.ft.com/content/3be5a96f-f22e-4b8e-898f-fe10c2f84058",
+      "published_at": "2026-06-20T17:07:11+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "The country carries the seeds of escalation that could undo Trump’s tenuous deal with Tehran",
+      "summary": "Possible Democratic presidential candidate describes war as historic ‘American national security mess’",
       "tags": []
     },
     {
@@ -194,27 +194,27 @@
       "tags": []
     },
     {
-      "id": "d90e91e482dd",
-      "title": "Alternative for Germany revives Nazi-era attacks on Bauhaus",
+      "id": "aba859f72d0f",
+      "title": "Tens of thousands of Albanians join ‘Flamingo Revolution’ protest",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/a9bb98e2-b39d-4f76-9708-eaa926697432",
-      "published_at": "2026-06-20T04:00:30+00:00",
+      "url": "https://www.ft.com/content/68048f2c-9f87-415f-849d-175690c72487",
+      "published_at": "2026-06-20T18:29:41+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Modernist art institution fears AfD ‘patriotic culture’ push nearly 100 years after closing under Hitler",
+      "summary": "Demonstrations against government corruption were sparked by a real estate development proposal by Jared Kushner",
       "tags": []
     },
     {
-      "id": "dcda1859a0a4",
-      "title": "Nigel Farage’s Brexit rallies were funded from the EU budget",
+      "id": "596fba236cbb",
+      "title": "Zelenskyy returns Polish state medal in escalating dispute with ally",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/e6372589-0015-4b91-b2b6-6581c3937c5a",
-      "published_at": "2026-06-20T04:00:38+00:00",
+      "url": "https://www.ft.com/content/e19012a8-d5ee-472f-a319-12c1a5f64a4a",
+      "published_at": "2026-06-20T18:33:11+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "European monies paid for anti-immigrant posters during ‘Say No to EU’ tour",
+      "summary": "Ukrainian president calls on Warsaw to show more respect in row dating back to second world war",
       "tags": []
     },
     {
@@ -239,6 +239,18 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "The $400mn gift has raised charges of conflicts between personal interests and official duties",
+      "tags": []
+    },
+    {
+      "id": "b9e68571f9ef",
+      "title": "Bitcoin rotations into altcoins collapses: Have altseasons 'disappeared'?",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/markets/bitcoin-rotations-into-altcoins-collapses-have-altseasons-disappeared?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "published_at": "2026-06-20T19:09:21+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "BTC's crypto market dominance is holding above a key support, signaling Bitcoin may keep absorbing capital from altcoins and delay a broader altseason.",
       "tags": []
     },
     {
@@ -347,18 +359,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "The Austrian authorization gives WhiteBIT access to the EU's unified crypto framework, which will require exchanges to hold MiCA licenses or stop serving clients after July 1.",
-      "tags": []
-    },
-    {
-      "id": "fff1b32e5c86",
-      "title": "Republican lawmaker proposes prediction markets insider trading ban, not including White House officials",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/prediction-markets-law-white-house-officials?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "published_at": "2026-06-19T18:30:21+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The bill did not specifically bar members of the US Congress from using the platforms or making sports bets, but prohibited policy wagers.",
       "tags": []
     },
     {
@@ -482,6 +482,42 @@
       "tags": []
     },
     {
+      "id": "b4ddf251b59e",
+      "title": "My Top Energy Stocks For 2026 Mid Year Update",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4916484-my-top-energy-stocks-for-2026-mid-year-update?source=feed_all_articles",
+      "published_at": "2026-06-20T19:44:31+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "My Top Energy Stocks For 2026 Mid Year Update",
+      "tags": []
+    },
+    {
+      "id": "2fd265ec531a",
+      "title": "Readers Cite 8 Ideal 'Safer' Dividend Buys In May",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4916483-readers-cite-8-ideal-safer-dividend-buys-in-may?source=feed_all_articles",
+      "published_at": "2026-06-20T19:41:07+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Readers Cite 8 Ideal 'Safer' Dividend Buys In May",
+      "tags": []
+    },
+    {
+      "id": "2f904e67bd87",
+      "title": "Nvidia RTX Spark: What I Learned From Apple's iMac",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4916482-nvidia-rtx-spark-what-i-learned-from-apple-imac?source=feed_all_articles",
+      "published_at": "2026-06-20T16:44:32+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Nvidia RTX Spark: What I Learned From Apple's iMac",
+      "tags": []
+    },
+    {
       "id": "87bfa211e8fd",
       "title": "Qualys: AI Tailwinds And A Reasonable Valuation",
       "source": "All Articles on Seeking Alpha",
@@ -563,42 +599,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Nike Q4 Earnings Preview: A Most Critical Quarter For These Reasons",
-      "tags": []
-    },
-    {
-      "id": "06fc3c6b7f7a",
-      "title": "SharonAI Holdings: Two Billion In Contracts, One Quarter Of Proof",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4916476-sharonai-holdings-two-billion-in-contracts-one-quarter-of-proof?source=feed_all_articles",
-      "published_at": "2026-06-20T14:16:04+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "SharonAI Holdings: Two Billion In Contracts, One Quarter Of Proof",
-      "tags": []
-    },
-    {
-      "id": "2193c782253a",
-      "title": "TSLQ: Understanding This ETF Built For Aggressive Telsa Bears",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4916475-tslq-understanding-this-etf-built-for-aggressive-telsa-bears?source=feed_all_articles",
-      "published_at": "2026-06-20T14:06:58+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "TSLQ: Understanding This ETF Built For Aggressive Telsa Bears",
-      "tags": []
-    },
-    {
-      "id": "596b112ee5a7",
-      "title": "NVD: For Nvidia Bears To Feast On When The AI Hype Fades",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4916420-nvd-for-nvidia-bears-to-feast-on-when-the-ai-hype-fades?source=feed_all_articles",
-      "published_at": "2026-06-20T14:00:04+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "NVD: For Nvidia Bears To Feast On When The AI Hype Fades",
       "tags": []
     }
   ]
