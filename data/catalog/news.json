@@ -1,18 +1,189 @@
 {
-  "generated_at": "2026-06-19T07:16:08Z",
-  "snapshot_date": "2026-06-19",
+  "generated_at": "2026-06-20T06:50:08Z",
+  "snapshot_date": "2026-06-20",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "This AI company wants to replace MRIs with a 60-second dip in the spa. Can that really work?",
-      "url": "https://www.marketwatch.com/story/this-ai-company-wants-to-replace-mris-with-a-60-second-dip-in-the-spa-can-that-really-work-3bce6681?mod=mw_rss_topstories",
+      "title": "‘I’ll probably be working until I die’: I’m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?",
+      "url": "https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-18T23:22:00+00:00",
-      "summary": "Midjourney is making a foray into healthcare with its latest body-scanner product, aiming to make medical imaging more accessible.",
+      "published_at": "2026-06-19T18:00:00+00:00",
+      "summary": "“I’m afraid I’m in a bad place.”",
+      "sentiment": "bearish",
+      "sentiment_score": -0.5423,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Warsh’s new task forces give the Fed wiggle room to put off changing rates until December",
+      "url": "https://www.marketwatch.com/story/warshs-task-forces-give-the-fed-wiggle-room-to-put-off-changing-rates-until-december-364fc1fc?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-19T17:25:00+00:00",
+      "summary": "During his first press conference as Fed chair Wednesday, Kevin Warsh repeated one refrain in his answers to many reporters’ questions: A task force is looking into it.",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "tags": [
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Trump picked Kevin Warsh to cut rates. The new Fed chief just told us he has other plans.",
+      "url": "https://www.marketwatch.com/story/trump-picked-kevin-warsh-to-cut-rates-the-new-fed-chief-just-told-us-he-has-other-plans-096bba56?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-19T17:08:00+00:00",
+      "summary": "Here’s what the central bank’s hawkish agenda means for your money.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.2732,
+      "tags": [
+        "Fed"
+      ],
+      "signal": "watch",
+      "category": "macro",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Fed watching is looking very different now. Two charts can help you in the Warsh era.",
+      "url": "https://www.marketwatch.com/story/fed-watching-is-looking-very-different-now-two-charts-can-help-you-in-the-warsh-era-d2372c15?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-19T16:59:00+00:00",
+      "summary": "Kevin Warsh is forcing Wall Street to do the heavy lifting. Use these benchmarks to find your footing.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.4019,
+      "tags": [
+        "Fed"
+      ],
+      "signal": "watch",
+      "category": "macro",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Is the stock market closed today for Juneteenth? Will the post office deliver mail?",
+      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-juneteenth-will-the-post-office-deliver-mail-0569e453?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-19T16:41:00+00:00",
+      "summary": "The June 19 federal holiday falls on a Friday this year. Here’s how trading hours and other services are affected.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.3527,
+      "tags": [
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Oil prices face fresh wave of volatility amid conflicting reports about Strait of Hormuz reopening and ongoing regional strife",
+      "url": "https://www.marketwatch.com/story/oil-prices-under-new-wave-of-pressure-amid-lingering-questions-over-a-strait-of-hormuz-reopening-c58fc9e8?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-19T16:05:00+00:00",
+      "summary": "A flurry of headlines on Friday point to an increasingly fragile deal between the U.S. and Iran.",
+      "sentiment": "neutral",
+      "sentiment_score": -0.1027,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "The riskiest SpaceX stock trade of all had a big first week",
+      "url": "https://www.cnbc.com/2026/06/19/spacex-stock-risk-buy-sell.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-19T15:53:11+00:00",
+      "summary": "SpaceX's IPO did not just mint the biggest debut in market history and a trillionaire, but it also triggered a historic land grab in risky leveraged ETFs.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.4497,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "City investors fear Labour leadership battle could push up UK bond yields, as UK borrowing jumps in May – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/jun/19/uk-borrowing-surges-over-forecasts-in-may-spending-pound-bonds-borrowing-latest-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-19T15:46:19+00:00",
+      "summary": "<p>UK budget deficit is running higher than forecast; borrowing costs rise after Makerfield byelection as US-Iran talks are called off</p><p><strong>Shares in UK water companies are dropping in early trading, as Andy Burnham’s byelection win raises the prospect of nationalisation.</strong></p><p><strong>United Utilities</strong>, which provides water and wastewater services in the North West of England, are down 1.3%.</p><p>When Andy says he wants the public to have control over ‘the essentials of life’, we should believe him. He is completely serious.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/19/uk-borrowing-surges-over-forecasts-in-may-spending-pound-bonds-borrowing-latest-news-updates\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.3612,
+      "tags": [
+        "Election",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?",
+      "url": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-19T14:10:00+00:00",
+      "summary": "“We have combined savings of $950,000 in retirement plans, Roth IRAs and Treasuries.”",
+      "sentiment": "bullish",
+      "sentiment_score": 0.34,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "What could US-Iran peace deal mean for UK household costs?",
+      "url": "https://www.theguardian.com/money/2026/jun/19/what-could-us-iran-peace-deal-mean-for-uk-household-costs",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-19T13:35:35+00:00",
+      "summary": "<p>The impact on petrol and food prices, energy bills and mortgages if the truce holds and strait of Hormuz reopens</p><p>Around the world, markets reacted with relief this week to news that Donald Trump had <a href=\"https://www.theguardian.com/world/2026/jun/17/trump-us-iran-war-mou-deal\">signed a draft peace deal with Iran </a>that promised to reopen flows of oil and gas from the Gulf to global buyers.</p><p>There are already signs the truce could unravel, with Friday’s peace talks in Switzerland <a href=\"https://www.theguardian.com/world/2026/jun/19/us-iran-talks-in-switzerland-cancelled\">abruptly called off</a>, but for now markets seem persuaded that commercial vessel traffic through the key waterway can start returning to normal.</p> <a href=\"https://www.theguardian.com/money/2026/jun/19/what-could-us-iran-peace-deal-mean-for-uk-household-costs\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8442,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "KPMG leaked confidential Optus information and surveilled whistleblower’s laptop, inquiry hears",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/19/kpmg-scandal-optus-leak-as-whistleblower-claims-ntwnfb",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-19T07:25:02+00:00",
+      "summary": "<p>International firm owns up to breach of ethics after staff leaked confidential Optus information while bidding for telco contract</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jun/19/news-live-australia-ukraine-jim-chalmers-anthony-albanese-capital-gains-tax-concessions-business-pauline-hanson-one-nation-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>KPMG has admitted to another breach of ethics after its staff leaked Optus’ confidential information to colleagues bidding for an audit contract with Telstra.</p><p>The consulting firm’s executives also surveilled a whistleblower’s laptop and dismissed the individual as someone with “workplace grievances”, a parliamentary inquiry heard on Friday.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jun/19/kpmg-scandal-optus-leak-as-whistleblower-claims-ntwnfb\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.7059,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "UK borrows more than expected as impact of Iran war takes toll",
+      "url": "https://www.theguardian.com/business/2026/jun/19/uk-borrows-more-than-expected-as-impact-of-iran-war-takes-toll",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-19T06:34:06+00:00",
+      "summary": "<p>May figure of £23.3bn underlines challenge facing Andy Burnham if he ends up as Labour leader</p><p>The UK borrowed a higher-than-expected £23.3bn in May amid the economic fallout from the Iran war, underlining the fiscal pressures facing Andy Burnham if he takes over as the Labour leader.</p><p>In figures released shortly after Burnham’s <a href=\"https://www.theguardian.com/politics/2026/jun/19/andy-burnham-wins-makerfield-byelection-paving-way-labour-leadership-challenge\">victory in the Makerfield byelection</a>, the Office for National Statistics (ONS) said public sector net borrowing – the difference between government spending and income – for the month was the second highest for any May on record.</p> <a href=\"https://www.theguardian.com/business/2026/jun/19/uk-borrows-more-than-expected-as-impact-of-iran-war-takes-toll\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.8689,
+      "tags": [
+        "Election",
         "AI"
       ],
       "signal": "watch",
@@ -29,82 +200,6 @@
       "sentiment_score": 0.0,
       "tags": [
         "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "SpaceX is vastly more expensive than any stock in the S&P 500, fueled by ‘FOMO’ mentality",
-      "url": "https://www.marketwatch.com/story/spacex-is-vastly-more-expensive-than-any-stock-in-the-s-p-500-fueled-by-fomo-mentality-eb61cd69?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-18T22:03:00+00:00",
-      "summary": "Billions of dollars have flowed into SpaceX ETFs as retail investors look past conventional valuations.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Intel’s stock jumps 11% — even as analysts say new Apple chip deal might start small",
-      "url": "https://www.marketwatch.com/story/intel-shares-rally-as-trump-says-company-will-build-chips-for-apple-in-the-u-s-c72d8c88?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-18T22:00:00+00:00",
-      "summary": "Intel “is steadily expanding its domestic capacity and converting political and strategic tailwinds into concrete foundry wins,” an analyst says.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Micron’s stock is on the rise. Even Apple isn’t safe from ballooning memory-chip costs.",
-      "url": "https://www.marketwatch.com/story/microns-stock-is-on-the-rise-even-apple-isnt-safe-from-ballooning-memory-chip-costs-ddd04d74?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-18T21:56:00+00:00",
-      "summary": "Demand for memory chips will continue to outpace supply in the near term despite efforts to add manufacturing capacity, an analyst says.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.34,
-      "tags": [
-        "Chips"
-      ],
-      "signal": "watch",
-      "category": "markets",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "These stocks are in trouble after Fed Chair Kevin Warsh removed the market’s guardrails",
-      "url": "https://www.marketwatch.com/story/these-stocks-are-in-trouble-now-that-kevin-warsh-removed-the-markets-guardrails-f7f1e51c?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-18T21:35:00+00:00",
-      "summary": "The new chief is ditching the central bank’s playbook — leaving your portfolio flying blind.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.6597,
-      "tags": [
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Micron, other memory stocks are having their best year ever. Why do they still look so cheap?",
-      "url": "https://www.marketwatch.com/story/memory-stocks-are-having-their-best-year-ever-why-do-they-still-look-so-cheap-a506466d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-18T21:14:00+00:00",
-      "summary": "Some of the AI boom’s biggest earners have become its biggest bargains.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6369,
-      "tags": [
         "AI"
       ],
       "signal": "watch",
@@ -379,104 +474,6 @@
       "sentiment_score": 0.0,
       "tags": [
         "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "US small business owners: how are you operating in the current economic climate?",
-      "url": "https://www.theguardian.com/business/2026/jun/16/us-small-business-owners-economy-callout",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-16T17:17:07+00:00",
-      "summary": "<p>We would like to hear from small business owners in the US about how they’re adapting to challenges such as inflation</p><p>An index of <a href=\"https://www.theguardian.com/business/us-small-business\">US small business</a> optimism reportedly fell in May to the lowest level since October 2024, which <a href=\"https://www.bloomberg.com/news/articles/2026-06-09/us-small-business-optimism-falls-to-lowest-since-october-2024\">Bloomberg</a> says has erased “almost all of the gains seen since President Donald Trump was elected for a second term”.</p><p>The National Federation of Independent Business optimism index fell 0.6 points to 95.3, according to data put out last week. The measure had previously hit a six-year high in December 2024 following Trump’s re-election.</p> <a href=\"https://www.theguardian.com/business/2026/jun/16/us-small-business-owners-economy-callout\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8625,
-      "tags": [
-        "Election",
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Brent crude falls to three-month low below $80 as Iranian oil tankers ‘resume shipping’ – as it happened",
-      "url": "https://www.theguardian.com/business/live/2026/jun/16/japan-hikes-interest-rates-inflation-iran-war-thames-water-rescue-nationalisation-latest-news-updates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-16T14:15:13+00:00",
-      "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Over at the G7 summit in Évian-les-Bains, European allies don’t appear to share Donald Trump’s optimism that the strait of Hormuz will reopen by Friday.</strong></p><p>One G7 official has told <strong>Bloomberg</strong> there are serious difficulties in finding a common position among the group about how to deal with the situation in Iran.</p><p>One senior US official said traffic in the waterway would ramp up over time, and it could take as many as two weeks for shipping to significantly increase — and even longer for it to return to the levels seen before the US and Israel attacked Iran in February.</p><p>There are mines in the strait that still need to be cleared and shippers have different risk tolerances about navigating Hormuz, the official said.</p><p>Bosses of the world’s biggest shipping companies want to see more than just an agreement in place, mines need to be swept, and all hostilities must end, before tankers with hundreds of millions of dollars’ worth of cargo will be able to traverse the Strait without fear of a flare up in tensions that could close the Strait mid-voyage.</p><p>Thus, even if a deal is signed to end the US/Iran war, the situation is not without its challenges. Brent crude remains above $80 per barrel, and it is unlikely to fall below this level until we start to see cargo ships successfully get through the Strait.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/16/japan-hikes-interest-rates-inflation-iran-war-thames-water-rescue-nationalisation-latest-news-updates\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.7722,
-      "tags": [
-        "Oil",
-        "AI",
-        "Shipping"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "SpaceX IPO leaves retail investors with too few shares and a tough hold-or-sell decision",
-      "url": "https://www.cnbc.com/2026/06/15/spacex-ipo-leaves-retail-investors-with-too-few-shares-and-a-tough-hold-or-sell-decision.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-16T12:51:29+00:00",
-      "summary": "Those who did receive stock are taking different approaches, with some selling into the company's market debut while others holding for the long haul.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.1779,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Bank of Japan raises interest rates to 31-year high … of 1%",
-      "url": "https://www.theguardian.com/business/2026/jun/16/bank-of-japan-raises-interest-rates-iran-war-inflation-us-fed-bank-of-england",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-16T10:41:08+00:00",
-      "summary": "<p>Country acts amid Iran war inflation pressures, but US Fed and Bank of England expected to hold rates</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/16/japan-hikes-interest-rates-inflation-iran-war-thames-water-rescue-nationalisation-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The Bank of Japan (BoJ) has raised interest rates to a 31-year high as it tries to dampen inflationary pressures created by the Iran war.</p><p>Policymakers in Tokyo raised the BoJ’s short-term policy rate by a quarter of one percentage point, <a href=\"https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260616c.pdf\">to 1% from 0.75%</a>, and warned that companies were passing on rising oil costs to each other at a “relatively fast pace”.</p> <a href=\"https://www.theguardian.com/business/2026/jun/16/bank-of-japan-raises-interest-rates-iran-war-inflation-us-fed-bank-of-england\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.296,
-      "tags": [
-        "Interest Rates",
-        "Fed",
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "RBA interest rates: Reserve Bank holds official cash rate at 4.35%",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/16/rba-interest-rate-announcement-decision-cash-rates-economy-unemployment-inflation",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-16T07:35:40+00:00",
-      "summary": "<p>Reserve Bank of Australia decision on Tuesday comes after three consecutive cash rate hikes this year</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jun/16/australia-news-live-victoria-wfh-work-from-home-labor-fuel-excise-budget-cost-of-living-albanese-chalmers-one-nation-hanson-rba-interest-rates-decision-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Reserve Bank has warned it is ready to raise interest rates further despite leaving its official interest rate on hold at 4.35%.</p><p>The widely expected decision on Tuesday will bring little relief to mortgage holders, already strained by the RBA’s three consecutive rate hikes earlier in 2026.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jun/16/rba-interest-rate-announcement-decision-cash-rates-economy-unemployment-inflation\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.871,
-      "tags": [
-        "Interest Rates",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "CFTC chair Selig defends decision to approve ‘perps’ in U.S.",
-      "url": "https://www.cnbc.com/2026/06/15/cftc-chair-selig-defends-decision-to-approve-perps-in-us.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-15T22:39:09+00:00",
-      "summary": "Michael Selig said that incumbents will always fear the future, but it's important to develop the new asset class domestically rather than only offshore.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5187,
-      "tags": [
         "AI"
       ],
       "signal": "watch",
