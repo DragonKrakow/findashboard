@@ -1,34 +1,18 @@
 {
-  "generated_at": "2026-06-20T06:50:08Z",
-  "snapshot_date": "2026-06-20",
+  "generated_at": "2026-06-21T07:09:05Z",
+  "snapshot_date": "2026-06-21",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "‘I’ll probably be working until I die’: I’m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?",
-      "url": "https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-19T18:00:00+00:00",
-      "summary": "“I’m afraid I’m in a bad place.”",
-      "sentiment": "bearish",
-      "sentiment_score": -0.5423,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Warsh’s new task forces give the Fed wiggle room to put off changing rates until December",
-      "url": "https://www.marketwatch.com/story/warshs-task-forces-give-the-fed-wiggle-room-to-put-off-changing-rates-until-december-364fc1fc?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-19T17:25:00+00:00",
-      "summary": "During his first press conference as Fed chair Wednesday, Kevin Warsh repeated one refrain in his answers to many reporters’ questions: A task force is looking into it.",
+      "title": "Iran reportedly closes Strait of Hormuz again as Vance heads to Switzerland for talks",
+      "url": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-20T22:59:26+00:00",
+      "summary": "Iran's joint military command said the closure was in response to continued Israeli military operations in Lebanon.",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "tags": [
-        "Fed",
         "AI"
       ],
       "signal": "watch",
@@ -36,61 +20,45 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Trump picked Kevin Warsh to cut rates. The new Fed chief just told us he has other plans.",
-      "url": "https://www.marketwatch.com/story/trump-picked-kevin-warsh-to-cut-rates-the-new-fed-chief-just-told-us-he-has-other-plans-096bba56?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-19T17:08:00+00:00",
-      "summary": "Here’s what the central bank’s hawkish agenda means for your money.",
+      "title": "Petrol prices in Australia are now lower than before the Iran war began. Is the oil crisis over and what happens next?",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/21/oil-price-petrol-prices-australia-fuel-crisis-us-iran-war-lower",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-20T20:00:13+00:00",
+      "summary": "<p>Fuel suppliers outside the Middle East have proved to be much more flexible than analysts expected – and China surprised everyone</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jun/21/australia-news-live-bird-flu-h5n1-wildlife-fuel-excise-iran-hormuz-albanese-bowen-taylor-coalition-one-nation-pauline-hanson-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australians were warned soon after the Middle East conflict started that the country could run short on fuel, with prices rising to record levels owing to disrupted oil supplies.</p><p>Now, amid <a href=\"https://www.theguardian.com/world/2026/jun/18/iran-peace-deal-us-trump\">an uneasy peace deal</a> and continued supply disruptions, petrol prices are lower than they were before the conflict began and official warnings over fuel usage have largely disappeared.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jun/21/oil-price-petrol-prices-australia-fuel-crisis-us-iran-war-lower\">Continue reading...</a>",
       "sentiment": "bearish",
-      "sentiment_score": -0.2732,
-      "tags": [
-        "Fed"
-      ],
-      "signal": "watch",
-      "category": "macro",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Fed watching is looking very different now. Two charts can help you in the Warsh era.",
-      "url": "https://www.marketwatch.com/story/fed-watching-is-looking-very-different-now-two-charts-can-help-you-in-the-warsh-era-d2372c15?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-19T16:59:00+00:00",
-      "summary": "Kevin Warsh is forcing Wall Street to do the heavy lifting. Use these benchmarks to find your footing.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.4019,
-      "tags": [
-        "Fed"
-      ],
-      "signal": "watch",
-      "category": "macro",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Is the stock market closed today for Juneteenth? Will the post office deliver mail?",
-      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-juneteenth-will-the-post-office-deliver-mail-0569e453?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-19T16:41:00+00:00",
-      "summary": "The June 19 federal holiday falls on a Friday this year. Here’s how trading hours and other services are affected.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3527,
-      "tags": [
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Oil prices face fresh wave of volatility amid conflicting reports about Strait of Hormuz reopening and ongoing regional strife",
-      "url": "https://www.marketwatch.com/story/oil-prices-under-new-wave-of-pressure-amid-lingering-questions-over-a-strait-of-hormuz-reopening-c58fc9e8?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-19T16:05:00+00:00",
-      "summary": "A flurry of headlines on Friday point to an increasingly fragile deal between the U.S. and Iran.",
-      "sentiment": "neutral",
-      "sentiment_score": -0.1027,
+      "sentiment_score": -0.9535,
       "tags": [
         "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Want to splurge on travel in retirement? Here’s how to plan for it.",
+      "url": "https://www.marketwatch.com/story/want-to-splurge-on-travel-in-retirement-heres-how-to-plan-for-it-40bb26f2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-20T18:17:00+00:00",
+      "summary": "A lot of people wait until retirement to take big trips. Plan ahead, and don’t wait too long.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0772,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Three powerful forces are draining family wealth — and your estate plan is completely unprepared",
+      "url": "https://www.marketwatch.com/story/the-great-wealth-transfer-is-real-but-the-irs-or-a-nursing-home-might-get-your-money-first-d0c46676?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-20T17:42:00+00:00",
+      "summary": "From Medicaid cuts to an IRA tax trap, here are the real threats to your family’s inheritance and what to do about them.",
+      "sentiment": "neutral",
+      "sentiment_score": -0.0772,
+      "tags": [
         "AI"
       ],
       "signal": "watch",
@@ -122,21 +90,6 @@
       "sentiment_score": -0.3612,
       "tags": [
         "Election",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?",
-      "url": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-19T14:10:00+00:00",
-      "summary": "“We have combined savings of $950,000 in retirement plans, Roth IRAs and Treasuries.”",
-      "sentiment": "bullish",
-      "sentiment_score": 0.34,
-      "tags": [
         "AI"
       ],
       "signal": "watch",
@@ -474,6 +427,55 @@
       "sentiment_score": 0.0,
       "tags": [
         "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "US small business owners: how are you operating in the current economic climate?",
+      "url": "https://www.theguardian.com/business/2026/jun/16/us-small-business-owners-economy-callout",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-16T17:17:07+00:00",
+      "summary": "<p>We would like to hear from small business owners in the US about how they’re adapting to challenges such as inflation</p><p>An index of <a href=\"https://www.theguardian.com/business/us-small-business\">US small business</a> optimism reportedly fell in May to the lowest level since October 2024, which <a href=\"https://www.bloomberg.com/news/articles/2026-06-09/us-small-business-optimism-falls-to-lowest-since-october-2024\">Bloomberg</a> says has erased “almost all of the gains seen since President Donald Trump was elected for a second term”.</p><p>The National Federation of Independent Business optimism index fell 0.6 points to 95.3, according to data put out last week. The measure had previously hit a six-year high in December 2024 following Trump’s re-election.</p> <a href=\"https://www.theguardian.com/business/2026/jun/16/us-small-business-owners-economy-callout\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8625,
+      "tags": [
+        "Election",
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Brent crude falls to three-month low below $80 as Iranian oil tankers ‘resume shipping’ – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/jun/16/japan-hikes-interest-rates-inflation-iran-war-thames-water-rescue-nationalisation-latest-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-16T14:15:13+00:00",
+      "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Over at the G7 summit in Évian-les-Bains, European allies don’t appear to share Donald Trump’s optimism that the strait of Hormuz will reopen by Friday.</strong></p><p>One G7 official has told <strong>Bloomberg</strong> there are serious difficulties in finding a common position among the group about how to deal with the situation in Iran.</p><p>One senior US official said traffic in the waterway would ramp up over time, and it could take as many as two weeks for shipping to significantly increase — and even longer for it to return to the levels seen before the US and Israel attacked Iran in February.</p><p>There are mines in the strait that still need to be cleared and shippers have different risk tolerances about navigating Hormuz, the official said.</p><p>Bosses of the world’s biggest shipping companies want to see more than just an agreement in place, mines need to be swept, and all hostilities must end, before tankers with hundreds of millions of dollars’ worth of cargo will be able to traverse the Strait without fear of a flare up in tensions that could close the Strait mid-voyage.</p><p>Thus, even if a deal is signed to end the US/Iran war, the situation is not without its challenges. Brent crude remains above $80 per barrel, and it is unlikely to fall below this level until we start to see cargo ships successfully get through the Strait.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/16/japan-hikes-interest-rates-inflation-iran-war-thames-water-rescue-nationalisation-latest-news-updates\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.7722,
+      "tags": [
+        "Oil",
+        "AI",
+        "Shipping"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "SpaceX IPO leaves retail investors with too few shares and a tough hold-or-sell decision",
+      "url": "https://www.cnbc.com/2026/06/15/spacex-ipo-leaves-retail-investors-with-too-few-shares-and-a-tough-hold-or-sell-decision.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-16T12:51:29+00:00",
+      "summary": "Those who did receive stock are taking different approaches, with some selling into the company's market debut while others holding for the long haul.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.1779,
+      "tags": [
         "AI"
       ],
       "signal": "watch",
