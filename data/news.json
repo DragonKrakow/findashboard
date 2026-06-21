@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-21T05:39:18.175371+00:00",
+  "generated_at": "2026-06-21T09:18:19.222701+00:00",
   "articles": [
+    {
+      "id": "5aef71fe2742",
+      "title": "Three Indian Tankers Reemerge, Pointing to Hormuz Traffic Uptick",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-21/three-indian-tankers-reemerge-pointing-to-hormuz-traffic-uptick",
+      "published_at": "2026-06-21T07:25:18+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Three fully laden India-linked supertankers have re-emerged in the Gulf of Oman, adding to increased observed bi-directional traffic across the northern and southern routes of the Strait of Hormuz eve",
+      "tags": []
+    },
     {
       "id": "3649957f7c7f",
       "title": "Swiss Voters Set to Reject Stricter Neutrality, Early Poll Shows",
@@ -110,27 +122,15 @@
       "tags": []
     },
     {
-      "id": "b25ef1d890c8",
-      "title": "South Africa’s Kganyago Warns Inflation Expectations Are Rising",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-20/south-africa-central-bank-warns-it-must-act-on-rising-price-expectations",
-      "published_at": "2026-06-20T14:50:07+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "South Africa’s central bank governor said policymakers are seeing early signs of second-round inflation effects as underlying price pressures build, emphasizing the need to act.",
-      "tags": []
-    },
-    {
-      "id": "344e72be4731",
-      "title": "Iran says it closed Strait of Hormuz after Israel and Hizbollah exchange fire",
+      "id": "212906c5864a",
+      "title": "Vance arrives in Switzerland for crunch US-Iran talks",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/fad77f6e-b1db-460a-a0c8-c2fd132932f5",
-      "published_at": "2026-06-20T20:39:55+00:00",
+      "url": "https://www.ft.com/content/c1014643-940c-4874-998a-0a52eb517c49",
+      "published_at": "2026-06-21T07:31:16+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Set-back comes as US vice-president heads to Switzerland for peace talks with negotiators from the Islamic republic",
+      "summary": "Negotiations aimed at reaching permanent end to war will initially focus on Israeli-Hizbollah conflict in Lebanon",
       "tags": []
     },
     {
@@ -206,18 +206,6 @@
       "tags": []
     },
     {
-      "id": "298aa2e17b92",
-      "title": "Chief whip warns Starmer that growing number of MPs want exit timetable",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/e586d110-34cf-47c6-8a05-68750ee425dd",
-      "published_at": "2026-06-20T17:01:50+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Prime minister is spending the weekend discussing his future with allies and colleagues",
-      "tags": []
-    },
-    {
       "id": "adfe3ae2fdb7",
       "title": "How easily could Britain rejoin the EU?",
       "source": "International homepage",
@@ -230,6 +218,18 @@
       "tags": []
     },
     {
+      "id": "298aa2e17b92",
+      "title": "Starmer could announce exit next week, some ministers believe",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/e586d110-34cf-47c6-8a05-68750ee425dd",
+      "published_at": "2026-06-21T08:14:55+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "UK prime minister under intense pressure to set out departure timetable after Andy Burnham’s by-election win",
+      "tags": []
+    },
+    {
       "id": "c9b18fdfebba",
       "title": "Holiday bookings surge in markets hit by Iran crisis",
       "source": "International homepage",
@@ -239,6 +239,18 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Rebound across eastern Mediterranean as travellers reassess conflict’s threat and proximity",
+      "tags": []
+    },
+    {
+      "id": "443f76c5c785",
+      "title": "Japanese corporate pension fund plans 1% crypto allocation: Nikkei",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/japanese-corporate-pension-fund-crypto-allocation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "published_at": "2026-06-21T08:54:41+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "A Japanese corporate pension fund serving about 1,200 small and medium-sized businesses plans to allocate roughly 1% of its assets to crypto as part of a currency diversification strategy.",
       "tags": []
     },
     {
@@ -255,7 +267,7 @@
     },
     {
       "id": "121de8963597",
-      "title": "Bitcoin ETFs shed a record $6.4B in 30 days amid crypto winter chill",
+      "title": "Bitcoin ETFs shed record $6.4B in 30 days amid crypto winter chill",
       "source": "Cointelegraph.com News",
       "url": "https://cointelegraph.com/news/bitcoin-etfs-shed-a-record-64b-in-30-days-as-bitcoin-shivers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "published_at": "2026-06-21T04:30:00+00:00",
@@ -327,7 +339,7 @@
     },
     {
       "id": "cff2d8118af6",
-      "title": "Crypto kidnappers who robbed a Minnesota family of $8M plead guilty",
+      "title": "Crypto kidnappers who robbed Minnesota family of $8M plead guilty",
       "source": "Cointelegraph.com News",
       "url": "https://cointelegraph.com/news/crypto-kidnappers-who-robbed-a-minnesota-family-of-8m-plead-guilty?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "published_at": "2026-06-20T05:12:43+00:00",
@@ -350,15 +362,27 @@
       "tags": []
     },
     {
-      "id": "f84010554a97",
-      "title": "Charles Schwab to enter prediction markets with S&P 500 wagers: WSJ",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/charles-schwab-prediction-markets-sp500-wagers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "published_at": "2026-06-19T21:11:07+00:00",
+      "id": "e29aecbc22f1",
+      "title": "Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit",
+      "published_at": "2026-06-21T07:12:35+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "The offering from the financial services company will reportedly only include yes-or-no bets on whether the S&amp;P 500 closes above or below a target price.",
+      "summary": "Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit",
+      "tags": []
+    },
+    {
+      "id": "f63adefe59a7",
+      "title": "Bitcoin holds near $64,000 as a renewed Hormuz threat clouds US-Iran ceasefire talks",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/markets/2026/06/21/bitcoin-holds-near-usd64-000-as-a-renewed-hormuz-threat-clouds-us-iran-ceasefire-talks",
+      "published_at": "2026-06-21T06:46:28+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Bitcoin holds near $64,000 as a renewed Hormuz threat clouds US-Iran ceasefire talks",
       "tags": []
     },
     {
@@ -458,27 +482,111 @@
       "tags": []
     },
     {
-      "id": "b046dc6c3a8b",
-      "title": "XRP falls 3% after losing $1.15 support as breakout attempt fades",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/06/19/xrp-falls-3-after-losing-usd1-15-support-as-breakout-attempt-fades",
-      "published_at": "2026-06-19T05:14:20+00:00",
+      "id": "ac45e467500a",
+      "title": "Ambev: Don't Ignore This High-Quality Beverage Leader",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4916528-ambev-dont-ignore-this-high-quality-beverage-leader?source=feed_all_articles",
+      "published_at": "2026-06-21T08:44:32+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "XRP falls 3% after losing $1.15 support as breakout attempt fades",
+      "summary": "Ambev: Don't Ignore This High-Quality Beverage Leader",
       "tags": []
     },
     {
-      "id": "d7bff01e87a8",
-      "title": "Live markets: Bitcoin under pressure as Saylor comments on STRC selloff",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/06/19/live-markets-bitcoin-has-traded-below-its-mining-cost-for-five-months-squeezing-miners",
-      "published_at": "2026-06-19T05:04:22+00:00",
+      "id": "7fdbb8c75ff7",
+      "title": "CTO Realty Growth: Hold Common Stock For Dividend, Buy Preferred For 7.5% Yield",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4916525-cto-realty-growth-hold-common-stock-for-dividend-buy-preferred-for-7-5-percent-yield?source=feed_all_articles",
+      "published_at": "2026-06-21T08:25:03+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Live markets: Bitcoin under pressure as Saylor comments on STRC selloff",
+      "summary": "CTO Realty Growth: Hold Common Stock For Dividend, Buy Preferred For 7.5% Yield",
+      "tags": []
+    },
+    {
+      "id": "9efb039557c9",
+      "title": "Week Ahead: Digesting Last Week's Evolving Developments",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4916527-week-ahead-digesting-last-weeks-evolving-developments?source=feed_all_articles",
+      "published_at": "2026-06-21T08:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Week Ahead: Digesting Last Week's Evolving Developments",
+      "tags": []
+    },
+    {
+      "id": "a4fd30276cb7",
+      "title": "QLD: Q2 Tech Earnings Are Going To Be So... So Good For This 20-Year-Old Leveraged ETF",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4916522-qld-q2-tech-earnings-are-going-to-be-so-so-good-for-this-20-year-old-leveraged-etf?source=feed_all_articles",
+      "published_at": "2026-06-21T07:58:58+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "QLD: Q2 Tech Earnings Are Going To Be So... So Good For This 20-Year-Old Leveraged ETF",
+      "tags": []
+    },
+    {
+      "id": "0b526dec2c02",
+      "title": "New Trex CEO Has Mandate For Growth And Innovation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4916521-new-trex-ceo-has-mandate-for-growth-and-innovation?source=feed_all_articles",
+      "published_at": "2026-06-21T07:51:31+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "New Trex CEO Has Mandate For Growth And Innovation",
+      "tags": []
+    },
+    {
+      "id": "b5d4a5a65902",
+      "title": "Lindsay Corporation: Things Are Going To Get Worse Before They Get Better (Rating Downgrade)",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4916519-lindsay-corporation-things-are-going-to-get-worse-before-they-get-better-downgrade?source=feed_all_articles",
+      "published_at": "2026-06-21T07:19:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Lindsay Corporation: Things Are Going To Get Worse Before They Get Better (Rating Downgrade)",
+      "tags": []
+    },
+    {
+      "id": "47a36099677e",
+      "title": "CAVA: Back In Growth Mode With Sizzling Comps (Rating Upgrade)",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4916518-cava-back-in-growth-mode-with-sizzling-comps-upgrade?source=feed_all_articles",
+      "published_at": "2026-06-21T06:57:17+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "CAVA: Back In Growth Mode With Sizzling Comps (Rating Upgrade)",
+      "tags": []
+    },
+    {
+      "id": "f52e51615749",
+      "title": "QT Imaging Approaches Breakeven In The Perfect Cultural Moment",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4916516-qt-imaging-approaches-breakeven-in-the-perfect-cultural-moment?source=feed_all_articles",
+      "published_at": "2026-06-21T06:23:26+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "QT Imaging Approaches Breakeven In The Perfect Cultural Moment",
+      "tags": []
+    },
+    {
+      "id": "6af66dbe1c86",
+      "title": "IBIT: Bitcoin Is Likely In The Final Few Months Of The Bear Market (Rating Upgrade)",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4916514-ibit-bitcoin-is-likely-in-the-final-few-months-of-the-bear-market?source=feed_all_articles",
+      "published_at": "2026-06-21T05:37:59+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "IBIT: Bitcoin Is Likely In The Final Few Months Of The Bear Market (Rating Upgrade)",
       "tags": []
     },
     {
@@ -491,114 +599,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "K92 Mining: The Market Is Still Valuing A Mine, Not A District",
-      "tags": []
-    },
-    {
-      "id": "e4d44cca5bbc",
-      "title": "BRW: Improved Earnings But Uncertain Outlook",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4916511-brw-improved-earnings-but-uncertain-outlook?source=feed_all_articles",
-      "published_at": "2026-06-21T04:32:47+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "BRW: Improved Earnings But Uncertain Outlook",
-      "tags": []
-    },
-    {
-      "id": "a397052a359b",
-      "title": "S&P 500 Snapshot: Peace Deal Overcomes Fed Jitters",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4916419-sp-500-snapshot-peace-deal-overcomes-fed-jitters?source=feed_all_articles",
-      "published_at": "2026-06-21T04:30:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "S&P 500 Snapshot: Peace Deal Overcomes Fed Jitters",
-      "tags": []
-    },
-    {
-      "id": "537f7b6ab4ae",
-      "title": "Politics And The Markets 06/21/26",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4910485-politics-and-the-markets-062126?source=feed_all_articles",
-      "published_at": "2026-06-21T04:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Politics And The Markets 06/21/26",
-      "tags": []
-    },
-    {
-      "id": "838fa704947c",
-      "title": "Lantheus: The Turnaround Is Working, But The Easy Money Has Been Made",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4916509-lantheus-stock-turnaround-is-working-but-the-easy-money-has-been-made?source=feed_all_articles",
-      "published_at": "2026-06-21T03:59:24+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Lantheus: The Turnaround Is Working, But The Easy Money Has Been Made",
-      "tags": []
-    },
-    {
-      "id": "8228f879dfe4",
-      "title": "Grupo Aeroportuario del Centro Norte: A World Cup Host, And Broader Bullish Outlook",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4916510-grupo-aeroportuario-del-centro-norte-a-world-cup-host-and-broader-bullish-outlook?source=feed_all_articles",
-      "published_at": "2026-06-21T03:59:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Grupo Aeroportuario del Centro Norte: A World Cup Host, And Broader Bullish Outlook",
-      "tags": []
-    },
-    {
-      "id": "da0dfc4c3808",
-      "title": "SPLV: Low Volatility Alone Isn't Optimal For Defensive Investors",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4916508-splv-low-volatility-alone-isnt-optimal-for-defensive-investors?source=feed_all_articles",
-      "published_at": "2026-06-21T03:38:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "SPLV: Low Volatility Alone Isn't Optimal For Defensive Investors",
-      "tags": []
-    },
-    {
-      "id": "993b6e5893b6",
-      "title": "SPVM: Soft Past Performance, Unappealing Factor Mix, Hold At Best",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4916507-spvm-soft-past-performance-unappealing-factor-mix-hold-at-best?source=feed_all_articles",
-      "published_at": "2026-06-21T03:28:03+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "SPVM: Soft Past Performance, Unappealing Factor Mix, Hold At Best",
-      "tags": []
-    },
-    {
-      "id": "1bed308b3fae",
-      "title": "CRAK: Technical Damage Among The Refiners Amid A Compelling Valuation",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4916506-crak-technical-damage-among-the-refiners-amid-a-compelling-valuation?source=feed_all_articles",
-      "published_at": "2026-06-21T03:25:30+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "CRAK: Technical Damage Among The Refiners Amid A Compelling Valuation",
-      "tags": []
-    },
-    {
-      "id": "3578b5542ebd",
-      "title": "ZipRecruiter: Stuck In A Low-Hiring Hole, Sell This Spike",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4916409-ziprecruiter-stuck-in-a-low-hiring-hole-sell-this-spike?source=feed_all_articles",
-      "published_at": "2026-06-21T03:20:39+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "ZipRecruiter: Stuck In A Low-Hiring Hole, Sell This Spike",
       "tags": []
     }
   ]
