@@ -1,17 +1,140 @@
 {
-  "generated_at": "2026-06-21T07:09:05Z",
-  "snapshot_date": "2026-06-21",
+  "generated_at": "2026-06-22T07:18:03Z",
+  "snapshot_date": "2026-06-22",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Iran reportedly closes Strait of Hormuz again as Vance heads to Switzerland for talks",
-      "url": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
+      "title": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
+      "url": "https://www.cnbc.com/2026/06/16/the-new-oil-inside-the-effort-to-turn-ai-computing-power-into-a-tradeable-commodity.html",
       "source": "CNBC Finance",
-      "published_at": "2026-06-20T22:59:26+00:00",
-      "summary": "Iran's joint military command said the closure was in response to continued Israeli military operations in Lebanon.",
+      "published_at": "2026-06-21T22:58:25+00:00",
+      "summary": "AI compute futures could eventually rival some of the world's largest commodity markets, Silicon Data's Carmen Li believes.",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "This bull market isn’t going to end because of Fed rate hikes under Warsh",
+      "url": "https://www.marketwatch.com/story/this-bull-market-isnt-going-to-end-because-of-fed-rate-hikes-under-warsh-8f63fa85?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-21T22:41:00+00:00",
+      "summary": "Trump-selected Fed chair Kevin Warsh may hope the threat of rate hikes is enough. But stocks might gain ground if he does. Past rate-hike cycles can be a guide.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6542,
+      "tags": [
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "‘I’ll probably be working until I die’: I’m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?",
+      "url": "https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-21T20:00:00+00:00",
+      "summary": "“I’m afraid I’m in a bad place.”",
+      "sentiment": "bearish",
+      "sentiment_score": -0.5423,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?",
+      "url": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-21T15:01:00+00:00",
+      "summary": "“We have combined savings of $950,000 in retirement plans, Roth IRAs and Treasuries.”",
+      "sentiment": "bullish",
+      "sentiment_score": 0.34,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Trump hails Iran deal but conflict continues to cast long shadow over global economy",
+      "url": "https://www.theguardian.com/business/2026/jun/21/trump-iran-deal-long-shadow-global-economy",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-21T12:24:47+00:00",
+      "summary": "<p>As the price of crude oil falls governments are counting the costs of the war in the Middle East </p><p>Hailing his Iran deal this week amid the excess of Versailles, Donald Trump urged sceptics to take Wall Street’s word for its success. “There is nothing as smart as the market – and the market loves it,” he said, claiming credit for ending the economic chaos that had kicked off when he started bombing Iran in late February. Without the agreement, he said, “the alternative would be a worldwide depression”.</p><p>By the weekend, the outlook was less optimistic after planned US-Iran peace talks in Switzerland were <a href=\"https://www.theguardian.com/world/2026/jun/19/us-iran-talks-in-switzerland-cancelled\">abruptly called off</a>, then reinstated, and Iran said Israeli bombing in Jordan meant it was justified in closing the strait of Hormuz again. Still, hopes persist that the sea passage carrying about 20% of the world’s oil supplies will reopen fully in the coming days and weeks.</p> <a href=\"https://www.theguardian.com/business/2026/jun/21/trump-iran-deal-long-shadow-global-economy\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.303,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "U.S. and Iran begin peace talks amid conflicting claims over Strait of Hormuz",
+      "url": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-21T12:16:26+00:00",
+      "summary": "Iran's military said it had closed the Strait of Hormuz in response to continued Israeli military strikes in Lebanon; the U.S. said it remains open.",
+      "sentiment": "neutral",
+      "sentiment_score": -0.1779,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed",
+      "url": "https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-21T11:14:02+00:00",
+      "summary": "The first big announced changes point toward a quiet revolution, with task forces set up to rethink virtually everything done at the Fed.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "Fed"
+      ],
+      "signal": "watch",
+      "category": "macro",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Burnham must be upfront about tax or risk spooking the bond markets | Heather Stewart",
+      "url": "https://www.theguardian.com/politics/2026/jun/21/andy-burnham-leadership-labour-makerfield-no-10-tax-spooking-bond-markets",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-21T10:04:02+00:00",
+      "summary": "<p>Victory in Makerfield is propelling him towards No 10 but investors expect to know how he will fund his promises</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/jun/20/burnham-allies-confident-no-10-coronation-after-surge-backers-labour-leadership\">Burnham allies confident of ‘coronation’</a></p></li></ul><p>Andy Burnham’s thumping victory in the Makerfield byelection came and went without the bond market rout that Rachel Reeves’s backers had warned about. But as he moves towards the premiership, Burnham would be wise to set clear expectations about tax and spend, and to be upfront about the fact that not everyone can be a winner.</p><p>The yield, or interest rate, on UK government bonds did move up on Friday, but only modestly. That relative calm was partly because a Burnham win was already priced in, and because he took out the insurance policy of loudly promising to stick by Reeves’s budget rules.</p> <a href=\"https://www.theguardian.com/politics/2026/jun/21/andy-burnham-leadership-labour-makerfield-no-10-tax-spooking-bond-markets\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.977,
+      "tags": [
+        "Election"
+      ],
+      "signal": "watch",
+      "category": "geopolitical",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Condemned to plutocracy? The relentless rise of US inequality",
+      "url": "https://www.theguardian.com/us-news/2026/jun/21/us-inequality-plutocracy",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-21T08:00:25+00:00",
+      "summary": "<p>Elon Musk is a beneficiary of America’s lopsided prosperity – does the country have any appetite for redistribution?</p><p>As Barack Obama’s presidency was coming to a close, Jason Furman, then chairman of the president’s council of economic advisers, <a href=\"https://obamawhitehouse.archives.gov/sites/default/files/page/files/20161017_furman_ccny_inequality_cea.pdf\">laid out</a> the strides his administration had made to curb the nation’s exorbitant income inequality in “the largest investments in reducing inequality since the Great Society”.</p><p>Indeed, by the end of 2016, taxes and transfers cut the share of income accruing to the richest 1% of households by just over a fifth, according to estimates from <a href=\"https://www.cbo.gov/publication/61911\">the congressional budget office</a> (CBO), more than under any government since at least Jimmy Carter’s. They raised the slice of income going to the poorest fifth from 3.9% to 7.9%, the highest share since at least 1979.</p><p>Eduardo Porter is a journalist focused on economics and politics. He writes the newsletter <a href=\"https://eduardoelreportero.substack.com/\">Being There</a> on Substack</p> <a href=\"https://www.theguardian.com/us-news/2026/jun/21/us-inequality-plutocracy\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8645,
       "tags": [
         "AI"
       ],
@@ -29,36 +152,6 @@
       "sentiment_score": -0.9535,
       "tags": [
         "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Want to splurge on travel in retirement? Here’s how to plan for it.",
-      "url": "https://www.marketwatch.com/story/want-to-splurge-on-travel-in-retirement-heres-how-to-plan-for-it-40bb26f2?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-20T18:17:00+00:00",
-      "summary": "A lot of people wait until retirement to take big trips. Plan ahead, and don’t wait too long.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0772,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Three powerful forces are draining family wealth — and your estate plan is completely unprepared",
-      "url": "https://www.marketwatch.com/story/the-great-wealth-transfer-is-real-but-the-irs-or-a-nursing-home-might-get-your-money-first-d0c46676?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-20T17:42:00+00:00",
-      "summary": "From Medicaid cuts to an IRA tax trap, here are the real threats to your family’s inheritance and what to do about them.",
-      "sentiment": "neutral",
-      "sentiment_score": -0.0772,
-      "tags": [
         "AI"
       ],
       "signal": "watch",
@@ -382,101 +475,6 @@
         "Interest Rates",
         "AI",
         "Transport"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Is it bad that Elon Musk has a trillion dollars? Yes, and here’s why | Ingrid Robeyns",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/17/is-it-bad-that-elon-musk-has-a-trillion-dollars-yes-and-heres-why",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-17T04:00:21+00:00",
-      "summary": "<p>Just as the ‘poverty line’ determines what’s required for basic living, we need a ‘wealth line’ to show when extreme wealth becomes harmful</p><p></p><p>It was bound to happen eventually: Elon Musk has become the planet’s <a href=\"https://www.theguardian.com/science/2026/jun/12/spacex-stock-price-ipo-spcx\">first trillionaire</a>. Until recently, economists who spoke about “trillions” were describing the GDP of the largest economies or the accumulated value of bequests on their way to the heirs of today’s billionaires. The term is not often used in daily conversation, let alone to describe the wealth of an individual.</p><p>But now we have entered a new phase of the oligarchic era. Previously, when we described the wealth of the world’s richest billionaires, it was understood as a few hundred billions. Three years ago, the value of Musk’s total assets was estimated to be about $250bn. The pace at which it has increased is mind-boggling – and so is what it represents.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/17/is-it-bad-that-elon-musk-has-a-trillion-dollars-yes-and-heres-why\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.9544,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Michael Burry says he's tempted to bet against SpaceX, but passes on expensive options",
-      "url": "https://www.cnbc.com/2026/06/16/michael-burry-says-hes-tempted-to-bet-against-spacex-but-passes-on-expensive-options.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-16T20:55:45+00:00",
-      "summary": "Burry argued the company's market capitalization had reached levels that dwarf many established businesses and fortunes.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.3919,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
-      "url": "https://www.cnbc.com/2026/06/16/the-new-oil-inside-the-effort-to-turn-ai-computing-power-into-a-tradeable-commodity.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-16T18:42:28+00:00",
-      "summary": "AI compute futures could eventually rival some of the world's largest commodity markets, Silicon Data's Carmen Li believes.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "US small business owners: how are you operating in the current economic climate?",
-      "url": "https://www.theguardian.com/business/2026/jun/16/us-small-business-owners-economy-callout",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-16T17:17:07+00:00",
-      "summary": "<p>We would like to hear from small business owners in the US about how they’re adapting to challenges such as inflation</p><p>An index of <a href=\"https://www.theguardian.com/business/us-small-business\">US small business</a> optimism reportedly fell in May to the lowest level since October 2024, which <a href=\"https://www.bloomberg.com/news/articles/2026-06-09/us-small-business-optimism-falls-to-lowest-since-october-2024\">Bloomberg</a> says has erased “almost all of the gains seen since President Donald Trump was elected for a second term”.</p><p>The National Federation of Independent Business optimism index fell 0.6 points to 95.3, according to data put out last week. The measure had previously hit a six-year high in December 2024 following Trump’s re-election.</p> <a href=\"https://www.theguardian.com/business/2026/jun/16/us-small-business-owners-economy-callout\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8625,
-      "tags": [
-        "Election",
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Brent crude falls to three-month low below $80 as Iranian oil tankers ‘resume shipping’ – as it happened",
-      "url": "https://www.theguardian.com/business/live/2026/jun/16/japan-hikes-interest-rates-inflation-iran-war-thames-water-rescue-nationalisation-latest-news-updates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-16T14:15:13+00:00",
-      "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Over at the G7 summit in Évian-les-Bains, European allies don’t appear to share Donald Trump’s optimism that the strait of Hormuz will reopen by Friday.</strong></p><p>One G7 official has told <strong>Bloomberg</strong> there are serious difficulties in finding a common position among the group about how to deal with the situation in Iran.</p><p>One senior US official said traffic in the waterway would ramp up over time, and it could take as many as two weeks for shipping to significantly increase — and even longer for it to return to the levels seen before the US and Israel attacked Iran in February.</p><p>There are mines in the strait that still need to be cleared and shippers have different risk tolerances about navigating Hormuz, the official said.</p><p>Bosses of the world’s biggest shipping companies want to see more than just an agreement in place, mines need to be swept, and all hostilities must end, before tankers with hundreds of millions of dollars’ worth of cargo will be able to traverse the Strait without fear of a flare up in tensions that could close the Strait mid-voyage.</p><p>Thus, even if a deal is signed to end the US/Iran war, the situation is not without its challenges. Brent crude remains above $80 per barrel, and it is unlikely to fall below this level until we start to see cargo ships successfully get through the Strait.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/16/japan-hikes-interest-rates-inflation-iran-war-thames-water-rescue-nationalisation-latest-news-updates\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.7722,
-      "tags": [
-        "Oil",
-        "AI",
-        "Shipping"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "SpaceX IPO leaves retail investors with too few shares and a tough hold-or-sell decision",
-      "url": "https://www.cnbc.com/2026/06/15/spacex-ipo-leaves-retail-investors-with-too-few-shares-and-a-tough-hold-or-sell-decision.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-16T12:51:29+00:00",
-      "summary": "Those who did receive stock are taking different approaches, with some selling into the company's market debut while others holding for the long haul.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.1779,
-      "tags": [
-        "AI"
       ],
       "signal": "watch",
       "category": "technology",
