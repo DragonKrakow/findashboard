@@ -1,9 +1,255 @@
 {
-  "generated_at": "2026-06-22T07:18:03Z",
-  "snapshot_date": "2026-06-22",
+  "generated_at": "2026-06-23T06:47:41Z",
+  "snapshot_date": "2026-06-23",
   "source": "financenews",
   "count": 30,
   "articles": [
+    {
+      "title": "These 6 fast-growing stocks sit at the cutting edge of space and military technology",
+      "url": "https://www.marketwatch.com/story/these-six-fast-growing-stocks-sit-at-the-cutting-edge-of-space-and-military-technology-0a349e1b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-23T00:23:00+00:00",
+      "summary": "In the wake of the SpaceX IPO, investors can expect global communications and AI data processing — both via satellites — to be important themes for many years.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0772,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Trump may say he’s banning Wall Street from buying homes. Does the bipartisan housing bill actually do that?",
+      "url": "https://www.marketwatch.com/story/trump-may-say-hes-banning-wall-street-from-buying-homes-does-the-bipartisan-housing-bill-actually-do-that-14c8ee5f?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-22T22:47:00+00:00",
+      "summary": "The measure “will take time to meaningfully affect housing affordability and will not resolve voter frustration in that area,” analysts said.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0951,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Big Tech has split into two artificial-intelligence camps — but the smart money isn’t chasing the next OpenAI",
+      "url": "https://www.marketwatch.com/story/big-tech-is-splitting-into-two-artificial-intelligence-camps-here-is-the-better-bet-e75c9876?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-22T22:21:00+00:00",
+      "summary": "Why tech giants such as Alphabet and Microsoft are the safer choice in the AI race.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8047,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "A 40% market crash is lurking in the IPO pipeline. SpaceX and OpenAI could trigger it.",
+      "url": "https://www.marketwatch.com/story/a-40-market-crash-is-lurking-in-the-ipo-pipeline-spacex-and-openai-could-trigger-it-64ae4026?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-22T22:18:00+00:00",
+      "summary": "Prior records for U.S. equity issuance came in 1929 and 2000 — and we all know what happened next.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.4939,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Caterpillar’s stock hits a milestone as AI-fueled industrials rally sweeps up Wall Street",
+      "url": "https://www.marketwatch.com/story/caterpillars-stock-hits-a-milestone-as-roaring-industrials-rally-sweeps-up-wall-street-391057f7?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-22T21:50:00+00:00",
+      "summary": "Caterpillar is the hottest stock in the Dow this year, and now one of just two in the index with a share price above $1,000.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.296,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Super Micro’s stock is seeing its best run in a year thanks to Nvidia partnership",
+      "url": "https://www.marketwatch.com/story/super-micros-stock-is-seeing-its-best-run-in-a-year-thanks-to-nvidia-partnership-f619e58e?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-22T20:58:00+00:00",
+      "summary": "Super Micro shares were leading the S&amp;P 500’s gainers on Monday.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.9524,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Salesforce’s stock extends record losing streak. Can the company disrupt itself?",
+      "url": "https://www.marketwatch.com/story/salesforces-stock-extends-record-losing-streak-can-the-company-disrupt-itself-8402d62c?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-22T20:50:00+00:00",
+      "summary": "Shares of Salesforce posted their 14th consecutive day of losses as investors remain unconvinced of the company’s AI momentum.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.6369,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Keir Starmer’s economic legacy – in charts",
+      "url": "https://www.theguardian.com/politics/2026/jun/22/keir-starmer-economy-labour-growth-unemployment",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-22T17:07:37+00:00",
+      "summary": "<p>PM said Labour had turned economy around – but his record on growth and unemployment appears mixed</p><p>Keir Starmer used his<a href=\"https://www.theguardian.com/politics/2026/jun/22/keir-starmer-resigns-as-prime-minister\"> leaving speech</a> to lay out a long list of Labour’s achievements in office – but his economic legacy appears mixed, with sluggish UK growth and higher employment costs.</p><p>The prime minister said his government had turned around an ailing economy, after 14 years of austerity. He said plans by the previous Tory administration to cut investment had been reversed and economic growth was the highest in the G7.</p> <a href=\"https://www.theguardian.com/politics/2026/jun/22/keir-starmer-economy-labour-growth-unemployment\">Continue reading...</a>",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0387,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Can anyone join Musk in the trillionaire club? Zuckerberg has best shot, according to prediction markets",
+      "url": "https://www.cnbc.com/2026/06/22/zuckerberg-seen-as-next-to-join-trillionaire-club-say-kalshi-traders.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-22T16:45:37+00:00",
+      "summary": "The Meta CEO is seen as next to join the Tesla and SpaceX CEO. Nvidia CEO Jensen Huang is seen as the second-most-likely.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8225,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Alan Greenspan obituary",
+      "url": "https://www.theguardian.com/business/2026/jun/22/alan-greenspan-obituary",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-22T16:13:47+00:00",
+      "summary": "<p>American economist and long-serving head of the Federal Reserve widely praised  for the US boom whose reputation was re-evaluated in the wake of the 2008 crash</p><p>For his work chairing the US Federal Reserve, Alan Greenspan, who has died aged 100, was regularly hailed by financiers, politicians and journalists for his handling of the economy. He was variously dubbed the Oracle, the Wizard and the Maestro.</p><p>As head of the central bank of the US from 1987 to 2006, tasked with setting interest rates and supervising and regulating banks and other financial institutions, he easily ranked as one of the most powerful individuals in the world. He served under four presidents: <a href=\"https://www.theguardian.com/news/2004/jun/07/guardianobituaries.past\">Ronald Reagan</a>, <a href=\"https://www.theguardian.com/global/2018/dec/01/george-hw-bush-obituary\">George HW Bush</a>, Bill Clinton – even though Greenspan was a lifelong Republican – and George W Bush.</p> <a href=\"https://www.theguardian.com/business/2026/jun/22/alan-greenspan-obituary\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8399,
+      "tags": [
+        "Interest Rates",
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Alan Greenspan, former chairman of the Fed, dies at age 100",
+      "url": "https://www.cnbc.com/2026/06/22/alan-greenspan-former-chairman-of-the-fed-dies-at-age-100.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-22T14:39:38+00:00",
+      "summary": "Alan Greenspan presided over the Federal Reserve for 19 years under four presidents and mastered the art of obfuscation known as Fedspeak.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Markets steady as prime minister Keir Starmer resigns; ex-Fed chair Alan Greenspan dies at 100 – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/jun/22/oil-prices-fall-stock-markets-rise-us-iran-peace-talks-trump-burnham-starmer-pound-ftse-hormuz-business-live",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-22T14:08:12+00:00",
+      "summary": "<p>Sterling and gilts avoided major swings amid Starmer’s resignation</p><p>Markets seem to be appeased by news of a (relatively) standard leadership contest, which will shake out any policy positions from prospective prime minister before they take post.</p><p>That could help reduce any jitters from some corners of the market ove<strong>r Andy Burnham’s </strong>potential leadership. according to <strong>Richard Carter</strong>, head of fixed interest research at <strong>Quilter Cheviot</strong>.</p><p><em>Markets are wary of Burnham’s previous policy positions so they would prefer to see ideas for governing fleshed out via a leadership contest, keeping surprises to a minimum.</em></p><p><em>There are difficult decisions around welfare and defence spending lurking, with each likely to have an impact on gilts and wider UK markets.</em></p> <a href=\"https://www.theguardian.com/business/live/2026/jun/22/oil-prices-fall-stock-markets-rise-us-iran-peace-talks-trump-burnham-starmer-pound-ftse-hormuz-business-live\">Continue reading...</a>",
+      "sentiment": "neutral",
+      "sentiment_score": 0.128,
+      "tags": [
+        "Fed",
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "The ungovernable country? Why Britain keeps losing prime ministers",
+      "url": "https://www.theguardian.com/politics/2026/may/17/the-ungovernable-country-why-britain-keeps-losing-prime-ministers",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-22T13:47:06+00:00",
+      "summary": "<p>May, Johnson, Truss, Sunak, and now Starmer: each one was brought low for a reason. But what if the deeper problem is the office itself?</p><p></p><p>They were times in which prime ministers seemed to be on their way out as soon as they’d arrived. The big strategic decisions the country faced were ducked or postponed. The public finances repeatedly wobbled, yet efforts to rationalise the tax system faltered in the face of vested interests, including farmers. Reforms to social security were trumpeted before being diluted. The whole business of politics was animated by rancour and rivalry, rather than practical action. All the while, populists waited in the wings.</p><p>This is not a sneak peak into a future history book about today’s Britain, but a description of the French fourth republic, which staggered after a difficult birth in 1946 until 1958, when the exhausted regime ceded the authority to create a new order to Gen Charles de Gaulle, effectively putting itself out of its misery.</p> <a href=\"https://www.theguardian.com/politics/2026/may/17/the-ungovernable-country-why-britain-keeps-losing-prime-ministers\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.2523,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "US firm goes public with £4.7bn proposal to buy easyJet after earlier bids rejected",
+      "url": "https://www.theguardian.com/business/2026/jun/22/castlelake-public-proposal-buy-easyjet",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-22T11:10:47+00:00",
+      "summary": "<p>Investment company Castlelake made bid public for shareholders to evaluate but carrier describes offer as ‘cheap’</p><ul><li><p><a href=\"https://www.theguardian.com/business/nils-pratley-on-finance/2026/jun/22/easyjet-bidder-takeover-castlelake-stelios\">Nils Pratley: EasyJet bidder is still offering less than a full ticket</a></p></li></ul><p>The US investment firm trying to buy easyJet has gone public with its latest £4.7bn takeover proposal for the budget airline, its third and latest offer to be rejected.</p><p>Castlelake said on Monday that an all-cash offer of 625p a share, valuing easyJet at just over £4.7bn, had been rejected by the airline’s board on Sunday, after previous offers at 560p and 600p.</p> <a href=\"https://www.theguardian.com/business/2026/jun/22/castlelake-public-proposal-buy-easyjet\">Continue reading...</a>",
+      "sentiment": "neutral",
+      "sentiment_score": -0.1779,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Cracks are showing in Trump’s blue-collar base | Steven Greenhouse",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/22/trump-voter-base-support-loss",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-22T11:00:23+00:00",
+      "summary": "<p>Voters are upset that Trump has failed to deliver on his economic promises. That’s bad news for Republicans in November</p><p>If any demographic group was key to Donald Trump’s election victories in 2016 and 2024, it was white, blue-collar voters. But in perhaps perilous news for Republicans, Trump’s support from that group has plummeted – as many white, working-class voters have grown upset about everything from increased inflation and gas prices to Trump’s war against Iran. These glaring cracks in Trump’s blue-collar base point to big trouble for Republicans in this November’s midterm elections.</p><p>In 2024, Trump <a href=\"https://www.cnn.com/election/2024/exit-polls/national-results/general/president/0\">won 66% of white voters</a> without a college degree, but a new CBS News poll found that <a href=\"https://www.washingtonpost.com/politics/2026/05/28/trump-sees-sharp-drop-approval-among-white-working-class-voters/\">54% of that demographic</a> disapprove of his performance. That was up from <a href=\"https://www.washingtonpost.com/politics/2026/05/28/trump-sees-sharp-drop-approval-among-white-working-class-voters/\">45% disapproval</a> in February (before Trump began bombing Iran) and up sharply from 32% in February 2025.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/22/trump-voter-base-support-loss\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.8885,
+      "tags": [
+        "Election",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Clearance rates hit six-year low as more than half of Australian homes up for auction fail to sell",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/22/auction-clearance-rates-six-year-low-australian-homes",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-22T03:18:24+00:00",
+      "summary": "<p>Preliminary data show 47.7% of homes sold at auction in the week ending 21 June, the lowest rate has been since April 2020</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jun/22/australia-politics-live-labor-coalition-one-nation-capital-gains-tax-reform-ndis-anthony-albanese-angus-taylor-question-time-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Clearance rates in Australia’s capital cities have fallen to a six-year low, with fewer than half of homes at auction finding buyers.</p><p>Preliminary <a href=\"https://www.cotality.com/au/our-data/auction-results\">data from Cotality</a> shows 47.4% of homes that went to auction sold in the week ending Sunday 21 June. That figure is a weighted average encompassing different rates in different capitals, but the numbers are striking across the board.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jun/22/auction-clearance-rates-six-year-low-australian-homes\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.7399,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
     {
       "title": "The new oil? Inside the effort to turn AI computing power into a tradeable commodity",
       "url": "https://www.cnbc.com/2026/06/16/the-new-oil-inside-the-effort-to-turn-ai-computing-power-into-a-tradeable-commodity.html",
@@ -14,52 +260,6 @@
       "sentiment_score": 0.0,
       "tags": [
         "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "This bull market isn’t going to end because of Fed rate hikes under Warsh",
-      "url": "https://www.marketwatch.com/story/this-bull-market-isnt-going-to-end-because-of-fed-rate-hikes-under-warsh-8f63fa85?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-21T22:41:00+00:00",
-      "summary": "Trump-selected Fed chair Kevin Warsh may hope the threat of rate hikes is enough. But stocks might gain ground if he does. Past rate-hike cycles can be a guide.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6542,
-      "tags": [
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "‘I’ll probably be working until I die’: I’m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?",
-      "url": "https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-21T20:00:00+00:00",
-      "summary": "“I’m afraid I’m in a bad place.”",
-      "sentiment": "bearish",
-      "sentiment_score": -0.5423,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?",
-      "url": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-21T15:01:00+00:00",
-      "summary": "“We have combined savings of $950,000 in retirement plans, Roth IRAs and Treasuries.”",
-      "sentiment": "bullish",
-      "sentiment_score": 0.34,
-      "tags": [
         "AI"
       ],
       "signal": "watch",
@@ -263,218 +463,6 @@
       "tags": [
         "Fed",
         "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Bank of England governor warns UK public to expect higher costs this year",
-      "url": "https://www.theguardian.com/business/2026/jun/18/interest-rates-bank-of-england-hold-keep-iran",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-18T17:23:28+00:00",
-      "summary": "<p>Andrew Bailey says ‘inflationary pressure in pipeline’ despite US and Iran signing initial peace deal as interest rates kept on hold</p><p>The governor of the Bank of England has warned consumers to expect higher costs this year as a result of the conflict in the Middle East, despite falling oil prices as the US and Iran signing an initial peace deal.</p><p>Speaking after the Bank kept interest rates on hold at 3.75%, Andrew Bailey said there was “still some inflationary pressure in the pipeline” after the conflict pushed up energy prices.</p> <a href=\"https://www.theguardian.com/business/2026/jun/18/interest-rates-bank-of-england-hold-keep-iran\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7222,
-      "tags": [
-        "Interest Rates",
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Bank of England leaves interest rates on hold and lowers inflation forecast amid Middle East ‘uncertainty’ – as it happened",
-      "url": "https://www.theguardian.com/business/live/2026/jun/18/bank-of-england-interest-rates-uk-unemployment-wages-oil-price-stock-markets-latest-news-updates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-18T15:12:54+00:00",
-      "summary": "<p>Rolling coverage of the latest economic and financial news, including the latest UK jobs report and the Bank of England’s interest rate decision</p><p><strong>Tesco’s UK sales growth has more than halved as it said the conflict in the Middle East had created “ongoing uncertainty for many households”, knocking its shares in early trading.</strong></p><p>The UK’s biggest retailer said comparable sales rose 1.8% to £13.4bn in the three months to the end of May, below both the 4.2% reported in the previous quarter and the 2.3% growth City analysts had expected.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/18/bank-of-england-interest-rates-uk-unemployment-wages-oil-price-stock-markets-latest-news-updates\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8481,
-      "tags": [
-        "Interest Rates",
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Fed holds rates steady, pares down statement to remove cutting bias",
-      "url": "https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-17T21:42:28+00:00",
-      "summary": "The Federal Reserve on Wednesday released its interest rate decision.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.2732,
-      "tags": [
-        "Fed"
-      ],
-      "signal": "watch",
-      "category": "macro",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Jeffrey Gundlach says Fed's Warsh is not going to be the 'easy money' chairman many hoped for",
-      "url": "https://www.cnbc.com/2026/06/17/jeffrey-gundlach-says-feds-warsh-is-not-going-to-be-the-easy-money-chairman-many-hoped-for.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-17T20:26:56+00:00",
-      "summary": "Gundlach said Warsh's stance reduces the risk of overly accommodative monetary policy that could reignite inflation and push longer-term borrowing costs higher.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5267,
-      "tags": [
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Chairman Warsh abstains from giving rate forecast as several members signal a hike in 2026",
-      "url": "https://www.cnbc.com/2026/06/17/fed-projections-call-for-a-rate-hike-in-2026-but-chairman-warsh-likely-abstained.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-17T19:27:43+00:00",
-      "summary": "The median projection called for the federal funds rate to end 2026 at 3.8%, a quarter percentage point above the current target range.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.34,
-      "tags": [
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "More united Fed board seen at Warsh's first meeting, according to Kalshi traders",
-      "url": "https://www.cnbc.com/2026/06/17/more-united-fed-board-seen-at-warshs-first-meeting-according-to-kalshi-traders.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-17T16:54:08+00:00",
-      "summary": "Traders on prediction market platform Kalshi largely forecast a unanimous decision among FOMC members at Wednesday's meeting, after April's divided vote.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.4754,
-      "tags": [
-        "Fed"
-      ],
-      "signal": "watch",
-      "category": "macro",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Fed Chair Warsh expected to withhold 'dot' from central bank's interest rate outlook",
-      "url": "https://www.cnbc.com/2026/06/16/fed-chair-warsh-expected-to-withhold-dot-from-central-banks-interest-rate-outlook.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-17T15:23:38+00:00",
-      "summary": "The central bank's Federal Open Market Committee is set to release its quarterly update of where individual officials expect interest rates to head.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7184,
-      "tags": [
-        "Interest Rates",
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "CME Group's Terry Duffy to step down in 2027, CFO Lynne Fitzpatrick to become CEO",
-      "url": "https://www.cnbc.com/2026/06/17/cme-groups-terry-duffy-to-step-down-in-2027-cfo-lynne-fitzpatrick-to-become-ceo.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-17T14:29:11+00:00",
-      "summary": "Duffy, 67, will transition to executive chairman effective March 1, 2027, the company said Wednesday.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.4767,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "UK inflation unexpectedly stays at 2.8% with higher transport costs offset by slower food price rises – as it happened",
-      "url": "https://www.theguardian.com/business/live/2026/jun/17/uk-inflation-unexpectedly-unchanged-higher-transport-costs-offset-slower-food-price-rises-oil-federal-reserve-iran-war-live-updates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-17T14:19:59+00:00",
-      "summary": "<p>Food prices rose at the slowest rate since December 2024 with declines in inflation for meat, cheese, vegetables and cheese</p><p>UK house price inflation has picked up while rents are rising at a slower pace, according to official figures.</p><p>Average monthy private rents rose at an annual rate of 3.3% to £1,383 in My, down from 3.5% in April, <a href=\"https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/privaterentandhousepricesuk/june2026\">according to the Office for National Statistics</a>.</p><p>It’s a key reason why headline CPI unexpectedly stayed at 2.8%, despite upward pressure from air fares and a quirk related to road tax. Food prices fell in May relative to April, a trend we’ve also seen in the eurozone and Eastern Europe. If anything, the latest producer price data suggests food inflation will continue to fall sharply over the next couple of months. That will gradually change, but it’s a reminder that the energy price spike is unlikely to reach its peak impact on food inflation until the first quarter of next year.</p><p>In general, it’s too early to see much impact from the Middle East crisis beyond fuel prices. Services inflation is bouncing around, partly due to the timing of Easter this year, but the Bank of England’s preferred gauge of “core services” – which excludes volatile and indexed categories – has been more stable just below 4%. The BoE’s own “Decision Maker Panel” of CFOs points to services inflation staying around current levels through the summer.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/17/uk-inflation-unexpectedly-unchanged-higher-transport-costs-offset-slower-food-price-rises-oil-federal-reserve-iran-war-live-updates\">Continue reading...</a>",
-      "sentiment": "neutral",
-      "sentiment_score": -0.043,
-      "tags": [
-        "Fed",
-        "Oil",
-        "AI",
-        "Transport"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Prediction market traders speculate Anthropic will restore access quickly to AI model after Trump admin directed it to limit reach",
-      "url": "https://www.cnbc.com/2026/06/16/kalshi-traders-think-anthropic-will-restore-access-to-ai-model-quickly.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-17T13:27:05+00:00",
-      "summary": "Traders think it's more likely than not that access is restored by July 1.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5719,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Surprisingly benign UK inflation data signals a softer Iran war hit than feared",
-      "url": "https://www.theguardian.com/business/2026/jun/17/uk-inflation-rate-softer-iran-war-hit-than-expected",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-17T09:27:33+00:00",
-      "summary": "<p>Impact of war on UK cost of living more muted than first forecast suggesting fuel price rises have failed to spill out more widely across UK plc</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/jun/17/uk-inflation-steady-despite-iran-conflict-fuel-prices\">UK inflation stays at 2.8% as slowing food prices offset transport costs</a></p></li></ul><p>As soon as Iran choked off oil supplies through the strait of Hormuz at the start of March, there were dire warnings about rocketing UK inflation and the drastic action the Bank of England might take to rein it in.</p><p>At one point, investors were expecting as many as three quarter-point rises in interest rates before the end of the year – a sharp turnaround from earlier forecasts of rate cuts.</p> <a href=\"https://www.theguardian.com/business/2026/jun/17/uk-inflation-rate-softer-iran-war-hit-than-expected\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9442,
-      "tags": [
-        "Interest Rates",
-        "Oil",
-        "AI",
-        "Transport"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "China pushes for AI safety as G7 summit wraps up without Beijing",
-      "url": "https://www.cnbc.com/2026/06/17/china-pushes-for-ai-safety-as-g7-summit-wraps-up-without-beijing.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-17T08:04:21+00:00",
-      "summary": "China included artificial intelligence in its global governance whitepaper published Wednesday, and said Beijing was speeding up cooperation efforts.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7096,
-      "tags": [
-        "AI",
-        "Artificial Intelligence"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "UK inflation stays at 2.8% as slowing food prices offset rising transport costs",
-      "url": "https://www.theguardian.com/business/2026/jun/17/uk-inflation-steady-despite-iran-conflict-fuel-prices",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-17T06:00:48+00:00",
-      "summary": "<p>May’s figure confounds forecasts of an increase to 3% as Bank of England prepares to set interest rates</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/jun/17/uk-inflation-rate-softer-iran-war-hit-than-expected\">Analysis: benign data signals a softer hit than feared</a></p></li></ul><p>UK inflation unexpectedly remained at 2.8% in May, as rising energy costs caused by the Iran conflict were offset by slower increases in food prices.</p><p>The unchanged reading on the consumer price index measure of inflation (CPI) confounded economists’ expectations of a 3% increase as the conflict restricted global energy flows – and raised hopes that the impact of the war on prices <a href=\"https://www.theguardian.com/business/2026/jun/17/uk-inflation-rate-softer-iran-war-hit-than-expected\">might be more muted than feared</a>.</p> <a href=\"https://www.theguardian.com/business/2026/jun/17/uk-inflation-steady-despite-iran-conflict-fuel-prices\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5859,
-      "tags": [
-        "Interest Rates",
-        "AI",
-        "Transport"
       ],
       "signal": "watch",
       "category": "technology",
