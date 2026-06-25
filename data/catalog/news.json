@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-24T06:47:09Z",
-  "snapshot_date": "2026-06-24",
+  "generated_at": "2026-06-25T06:47:09Z",
+  "snapshot_date": "2026-06-25",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Trump may say he’s banning Wall Street from buying homes. Does the bipartisan housing bill actually do that?",
-      "url": "https://www.marketwatch.com/story/trump-may-say-hes-banning-wall-street-from-buying-homes-does-the-bipartisan-housing-bill-actually-do-that-14c8ee5f?mod=mw_rss_topstories",
+      "title": "Why SK Hynix’s $30 billion U.S. listing could be a double-edged sword for Micron’s stock",
+      "url": "https://www.marketwatch.com/story/why-sk-hynixs-30-billion-u-s-listing-could-be-a-double-edged-sword-for-microns-stock-f4483b0d?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-24T00:51:00+00:00",
-      "summary": "The measure “will take time to meaningfully affect housing affordability and will not resolve voter frustration in that area,” analysts said.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0951,
+      "published_at": "2026-06-25T00:22:00+00:00",
+      "summary": "The South Korean memory company could give investors more opportunities beyond Micron, though it may also raise awareness of industry dynamics.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6115,
       "tags": [
         "AI"
       ],
@@ -20,60 +20,93 @@
       "source_repo": "financenews"
     },
     {
-      "title": "SpaceX pulls off one of the biggest AI debt deals yet",
-      "url": "https://www.marketwatch.com/story/spacex-reveals-pricing-details-for-what-could-be-one-of-the-years-biggest-debt-deals-8c027a85?mod=mw_rss_topstories",
+      "title": "Rocket Lab, Lockheed Martin among the partners in SpaceX’s military space-laser project",
+      "url": "https://www.marketwatch.com/story/rocket-lab-lockheed-martin-among-the-partners-in-spacexs-military-space-laser-project-1b8d61e2?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-23T23:14:00+00:00",
-      "summary": "The offering is set to close on Friday and help SpaceX pay off its existing debt",
+      "published_at": "2026-06-24T23:47:00+00:00",
+      "summary": "Government documents show a lineup of defense contractors joining SpaceX to create a satellite network to track airborne threats.",
+      "sentiment": "neutral",
+      "sentiment_score": -0.0516,
+      "tags": [
+        "Defense",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "A relative offered me a $25,000 home loan secured by a lien that must be repaid within a year. Is that fair?",
+      "url": "https://www.marketwatch.com/story/im-70-a-relative-offered-me-a-25-000-home-loan-secured-by-a-lien-that-must-be-repaid-within-a-year-should-i-agree-27d44725?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-24T23:01:00+00:00",
+      "summary": "“He also wants me to downsize and move.”",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6124,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Cerebras’s stock sinks below IPO price in a major blow to early investors",
+      "url": "https://www.marketwatch.com/story/cerebrass-stock-sinks-below-ipo-price-in-a-major-blow-to-early-investors-8a55f2ff?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-24T22:06:00+00:00",
+      "summary": "The once-high-flying AI chip maker’s stock has now dropped more than 50% from its all-time intraday high hit six weeks ago.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
+      "url": "https://www.cnbc.com/2026/06/24/jpmorgan-goldman-sachs-fed-stress-test.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-24T21:42:05+00:00",
+      "summary": "The announcements followed the release of the Federal Reserve's annual stress test, which found that all 32 large banks weathered a hypothetical recession.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.8126,
+      "tags": [
+        "Fed",
+        "Gold",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules",
+      "url": "https://www.cnbc.com/2026/06/24/federal-reserve-stress-test-us-banks.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-24T21:19:27+00:00",
+      "summary": "The Fed's annual exercise comes at a pivotal moment for bank regulation because, unlike previous years, the results will not affect capital requirements.",
       "sentiment": "bearish",
       "sentiment_score": -0.4019,
       "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "‘It seems too good to be true’: At a steak-dinner retirement seminar, the guy said annuities can outperform the market. Is that true?",
-      "url": "https://www.marketwatch.com/story/it-seems-too-good-to-be-true-at-a-steak-dinner-retirement-seminar-the-guy-said-annuities-can-outperform-the-market-is-that-true-33e11b0a?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-23T23:00:00+00:00",
-      "summary": "“He claimed that fixed-rate annuities are the sparkly, rainbow-fairyland of investments.”",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6908,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?",
-      "url": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-23T22:10:00+00:00",
-      "summary": "“We have combined savings of $950,000 in retirement plans, Roth IRAs and Treasuries.”",
-      "sentiment": "bullish",
-      "sentiment_score": 0.34,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "CFTC sues Kentucky over actions against prediction markets, making it first red state to face federal scrutiny",
-      "url": "https://www.cnbc.com/2026/06/23/cftc-sues-kentucky-over-actions-against-prediction-markets.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-23T21:31:49+00:00",
-      "summary": "The commission has now sued nine states in its battle to defend what it sees as its exclusive right to regulate event contracts.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.2732,
-      "tags": [
         "Fed",
+        "Regulation"
+      ],
+      "signal": "watch",
+      "category": "macro",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Badenoch will ‘absolutely not’ apologise for PMQs comments about Starmer’s downfall, spokesperson says – as it happened",
+      "url": "https://www.theguardian.com/politics/live/2026/jun/24/andy-burnham-labour-leadership-starmer-darren-jones-pmqs-latest-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-24T16:35:57+00:00",
+      "summary": "<p>Tory leader said Labour MPs were cheering, even though there are ‘400 knives’ in Starmer’s back</p><p><em>Ben Quinn is a Guardian political correspondent.</em></p><p><strong>Nigel Farage</strong> has made an explicit pitch for support from an international gathering of thousands of social conservatives and hard-right activists, likening “family breakdown” to “community breakdown” as populations grew more diverse.<br /><br />\n The Reform UK leader was speaking a day after the Conservative leader Kemi Badenoch at the Alliance for Responsible Citizenship (ARC) conference, which is backed by influential right-wing funders including donors to Donald Trump.<br /><br />\n “I think family breakdown is pretty much the same as community breakdown,” Farage said in an interview on the event’s main stage with Philippa Stroud, the Tory peer who set up ARC with others including the controversial Canadian psychologist Jordan Peterson and Paul Marshall, one of the backers of GB News.</p><p>When people live together in the same communities and they all speak the same language and they all have something in common and they all know their neighbours’ christian names and they all take part in community events ... And when that starts to break down what happens? People become more individualised, more selfish.<br /><br />\n They don’t know the names of their next door neighbours and I think downstream of that a similar thing has happened in families and I am not pretending that government can on its own wave a magic hand. But we can at least start to make the argument that living in a family, living in a genuine sense of community, is a better way of life and start unashamedly champion that.</p> <a href=\"https://www.theguardian.com/politics/live/2026/jun/24/andy-burnham-labour-leadership-starmer-darren-jones-pmqs-latest-news-updates\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.9437,
+      "tags": [
         "AI"
       ],
       "signal": "watch",
@@ -81,13 +114,58 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Micron and Sandisk lead a sharp tech selloff in a ‘gut-check’ moment for AI stocks",
-      "url": "https://www.marketwatch.com/story/micron-and-sandisk-lead-a-sharp-tech-selloff-in-a-gut-check-moment-for-ai-stocks-cd92fa5d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-23T21:23:00+00:00",
-      "summary": "Investors are taking a ‘breather’ from AI-driven momentum, an analyst says",
+      "title": "Musk loses trillionaire status as SpaceX shares ‘come down to earth with a bump’ – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/jun/24/elon-musk-trillionaire-status-spacex-and-tesla-shares-stock-markets-ai-bonds-pound-ftse-live-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-24T16:06:39+00:00",
+      "summary": "<p>Rolling coverage of the latest economic and financial news, as drops in SpaceX and Tesla’s shares eat into Musk’s wealth</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/jun/24/elon-musk-trillionaire-spacex\">Elon Musk loses trillionaire status as SpaceX and Tesla stock drops</a></p></li></ul><p><strong>Segro</strong> have confirmed they have “unequivocally” rejected <a href=\"https://www.theguardian.com/business/live/2026/jun/24/elon-musk-trillionaire-status-spacex-and-tesla-shares-stock-markets-ai-bonds-pound-ftse-live-news-updates?page=with%3Ablock-6a3b85668f0857cd81607ee5#block-6a3b85668f0857cd81607ee5\">a takeover proposal from US rival </a><strong><a href=\"https://www.theguardian.com/business/live/2026/jun/24/elon-musk-trillionaire-status-spacex-and-tesla-shares-stock-markets-ai-bonds-pound-ftse-live-news-updates?page=with%3Ablock-6a3b85668f0857cd81607ee5#block-6a3b85668f0857cd81607ee5\">Prologis</a>, </strong>saying the £12.6bn bid falls “a long way short” of its true value.</p><p>In a statement to the City, <strong>Segro</strong> say:</p><p>The Board of SEGRO considered the Proposal together with its advisers and believed that the Proposal was opportunistically timed and sought to take advantage of the clear dislocation between SEGRO’s current share price and its highly attractive underlying business and strong prospects. This has been accentuated by major geopolitical issues which have adversely impacted trading valuations across the UK and European real estate sectors relative to the US REIT sector.</p><p>SEGRO has a clear strategy, supported by a strong balance sheet and a proven operating platform. Momentum is building in SEGRO’s occupational markets and the Company has a large and attractive development pipeline, including an exceptional data centre platform, as well as a long track record of delivery.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/24/elon-musk-trillionaire-status-spacex-and-tesla-shares-stock-markets-ai-bonds-pound-ftse-live-news-updates\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.9763,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Kalshi CEO says prediction market thinking about IPO, but not for this year",
+      "url": "https://www.cnbc.com/2026/06/24/kalshi-ceo-says-company-thinking-about-ipo-but-not-for-this-year-.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-24T13:42:28+00:00",
+      "summary": "Tarek Mansour said to CNBC's \"Squawk Box\" it made sense for the company at the stage to think about a debut on public markets.",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Interest rate hikes remain on cards as Australia’s underlying inflation climbs, economists warn",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/24/interest-rate-hikes-remain-on-cards-as-underlying-inflation-climbs-economists-warn",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-24T06:05:14+00:00",
+      "summary": "<p>Despite plunging fuel prices, trimmed mean inflation increased from an annual pace of 3.4% to 3.6%</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jun/24/australia-politics-live-war-memorial-tax-reform-greens-labor-deal-ndis-review-coalition-question-time-anthony-albanese-angus-taylor-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australia’s inflation challenge is far from over and more Reserve Bank <a href=\"https://www.theguardian.com/business/2026/jun/17/rba-meeting-interest-rates-hold-decision-iran-conflict-strait-of-hormuz-analysis\">rate hikes remain on the cards</a>, economists warn, even after a plunging petrol costs drove an unexpected fall in consumer price growth in the year to May.</p><p>Annual inflation dropped to 4%, from 4.2% in the year to April, according to the Australian Bureau of Statistics, dragged down in large part thanks to a nearly 12% drop in fuel prices in the month of May.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jun/24/interest-rate-hikes-remain-on-cards-as-underlying-inflation-climbs-economists-warn\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7998,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Progressive economists reject Unite leader’s criticism of Ed Miliband",
+      "url": "https://www.theguardian.com/politics/2026/jun/24/progressive-economists-reject-unite-leader-sharon-graham-criticism-ed-miliband",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-24T05:00:37+00:00",
+      "summary": "<p>Sharon Graham is urged to withdraw her claim that the energy secretary would cost jobs if he became chancellor</p><p>More than 40 progressive economists have written to Sharon Graham, the leader of Unite, rejecting her claim that Ed Miliband would destroy jobs if he becomes the next chancellor.</p><p>With Andy Burnham almost certain to be prime minister within weeks, there is a fierce debate within Labour about who should succeed Rachel Reeves at the Treasury, with Miliband considered a frontrunner.</p> <a href=\"https://www.theguardian.com/politics/2026/jun/24/progressive-economists-reject-unite-leader-sharon-graham-criticism-ed-miliband\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.6361,
       "tags": [
         "AI"
       ],
@@ -383,82 +461,6 @@
       "summary": "Iran's military said it had closed the Strait of Hormuz in response to continued Israeli military strikes in Lebanon; the U.S. said it remains open.",
       "sentiment": "neutral",
       "sentiment_score": -0.1779,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed",
-      "url": "https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-21T11:14:02+00:00",
-      "summary": "The first big announced changes point toward a quiet revolution, with task forces set up to rethink virtually everything done at the Fed.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "Fed"
-      ],
-      "signal": "watch",
-      "category": "macro",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Burnham must be upfront about tax or risk spooking the bond markets | Heather Stewart",
-      "url": "https://www.theguardian.com/politics/2026/jun/21/andy-burnham-leadership-labour-makerfield-no-10-tax-spooking-bond-markets",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-21T10:04:02+00:00",
-      "summary": "<p>Victory in Makerfield is propelling him towards No 10 but investors expect to know how he will fund his promises</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/jun/20/burnham-allies-confident-no-10-coronation-after-surge-backers-labour-leadership\">Burnham allies confident of ‘coronation’</a></p></li></ul><p>Andy Burnham’s thumping victory in the Makerfield byelection came and went without the bond market rout that Rachel Reeves’s backers had warned about. But as he moves towards the premiership, Burnham would be wise to set clear expectations about tax and spend, and to be upfront about the fact that not everyone can be a winner.</p><p>The yield, or interest rate, on UK government bonds did move up on Friday, but only modestly. That relative calm was partly because a Burnham win was already priced in, and because he took out the insurance policy of loudly promising to stick by Reeves’s budget rules.</p> <a href=\"https://www.theguardian.com/politics/2026/jun/21/andy-burnham-leadership-labour-makerfield-no-10-tax-spooking-bond-markets\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.977,
-      "tags": [
-        "Election"
-      ],
-      "signal": "watch",
-      "category": "geopolitical",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Condemned to plutocracy? The relentless rise of US inequality",
-      "url": "https://www.theguardian.com/us-news/2026/jun/21/us-inequality-plutocracy",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-21T08:00:25+00:00",
-      "summary": "<p>Elon Musk is a beneficiary of America’s lopsided prosperity – does the country have any appetite for redistribution?</p><p>As Barack Obama’s presidency was coming to a close, Jason Furman, then chairman of the president’s council of economic advisers, <a href=\"https://obamawhitehouse.archives.gov/sites/default/files/page/files/20161017_furman_ccny_inequality_cea.pdf\">laid out</a> the strides his administration had made to curb the nation’s exorbitant income inequality in “the largest investments in reducing inequality since the Great Society”.</p><p>Indeed, by the end of 2016, taxes and transfers cut the share of income accruing to the richest 1% of households by just over a fifth, according to estimates from <a href=\"https://www.cbo.gov/publication/61911\">the congressional budget office</a> (CBO), more than under any government since at least Jimmy Carter’s. They raised the slice of income going to the poorest fifth from 3.9% to 7.9%, the highest share since at least 1979.</p><p>Eduardo Porter is a journalist focused on economics and politics. He writes the newsletter <a href=\"https://eduardoelreportero.substack.com/\">Being There</a> on Substack</p> <a href=\"https://www.theguardian.com/us-news/2026/jun/21/us-inequality-plutocracy\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8645,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Petrol prices in Australia are now lower than before the Iran war began. Is the oil crisis over and what happens next?",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/21/oil-price-petrol-prices-australia-fuel-crisis-us-iran-war-lower",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-20T20:00:13+00:00",
-      "summary": "<p>Fuel suppliers outside the Middle East have proved to be much more flexible than analysts expected – and China surprised everyone</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jun/21/australia-news-live-bird-flu-h5n1-wildlife-fuel-excise-iran-hormuz-albanese-bowen-taylor-coalition-one-nation-pauline-hanson-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australians were warned soon after the Middle East conflict started that the country could run short on fuel, with prices rising to record levels owing to disrupted oil supplies.</p><p>Now, amid <a href=\"https://www.theguardian.com/world/2026/jun/18/iran-peace-deal-us-trump\">an uneasy peace deal</a> and continued supply disruptions, petrol prices are lower than they were before the conflict began and official warnings over fuel usage have largely disappeared.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jun/21/oil-price-petrol-prices-australia-fuel-crisis-us-iran-war-lower\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9535,
-      "tags": [
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "The riskiest SpaceX stock trade of all had a big first week",
-      "url": "https://www.cnbc.com/2026/06/19/spacex-stock-risk-buy-sell.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-19T15:53:11+00:00",
-      "summary": "SpaceX's IPO did not just mint the biggest debut in market history and a trillionaire, but it also triggered a historic land grab in risky leveraged ETFs.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.4497,
       "tags": [
         "AI"
       ],
