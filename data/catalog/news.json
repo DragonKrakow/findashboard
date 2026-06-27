@@ -1,22 +1,238 @@
 {
-  "generated_at": "2026-06-26T06:47:55Z",
-  "snapshot_date": "2026-06-26",
+  "generated_at": "2026-06-27T06:37:56Z",
+  "snapshot_date": "2026-06-27",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "A world rejecting OPEC controls could usher in oil below $50 a barrel",
-      "url": "https://www.marketwatch.com/story/a-world-rejecting-opec-controls-could-usher-in-oil-below-50-a-barrel-3d7eda1b?mod=mw_rss_topstories",
+      "title": "ServiceNow, Salesforce and other software stocks surge as the OpenAI threat weakens",
+      "url": "https://www.marketwatch.com/story/servicenow-salesforce-and-other-software-stocks-surge-as-the-openai-threat-weakens-bb1eacfb?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-25T22:29:00+00:00",
-      "summary": "Iraq’s hint that it could exit OPEC is yet another source of potential tumult for the global oil market in 2026.",
+      "published_at": "2026-06-26T22:09:00+00:00",
+      "summary": "Oracle’s stock missed out on the broader software rally, as the company is tied to OpenAI’s success through its cloud-infrastructure business.",
       "sentiment": "bearish",
-      "sentiment_score": -0.4588,
+      "sentiment_score": -0.4939,
       "tags": [
-        "Oil"
+        "AI"
       ],
       "signal": "watch",
-      "category": "energy",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "U.S. confirms retaliatory strike on Iran, pulling oil prices up in after-hours trading",
+      "url": "https://www.marketwatch.com/story/oil-heads-for-another-losing-week-but-analyst-warns-sluggish-strait-of-hormuz-traffic-could-send-it-soaring-again-80ab9ba8?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-26T21:50:00+00:00",
+      "summary": "Oil futures settled lower to post a third-straight weekly loss on Friday, but moved up in extended trading after the U.S. military confirmed a retaliatory strike on Iran.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.5023,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Tech stocks just had one of their worst weeks in a year. Here’s how AI momentum went off the rails.",
+      "url": "https://www.marketwatch.com/story/tech-stocks-just-had-one-of-their-worst-weeks-in-a-year-heres-how-ai-momentum-went-off-the-rails-d4596bae?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-26T21:16:00+00:00",
+      "summary": "It one of the worst weeks for tech stocks of the year, and Wall Street spent much of it confronting a question it had been too euphoric to ask: what exactly are we getting for all this AI spending?",
+      "sentiment": "bearish",
+      "sentiment_score": -0.6808,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Iran’s ship attack tests the shipping-insurance market just as war-risk premiums had plunged",
+      "url": "https://www.marketwatch.com/story/irans-ship-attack-tests-the-shipping-insurance-market-just-as-war-risk-premiums-had-plunged-8c4ef14d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-26T21:06:00+00:00",
+      "summary": "War-risk premiums narrowed considerably in recent days but could increase again.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.2263,
+      "tags": [
+        "AI",
+        "Shipping"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "SpaceX’s new bonds are flashing a warning sign, as investors pump the brakes on AI frenzy",
+      "url": "https://www.marketwatch.com/story/spacexs-new-bonds-are-flashing-a-warning-sign-as-investors-pump-the-brakes-on-ai-frenzy-752ad44b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-26T20:42:00+00:00",
+      "summary": "Elon Musk’s company made a splash earlier this week with a $25 billion bond deal, less than two weeks after it raised tens of billions of dollars in cash.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.5719,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Bond yields are falling as inflation pops. The Fed’s tough talk under Warsh is helping.",
+      "url": "https://www.marketwatch.com/story/bond-yields-are-falling-as-inflation-pops-the-feds-tough-talk-under-warsh-is-helping-7d538b3b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-26T20:38:00+00:00",
+      "summary": "Kevin Warsh, the new Federal Reserve chair, is helping coax Treasury yields lower by talking tough on inflation.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.1027,
+      "tags": [
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Fed’s Kashkari now projects one interest-rate hike this year. Here’s what changed his mind.",
+      "url": "https://www.marketwatch.com/story/feds-kashkari-projects-one-interest-rate-hike-this-year-heres-what-changed-his-mind-3a6b428c?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-26T20:27:00+00:00",
+      "summary": "Doubts over the U.S.-Iran peace deal and the AI buildup mean a rate hike is possible, the Minneapolis Fed president says.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.3182,
+      "tags": [
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "OpenAI is reportedly delaying its IPO. Here's when Kalshi traders think it will announce",
+      "url": "https://www.cnbc.com/2026/06/26/openai-ipo-timeline-delayed-kalshi-predictions.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-26T17:45:05+00:00",
+      "summary": "Speculators think the OpenAI IPO will come early next year, with only one-in-three odds it happens in 2026 but a high likelihood it is done by June 2027.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Warsh reaches within the Fed for latest advisory appointments",
+      "url": "https://www.cnbc.com/2026/06/26/warsh-reaches-within-the-fed-for-latest-advisory-appointments.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-26T16:52:10+00:00",
+      "summary": "Warsh has added two more key advisors as he seeks to remake how the central bank approaches the economy and monetary policy.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0516,
+      "tags": [
+        "Fed"
+      ],
+      "signal": "watch",
+      "category": "macro",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Minneapolis Fed President Neel Kashkari says he expects a rate hike this year",
+      "url": "https://www.cnbc.com/2026/06/26/minneapolis-fed-president-neel-kashkari-says-he-expects-a-rate-hike-this-year.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-26T16:04:42+00:00",
+      "summary": "Kashkari said he sees a hike likely this year as the economy continues to feel the hit from spiking inflation.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Key TG Jones landlords back restructuring plan; oil price hits four-month low – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/jun/26/uk-food-drink-exports-fall-us-tariffs-brexit-trade-friction-stock-market-ftse-pound-oil-latest-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-26T15:46:07+00:00",
+      "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>European stock markets are dropping today, as a sell-off in technology shares on Wall Street yesterday rattles investors’ nerves.</strong></p><p>In London, the <strong>FTSE</strong> <strong>100</strong> is down 80 points, or 0.77%, falling away from its highest closing level in two months.</p><p>Apple and Microsoft’s price rises have struck at the market’s fear of inflation, raising worries that, far from being deflationary, the AI boom might be inflationary, particularly for the hard-pressed consumer, hurting rather than aiding economic growth.</p><p>Meanwhile, OpenAI seems to have little stomach for market volatility either, reportedly put off by SpaceX’s travails. Having piled in to AI and tech since the end of March, there is a desire to protect profits, and investors continue to be in a mood to sell first and ask questions later.”</p><p>We find a 1.0°C El Niño shock drives a 9.55% peak increase in global wholesale food prices after two years. Scaled to the expected 2026 “very strong” event (implying a 1.65°C temperature increase), our model projects a cumulative 15.8% surge in food commodity prices, fully realised by 2028H2.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/26/uk-food-drink-exports-fall-us-tariffs-brexit-trade-friction-stock-market-ftse-pound-oil-latest-news-updates\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.25,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Jeremy Grantham says this is the most expensive market in 'American history'",
+      "url": "https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-26T15:34:09+00:00",
+      "summary": "Jeremy Grantham says soaring valuations around AI makes the U.S. stock market historically expensive.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "‘Make people dream’: how to build an economy for the common good",
+      "url": "https://www.theguardian.com/environment/2026/jun/26/make-people-dream-build-economy-common-good-mariana-mazzucato",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-26T12:05:14+00:00",
+      "summary": "<p>Economist Prof Mariana Mazzucato says governments must ‘get back their mojo’ and believe they can change the world </p><p>Good governments have a vision. They know what they want to achieve, can articulate why, and work out in public how to get there. They don’t just spout slogans about economic growth – because growth is meaningless unless we know what it is for. They understand that there is no trade-off between solving social problems and boosting the economy, and aim to do both, while avoiding rigid fiscal rules that defeat their own purpose by strangling public investment.</p><p>If this sounds like a critique of <a href=\"https://www.theguardian.com/politics/series/politics-live-with-andrew-sparrow\">what went wrong with Keir Starmer’s government</a>, it is also a lot more. Mariana Mazzucato, a professor in the economics of innovation and public value at University College London, is a world-renowned economist, adviser to governments, chair of international commissions, prolific author, and PhD supervisor to at least one poet. She was the thinker who inspired Starmer to <a href=\"https://www.theguardian.com/politics/2023/jul/09/five-missions-keir-starmer-labour-government\">fashion his political project around five key “missions”</a>, now largely forgotten in the mire of scandals, U-turns and infighting that beset his premiership.</p> <a href=\"https://www.theguardian.com/environment/2026/jun/26/make-people-dream-build-economy-common-good-mariana-mazzucato\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.4588,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Polymarket annualized revenue surpasses $1 billion six weeks after its U.S. exchange launch",
+      "url": "https://www.cnbc.com/2026/06/26/polymarket-annualized-revenue-1-billion-us-exchange-.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-26T12:00:11+00:00",
+      "summary": "World Cup trading and the end of its U.S. waitlist are driving rapid growth for Polymarket's prediction market platform.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.3818,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Too hot for work: why extreme heat is a threat to Europe’s productivity",
+      "url": "https://www.theguardian.com/business/2026/jun/26/extreme-heat-europe-productivity-economic-growth",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-26T05:00:08+00:00",
+      "summary": "<p>High temperatures make some workplaces dangerous, with economists warning disruption will dent growth</p><p>Monique Mosley is used to sweltering conditions at the food factory in Yorkshire where she works, but June’s <a href=\"https://www.theguardian.com/environment/2026/jun/24/uk-records-hottest-june-day\">record-breaking heatwave</a> has made conditions unbearable. “We make hot filled food products and it’s common that we see temperatures in the high 30s,” she said. “Thanks to our union, our employer is offering extra breaks, but not every workplace is the same.”</p><p>The latest heatwave to grip the UK and much of western Europe has presented <a href=\"https://www.theguardian.com/environment/2026/jun/24/as-temperatures-soar-in-baking-britain-how-are-workers-coping-in-the-heat\">significant challenges to employers and their employees</a>, from sweltering offices, disrupted commutes and school closures to dangerous construction sites where workers are at risk of dehydration, heatstroke and other injury.</p> <a href=\"https://www.theguardian.com/business/2026/jun/26/extreme-heat-europe-productivity-economic-growth\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.9011,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
       "source_repo": "financenews"
     },
     {
@@ -33,36 +249,6 @@
       ],
       "signal": "watch",
       "category": "macro",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "After losing my son, would it be a mistake to sell my recently purchased house and move to my hometown?",
-      "url": "https://www.marketwatch.com/story/my-son-passed-away-am-i-crazy-to-move-to-my-former-home-and-sell-a-house-i-bought-in-september-f1f5f41a?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-25T20:54:00+00:00",
-      "summary": "“I raised my children there as a single mother, and it was the last home my son lived in before he passed away unexpectedly.”",
-      "sentiment": "bearish",
-      "sentiment_score": -0.6124,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Micron has suddenly become one of the world’s most important stocks",
-      "url": "https://www.marketwatch.com/story/micron-has-suddenly-become-one-of-the-worlds-most-important-stocks-e6f4c517?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-25T20:39:00+00:00",
-      "summary": "“It is hard to overstate how significant last night’s earnings were,” a Mizuho managing director said.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3597,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
       "source_repo": "financenews"
     },
     {
@@ -277,193 +463,6 @@
       "sentiment": "bearish",
       "sentiment_score": -0.6361,
       "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Meta is building a prediction markets app. These stocks fell in response",
-      "url": "https://www.cnbc.com/2026/06/23/nyt-says-meta-builds-prediction-market-these-stocks-are-falling.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-23T20:09:00+00:00",
-      "summary": "The report said that CEO Mark Zuckerberg directed staff to develop a prediction markets platform, internally known as \"Arena.\"",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "SpaceX seeing some interest from short sellers, but many still afraid to bet against Musk",
-      "url": "https://www.cnbc.com/2026/06/23/spacex-seeing-interest-from-short-sellers-but-most-afraid-to-go-against-musk.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-23T19:33:07+00:00",
-      "summary": "About 40 million SpaceX shares are sold short, roughly 5% to 7% of the shares that are publicly available to trade, according to an estimate by S3 Partners.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.765,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Keir Starmer and Andy Burnham have met away from No 10 to discuss transition – as it happened",
-      "url": "https://www.theguardian.com/politics/live/2026/jun/23/burnham-leadership-contest-starmer-jones-streeting-eu-brexit-badenoch-latest-news-updates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-23T16:40:28+00:00",
-      "summary": "<p>Prime minister said to have left Downing Street for secret meeting with his probable successor</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/jun/23/burnham-adviser-government-borrowing-infrastructure\">Burnham adviser calls for billions of pounds in borrowing for infrastructure</a></p></li></ul><p><em>Peter Walker is a senior Guardian political correspondent.</em></p><p>The Liberal Democrats are marking the tenth anniversary of Brexit by enjoying their favourite pursuit – being rude about Nigel Farage.</p><p>Nigel Farage pocketed a £5m “reward” for the damage he’s caused, while the rest of us are paying for it dearly. When he promised we would be better off, he clearly only meant himself. We are taking over billboards across the UK today to say enough is enough.</p><p>Key to a serious Jones run seems to what he makes of Burnham’s economic policies in the coming days - including public control of utilities. And whether Ed Miliband ends up as chancellor.</p> <a href=\"https://www.theguardian.com/politics/live/2026/jun/23/burnham-leadership-contest-starmer-jones-streeting-eu-brexit-badenoch-latest-news-updates\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6808,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Burnham adviser calls for billions of pounds in borrowing for infrastructure",
-      "url": "https://www.theguardian.com/politics/2026/jun/23/burnham-adviser-government-borrowing-infrastructure",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-23T13:36:54+00:00",
-      "summary": "<p>Exclusive: Jim O’Neill, a former chief economist at Goldman Sachs, says government should spend more on big projects</p><p>The man tapped by Andy Burnham to be his chief economic adviser has called for billions of pounds more borrowing to pay for investment in infrastructure, in a sign of how Burnham may seek to break from the policies pursued by Keir Starmer.</p><p>Jim O’Neill, an economist and former minister, said he wanted the government to create an independent body for infrastructure spending along the lines of the Office for Budget Responsibility (OBR), which could be freed up to spend significantly more on major projects.</p> <a href=\"https://www.theguardian.com/politics/2026/jun/23/burnham-adviser-government-borrowing-infrastructure\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.483,
-      "tags": [
-        "Gold",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "U.S. fights with Brazil for China's giant soybean market",
-      "url": "https://www.cnbc.com/2026/06/23/us-fights-with-brazil-for-chinas-giant-soybean-market.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-23T09:43:57+00:00",
-      "summary": "The U.S. Soybean Export Council makes claims to higher quality a selling point over Brazil's crop, as American farmers attempt to win back business from the world's largest importer",
-      "sentiment": "bullish",
-      "sentiment_score": 0.2732,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "RIP Alan Greenspan: you were charming, powerful, and wrong | Robert Reich",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/23/alan-greenspan-federal-reserve",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-23T09:00:37+00:00",
-      "summary": "<p>The former Federal Reserve chair was a smart guy – but he had a huge blind spot. Here’s what I wish I’d said to him</p><p>Alan Greenspan <a href=\"https://www.theguardian.com/business/2026/jun/22/alan-greenspan-dies-aged-100\">has died</a> at the age of 100.</p><p>My students don’t recognize his name, but you probably do. When he was chair of the Federal Reserve – for more than 18 years, from 11 August 1987 to 31 January 2006 – he not only ran the US (and most of the world’s) economy but was also in many ways the most powerful person in the US.</p><p>Robert Reich, a former US secretary of labor, is a professor of public policy emeritus at the University of California, Berkeley. He is a Guardian US columnist and his newsletter is at <a href=\"http://robertreich.substack.com/\">robertreich.substack.com</a>. His new book, Coming Up Short: A Memoir of My America, is <a href=\"https://sites.prh.com/reich\">out now in the US</a> and <a href=\"https://scribepublications.co.uk/books/coming-up-short\">in the UK</a></p> <a href=\"https://www.theguardian.com/commentisfree/2026/jun/23/alan-greenspan-federal-reserve\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8804,
-      "tags": [
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "China's 618 shopping festival growth slows sharply as consumer spending malaise persists",
-      "url": "https://www.cnbc.com/2026/06/23/china-618-shopping-festival-sales-growth-consumer-spending-slowdown-syntun.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-23T03:19:02+00:00",
-      "summary": "The latest consumer data reinforce how consumption in China remains subdued.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7003,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Keir Starmer’s economic legacy – in charts",
-      "url": "https://www.theguardian.com/politics/2026/jun/22/keir-starmer-economy-labour-growth-unemployment",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-22T17:07:37+00:00",
-      "summary": "<p>PM said Labour had turned economy around – but his record on growth and unemployment appears mixed</p><p>Keir Starmer used his<a href=\"https://www.theguardian.com/politics/2026/jun/22/keir-starmer-resigns-as-prime-minister\"> leaving speech</a> to lay out a long list of Labour’s achievements in office – but his economic legacy appears mixed, with sluggish UK growth and higher employment costs.</p><p>The prime minister said his government had turned around an ailing economy, after 14 years of austerity. He said plans by the previous Tory administration to cut investment had been reversed and economic growth was the highest in the G7.</p> <a href=\"https://www.theguardian.com/politics/2026/jun/22/keir-starmer-economy-labour-growth-unemployment\">Continue reading...</a>",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0387,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Can anyone join Musk in the trillionaire club? Zuckerberg has best shot, according to prediction markets",
-      "url": "https://www.cnbc.com/2026/06/22/zuckerberg-seen-as-next-to-join-trillionaire-club-say-kalshi-traders.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-22T16:45:37+00:00",
-      "summary": "The Meta CEO is seen as next to join the Tesla and SpaceX CEO. Nvidia CEO Jensen Huang is seen as the second-most-likely.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8225,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Alan Greenspan obituary",
-      "url": "https://www.theguardian.com/business/2026/jun/22/alan-greenspan-obituary",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-22T16:13:47+00:00",
-      "summary": "<p>American economist and long-serving head of the Federal Reserve widely praised  for the US boom whose reputation was re-evaluated in the wake of the 2008 crash</p><p>For his work chairing the US Federal Reserve, Alan Greenspan, who has died aged 100, was regularly hailed by financiers, politicians and journalists for his handling of the economy. He was variously dubbed the Oracle, the Wizard and the Maestro.</p><p>As head of the central bank of the US from 1987 to 2006, tasked with setting interest rates and supervising and regulating banks and other financial institutions, he easily ranked as one of the most powerful individuals in the world. He served under four presidents: <a href=\"https://www.theguardian.com/news/2004/jun/07/guardianobituaries.past\">Ronald Reagan</a>, <a href=\"https://www.theguardian.com/global/2018/dec/01/george-hw-bush-obituary\">George HW Bush</a>, Bill Clinton – even though Greenspan was a lifelong Republican – and George W Bush.</p> <a href=\"https://www.theguardian.com/business/2026/jun/22/alan-greenspan-obituary\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8399,
-      "tags": [
-        "Interest Rates",
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Alan Greenspan, former chairman of the Fed, dies at age 100",
-      "url": "https://www.cnbc.com/2026/06/22/alan-greenspan-former-chairman-of-the-fed-dies-at-age-100.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-22T14:39:38+00:00",
-      "summary": "Alan Greenspan presided over the Federal Reserve for 19 years under four presidents and mastered the art of obfuscation known as Fedspeak.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Markets steady as prime minister Keir Starmer resigns; ex-Fed chair Alan Greenspan dies at 100 – as it happened",
-      "url": "https://www.theguardian.com/business/live/2026/jun/22/oil-prices-fall-stock-markets-rise-us-iran-peace-talks-trump-burnham-starmer-pound-ftse-hormuz-business-live",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-22T14:08:12+00:00",
-      "summary": "<p>Sterling and gilts avoided major swings amid Starmer’s resignation</p><p>Markets seem to be appeased by news of a (relatively) standard leadership contest, which will shake out any policy positions from prospective prime minister before they take post.</p><p>That could help reduce any jitters from some corners of the market ove<strong>r Andy Burnham’s </strong>potential leadership. according to <strong>Richard Carter</strong>, head of fixed interest research at <strong>Quilter Cheviot</strong>.</p><p><em>Markets are wary of Burnham’s previous policy positions so they would prefer to see ideas for governing fleshed out via a leadership contest, keeping surprises to a minimum.</em></p><p><em>There are difficult decisions around welfare and defence spending lurking, with each likely to have an impact on gilts and wider UK markets.</em></p> <a href=\"https://www.theguardian.com/business/live/2026/jun/22/oil-prices-fall-stock-markets-rise-us-iran-peace-talks-trump-burnham-starmer-pound-ftse-hormuz-business-live\">Continue reading...</a>",
-      "sentiment": "neutral",
-      "sentiment_score": 0.128,
-      "tags": [
-        "Fed",
-        "Oil",
         "AI"
       ],
       "signal": "watch",
