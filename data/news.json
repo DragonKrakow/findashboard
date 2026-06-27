@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-06-27T16:26:37.033130+00:00",
+  "generated_at": "2026-06-27T20:26:14.237847+00:00",
   "articles": [
+    {
+      "id": "c4dbd36f5a90",
+      "title": "Warsh Makes Debut on the Global Stage With the Class of 2008",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-27/warsh-makes-debut-on-the-global-stage-with-the-class-of-2008",
+      "published_at": "2026-06-27T20:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Kevin Warsh and three other veterans of the 2008 global financial crisis will share a stage this week as the danger of renewed turmoil continues to haunt central bankers.",
+      "tags": []
+    },
+    {
+      "id": "7e6b90617898",
+      "title": "Tech Equity Sales Renew AI Debt-Binge Worries",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-27/tech-equity-sales-renew-ai-debt-binge-worries-credit-weekly",
+      "published_at": "2026-06-27T19:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Tech companies are selling stock like it’s the dot-com boom, and some investors fear that’s a bad sign for bondholders.",
+      "tags": []
+    },
+    {
+      "id": "aa146b3cfd82",
+      "title": "Bloomberg This Weekend 6/27/2026",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-27/bloomberg-this-weekend-6-27-2026-video",
+      "published_at": "2026-06-27T16:10:48+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by",
+      "tags": []
+    },
     {
       "id": "a6f03356ad3f",
       "title": "Aid Groups Flock to Venezuela In Search-and-Rescue Frenzy",
@@ -86,42 +122,6 @@
       "tags": []
     },
     {
-      "id": "04512e0ed0f8",
-      "title": "AI’s Energy Crunch Has Investors Searching for Next IPO Winners",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-27/wall-street-bets-billions-on-power-firms-as-ai-boom-drives-ipo-rush",
-      "published_at": "2026-06-27T13:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The artificial intelligence boom has a power problem, and Wall Street is betting billions on companies that promise to solve it &mdash; even if some of the technology hasn’t been fully developed yet.",
-      "tags": []
-    },
-    {
-      "id": "e95e0c2755a9",
-      "title": "Schrödinger's Strait of Hormuz: Open or Closed?",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-27/schrodinger-s-strait-of-hormuz-open-or-closed-video",
-      "published_at": "2026-06-27T12:54:01+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Despite a ship being struck in the Strait of Hormuz on Thursday and another incident over the weekend, some vessels continue to travel the strait on both the Iranian and Omani sides. However, overall ",
-      "tags": []
-    },
-    {
-      "id": "20115161ff30",
-      "title": "MSG Mystery Event, Ranch Dressing Love | BTW: Headlines You Should See",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-27/msg-mystery-event-ranch-dressing-love-btw-video",
-      "published_at": "2026-06-27T12:40:16+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Catch up on all the headlines with BTW. Lisa Mateo, Christina Ruffini and David Gura dive into the headlines you may have missed on Bloomberg This Weekend. Watch the show LIVE every Saturday and Sunda",
-      "tags": []
-    },
-    {
       "id": "5e4dd1b4160d",
       "title": "Apple seeks to buy memory chips from blacklisted Chinese company",
       "source": "International homepage",
@@ -146,6 +146,18 @@
       "tags": []
     },
     {
+      "id": "d584e6595a3c",
+      "title": "New York’s socialist insurgency raises alarm among anxious Democrats",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/831d18c4-7272-4543-bcfc-d134df238dd7",
+      "published_at": "2026-06-27T11:00:01+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Sweeping victories by progressives expose divisions over how party takes on Trump in November’s elections",
+      "tags": []
+    },
+    {
       "id": "f0f529fff55e",
       "title": "Trump’s power is waning. But is Trumpism here to stay?",
       "source": "International homepage",
@@ -155,18 +167,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "As a war-damaged president faces midterms, a battle looms for the future of US conservatism that the hard right is well placed to win",
-      "tags": []
-    },
-    {
-      "id": "d65726fb0f3f",
-      "title": "Who is ‘El Tigre’, Colombia’s Trumpian new president?",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/ec1f4ef3-1a8d-41f1-9071-dd8dbbd10e71",
-      "published_at": "2026-06-27T04:00:45+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The firebrand criminal lawyer has won the presidency, vowing to crush drug traffickers like cockroaches",
       "tags": []
     },
     {
@@ -191,18 +191,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "FT research identifies owner of vehicle under investigation at flight school linked to impact",
-      "tags": []
-    },
-    {
-      "id": "d584e6595a3c",
-      "title": "New York’s socialist insurgency raises alarm among anxious Democrats",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/831d18c4-7272-4543-bcfc-d134df238dd7",
-      "published_at": "2026-06-27T11:00:01+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Sweeping victories by progressives expose divisions over how party takes on Trump in November’s elections",
       "tags": []
     },
     {
@@ -242,6 +230,54 @@
       "tags": []
     },
     {
+      "id": "c5a70e1481db",
+      "title": "UK’s Bridgepoint nears deal to buy real estate unit in bet on US property",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/567ba6a4-809f-4e8e-a8f3-03855beb9a48",
+      "published_at": "2026-06-27T20:00:33+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "London-based buyout group is looking beyond its traditional speciality in corporate buyouts",
+      "tags": []
+    },
+    {
+      "id": "78f7a83e386d",
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-06-27T19:34:45+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c",
+      "tags": []
+    },
+    {
+      "id": "5da9f9d3862e",
+      "title": "Bitcoin faces fresh capitulation risk as 50K BTC moved at a loss",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/markets/bitcoin-faces-fresh-capitulation-risk-as-50k-btc-moves-at-a-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-06-27T19:27:44+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin faces fresh capitulation risk as 50K BTC moved at a loss\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me",
+      "tags": []
+    },
+    {
+      "id": "aa9de6474897",
+      "title": "DCG-backed Yuma launches fund offering institutional exposure to Bittensor",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/yuma-bittensor-fund-institutional-tao-decentralized-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-06-27T17:59:31+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DCG-backed Yuma launches fund offering institutional exposure to Bittensor\" class=\"type:primaryImage\" src=\"https://s3-images.ctm",
+      "tags": []
+    },
+    {
       "id": "ff2e8ce200e0",
       "title": "Coinbase, Circle underperform Big Tech as crypto stock slump deepens",
       "source": "Cointelegraph.com News",
@@ -263,18 +299,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" SecondFi targets two-week recovery after Cardano wallet exploit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me",
-      "tags": []
-    },
-    {
-      "id": "78f7a83e386d",
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-06-27T11:30:05+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c",
       "tags": []
     },
     {
@@ -338,27 +362,27 @@
       "tags": []
     },
     {
-      "id": "25ce4c30b37f",
-      "title": "Spain regulator rules out extension for non-MiCA compliant crypto companies",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/spain-no-extension-mica-compliance-crypto-companies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-06-26T19:20:33+00:00",
+      "id": "c77bf86c3e80",
+      "title": "Why a selloff in gold and silver is dragging bitcoin down",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/markets/2026/06/27/why-a-selloff-in-gold-and-silver-is-dragging-bitcoin-down",
+      "published_at": "2026-06-27T18:11:04+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Spain regulator rules out extension for non-MiCA compliant crypto companies\" class=\"type:primaryImage\" src=\"https://s3-images.ct",
+      "summary": "Why a selloff in gold and silver is dragging bitcoin down",
       "tags": []
     },
     {
-      "id": "08f69bf0e4c9",
-      "title": "SEC, CFTC seek input on unified portfolio margin rules across securities and derivatives",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/sec-cftc-portfolio-margin-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-06-26T17:43:33+00:00",
+      "id": "64a5b22caa30",
+      "title": "What Robinhood’s recent layoffs say about the current state of crypto investments",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/opinion/2026/06/27/what-robinhood-s-recent-layoffs-say-about-the-current-state-of-crypto-investments",
+      "published_at": "2026-06-27T16:30:00+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC, CFTC seek input on unified portfolio margin rules across securities and derivatives\" class=\"type:primaryImage\" src=\"https:/",
+      "summary": "What Robinhood’s recent layoffs say about the current state of crypto investments",
       "tags": []
     },
     {
@@ -458,27 +482,75 @@
       "tags": []
     },
     {
-      "id": "b7cb760f84d3",
-      "title": "U.S. House Democrat, who may soon run key committee, condemns crypto in 401(k)s",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/policy/2026/06/26/u-s-house-democrat-who-may-soon-run-key-committee-condemns-crypto-in-401-k-s",
-      "published_at": "2026-06-26T19:38:12+00:00",
+      "id": "dc5171741c5c",
+      "title": "Qualcomm: Free AI Business",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4918264-qualcomm-free-ai-business?source=feed_all_articles",
+      "published_at": "2026-06-27T18:00:00+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "U.S. House Democrat, who may soon run key committee, condemns crypto in 401(k)s",
+      "summary": "Qualcomm: Free AI Business",
       "tags": []
     },
     {
-      "id": "d3306652209b",
-      "title": "Former Ethereum Foundation leader warns of funding gap as governance shifts",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/06/26/former-ethereum-foundation-leader-warns-of-funding-gap-as-governance-shifts",
-      "published_at": "2026-06-26T18:37:50+00:00",
+      "id": "eb1b36367187",
+      "title": "A Near-Perfect And Simple Retirement Dividend Growth Portfolio",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4918233-a-near-perfect-and-simple-retirement-dividend-growth-portfolio?source=feed_all_articles",
+      "published_at": "2026-06-27T17:05:00+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Former Ethereum Foundation leader warns of funding gap as governance shifts",
+      "summary": "A Near-Perfect And Simple Retirement Dividend Growth Portfolio",
+      "tags": []
+    },
+    {
+      "id": "747f87e9fe8c",
+      "title": "Rocket Lab: The Bear Case Has Never Been Stronger",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4918266-rocket-lab-bear-case-never-been-stronger?source=feed_all_articles",
+      "published_at": "2026-06-27T17:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Rocket Lab: The Bear Case Has Never Been Stronger",
+      "tags": []
+    },
+    {
+      "id": "33d42faa9d31",
+      "title": "Booking Holdings: The AI Travel Disruption Fear Looks Overblown To Me",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4918273-booking-holdings-the-ai-travel-disruption-fear-looks-overblown-to-me?source=feed_all_articles",
+      "published_at": "2026-06-27T16:47:07+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Booking Holdings: The AI Travel Disruption Fear Looks Overblown To Me",
+      "tags": []
+    },
+    {
+      "id": "1ed03a5f982c",
+      "title": "W.W. Grainger: Great Company, At A Bad Price",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4918260-ww-grainger-great-company-at-a-bad-price?source=feed_all_articles",
+      "published_at": "2026-06-27T16:41:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "W.W. Grainger: Great Company, At A Bad Price",
+      "tags": []
+    },
+    {
+      "id": "0c0f934c829f",
+      "title": "Nvidia: 3 Key Threats Are Gaining Momentum And Visibility",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4918272-nvidia-3-key-threats-are-gaining-momentum-and-visibility?source=feed_all_articles",
+      "published_at": "2026-06-27T16:29:34+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Nvidia: 3 Key Threats Are Gaining Momentum And Visibility",
       "tags": []
     },
     {
@@ -527,78 +599,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Ezcorp: Still Cheap Enough For The Growth",
-      "tags": []
-    },
-    {
-      "id": "3c9367d7f7f9",
-      "title": "Precious Metals Risk/Reward Now Positive",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4918268-precious-metals-riskreward-now-positive?source=feed_all_articles",
-      "published_at": "2026-06-27T14:45:56+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Precious Metals Risk/Reward Now Positive",
-      "tags": []
-    },
-    {
-      "id": "7e864c8e43eb",
-      "title": "Cybin: A Speculative Bet On Their Pivotal Depression Readout",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4918259-cybin-a-speculative-bet-on-their-pivotal-depression-readout?source=feed_all_articles",
-      "published_at": "2026-06-27T14:40:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Cybin: A Speculative Bet On Their Pivotal Depression Readout",
-      "tags": []
-    },
-    {
-      "id": "e36d5c042291",
-      "title": "Alliance Resource Partners: Profiting From The Slow Death Of Coal",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4918036-alliance-resource-partners-profiting-from-the-slow-death-of-coal?source=feed_all_articles",
-      "published_at": "2026-06-27T14:30:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Alliance Resource Partners: Profiting From The Slow Death Of Coal",
-      "tags": []
-    },
-    {
-      "id": "ba87f0e88792",
-      "title": "Mid-Year Update: Warnings On AI Hyperscalers, Private Credit, And The SpaceX IPO",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4918167-mid-year-update-warnings-on-ai-hyperscalers-private-credit-and-the-spacex-ipo?source=feed_all_articles",
-      "published_at": "2026-06-27T14:30:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Mid-Year Update: Warnings On AI Hyperscalers, Private Credit, And The SpaceX IPO",
-      "tags": []
-    },
-    {
-      "id": "df2fe2f074f5",
-      "title": "The 1-Minute Market Report, June 27, 2026",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4918267-the-1-minute-market-report-june-27-2026?source=feed_all_articles",
-      "published_at": "2026-06-27T14:17:56+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The 1-Minute Market Report, June 27, 2026",
-      "tags": []
-    },
-    {
-      "id": "a6a93d36e666",
-      "title": "Salesforce: Time To Fill Up The Truck With This Incredible Bargain",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4918247-salesforce-time-to-fill-up-the-truck-with-this-incredible-bargain?source=feed_all_articles",
-      "published_at": "2026-06-27T14:06:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Salesforce: Time To Fill Up The Truck With This Incredible Bargain",
       "tags": []
     }
   ]
