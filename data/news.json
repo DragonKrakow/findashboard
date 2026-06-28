@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-06-28T16:28:47.406919+00:00",
+  "generated_at": "2026-06-28T20:28:59.435772+00:00",
   "articles": [
+    {
+      "id": "2ef2ac852daf",
+      "title": "New Zealand Dollar Faces Tough Third Quarter on Growth Headwinds",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/new-zealand-dollar-faces-tough-third-quarter-on-growth-headwinds",
+      "published_at": "2026-06-28T19:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "New Zealand’s dollar is facing a subdued third quarter as a resurgent greenback and the lingering effects of the Iran war’s energy shock drag on the domestic recovery.",
+      "tags": []
+    },
+    {
+      "id": "27f3161fde97",
+      "title": "Bond Heavyweights Target a Market Sweet Spot for New Warsh Era",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/bond-heavyweights-target-a-market-sweet-spot-for-new-warsh-era",
+      "published_at": "2026-06-28T19:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Some of the biggest bond managers are zeroing in on one specific area of the market as the best place to ride out the early days of the Kevin Warsh era.",
+      "tags": []
+    },
+    {
+      "id": "c4dbd36f5a90",
+      "title": "Warsh Makes Debut on the Global Stage With the Class of 2008",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-27/warsh-makes-debut-on-the-global-stage-with-the-class-of-2008",
+      "published_at": "2026-06-27T20:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Kevin Warsh and three other veterans of the 2008 global financial crisis will share a stage this week as the danger of renewed turmoil continues to haunt central bankers.",
+      "tags": []
+    },
+    {
+      "id": "a4cbb1135fdf",
+      "title": "Williams Said to Near $5.5 Billion Deal for Momentum Midstream",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/williams-said-to-near-5-5-billion-deal-for-momentum-midstream",
+      "published_at": "2026-06-28T18:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Williams Cos. is in advanced talks to acquire rival natural gas pipeline operator Momentum Midstream for about $5.5 billion in what would be one of its largest deals ever, people familiar with the mat",
+      "tags": []
+    },
+    {
+      "id": "c17a48fa54a8",
+      "title": "Bloomberg This Weekend 6/28/2026",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-28/bloomberg-this-weekend-6-28-2026-video",
+      "published_at": "2026-06-28T17:05:30+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by",
+      "tags": []
+    },
+    {
+      "id": "38d346033d03",
+      "title": "Venezuela’s Machado Attempts Fast Return Amid Quake Response",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/venezuela-s-machado-plans-quick-return-amid-quake-response",
+      "published_at": "2026-06-28T00:32:29+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Venezuela’s opposition leader María Corina Machado is working to return to the country as soon as possible, according to people with direct knowledge of her plans, a move that could reshape the politi",
+      "tags": []
+    },
     {
       "id": "4827d478f5f6",
       "title": "World Cup Fever Energizes Boston Ahead of Knockout Stage",
@@ -47,78 +119,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "A helicopter operated by Saudi Aramco crashed Sunday in the energy heartland of Ras Tanura, killing all 14 passengers on board.",
-      "tags": []
-    },
-    {
-      "id": "1e84a40fa6d5",
-      "title": "Can USMCA Survive Trump’s Second Term?",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-28/can-usmca-survive-trump-s-second-term-video",
-      "published_at": "2026-06-28T14:04:03+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "As Canada, Mexico, and the United States begin reviewing the USMCA trade pact, former diplomats and trade negotiators say the stakes extend far beyond tariffs. Former Canadian Ambassador Kirsten Hillm",
-      "tags": []
-    },
-    {
-      "id": "07d33e051c2d",
-      "title": "Leverage That Fueled US Stock Rally Becomes a Growing Concern",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-28/leverage-that-fueled-us-stock-rally-becomes-a-growing-concern",
-      "published_at": "2026-06-28T14:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The leverage that helped fuel the US stock rally is now becoming an increasing source of unease.",
-      "tags": []
-    },
-    {
-      "id": "c804ed9a0430",
-      "title": "Supreme Court Faces High-Stakes Week",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-28/supreme-court-faces-high-stakes-week-video",
-      "published_at": "2026-06-28T13:59:14+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Bloomberg News Supreme Court reporter Greg Stohr joins Bloomberg This Weekend and says the justices are expected to issue rulings this week in two closely watched cases involving President Donald Trum",
-      "tags": []
-    },
-    {
-      "id": "e9078afff7e7",
-      "title": "By The Way: Interesting Headlines You May Have Missed",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-28/by-the-way-interesting-headlines-you-may-have-missed-video",
-      "published_at": "2026-06-28T12:52:58+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Hacky sack makes a comeback, the US Men's National soccer team plays with some puppies, Doctors vs Podcast advise, and Robotaxi rules easing. Lisa Mateo, Christina Ruffini and David Gura dive into the",
-      "tags": []
-    },
-    {
-      "id": "13879b253701",
-      "title": "Hawkish Fed Throws Down Challenge for Emerging-Market Bond Rally",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-28/hawkish-fed-throws-down-challenge-for-emerging-market-bond-rally",
-      "published_at": "2026-06-28T12:30:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Just when it looked like emerging-market bonds would catch a break from falling energy prices, along came Federal Reserve Chairman Kevin Warsh to spoil the party.",
-      "tags": []
-    },
-    {
-      "id": "558767677bcb",
-      "title": "Fmr. Deputy National Security Advisor Warns Trump Rhetoric Risks Iran Talks",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-28/ben-rhodes-warns-trump-rhetoric-risks-iran-talks-video",
-      "published_at": "2026-06-28T12:07:50+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "While the Iran ceasefire remains intact despite recent exchanges of fire, Former Deputy National Security Advisor Ben Rhodes warned it could unravel if tit-for-tat strikes escalate or hardliners on ei",
       "tags": []
     },
     {
@@ -194,6 +194,18 @@
       "tags": []
     },
     {
+      "id": "0ef1bf66953a",
+      "title": "Aramco helicopter crashes at Saudi port",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/6be8c3fd-5f1d-4659-afee-43db76a36fd6",
+      "published_at": "2026-06-28T18:09:40+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "At least 14 killed in Ras Tanura incident just hours after US-Iran strikes threaten fragile deal to reopen Strait of Hormuz",
+      "tags": []
+    },
+    {
       "id": "59db7eb21a40",
       "title": "US and Iran exchange strikes as ceasefire falters",
       "source": "International homepage",
@@ -203,18 +215,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Truce under pressure as Tehran counters US attacks by targeting military installations in Bahrain and Kuwait",
-      "tags": []
-    },
-    {
-      "id": "0ef1bf66953a",
-      "title": "Aramco helicopter crashes at Saudi port",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/6be8c3fd-5f1d-4659-afee-43db76a36fd6",
-      "published_at": "2026-06-28T15:31:50+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "At least 14 killed in Ras Tanura incident just hours after US-Iran strikes threaten fragile deal to reopen Strait of Hormuz",
       "tags": []
     },
     {
@@ -242,6 +242,18 @@
       "tags": []
     },
     {
+      "id": "835308e295c0",
+      "title": "BIS warns stablecoins risk fragmenting global financial system",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/bis-warns-stablecoins-risk-fragmenting-global-financial-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-06-28T18:58:45+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BIS warns stablecoins risk fragmenting global financial system\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
+      "tags": []
+    },
+    {
       "id": "eb909e48ac76",
       "title": "Will Bitcoin price recover in July?",
       "source": "Cointelegraph.com News",
@@ -255,26 +267,14 @@
     },
     {
       "id": "a2fb7cfab2bc",
-      "title": "EU Watchdog EBA Details Big Crypto Fines as Landmark Laws Bite",
+      "title": "EU watchdog EBA details big crypto fines as landmark laws bite",
       "source": "Cointelegraph.com News",
       "url": "https://cointelegraph.com/news/eu-watchdog-eba-details-big-crypto-fines-as-landmark-laws-bite?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-06-28T16:05:07+00:00",
+      "published_at": "2026-06-28T16:10:00+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EU Watchdog EBA Details Big Crypto Fines as Landmark Laws Bite\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
-      "tags": []
-    },
-    {
-      "id": "78f7a83e386d",
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-06-28T13:04:13+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EU watchdog EBA details big crypto fines as landmark laws bite\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
       "tags": []
     },
     {
@@ -359,6 +359,18 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DCG-backed Yuma launches fund offering institutional exposure to Bittensor\" class=\"type:primaryImage\" src=\"https://s3-images.ctm",
+      "tags": []
+    },
+    {
+      "id": "4c15006df25d",
+      "title": "CZ wants to make the U.S. the 'capital of crypto': State of Crypto",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/policy/2026/06/28/cz-wants-to-make-the-u-s-the-capital-of-crypto-state-of-crypto",
+      "published_at": "2026-06-28T19:30:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "CZ wants to make the U.S. the 'capital of crypto': State of Crypto",
       "tags": []
     },
     {
@@ -470,15 +482,27 @@
       "tags": []
     },
     {
-      "id": "c23c01cdd43b",
-      "title": "Coinbase and OKX try to lure in Binance’s EU users after it failed to secure a MiCA license",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/06/27/coinbase-and-okx-try-to-lure-in-binance-s-450m-eu-users-after-failing-to-secure-a-mica-license",
-      "published_at": "2026-06-27T14:11:45+00:00",
+      "id": "d3f347b67af9",
+      "title": "S&P 500: Still In The Early Stages (Technical Analysis)",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4918323-sp500-still-in-early-stages-technical-analysis?source=feed_all_articles",
+      "published_at": "2026-06-28T20:00:00+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Coinbase and OKX try to lure in Binance’s EU users after it failed to secure a MiCA license",
+      "summary": "S&P 500: Still In The Early Stages (Technical Analysis)",
+      "tags": []
+    },
+    {
+      "id": "f929a80ae5ea",
+      "title": "Confessions Of An Oil Bull",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4918350-confessions-of-an-oil-bull?source=feed_all_articles",
+      "published_at": "2026-06-28T18:46:45+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Confessions Of An Oil Bull",
       "tags": []
     },
     {
@@ -575,30 +599,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "I Am Buying The Dip In Dividends As Others Sell",
-      "tags": []
-    },
-    {
-      "id": "84ecaac261be",
-      "title": "Cerebras: Gets Appealing Below IPO Price",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4918295-cerebras-gets-appealing-below-ipo-price?source=feed_all_articles",
-      "published_at": "2026-06-28T14:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Cerebras: Gets Appealing Below IPO Price",
-      "tags": []
-    },
-    {
-      "id": "56e33743a98a",
-      "title": "Analyst Connect June 2026: Looking At A New ETF Category",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4917492-analyst-connect-june-2026-looking-at-a-new-etf-category?source=feed_all_articles",
-      "published_at": "2026-06-28T14:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Analyst Connect June 2026: Looking At A New ETF Category",
       "tags": []
     }
   ]
