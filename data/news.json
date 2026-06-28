@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T20:26:14.237847+00:00",
+  "generated_at": "2026-06-28T00:49:34.929753+00:00",
   "articles": [
     {
       "id": "c4dbd36f5a90",
@@ -122,27 +122,15 @@
       "tags": []
     },
     {
-      "id": "5e4dd1b4160d",
-      "title": "Apple seeks to buy memory chips from blacklisted Chinese company",
+      "id": "59db7eb21a40",
+      "title": "US carries out second day of strikes against Iran",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/d72a25e2-7bde-4aa9-bd8d-0c4f3d6cb2cb",
-      "published_at": "2026-06-27T02:17:50+00:00",
+      "url": "https://www.ft.com/content/5f4cd16c-fa4a-4806-94ce-84df6f51ecc0",
+      "published_at": "2026-06-27T23:48:28+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "iPhone maker wants Trump administration to sign off on purchases to ease pressure from rising semiconductor prices",
-      "tags": []
-    },
-    {
-      "id": "7e69873361f0",
-      "title": "Trump administration allows some access to Anthropic’s Mythos",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/4b578b5c-258a-48f5-a5e9-15eef5659573",
-      "published_at": "2026-06-27T00:37:57+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Move eases tension with AI lab but unease over Washington’s ad hoc regulatory approach remains",
+      "summary": "Military action in response to Iranian attacks on shipping is a further blow to hopes of sustained ceasefire",
       "tags": []
     },
     {
@@ -182,51 +170,51 @@
       "tags": []
     },
     {
-      "id": "af1693a760dc",
-      "title": "Tower crash calls Beijing’s air security into question",
+      "id": "5e4dd1b4160d",
+      "title": "Apple seeks to buy memory chips from blacklisted Chinese company",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/190beede-1d8b-4a22-8437-ef8c48d01828",
-      "published_at": "2026-06-27T10:53:49+00:00",
+      "url": "https://www.ft.com/content/d72a25e2-7bde-4aa9-bd8d-0c4f3d6cb2cb",
+      "published_at": "2026-06-27T02:17:50+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "FT research identifies owner of vehicle under investigation at flight school linked to impact",
+      "summary": "iPhone maker wants Trump administration to sign off on purchases to ease pressure from rising semiconductor prices",
       "tags": []
     },
     {
-      "id": "8f77a163e201",
-      "title": "German carmakers embark on historic job cuts as Chinese rivals flood market",
+      "id": "610e7e7961f4",
+      "title": "Venezuela earthquake death toll climbs amid anger over slow response",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/b68964c9-f3d0-48e8-8873-8f463834936c",
-      "published_at": "2026-06-27T11:00:00+00:00",
+      "url": "https://www.ft.com/content/d9021458-083a-4086-9da0-8639b6e176e1",
+      "published_at": "2026-06-27T20:31:44+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Threat to industrial model of Europe’s largest economy mounts",
+      "summary": "Country’s US-backed interim leader Delcy Rodríguez accused of failing to provide help for the victims",
       "tags": []
     },
     {
-      "id": "64493141227f",
-      "title": "Utility boss warns US faces blackouts due to power supply shortfall",
+      "id": "aa668655bcec",
+      "title": "Javier Milei’s top aide resigns over corruption scandal in Argentina",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/14d2e591-7cd5-4456-904f-1b7fdc5cbc1a",
-      "published_at": "2026-06-27T04:00:34+00:00",
+      "url": "https://www.ft.com/content/db091e41-ea8c-4aac-b76c-b303f799d191",
+      "published_at": "2026-06-27T22:22:39+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Exelon chief executive says electricity bill increases are necessary to fund infrastructure to support AI boom",
+      "summary": "Allegations against cabinet chief Manuel Adorni have engulfed libertarian government for months",
       "tags": []
     },
     {
-      "id": "4059807290c5",
-      "title": "Baltic states urge EU to speed up ban on Russian oil imports",
+      "id": "1dbbb20e450c",
+      "title": "Argentina plots ‘golden passport’ scheme to pay down debts",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/573aa813-43c1-4c2c-aa1d-72f05af960ab",
-      "published_at": "2026-06-27T04:00:51+00:00",
+      "url": "https://www.ft.com/content/2f32bd0f-ea86-4ff6-858a-475f3ce8f6ad",
+      "published_at": "2026-06-27T04:00:23+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Talks about the phaseout stalled after the closure of the Strait of Hormuz sparked concerns of an energy supply crisis",
+      "summary": "Cash-strapped country to become one of the world’s largest to offer citizenship-by-investment under President Javier Milei",
       "tags": []
     },
     {
@@ -239,6 +227,30 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "London-based buyout group is looking beyond its traditional speciality in corporate buyouts",
+      "tags": []
+    },
+    {
+      "id": "9e2e67998796",
+      "title": "QuidelOrtho looks to sell testing unit as PE circles healthcare companies",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/404f832c-89cf-49f7-a546-b0e4eb965f15",
+      "published_at": "2026-06-27T10:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Diagnostic company’s shares are down 90% since its rapid antigen tests were the first to be approved for Covid-19",
+      "tags": []
+    },
+    {
+      "id": "77beb32d3e08",
+      "title": "Fidelity rebuts claims Bitcoin becomes less secure after halvings",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/fidelity-bitcoin-long-term-security-halvings-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-06-27T20:53:02+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fidelity rebuts claims Bitcoin becomes less secure after halvings\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m",
       "tags": []
     },
     {
@@ -347,18 +359,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US senators urge CFTC probe Polymarket over ‘deceptive marketing’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m",
-      "tags": []
-    },
-    {
-      "id": "6f2cd1aac6f7",
-      "title": "Old Ether wallets move 37,806 ETH as whale conviction faces key test at $1.5K",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/markets/old-ether-wallets-move-37806-eth-as-whale-conviction-faces-key-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-06-26T22:18:07+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Old Ether wallets move 37,806 ETH as whale conviction faces key test at $1.5K\" class=\"type:primaryImage\" src=\"https://s3-images.",
       "tags": []
     },
     {
@@ -482,6 +482,78 @@
       "tags": []
     },
     {
+      "id": "b8876f45f2b7",
+      "title": "Identiv, Inc. (INVE) Trackonomy Systems, Inc. - M&A Call - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4918279-identiv-inc-inve-trackonomy-systems-inc-m-and-a-call-slideshow?source=feed_all_articles",
+      "published_at": "2026-06-27T23:15:31+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Identiv, Inc. (INVE) Trackonomy Systems, Inc. - M&A Call - Slideshow",
+      "tags": []
+    },
+    {
+      "id": "731bbd03d9fa",
+      "title": "SiteOne Landscape Supply, Inc. (SITE) Analyst/Investor Day - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4918278-siteone-landscape-supply-inc-site-analyst-investor-day-slideshow?source=feed_all_articles",
+      "published_at": "2026-06-27T23:14:48+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "SiteOne Landscape Supply, Inc. (SITE) Analyst/Investor Day - Slideshow",
+      "tags": []
+    },
+    {
+      "id": "f1266a8d340c",
+      "title": "Cytosorbents Corporation (CTSO) Presents at Life Sciences Virtual Investor Forum - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4918277-cytosorbents-corporation-ctso-presents-at-life-sciences-virtual-investor-forum-slideshow?source=feed_all_articles",
+      "published_at": "2026-06-27T23:13:21+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Cytosorbents Corporation (CTSO) Presents at Life Sciences Virtual Investor Forum - Slideshow",
+      "tags": []
+    },
+    {
+      "id": "953ac35a9bd0",
+      "title": "SoftBank Corp. (SOBKY) Shareholder/Analyst Call - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4918276-softbank-corp-sobky-shareholder-analyst-call-slideshow?source=feed_all_articles",
+      "published_at": "2026-06-27T23:11:17+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "SoftBank Corp. (SOBKY) Shareholder/Analyst Call - Slideshow",
+      "tags": []
+    },
+    {
+      "id": "fe938e022ae8",
+      "title": "NovaGold Resources Inc. 2026 Q2 - Results - Earnings Call Presentation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4918275-novagold-resources-inc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+      "published_at": "2026-06-27T23:07:41+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "NovaGold Resources Inc. 2026 Q2 - Results - Earnings Call Presentation",
+      "tags": []
+    },
+    {
+      "id": "c051b101293d",
+      "title": "Alimentation Couche-Tard Inc. 2026 Q4 - Results - Earnings Call Presentation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4918274-alimentation-couche-tard-inc-2026-q4-results-earnings-call-presentation?source=feed_all_articles",
+      "published_at": "2026-06-27T23:06:57+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Alimentation Couche-Tard Inc. 2026 Q4 - Results - Earnings Call Presentation",
+      "tags": []
+    },
+    {
       "id": "dc5171741c5c",
       "title": "Qualcomm: Free AI Business",
       "source": "All Articles on Seeking Alpha",
@@ -527,78 +599,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Booking Holdings: The AI Travel Disruption Fear Looks Overblown To Me",
-      "tags": []
-    },
-    {
-      "id": "1ed03a5f982c",
-      "title": "W.W. Grainger: Great Company, At A Bad Price",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4918260-ww-grainger-great-company-at-a-bad-price?source=feed_all_articles",
-      "published_at": "2026-06-27T16:41:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "W.W. Grainger: Great Company, At A Bad Price",
-      "tags": []
-    },
-    {
-      "id": "0c0f934c829f",
-      "title": "Nvidia: 3 Key Threats Are Gaining Momentum And Visibility",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4918272-nvidia-3-key-threats-are-gaining-momentum-and-visibility?source=feed_all_articles",
-      "published_at": "2026-06-27T16:29:34+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Nvidia: 3 Key Threats Are Gaining Momentum And Visibility",
-      "tags": []
-    },
-    {
-      "id": "4690a3873e9a",
-      "title": "Bloom Energy: Why The 22% Plunge Was Mechanical, Not Fundamental. Reiterate Buy",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4918271-bloom-energy-why-22-percent-plunge-was-mechanical-not-fundamental-reiterate-buy?source=feed_all_articles",
-      "published_at": "2026-06-27T16:15:27+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Bloom Energy: Why The 22% Plunge Was Mechanical, Not Fundamental. Reiterate Buy",
-      "tags": []
-    },
-    {
-      "id": "f014853213f8",
-      "title": "STMicroelectronics: Real Transformation, But Wait For The Pullback",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4918270-stmicroelectronics-real-transformation-but-wait-for-the-pullback?source=feed_all_articles",
-      "published_at": "2026-06-27T15:33:41+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "STMicroelectronics: Real Transformation, But Wait For The Pullback",
-      "tags": []
-    },
-    {
-      "id": "e010847c13cf",
-      "title": "Eagle Point Credit: I Avoid Common Stock For Now, Focus On Senior Securities",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4917328-eagle-point-credit-i-avoid-common-stock-for-now-focus-on-senior-securities?source=feed_all_articles",
-      "published_at": "2026-06-27T15:30:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Eagle Point Credit: I Avoid Common Stock For Now, Focus On Senior Securities",
-      "tags": []
-    },
-    {
-      "id": "0f5a3b16a056",
-      "title": "Ezcorp: Still Cheap Enough For The Growth",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4918269-ezcorp-still-cheap-enough-for-the-growth?source=feed_all_articles",
-      "published_at": "2026-06-27T15:25:01+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Ezcorp: Still Cheap Enough For The Growth",
       "tags": []
     }
   ]
