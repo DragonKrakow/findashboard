@@ -1,96 +1,18 @@
 {
-  "generated_at": "2026-06-27T06:37:56Z",
-  "snapshot_date": "2026-06-27",
+  "generated_at": "2026-06-28T06:48:57Z",
+  "snapshot_date": "2026-06-28",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "ServiceNow, Salesforce and other software stocks surge as the OpenAI threat weakens",
-      "url": "https://www.marketwatch.com/story/servicenow-salesforce-and-other-software-stocks-surge-as-the-openai-threat-weakens-bb1eacfb?mod=mw_rss_topstories",
+      "title": "Social Security says I was overpaid for 7 years. I believe it’s mistaken. Can they cut my benefits?",
+      "url": "https://www.marketwatch.com/story/social-security-says-i-was-overpaid-for-7-years-i-believe-its-mistaken-can-they-cut-my-benefits-f2d4a524?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-26T22:09:00+00:00",
-      "summary": "Oracle’s stock missed out on the broader software rally, as the company is tied to OpenAI’s success through its cloud-infrastructure business.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.4939,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "U.S. confirms retaliatory strike on Iran, pulling oil prices up in after-hours trading",
-      "url": "https://www.marketwatch.com/story/oil-heads-for-another-losing-week-but-analyst-warns-sluggish-strait-of-hormuz-traffic-could-send-it-soaring-again-80ab9ba8?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-26T21:50:00+00:00",
-      "summary": "Oil futures settled lower to post a third-straight weekly loss on Friday, but moved up in extended trading after the U.S. military confirmed a retaliatory strike on Iran.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.5023,
-      "tags": [
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Tech stocks just had one of their worst weeks in a year. Here’s how AI momentum went off the rails.",
-      "url": "https://www.marketwatch.com/story/tech-stocks-just-had-one-of-their-worst-weeks-in-a-year-heres-how-ai-momentum-went-off-the-rails-d4596bae?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-26T21:16:00+00:00",
-      "summary": "It one of the worst weeks for tech stocks of the year, and Wall Street spent much of it confronting a question it had been too euphoric to ask: what exactly are we getting for all this AI spending?",
-      "sentiment": "bearish",
-      "sentiment_score": -0.6808,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Iran’s ship attack tests the shipping-insurance market just as war-risk premiums had plunged",
-      "url": "https://www.marketwatch.com/story/irans-ship-attack-tests-the-shipping-insurance-market-just-as-war-risk-premiums-had-plunged-8c4ef14d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-26T21:06:00+00:00",
-      "summary": "War-risk premiums narrowed considerably in recent days but could increase again.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.2263,
-      "tags": [
-        "AI",
-        "Shipping"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "SpaceX’s new bonds are flashing a warning sign, as investors pump the brakes on AI frenzy",
-      "url": "https://www.marketwatch.com/story/spacexs-new-bonds-are-flashing-a-warning-sign-as-investors-pump-the-brakes-on-ai-frenzy-752ad44b?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-26T20:42:00+00:00",
-      "summary": "Elon Musk’s company made a splash earlier this week with a $25 billion bond deal, less than two weeks after it raised tens of billions of dollars in cash.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.5719,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Bond yields are falling as inflation pops. The Fed’s tough talk under Warsh is helping.",
-      "url": "https://www.marketwatch.com/story/bond-yields-are-falling-as-inflation-pops-the-feds-tough-talk-under-warsh-is-helping-7d538b3b?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-26T20:38:00+00:00",
-      "summary": "Kevin Warsh, the new Federal Reserve chair, is helping coax Treasury yields lower by talking tough on inflation.",
+      "published_at": "2026-06-27T19:30:00+00:00",
+      "summary": "“They say I made $43,000 in 2019, but I actually made that in 2020.”",
       "sentiment": "neutral",
-      "sentiment_score": 0.1027,
+      "sentiment_score": 0.0516,
       "tags": [
-        "Fed",
         "AI"
       ],
       "signal": "watch",
@@ -98,15 +20,75 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Fed’s Kashkari now projects one interest-rate hike this year. Here’s what changed his mind.",
-      "url": "https://www.marketwatch.com/story/feds-kashkari-projects-one-interest-rate-hike-this-year-heres-what-changed-his-mind-3a6b428c?mod=mw_rss_topstories",
+      "title": "How to work in retirement without seeing your Social Security checks slashed",
+      "url": "https://www.marketwatch.com/story/how-to-work-in-retirement-without-seeing-your-social-security-checks-slashed-05d6c830?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-26T20:27:00+00:00",
-      "summary": "Doubts over the U.S.-Iran peace deal and the AI buildup mean a rate hike is possible, the Minneapolis Fed president says.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3182,
+      "published_at": "2026-06-27T19:30:00+00:00",
+      "summary": "Claiming benefits before full retirement age while keeping a job can trigger unexpected withholdings — but the money isn’t lost forever.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.2263,
       "tags": [
-        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Germany is considering raising its retirement age to 70. Could the U.S. follow?",
+      "url": "https://www.marketwatch.com/story/could-the-u-s-join-germany-in-raising-its-retirement-age-3282e0bd?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-27T19:30:00+00:00",
+      "summary": "Germany may gradually raise its retirement age to 70 by 2092 — but such a move would fix only part of Social Security’s funding gap.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "The AI bubble has further to run despite the looming crash",
+      "url": "https://www.theguardian.com/business/2026/jun/27/ai-bubble-crash-tech-firms-stock-markets",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-27T15:00:07+00:00",
+      "summary": "<p>As tech firms make huge profits and investors fear losing out, both are doing their best to hold off the day of reckoning</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/jun/26/openai-ai-model-release-trump-us-sam-altman-gpt-anthropic-mythos\">OpenAI staggers AI model release after White House request</a></p></li></ul><p>Every couple of decades, investors will ask themselves how long can the stock market keep climbing. Is it safe to buy more shares? Is their pension or equity portfolio vulnerable should financial markets, and especially those in the US, come crashing down to earth?</p><p>When stock markets rise to historically high levels – and beyond the level when normal profits can sustain share prices – a few “experts” typically warn of an impending crash.</p> <a href=\"https://www.theguardian.com/business/2026/jun/27/ai-bubble-crash-tech-firms-stock-markets\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.9298,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Why investors may want to prioritize bond markets outside the U.S.",
+      "url": "https://www.cnbc.com/2026/06/27/inflation-as-major-reason-to-invest-in-global-bond-markets.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-27T15:00:01+00:00",
+      "summary": "Allspring Global Investments is pushing clients toward countries with central banks that are raising interest rates or have different inflation dynamics.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6597,
+      "tags": [
+        "Interest Rates",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Jeremy Grantham says, 'This is the most expensive market in American history'",
+      "url": "https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-27T12:22:08+00:00",
+      "summary": "Jeremy Grantham says soaring valuations around AI makes the U.S. stock market historically expensive.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
         "AI"
       ],
       "signal": "watch",
@@ -169,21 +151,6 @@
       "sentiment_score": -0.25,
       "tags": [
         "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Jeremy Grantham says this is the most expensive market in 'American history'",
-      "url": "https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-26T15:34:09+00:00",
-      "summary": "Jeremy Grantham says soaring valuations around AI makes the U.S. stock market historically expensive.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
         "AI"
       ],
       "signal": "watch",
@@ -462,6 +429,36 @@
       "summary": "<p>Sharon Graham is urged to withdraw her claim that the energy secretary would cost jobs if he became chancellor</p><p>More than 40 progressive economists have written to Sharon Graham, the leader of Unite, rejecting her claim that Ed Miliband would destroy jobs if he becomes the next chancellor.</p><p>With Andy Burnham almost certain to be prime minister within weeks, there is a fierce debate within Labour about who should succeed Rachel Reeves at the Treasury, with Miliband considered a frontrunner.</p> <a href=\"https://www.theguardian.com/politics/2026/jun/24/progressive-economists-reject-unite-leader-sharon-graham-criticism-ed-miliband\">Continue reading...</a>",
       "sentiment": "bearish",
       "sentiment_score": -0.6361,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Meta is building a prediction markets app. These stocks fell in response",
+      "url": "https://www.cnbc.com/2026/06/23/nyt-says-meta-builds-prediction-market-these-stocks-are-falling.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-23T20:09:00+00:00",
+      "summary": "The report said that CEO Mark Zuckerberg directed staff to develop a prediction markets platform, internally known as \"Arena.\"",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "SpaceX seeing some interest from short sellers, but many still afraid to bet against Musk",
+      "url": "https://www.cnbc.com/2026/06/23/spacex-seeing-interest-from-short-sellers-but-most-afraid-to-go-against-musk.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-23T19:33:07+00:00",
+      "summary": "About 40 million SpaceX shares are sold short, roughly 5% to 7% of the shares that are publicly available to trade, according to an estimate by S3 Partners.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.765,
       "tags": [
         "AI"
       ],
