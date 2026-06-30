@@ -1,32 +1,17 @@
 {
-  "generated_at": "2026-06-29T07:07:40Z",
-  "snapshot_date": "2026-06-29",
+  "generated_at": "2026-06-30T06:48:33Z",
+  "snapshot_date": "2026-06-30",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Oil prices, stock futures inch higher as U.S. and Iran reportedly agree to halt attacks",
-      "url": "https://www.marketwatch.com/story/oil-prices-rise-stock-futures-inch-higher-as-u-s-and-iran-trade-more-airstrikes-3fc66beb?mod=mw_rss_topstories",
+      "title": "‘I claimed Social Security at 62’: At 76, I’m working at Walmart. Why do I still owe payroll taxes?",
+      "url": "https://www.marketwatch.com/story/i-claimed-social-security-at-62-at-76-im-working-at-walmart-why-do-i-still-owe-payroll-taxes-8e22a97c?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-29T00:30:00+00:00",
-      "summary": "Oil prices rose Sunday while U.S. stock-index futures advanced, after the U.S. and Iran reportedly agreed to halt attacks after repeatedly exchanging fire in the Persian Gulf over the weekend.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.3818,
-      "tags": [
-        "Oil"
-      ],
-      "signal": "watch",
-      "category": "energy",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Your health insurer shouldn’t decide your treatment plan. That’s what your doctor — and AI — should be doing.",
-      "url": "https://www.marketwatch.com/story/your-health-insurer-shouldnt-decide-your-treatment-plan-thats-what-your-doctor-and-possibly-ai-should-be-doing-45152d6a?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-28T14:03:00+00:00",
-      "summary": "With a digital health record, clinicians and AI-driven diagnostic tools would be able to see your full health history, and then make better decisions.",
+      "published_at": "2026-06-29T21:33:00+00:00",
+      "summary": "“It seems like half of the workforce at our local Walmart is over 65.”",
       "sentiment": "bullish",
-      "sentiment_score": 0.4404,
+      "sentiment_score": 0.5994,
       "tags": [
         "AI"
       ],
@@ -35,13 +20,13 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Micron is about to be more profitable than any U.S. company except Nvidia and Google",
-      "url": "https://www.marketwatch.com/story/micron-is-about-to-be-more-profitable-than-any-u-s-company-except-nvidia-and-google-3a83e343?mod=mw_rss_topstories",
+      "title": "Rocket Lab to take on SpaceX’s Starlink with $8 billion acquisition",
+      "url": "https://www.marketwatch.com/story/rocket-lab-to-take-on-spacexs-starlink-with-8-billion-acquisition-bf7ef649?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-28T14:00:00+00:00",
-      "summary": "Big Tech companies are willing to pay astronomical prices for AI memory components, helping spark a dramatic turnaround in Micron’s finances.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7089,
+      "published_at": "2026-06-29T21:30:00+00:00",
+      "summary": "Rocket Lab said it is buying Iridium as a “shortcut” to expanding its growing capabilities.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.1779,
       "tags": [
         "AI"
       ],
@@ -50,14 +35,121 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Forget the ‘Sell America’ trade: Why U.S. markets keep proving the naysayers wrong",
-      "url": "https://www.marketwatch.com/story/forget-the-sell-america-trade-why-u-s-markets-keep-proving-the-naysayers-wrong-03a0ab10?mod=mw_rss_topstories",
+      "title": "Tesla’s stock rips higher after a long-awaited update to self-driving technology",
+      "url": "https://www.marketwatch.com/story/teslas-stock-rips-higher-after-a-long-awaited-update-to-self-driving-technology-10565662?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-28T13:00:00+00:00",
-      "summary": "Foreign investors are still pouring money into U.S. assets, and the dollar remains the undisputed global reserve currency.",
+      "published_at": "2026-06-29T21:24:00+00:00",
+      "summary": "EV maker’s stock has best day in over a year, but is still down for the month.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.3818,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Value stocks beat growth when inflation is high. Here are 13 stocks top newsletters are betting on now.",
+      "url": "https://www.marketwatch.com/story/value-stocks-beat-growth-when-inflation-is-high-here-are-13-stocks-top-newsletters-are-betting-on-now-f6f4a265?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-29T20:43:00+00:00",
+      "summary": "Many portfolio experts are wrong about what drives value outperformance. This single metric explains why.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6249,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Bye-bye, ‘HODL’: Strategy now has a plan to sell bitcoin to raise cash and buy its stock",
+      "url": "https://www.marketwatch.com/story/strategy-can-now-sell-bitcoin-to-buy-back-stock-the-opposite-of-what-its-been-doing-db506fdb?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-29T20:41:00+00:00",
+      "summary": "Strategy disclosed a program to sell bitcoin “from time to time” to fund its U.S. dollar reserve and share repurchases.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.296,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "My sister died and I’m leaving New York to help raise my niece in Colorado. At 33, am I making a financial mistake?",
+      "url": "https://www.marketwatch.com/story/my-sister-died-and-im-leaving-new-york-to-help-raise-my-niece-in-colorado-at-33-am-i-making-a-financial-mistake-5ad41b2a?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-06-29T20:37:00+00:00",
+      "summary": "“I need to decide what I can afford when it comes to storing the belongings from my studio apartment.”",
       "sentiment": "bearish",
       "sentiment_score": -0.5106,
       "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "EU sets up three months of talks with China over €360bn trade deficit",
+      "url": "https://www.theguardian.com/world/2026/jun/29/eu-sets-up-three-months-of-talks-with-china-over-360bn-trade-deficit",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-29T18:33:51+00:00",
+      "summary": "<p>Two sides agree to try to make bilateral relationship ‘more balanced’ after weeks of threats</p><p>The EU and China have agreed to enter three months of talks to try to avoid a trade war over the bloc’s €360bn (£310bn) annual import/export imbalance.</p><p>In their first joint statement in seven years, the two sides agreed in Brussels to open a formal trade consultation after weeks of threats and recriminations from China if the EU imposed any measures to stop the flood of goods and components into the bloc.</p> <a href=\"https://www.theguardian.com/world/2026/jun/29/eu-sets-up-three-months-of-talks-with-china-over-360bn-trade-deficit\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.8126,
+      "tags": [
+        "Trade War"
+      ],
+      "signal": "watch",
+      "category": "markets",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "What is Andy Burnham’s economic and political blueprint for Britain?",
+      "url": "https://www.theguardian.com/politics/2026/jun/29/what-is-andy-burnhams-economic-and-political-blueprint-for-britain",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-29T18:31:06+00:00",
+      "summary": "<p>Plans include greater regional power, public ownership of utilities and the end of trickle-down economics</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/jun/29/burnham-sets-out-vision-to-transform-britain-and-fix-broken-system\">Burnham sets out vision to transform Britain and fix ‘broken’ system</a></p></li></ul><p>Andy Burnham’s speech at the People’s History Museum in Manchester was the first time we saw the man likely to be Britain’s next prime minister set out his vision for power.</p><p>He promised “good growth in every postcode” in a speech that focused on a significant transfer of power out of Whitehall to local communities and a new economic vision. But what might this mean in practice?</p><p>It will be about offering new opportunities to extend devolution in Scotland, Wales and Northern Ireland by taking power deeper down.</p><p><em>They require radical change if the country is to get back on track.</em></p><p><em>All parts of the UK should now be given the chance to develop … focusing on the things that most matter to them.</em></p><p><em>We will ensure all parts of the UK are able to take greater public control of essential services like water, housing, energy and transport …</em></p><p><em>Britain has lost almost 1.5</em><em>m council homes since the 1980s and around the same number of people are now on housing waiting lists and have been there for a very long time.</em></p><p><em>Shouldn’t we make our high streets the symbols of Britain’s renaissance?</em></p><p><em>We will support every region to set clear and credible industrial ambitions – and provide the support to achieve them.</em></p><p><em>We need a complete rethink of how we support the next generation to succeed, and it has to start with the education system.</em></p><p><em>We will set out 10-year plans to bring down the cost of </em><em> … essentials</em><em> to individuals, families and businesses.</em></p><p><em>All of it backed by the stability that comes from sound public finances, as I said before, and the discipline of our current fiscal rules.</em></p> <a href=\"https://www.theguardian.com/politics/2026/jun/29/what-is-andy-burnhams-economic-and-political-blueprint-for-britain\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.9926,
+      "tags": [
+        "AI",
+        "Transport"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Andy Burnham confirms he will set up ‘No 10 North’ in Manchester in major policy speech – as it happened",
+      "url": "https://www.theguardian.com/politics/live/2026/jun/29/andy-burnham-devolution-speech-keir-starmer-labour-latest-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-29T16:23:07+00:00",
+      "summary": "<p>Makerfield MP and hopeful prime minister says he will ‘bring about biggest rebalancing of power the country has ever seen’</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/jun/29/andy-burnham-no-10-north-nerve-centre-rewired-britain\">Andy Burnham vows to set up No 10 North as ‘nerve centre of rewired Britain’</a></p></li></ul><p>Asked what she thought of Andy Burnham not taking questions this morning, <strong>Badenoch</strong> said:</p><p>Andy Burnham doesn’t like questions. Nigel Farage doesn’t like questions. Even Keir Starmer in parliament, he doesn’t like questions here.</p><p>If you want somebody who can answer questions, please come to me. I will answer all of your questions.</p><p>I know that it should not be Ed Miliband. He is the single person who has done the most to deindustrialise our country and make us poorer. He should not be rewarded with an even more powerful job where he can completely bankrupt the country.</p> <a href=\"https://www.theguardian.com/politics/live/2026/jun/29/andy-burnham-devolution-speech-keir-starmer-labour-latest-news-updates\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6454,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "UK government borrowing costs dip and pound rises as City welcomes Burnham speech – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/jun/29/bank-of-england-inflation-warning-ai-stock-markets-oil-burnham-bond-yields-live-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-29T15:21:02+00:00",
+      "summary": "<p>Makerfield MP’s plans for good-quality growth around the UK, and commitment to fiscal rules, are welcomed by investors and economists</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/jun/29/shares-in-chipmakers-underpinning-ai-boom-surge-in-first-half-of-2026\">Shares in chipmakers underpinning AI boom rocket in first half of 2026</a></p></li></ul><p><strong>The total value of new mortgage approvals also fell in May.</strong></p><p>Net borrowing of mortgage debt by individuals decreased to £2.9bn in May, down from £4.4bn in April, the Bank of England reports.</p><p>“The sharp slowdown in mortgage borrowing and approvals suggests the surge in activity earlier this year has now faded, with buyers and homeowners taking a more cautious approach. While borrowing costs have eased from their recent highs, affordability remains stretched and many prospective buyers continue to contend with elevated house prices and wider cost-of-living pressures.</p><p>“For lenders, the changing outlook highlights the importance of integrating forward-looking affordability assessments that better reflect real borrower behaviour and lifetime income patterns. As caution rises, these more personalised models can help to sustain housing demand over the coming months.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/29/bank-of-england-inflation-warning-ai-stock-markets-oil-burnham-bond-yields-live-news-updates\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.9501,
+      "tags": [
+        "Oil",
         "AI"
       ],
       "signal": "watch",
@@ -91,21 +183,6 @@
         "Fed",
         "AI",
         "Artificial Intelligence"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "‘I’ll happily wait’: Does delaying Social Security make sense for high earners like me?",
-      "url": "https://www.marketwatch.com/story/ill-happily-wait-does-delaying-social-security-make-sense-for-high-earners-like-me-17dca69b?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-28T11:00:00+00:00",
-      "summary": "“In many states, Social Security benefits are exempt from state income tax.”",
-      "sentiment": "bullish",
-      "sentiment_score": 0.9169,
-      "tags": [
-        "AI"
       ],
       "signal": "watch",
       "category": "technology",
@@ -154,21 +231,6 @@
       "tags": [
         "AI",
         "Clean Energy"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "How to work in retirement without seeing your Social Security checks slashed",
-      "url": "https://www.marketwatch.com/story/how-to-work-in-retirement-without-seeing-your-social-security-checks-slashed-05d6c830?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-27T19:30:00+00:00",
-      "summary": "Claiming benefits before full retirement age while keeping a job can trigger unexpected withholdings — but the money isn’t lost forever.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.2263,
-      "tags": [
-        "AI"
       ],
       "signal": "watch",
       "category": "technology",
@@ -400,70 +462,6 @@
       "sentiment_score": -0.9532,
       "tags": [
         "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Make pension tax relief only available to savers prepared to invest in UK, Andy Haldane says",
-      "url": "https://www.theguardian.com/business/2026/jun/25/make-pension-tax-relief-only-available-to-savers-invest-in-uk-andy-haldane",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-25T13:31:21+00:00",
-      "summary": "<p>British Chambers of Commerce chief calls for ‘home bias’ on retirement savings to close funding gap for SMEs</p><p>Pension tax relief worth more than £50bn should only be offered to savers who are prepared to invest in Britain, according to Andy Haldane, the president of the British Chambers of Commerce.</p><p>There should be a “home bias” that directs retirement savings into UK businesses, closing a funding gap that hampers the growth of small- and medium-sized businesses, he said.</p> <a href=\"https://www.theguardian.com/business/2026/jun/25/make-pension-tax-relief-only-available-to-savers-invest-in-uk-andy-haldane\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.91,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "UK to halve tariff-free steel imports to counter glut of cheap Chinese metal",
-      "url": "https://www.theguardian.com/business/2026/jun/25/uk-to-halve-tariff-free-steel-imports-to-counter-glut-of-cheap-chinese-metal",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-25T11:53:20+00:00",
-      "summary": "<p>Duty on imports outside new quota will double in move echoing similar changes in EU limits</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/25/oil-price-lowest-since-us-iran-war-uk-firms-burnham-reeves-haldane-latest-news-updates\">Business live – latest updates</a></p><p></p></li></ul><p>The UK government will halve the amount of tariff-free steel imports allowed in an attempt to counter a global oversupply of cheap Chinese metal and bolster its beleaguered local industry.</p><p>New “safeguards” will be introduced on 1 July and will coincide with <a href=\"https://www.theguardian.com/business/2026/jun/04/uk-challenge-eu--new-tariff-free-steel-import-quotas\">similar new limits being introduced by the EU</a> for the same purposes. The UK said it and the EU had agreed an approach that reflected each other’s “highly interconnected supply chains” after months of negotiations over retaining tariff-free access between the markets.</p> <a href=\"https://www.theguardian.com/business/2026/jun/25/uk-to-halve-tariff-free-steel-imports-to-counter-glut-of-cheap-chinese-metal\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.2732,
-      "tags": [
-        "Oil",
-        "AI",
-        "Supply Chain"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Investors still seek a human touch even with AI tools at hand: HSBC",
-      "url": "https://www.cnbc.com/2026/06/25/investors-still-seek-a-human-touch-even-with-ai-tools-at-hand-hsbc-.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-25T03:22:15+00:00",
-      "summary": "Investors are still turning to the judgment of a professional adviser in their last investment decision, despite using AI tools, a HSBC survey found.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.4939,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
-      "url": "https://www.cnbc.com/2026/06/24/jpmorgan-goldman-sachs-fed-stress-test.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-24T21:42:05+00:00",
-      "summary": "The announcements followed the release of the Federal Reserve's annual stress test, which found that all 32 large banks weathered a hypothetical recession.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.8126,
-      "tags": [
-        "Fed",
-        "Gold",
         "AI"
       ],
       "signal": "watch",
