@@ -1,32 +1,17 @@
 {
-  "generated_at": "2026-06-30T06:48:33Z",
-  "snapshot_date": "2026-06-30",
+  "generated_at": "2026-07-01T06:55:59Z",
+  "snapshot_date": "2026-07-01",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "‘I claimed Social Security at 62’: At 76, I’m working at Walmart. Why do I still owe payroll taxes?",
-      "url": "https://www.marketwatch.com/story/i-claimed-social-security-at-62-at-76-im-working-at-walmart-why-do-i-still-owe-payroll-taxes-8e22a97c?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-29T21:33:00+00:00",
-      "summary": "“It seems like half of the workforce at our local Walmart is over 65.”",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5994,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Rocket Lab to take on SpaceX’s Starlink with $8 billion acquisition",
-      "url": "https://www.marketwatch.com/story/rocket-lab-to-take-on-spacexs-starlink-with-8-billion-acquisition-bf7ef649?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-29T21:30:00+00:00",
-      "summary": "Rocket Lab said it is buying Iridium as a “shortcut” to expanding its growing capabilities.",
+      "title": "China-linked actors target more than technology as AI competition with U.S. intensifies",
+      "url": "https://www.cnbc.com/2026/07/01/china-ai-cyberattacks-startups-insider-risks-espionage.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-30T23:27:41+00:00",
+      "summary": "Cyberattacks from China-based entities are on the rise and not just targeting specific tech, analysts warn, as the U.S. AI race intensifies.",
       "sentiment": "neutral",
-      "sentiment_score": 0.1779,
+      "sentiment_score": -0.1027,
       "tags": [
         "AI"
       ],
@@ -35,13 +20,13 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Tesla’s stock rips higher after a long-awaited update to self-driving technology",
-      "url": "https://www.marketwatch.com/story/teslas-stock-rips-higher-after-a-long-awaited-update-to-self-driving-technology-10565662?mod=mw_rss_topstories",
+      "title": "Investors piled into ETFs at a record pace in the first half of 2026. Here’s where their money is flowing.",
+      "url": "https://www.marketwatch.com/story/investors-piled-into-etfs-at-a-record-pace-in-the-first-half-of-2026-heres-where-their-money-is-flowing-92a50cf5?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-29T21:24:00+00:00",
-      "summary": "EV maker’s stock has best day in over a year, but is still down for the month.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3818,
+      "published_at": "2026-06-30T22:12:00+00:00",
+      "summary": "Investors have poured money into exchange-traded funds at a rapid pace in the first half of 2026, demonstrating an unrelenting appetite for stocks associated with the AI theme.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
       "tags": [
         "AI"
       ],
@@ -50,11 +35,11 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Value stocks beat growth when inflation is high. Here are 13 stocks top newsletters are betting on now.",
-      "url": "https://www.marketwatch.com/story/value-stocks-beat-growth-when-inflation-is-high-here-are-13-stocks-top-newsletters-are-betting-on-now-f6f4a265?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-29T20:43:00+00:00",
-      "summary": "Many portfolio experts are wrong about what drives value outperformance. This single metric explains why.",
+      "title": "Michael Burry says he's shorting Caterpillar for the first time after it nearly doubled in the AI-driven rally of 2026",
+      "url": "https://www.cnbc.com/2026/06/30/burry-shorts-caterpillar-after-it-nearly-doubled-in-ai-rally-of-2026.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-30T22:03:46+00:00",
+      "summary": "\"Caterpillar jumped out at me,\" Burry said. \"I have never shorted Caterpillar. It has always done great for me on the long side in the past.\"",
       "sentiment": "bullish",
       "sentiment_score": 0.6249,
       "tags": [
@@ -65,13 +50,13 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Bye-bye, ‘HODL’: Strategy now has a plan to sell bitcoin to raise cash and buy its stock",
-      "url": "https://www.marketwatch.com/story/strategy-can-now-sell-bitcoin-to-buy-back-stock-the-opposite-of-what-its-been-doing-db506fdb?mod=mw_rss_topstories",
+      "title": "Bitcoin ETFs were supposed to make selloffs less painful. That theory is being put to the test.",
+      "url": "https://www.marketwatch.com/story/bitcoin-etfs-were-supposed-to-make-selloffs-less-painful-that-theory-is-being-put-to-the-test-f70ba3c6?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-29T20:41:00+00:00",
-      "summary": "Strategy disclosed a program to sell bitcoin “from time to time” to fund its U.S. dollar reserve and share repurchases.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.296,
+      "published_at": "2026-06-30T21:57:00+00:00",
+      "summary": "Crypto investors had hoped that increased institutional adoption and a crypto-friendly administration could help the largest cryptocurrency avoid the painful cycles it once experienced.",
+      "sentiment": "neutral",
+      "sentiment_score": -0.079,
       "tags": [
         "AI"
       ],
@@ -80,13 +65,60 @@
       "source_repo": "financenews"
     },
     {
-      "title": "My sister died and I’m leaving New York to help raise my niece in Colorado. At 33, am I making a financial mistake?",
-      "url": "https://www.marketwatch.com/story/my-sister-died-and-im-leaving-new-york-to-help-raise-my-niece-in-colorado-at-33-am-i-making-a-financial-mistake-5ad41b2a?mod=mw_rss_topstories",
+      "title": "Oil posts largest quarterly price drop in 6 years as historic supply crunch eases",
+      "url": "https://www.marketwatch.com/story/oil-is-set-for-the-largest-quarterly-price-drop-in-6-years-as-historic-supply-crunch-eases-57d52bab?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-06-29T20:37:00+00:00",
-      "summary": "“I need to decide what I can afford when it comes to storing the belongings from my studio apartment.”",
+      "published_at": "2026-06-30T21:28:00+00:00",
+      "summary": "Workarounds to the Strait of Hormuz chokepoint and a drop in crude imports to China helped ease the impact of lost Persian Gulf oil supplies.",
       "sentiment": "bearish",
-      "sentiment_score": -0.5106,
+      "sentiment_score": -0.6597,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Cleveland Fed President Hammack says AI could fuel inflation, rate hikes may be necessary",
+      "url": "https://www.cnbc.com/2026/06/30/cleveland-fed-president-hammack-sees-ai-fueling-inflation-says-rate-hikes-may-be-necessary.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-06-30T18:27:17+00:00",
+      "summary": "\"We've got inflation that's too high, and it's been too high for the past five years,\" Beth Hammack told CNBC's Sara Eisen.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Hope must be backed by legislation | Letter",
+      "url": "https://www.theguardian.com/politics/2026/jun/30/hope-must-be-backed-by-legislation",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-30T17:01:52+00:00",
+      "summary": "<p>Andy Burnham has a short window to demonstrate that he will follow a new path, writes <strong>Benjamin Selwyn</strong></p><p>Andy Beckett is right to identify Andy Burnham as a figure on to whom renewed hopes might be projected (<a href=\"https://www.theguardian.com/commentisfree/2026/jun/26/andy-burnham-labour-hope-mp-makerfield-politics\">Burnham has brought hope back to Labour – but he must understand how quickly it can be punctured, 26 June</a>). But those hopes must be understood in the shadow of Keir Starmer’s rapid dissipation of the electoral mandate secured in 2024.</p><p>That victory was built on a promise – implicit if not explicit – of material improvement. Instead, policies such as maintaining the two‑child benefit cap, cutting the winter fuel allowance, and failing to confront price gouging by utilities and supermarkets deepened the cost of living crisis for millions.</p> <a href=\"https://www.theguardian.com/politics/2026/jun/30/hope-must-be-backed-by-legislation\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8462,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "UK disposable incomes squeezed by price rises and tax changes",
+      "url": "https://www.theguardian.com/business/2026/jun/30/uk-disposable-incomes-price-rises-tax-cgt-ons-gdp-growth",
+      "source": "The Guardian Economics",
+      "published_at": "2026-06-30T15:14:39+00:00",
+      "summary": "<p>ONS confirms 0.6% GDP growth in first quarter, with services, production and construction sectors expanding</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/30/uk-living-standards-fall-fastest-growth-in-g7-andy-burnham-pound-bonds-live-news-updates\">Business live – latest updates</a></p></li></ul><p>UK households suffered a drop in disposable incomes in the first three months of the year as price rises and extra wealth taxes hit average spending power.</p><p>The Office for National Statistics said a rise in the consumer prices index (CPI) measure of inflation in the first quarter and higher capital gains tax receipts reduced real household disposable income by 0.8% from January to the end of March.</p> <a href=\"https://www.theguardian.com/business/2026/jun/30/uk-disposable-incomes-price-rises-tax-cgt-ons-gdp-growth\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.4404,
       "tags": [
         "AI"
       ],
@@ -428,38 +460,6 @@
       "summary": "<p>The former Manchester mayor could be installed as prime minister in weeks if no other MP puts themselves forward</p><p>In her Q&amp;A this morning <strong>Rachel Reeves</strong>, the chancellor, confirmed that she wants the government to approve the licences for the Rosebank and Jackdaw oil and gas fields in the North Sea.</p><p>She said:</p><p>I’ve been very clear that I think that the North Sea is a crucial asset for the UK, and that oil and gas will be an important part of our energy mix for years to come. And I’m very keen to make sure that we use that resource, to ensure our energy security.</p><p>There are decisions to be made shortly on both Rosebank and Jackdaw. Those are quasi-judicial decisions. But in our manifesto two years ago, we committed to honour existing licences, and I hope that we do.</p> <a href=\"https://www.theguardian.com/politics/live/2026/jun/25/andy-burnham-rachel-reeves-keir-starmer-uk-politics-latest-news-updates\">Continue reading...</a>",
       "sentiment": "bullish",
       "sentiment_score": 0.9612,
-      "tags": [
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Ryanair ditches family seating fees; Markets at record highs as oil hits pre-Iran war levels – as it happened",
-      "url": "https://www.theguardian.com/business/live/2026/jun/25/oil-price-lowest-since-us-iran-war-uk-firms-burnham-reeves-haldane-latest-news-updates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-25T16:12:02+00:00",
-      "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><em>Q: Some people are backing Andy Burnham because they think he’ll rip up your fiscal rules…</em></p><p><strong>Reeves</strong><em> </em>replies that Burnham has been “really explicit” that he backs those fiscal rules [they dictate that day to day spending is funded through tax receipts, and that debt falls as a share of the economy].</p><p>So yes, there is more to do, but all of that has to be anchored around that stability, that high return to the economy.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/25/oil-price-lowest-since-us-iran-war-uk-firms-burnham-reeves-haldane-latest-news-updates\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.2023,
-      "tags": [
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Oil price falls to pre-Iran war levels as more tankers exit strait of Hormuz",
-      "url": "https://www.theguardian.com/business/2026/jun/25/oil-price-falls-pre-iran-war-levels-more-tankers-exit-strait-of-hormuz",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-25T15:41:17+00:00",
-      "summary": "<p>Stock markets on both sides of Atlantic up as concerns ease over prospect of another inflationary shock</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/25/oil-price-lowest-since-us-iran-war-uk-firms-burnham-reeves-haldane-latest-news-updates\">Business live – latest updates</a></p><p></p></li></ul><p>Oil prices have fallen to pre-Iran war levels as more oil tankers exited the strait of Hormuz.</p><p>Brent crude, the global benchmark, fell to a low of $72.24 a barrel on Thursday, slightly lower than the day before the US and Israel launched missile attacks on Tehran on 28 February. Prices have fallen more than 20% this month.</p> <a href=\"https://www.theguardian.com/business/2026/jun/25/oil-price-falls-pre-iran-war-levels-more-tankers-exit-strait-of-hormuz\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9532,
       "tags": [
         "Oil",
         "AI"
