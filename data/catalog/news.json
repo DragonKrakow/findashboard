@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-02T06:45:58Z",
-  "snapshot_date": "2026-07-02",
+  "generated_at": "2026-07-03T06:40:34Z",
+  "snapshot_date": "2026-07-03",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Protein-packed Cheerios and cat food: How General Mills plans to combat a tough spending backdrop",
-      "url": "https://www.marketwatch.com/story/protein-packed-cheerios-and-cat-food-how-general-mills-plans-to-combat-a-tough-spending-backdrop-90734fed?mod=mw_rss_topstories",
+      "title": "My doctor friend objected to his hospital’s fundraising tactics. Did management go too far?",
+      "url": "https://www.marketwatch.com/story/there-was-a-catch-my-doctor-friend-was-outraged-by-his-hospitals-fundraising-tactics-where-do-we-draw-the-line-797b9fff?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-02T00:15:00+00:00",
-      "summary": "“Cat growth is on fire,” one executive said.",
-      "sentiment": "neutral",
-      "sentiment_score": -0.0772,
+      "published_at": "2026-07-02T23:00:00+00:00",
+      "summary": "“This shocking program was exploiting doctors and the trust inherent in their relationships with patients.”",
+      "sentiment": "bullish",
+      "sentiment_score": 0.2263,
       "tags": [
         "AI"
       ],
@@ -20,11 +20,133 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.",
-      "url": "https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e?mod=mw_rss_topstories",
+      "title": "‘I claimed Social Security at 62’: At 76, I’m working at Walmart. Why do I still owe payroll taxes?",
+      "url": "https://www.marketwatch.com/story/i-claimed-social-security-at-62-at-76-im-working-at-walmart-why-do-i-still-owe-payroll-taxes-8e22a97c?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-01T23:11:00+00:00",
-      "summary": "CEO Jensen Huang has called humanoid robots a “multitrillion-dollar economic opportunity.”",
+      "published_at": "2026-07-02T22:45:00+00:00",
+      "summary": "“It seems like half of the workforce at our local Walmart is over 65.”",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5994,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Dow scores fresh record despite tepid jobs report. Why the rest of 2026 is about workers.",
+      "url": "https://www.marketwatch.com/story/dow-scores-fresh-record-despite-tepid-jobs-report-why-the-rest-of-2026-is-about-workers-6247fbed?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-02T22:38:00+00:00",
+      "summary": "“American workers are not getting a raise,” says J.P. Morgan Asset Management strategist.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5859,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Trump blasts ‘hostile’ Fed and says Warsh ‘has to do what he has to do’ on interest rates",
+      "url": "https://www.marketwatch.com/story/trump-blasts-hostile-fed-and-says-warsh-has-to-do-what-he-has-to-do-on-interest-rates-60b5d16b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-02T22:30:00+00:00",
+      "summary": "Trump, in the interview, also said he continues to plan to remove Fed governor Lisa Cook from the central bank’s board.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.4588,
+      "tags": [
+        "Interest Rates",
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "5 things to know about Jersey Mike’s ahead of its IPO",
+      "url": "https://www.marketwatch.com/story/5-things-to-know-about-jersey-mikes-ahead-of-its-ipo-e6829aa2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-02T22:24:00+00:00",
+      "summary": "Sandwich chain’s IPO filing offers details about sales gains and family compensation",
+      "sentiment": "bullish",
+      "sentiment_score": 0.34,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Trump’s billion-dollar crypto haul triggers some everyday investors sitting on big losses",
+      "url": "https://www.marketwatch.com/story/trumps-billion-dollar-crypto-haul-triggers-some-everyday-investors-sitting-on-big-losses-9f045f00?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-02T22:12:00+00:00",
+      "summary": "Millions of crypto investors around the world are sitting on losses as a painful bear market erases trillions of dollars in paper profits.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.6597,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Citadel's hedge funds post broad first-half gains, top performing strategy sidesteps quant selloff",
+      "url": "https://www.cnbc.com/2026/07/02/citadels-hedge-funds-post-broad-first-half-gains.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-07-02T21:11:03+00:00",
+      "summary": "The hedge fund firm's tactical trading fund, which combines discretionary equity investing with quantitative strategies, climbed 14.3% through the end of June.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.4939,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "US economy added fewer jobs than expected in June as World Cup fails to boost hiring – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/jul/02/uk-cost-of-living-squeeze-diesel-record-fall-mortage-rates-stock-markets-us-jobs-report-live-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-02T14:25:02+00:00",
+      "summary": "<p>US non-farm payrolls only increased by 57,000 in June, but unemployment rate fell</p><p><strong>Just in: Default rates on UK credit cards have risen, and the situation is expected to get worse.</strong></p><p>New data from the Bank of England has found that default rates for total unsecured lending, including credit card defaults, rose in the April-June quarter.</p> <a href=\"https://www.theguardian.com/business/live/2026/jul/02/uk-cost-of-living-squeeze-diesel-record-fall-mortage-rates-stock-markets-us-jobs-report-live-news-updates\">Continue reading...</a>",
+      "sentiment": "neutral",
+      "sentiment_score": -0.1001,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "US employers added just 57,000 new jobs in June, lower than expected",
+      "url": "https://www.theguardian.com/business/2026/jul/02/us-job-growth-slowed-june",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-02T13:21:35+00:00",
+      "summary": "<p>The country’s unemployment rate dropped slightly to 4.2% as US job growth also slowed for the month</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US newsletter email</a></p></li></ul><p>US job growth slowed in June as employers added 57,000 new jobs –&nbsp;just about half of what economists had predicted – and the Bureau of Labor Statistics revised its figures from the past two months down by a total of 74,000.</p><p>The country’s unemployment rate dropped slightly to 4.2%, but the number of unemployed people changed little, according to the latest data, as 720,000 people left the labor force. The bureau revised the unexpectedly high May figures from 172,000 new jobs to 129,000, and revised the April figures from 179,000 to 148,000.</p> <a href=\"https://www.theguardian.com/business/2026/jul/02/us-job-growth-slowed-june\">Continue reading...</a>",
+      "sentiment": "neutral",
+      "sentiment_score": -0.1154,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Alibaba-affiliate Ant Group rushes into humanoid robots with a dozen deals in 18 months",
+      "url": "https://www.cnbc.com/2026/07/01/alibaba-affiliate-ant-group-enters-the-humanoid-robot-market-with-12-deals.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-07-02T01:00:01+00:00",
+      "summary": "Ant has led a 500 million yuan ($73.59 million) funding round in humanoid robotics company Zeroth, the start-up announced Thursday.",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "tags": [
@@ -35,21 +157,6 @@
       "source_repo": "financenews"
     },
     {
-      "title": "‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?",
-      "url": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-01T23:01:00+00:00",
-      "summary": "“She thanked us for the $100 birthday gift and then announced that her mother-in-law had sent her $400.”",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7003,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
       "title": "China-linked actors target more than technology as AI competition with U.S. intensifies",
       "url": "https://www.cnbc.com/2026/07/01/china-ai-cyberattacks-startups-insider-risks-espionage.html",
       "source": "CNBC Finance",
@@ -57,66 +164,6 @@
       "summary": "Cyberattacks from China-based entities are on the rise and not just targeting specific tech, analysts warn, as the U.S. AI race intensifies.",
       "sentiment": "neutral",
       "sentiment_score": -0.1027,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "CoreWeave, Nebius shares tumble as Meta stands to become a fresh threat in the cloud",
-      "url": "https://www.marketwatch.com/story/coreweave-nebius-shares-tumble-as-meta-stands-to-become-a-fresh-threat-in-the-cloud-a47c3616?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-01T22:05:00+00:00",
-      "summary": "Meta’s reported interest in monetizing its AI infrastructure is leading investors to question the sustainability of neocloud business models.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.4767,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "This is the best time ‘in a generation’ to buy space and defense stocks, analysts say",
-      "url": "https://www.marketwatch.com/story/this-is-the-best-time-in-a-generation-to-buy-space-and-defense-stocks-analysts-say-df4a85a4?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-01T21:58:00+00:00",
-      "summary": "Wedbush analysts are taking a bullish view of the  space sector, initiating coverage of SpaceX and other stocks.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6908,
-      "tags": [
-        "Defense"
-      ],
-      "signal": "watch",
-      "category": "geopolitical",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "ServiceNow and Salesforce shares now look like buys, as ‘Armageddon’ fears are too extreme, analyst says",
-      "url": "https://www.marketwatch.com/story/servicenow-and-salesforce-shares-now-look-like-buys-as-armageddon-fears-are-too-extreme-analyst-says-3c3d8887?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-01T21:54:00+00:00",
-      "summary": "A Guggenheim analyst says that valuations for the two software stocks are too depressed, even though the AI threat is real.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.7003,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Sandisk’s and Micron’s stocks sink as the rotation trade builds, but supply shortages should limit losses",
-      "url": "https://www.marketwatch.com/story/sandisks-and-microns-stocks-sink-as-the-rotation-trade-builds-but-supply-shortages-should-limit-losses-94a05f82?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-01T21:51:00+00:00",
-      "summary": "Most of Sandisk’s annual revenue could eventually come from its new business model contracts that provide better visibility, BofA said.",
-      "sentiment": "neutral",
-      "sentiment_score": -0.1531,
       "tags": [
         "AI"
       ],
@@ -413,52 +460,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "OpenAI is reportedly delaying its IPO. Here's when Kalshi traders think it will announce",
-      "url": "https://www.cnbc.com/2026/06/26/openai-ipo-timeline-delayed-kalshi-predictions.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-26T17:45:05+00:00",
-      "summary": "Speculators think the OpenAI IPO will come early next year, with only one-in-three odds it happens in 2026 but a high likelihood it is done by June 2027.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Warsh reaches within the Fed for latest advisory appointments",
-      "url": "https://www.cnbc.com/2026/06/26/warsh-reaches-within-the-fed-for-latest-advisory-appointments.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-26T16:52:10+00:00",
-      "summary": "Warsh has added two more key advisors as he seeks to remake how the central bank approaches the economy and monetary policy.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0516,
-      "tags": [
-        "Fed"
-      ],
-      "signal": "watch",
-      "category": "macro",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Minneapolis Fed President Neel Kashkari says he expects a rate hike this year",
-      "url": "https://www.cnbc.com/2026/06/26/minneapolis-fed-president-neel-kashkari-says-he-expects-a-rate-hike-this-year.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-26T16:04:42+00:00",
-      "summary": "Kashkari said he sees a hike likely this year as the economy continues to feel the hit from spiking inflation.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "Fed",
         "AI"
       ],
       "signal": "watch",
