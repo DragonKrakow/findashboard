@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-03T20:27:58.505332+00:00",
+  "generated_at": "2026-07-04T00:38:30.907229+00:00",
   "articles": [
+    {
+      "id": "229d35901b38",
+      "title": "Venture Capital During the AI Revolution: Masters in Business with Mamoon Hamid",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-03/masters-in-business-with-mamoon-hamid-video",
+      "published_at": "2026-07-03T21:13:04+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Barry sits down with Kleiner Perkins Partner, Mamoon Hamid. They discuss Mamoon's thoughts on the AI revolution and his approach to early AI investing.  Mamoon also breaks down how he became an early ",
+      "tags": []
+    },
+    {
+      "id": "8a840ebd1c3f",
+      "title": "1ドル200円の円安シナリオ、高市氏インド訪問、W杯ピッチ外の戦い─1週間のニュース5選",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/jp/news/newsletters/2026-07-03/THMAC1KGCTG300",
+      "published_at": "2026-07-03T21:00:01+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "マーケットで話題になったニュースから、1週間を振り返る五つのトピックを厳選して紹介します。",
+      "tags": []
+    },
     {
       "id": "23161b2aa432",
       "title": "Toronto Stocks Enjoy Broad Gains After New Pipeline Proposal",
@@ -95,30 +119,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "European Central Bank President Christine Lagarde will be attending next week’s meeting of European Union finance ministers in Brussels instead of her vice president.",
-      "tags": []
-    },
-    {
-      "id": "620a7d78e636",
-      "title": "ECB’s Nagel Stresses Need for Vigilance at Next Rate Decision",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-03/ecb-s-nagel-stresses-need-for-vigilance-at-next-rate-decision",
-      "published_at": "2026-07-03T16:09:40+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The European Central Bank should stay watchful for inflation risks and keep its options open, Governing Council member Joachim Nagel said.",
-      "tags": []
-    },
-    {
-      "id": "0eca295b9f54",
-      "title": "European Stocks at Record, Book Fourth Straight Week of Gains",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-03/european-stocks-are-set-for-a-fourth-straight-week-of-gains",
-      "published_at": "2026-07-03T07:13:12+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "European stocks advanced on Friday, closing at a record high and recording a fourth straight week of gains as investors remained optimistic that the Federal Reserve will hold off on rate hikes for now",
       "tags": []
     },
     {
@@ -218,15 +218,15 @@
       "tags": []
     },
     {
-      "id": "44d62aaa0720",
-      "title": "UK finds lost US Declaration of Independence copy after 250 years",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/4fd21282-82f3-443c-9270-c1efb401fe97",
-      "published_at": "2026-07-02T23:01:06+00:00",
+      "id": "96fda5602eea",
+      "title": "SOL rallies as Solana memecoins, prediction market activity surge: Are bulls back?",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/markets/sol-rallies-as-solana-memecoins-prediction-market-activity-surge-are-bulls-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-07-03T21:36:02+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Document revealed by National Archives ahead of its anniversary on Saturday",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SOL rallies as Solana memecoins, prediction market activity surge: Are bulls back?\" class=\"type:primaryImage\" src=\"https://s3-im",
       "tags": []
     },
     {
@@ -335,18 +335,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Belgian police arrest suspected phishing gang leader tied to $572K theft\" class=\"type:primaryImage\" src=\"https://s3-images.ctmed",
-      "tags": []
-    },
-    {
-      "id": "1e5ec7505b47",
-      "title": "StanChart joins ESMA's first MiCA register update since deadline",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/esma-mica-register-new-casps-stanchart-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-07-03T12:02:41+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"StanChart joins ESMA's first MiCA register update since deadline\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me",
       "tags": []
     },
     {
@@ -470,6 +458,54 @@
       "tags": []
     },
     {
+      "id": "86575e012fef",
+      "title": "FHFA House Price Index Retreats From Record High",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4919765-fhfa-house-price-index-retreats-from-record-high?source=feed_all_articles",
+      "published_at": "2026-07-04T00:35:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "FHFA House Price Index Retreats From Record High",
+      "tags": []
+    },
+    {
+      "id": "0a74d89e6b8a",
+      "title": "S&P Cotality Case-Shiller Index: Home Price Growth Remains Constrained",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4919764-s-p-cotality-case-shiller-index-home-price-growth-remains-constrained?source=feed_all_articles",
+      "published_at": "2026-07-04T00:10:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "S&P Cotality Case-Shiller Index: Home Price Growth Remains Constrained",
+      "tags": []
+    },
+    {
+      "id": "9411d2e00461",
+      "title": "Ajinomoto Co., Inc. (AJNMY) Analyst/Investor Day - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4919763-ajinomoto-co-inc-ajnmy-analyst-investor-day-slideshow?source=feed_all_articles",
+      "published_at": "2026-07-03T23:03:53+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Ajinomoto Co., Inc. (AJNMY) Analyst/Investor Day - Slideshow",
+      "tags": []
+    },
+    {
+      "id": "3b0bc5be210e",
+      "title": "ASKUL Corporation 2026 Q4 - Results - Earnings Call Presentation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4919762-askul-corporation-2026-q4-results-earnings-call-presentation?source=feed_all_articles",
+      "published_at": "2026-07-03T22:00:41+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "ASKUL Corporation 2026 Q4 - Results - Earnings Call Presentation",
+      "tags": []
+    },
+    {
       "id": "1991a800aa18",
       "title": "Abbott Laboratories Q2 Earnings Preview: A Contrarian Buy Opportunity Worth Considering",
       "source": "All Articles on Seeking Alpha",
@@ -539,54 +575,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Central Bank Gold Statistics: Central Banks Remain Committed To Gold",
-      "tags": []
-    },
-    {
-      "id": "093cf8fe0a40",
-      "title": "Lower Lows In Mosaic Company On Trade Announcement",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4919752-lower-lows-in-mosaic-company-on-trade-announcement?source=feed_all_articles",
-      "published_at": "2026-07-03T18:31:11+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Lower Lows In Mosaic Company On Trade Announcement",
-      "tags": []
-    },
-    {
-      "id": "efad9a9a5e15",
-      "title": "i3 Verticals, Inc. 2026 Q2 - Results - Earnings Call Presentation",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4919761-i3-verticals-inc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
-      "published_at": "2026-07-03T18:27:06+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "i3 Verticals, Inc. 2026 Q2 - Results - Earnings Call Presentation",
-      "tags": []
-    },
-    {
-      "id": "a156df233c30",
-      "title": "Why Investors Are Rethinking Implementation Partnerships",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4919759-why-investors-are-rethinking-implementation-partnerships?source=feed_all_articles",
-      "published_at": "2026-07-03T18:20:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Why Investors Are Rethinking Implementation Partnerships",
-      "tags": []
-    },
-    {
-      "id": "56871d5b4e56",
-      "title": "Nova Ltd.: Will Likely Ride The AI Wave Higher, So Keep Holding",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4919751-nova-ltd-will-likely-ride-the-ai-wave-higher-so-keep-holding?source=feed_all_articles",
-      "published_at": "2026-07-03T18:11:31+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Nova Ltd.: Will Likely Ride The AI Wave Higher, So Keep Holding",
       "tags": []
     }
   ]
