@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-04T20:44:44.334620+00:00",
+  "generated_at": "2026-07-05T00:41:17.036887+00:00",
   "articles": [
+    {
+      "id": "8bec09b26737",
+      "title": "Storms Prompt Evacuations at Washington’s July 4 Festivities",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-04/extreme-heat-breaks-across-eastern-us-severe-thunderstorms-to-follow",
+      "published_at": "2026-07-04T10:14:17+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Thunderstorms are set to batter July 4 celebrations in Washington, DC, and New York as a waning heat dome continues to test electricity grids in the eastern US, following record power demand over the ",
+      "tags": []
+    },
+    {
+      "id": "93eccf97aa70",
+      "title": "Bloomberg This Weekend 07/04/2026",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-04/bloomberg-this-weekend-07-04-2026-video",
+      "published_at": "2026-07-04T18:50:38+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by",
+      "tags": []
+    },
     {
       "id": "114a4b48abb0",
       "title": "Germany’s Second Chance for Growth Rebound Starts Now",
@@ -23,18 +47,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Venezuela‘s official death toll from last week’s twin earthquakes rose to almost 3,000 on Saturday.",
-      "tags": []
-    },
-    {
-      "id": "93eccf97aa70",
-      "title": "Bloomberg This Weekend 07/04/2026",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-04/bloomberg-this-weekend-07-04-2026-video",
-      "published_at": "2026-07-04T18:50:38+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by",
       "tags": []
     },
     {
@@ -71,18 +83,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Maryland Gov. Wes Moore said patriotism should unite rather than divide Americans, arguing that service and sacrifice&mdash;not politics&mdash;define love of country and remain essential to fulfilling",
-      "tags": []
-    },
-    {
-      "id": "8bec09b26737",
-      "title": "Thunderstorms Set to Pummel America 250 Festivities as Heat Ebbs",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-04/extreme-heat-breaks-across-eastern-us-severe-thunderstorms-to-follow",
-      "published_at": "2026-07-04T10:14:17+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Thunderstorms are likely to batter July 4 celebrations in Washington, DC, and New York as a waning heat dome continues to test electricity grids in the eastern US, following record power demand over t",
       "tags": []
     },
     {
@@ -191,6 +191,18 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Every modern US president gets a physical totem of his tenure. What can they teach us about America’s struggle to remember itself?",
+      "tags": []
+    },
+    {
+      "id": "a18388fc177e",
+      "title": "Storms force evacuation of July 4 celebrations in Washington",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/e197cb3f-0329-4c3f-8f04-3f0b768cdb30",
+      "published_at": "2026-07-05T00:20:36+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Trump to speak at Lincoln Memorial as extreme heat and thunderstorms disrupt 250th anniversary events",
       "tags": []
     },
     {
