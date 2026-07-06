@@ -1,19 +1,81 @@
 {
-  "generated_at": "2026-07-05T06:45:24Z",
-  "snapshot_date": "2026-07-05",
+  "generated_at": "2026-07-06T06:55:26Z",
+  "snapshot_date": "2026-07-06",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Insurers shifted roof-replacement costs onto homeowners thanks to a new federal rule — just in time for hail and hurricane season",
-      "url": "https://www.marketwatch.com/story/insurers-shifted-roof-replacement-costs-onto-homeowners-thanks-to-a-new-federal-rule-just-in-time-for-hail-and-hurricane-season-e86068df?mod=mw_rss_topstories",
+      "title": "U.S. stock futures rise as Wall Street looks to extend its rally coming off the holiday weekend",
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-rise-as-wall-street-looks-to-extend-its-rally-coming-off-the-holiday-weekend-5e5a9102?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-04T18:19:00+00:00",
-      "summary": "Those who find extensive damage to their roofs might be stuck between two options: File an insurance claim, which could trigger a premium increase, or cough up the cash for the necessary repairs or replacement.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0772,
+      "published_at": "2026-07-06T00:46:00+00:00",
+      "summary": "U.S. stock-index futures gained on Sunday, with Wall Street looking to extend last week’s gains.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8442,
       "tags": [
-        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "OPEC+ raises output levels again despite tumbling crude prices",
+      "url": "https://www.marketwatch.com/story/opec-raises-output-levels-again-despite-tumbling-crude-prices-534791c8?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-05T22:30:00+00:00",
+      "summary": "Major oil producers on Sunday agreed once again to modestly increase their crude production, although, as in previous months, the hike is largely symbolic until a peace deal between the U.S. and Iran sticks and the Strait of Hormuz is fully reopened to shipping traffic.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.735,
+      "tags": [
+        "Oil",
+        "AI",
+        "Shipping"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Should I confront her?",
+      "url": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-05T12:48:00+00:00",
+      "summary": "“She thanked us for the $100 birthday gift and then announced that her mother-in-law had sent her $400.”",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6249,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "‘New direction, same old problems’: the economic challenges facing  Andy Burnham | Richard Partington",
+      "url": "https://www.theguardian.com/business/2026/jul/05/new-direction-same-old-problems-the-economic-challenges-facing-andy-burnham",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-05T10:57:07+00:00",
+      "summary": "<p>Blair met good fortune when he assumed office, others such as Wilson faced tougher times. The PM-presumptive will start firmly on the back foot</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/jul/05/make-ed-miliband-chancellor-ex-chief-treasury-adviser-nicholas-stern-tells-andy-burnham\">Make Miliband chancellor, ex-chief Treasury adviser tells Burnham</a></p></li><li><p><a href=\"https://www.theguardian.com/commentisfree/2026/jul/05/major-industry-britain-andy-burnham-collieries-retail-parks-manufacturing\">John Harris: Without a good revival plan, Burnham cannot succeed</a></p></li></ul><p></p><p>In politics, timing and luck matter. Tony Blair had astounding good fortune, benefiting from <a href=\"https://www.theguardian.com/business/2007/may/03/politics.money\">goldilocks economic conditions</a> and a weak opposition. Others have taken charge in tougher times: in the 1970s Harold Wilson faced a global energy crisis, as have the last four occupants of No 10.</p><p>As <a href=\"https://www.theguardian.com/politics/2026/jun/22/burnham-prepares-power-emotional-starmer-uk-prime-minister-resignation\">Andy Burnham prepares to replace Keir Starmer</a>, there are clear economic headwinds for the prime minister-presumptive.</p> <a href=\"https://www.theguardian.com/business/2026/jul/05/new-direction-same-old-problems-the-economic-challenges-facing-andy-burnham\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8071,
+      "tags": [
+        "Gold",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Make Ed Miliband chancellor, ex-chief Treasury adviser tells Andy Burnham",
+      "url": "https://www.theguardian.com/business/2026/jul/05/make-ed-miliband-chancellor-ex-chief-treasury-adviser-nicholas-stern-tells-andy-burnham",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-05T05:00:17+00:00",
+      "summary": "<p>Nicholas Stern joins growing number backing Miliband, saying he has vision and experience to revive economy</p><p>A former chief economic adviser to the Treasury has called on Andy Burnham to appoint <a href=\"https://www.theguardian.com/politics/edmiliband\">Ed Miliband</a> as chancellor, arguing the energy secretary has a “bold” vision to revive the economy.</p><p>Nicholas Stern, a professor at the London School of Economics who was a senior figure in the Treasury during Gordon Brown’s tenure, said only Miliband had the experience and the strategic vision to accelerate investment and rebuild public trust in the state’s ability to “get things done”.</p> <a href=\"https://www.theguardian.com/business/2026/jul/05/make-ed-miliband-chancellor-ex-chief-treasury-adviser-nicholas-stern-tells-andy-burnham\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.9517,
+      "tags": [
         "AI"
       ],
       "signal": "watch",
@@ -343,38 +405,6 @@
       "source_repo": "financenews"
     },
     {
-      "title": "When it comes to taxing the super rich, there’s no need to reinvent the wheel",
-      "url": "https://www.theguardian.com/us-news/2026/jun/28/wealth-tax-super-rich",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-28T11:00:10+00:00",
-      "summary": "<p>Any new tax on the rich won’t raise much money unless many of the exceptions and loopholes are dealt with</p><p>In this new era of rampaging oligarchs, nothing may seem as satisfying as slapping a tax on <a href=\"https://www.theguardian.com/technology/elon-musk\">Elon Musk</a>’s new trillion-dollar fortune. What most bothers Americans about federal taxes is that billionaires <a href=\"https://www.pewresearch.org/short-reads/2026/04/06/top-tax-frustrations-for-americans-feeling-that-some-wealthy-people-corporations-dont-pay-fair-share/\">don’t pay their fair share</a>. As the race to develop artificial intelligence mints more billionaires, policymakers’ temptation to directly tax their brobdingnagian wealth is becoming unbearable.</p><p>The first state out of the blocks <a href=\"https://www.theguardian.com/us-news/2026/jun/18/california-billionaire-tax-ballot-tech-opposition\">is California</a>, where voters in November will decide whether to impose a one-time tax of 5% on fortunes worth more than $1bn. Given the ease with which <a href=\"https://www.propublica.org/article/the-secret-irs-files-trove-of-never-before-seen-records-reveal-how-the-wealthiest-avoid-income-tax\">plutocrats avoid</a> paying <a href=\"https://www.nber.org/system/files/working_papers/w34170/w34170.pdf\">income taxes</a>, the case for this sort of direct tax on their stash appears unassailable.</p> <a href=\"https://www.theguardian.com/us-news/2026/jun/28/wealth-tax-super-rich\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.9602,
-      "tags": [
-        "Fed",
-        "AI",
-        "Artificial Intelligence"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Rising cost of insuring against climate crisis will have wider knock-on effects for UK economy | Heather Stewart",
-      "url": "https://www.theguardian.com/business/2026/jun/28/rising-cost-insuring-against-climate-crisis-knock-on-effects-for-uk-economy",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-28T09:34:06+00:00",
-      "summary": "<p>As extreme weather events become more common, economists say government will need to take more active role to protect consumers</p><p>Anyone attempting to notch up a productive day’s work in the searing heat of southern England this last week was left in little doubt about the impact of <a href=\"https://www.theguardian.com/environment/extreme-heat\">extreme weather</a>.</p><p>But the economic effects of the climate crisis for the UK are not confined to the many hours lost to quietly perspiring – or fetching kids dismissed early from scorching classrooms.</p> <a href=\"https://www.theguardian.com/business/2026/jun/28/rising-cost-insuring-against-climate-crisis-knock-on-effects-for-uk-economy\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.7972,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
       "title": "Why investors may want to prioritize bond markets outside the U.S.",
       "url": "https://www.cnbc.com/2026/06/27/inflation-as-major-reason-to-invest-in-global-bond-markets.html",
       "source": "CNBC Finance",
@@ -433,37 +463,6 @@
       ],
       "signal": "watch",
       "category": "macro",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Minneapolis Fed President Neel Kashkari says he expects a rate hike this year",
-      "url": "https://www.cnbc.com/2026/06/26/minneapolis-fed-president-neel-kashkari-says-he-expects-a-rate-hike-this-year.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-26T16:04:42+00:00",
-      "summary": "Kashkari said he sees a hike likely this year as the economy continues to feel the hit from spiking inflation.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Polymarket annualized revenue surpasses $1 billion six weeks after its U.S. exchange launch",
-      "url": "https://www.cnbc.com/2026/06/26/polymarket-annualized-revenue-1-billion-us-exchange-.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-26T12:00:11+00:00",
-      "summary": "World Cup trading and the end of its U.S. waitlist are driving rapid growth for Polymarket's prediction market platform.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3818,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
       "source_repo": "financenews"
     }
   ]
