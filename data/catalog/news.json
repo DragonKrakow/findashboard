@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-06T06:55:26Z",
-  "snapshot_date": "2026-07-06",
+  "generated_at": "2026-07-07T06:46:42Z",
+  "snapshot_date": "2026-07-07",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "U.S. stock futures rise as Wall Street looks to extend its rally coming off the holiday weekend",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-rise-as-wall-street-looks-to-extend-its-rally-coming-off-the-holiday-weekend-5e5a9102?mod=mw_rss_topstories",
+      "title": "Trump calls Walmart ‘patriotic’ for cutting beef prices — in a stark change of tune",
+      "url": "https://www.marketwatch.com/story/trump-calls-walmart-patriotic-for-cutting-beef-prices-in-a-stark-change-of-tune-96c32712?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-06T00:46:00+00:00",
-      "summary": "U.S. stock-index futures gained on Sunday, with Wall Street looking to extend last week’s gains.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8442,
+      "published_at": "2026-07-07T00:15:00+00:00",
+      "summary": "The president hasn’t always approved of Walmart’s moves, having criticized the chain’s response to tariffs last year.",
+      "sentiment": "neutral",
+      "sentiment_score": -0.0516,
       "tags": [
         "AI"
       ],
@@ -20,30 +20,58 @@
       "source_repo": "financenews"
     },
     {
-      "title": "OPEC+ raises output levels again despite tumbling crude prices",
-      "url": "https://www.marketwatch.com/story/opec-raises-output-levels-again-despite-tumbling-crude-prices-534791c8?mod=mw_rss_topstories",
+      "title": "Your data built the AI boom — but Big Tech is pocketing 100% of the equity",
+      "url": "https://www.marketwatch.com/story/your-share-of-the-ai-wealth-is-a-right-not-a-handout-here-is-how-we-claw-back-our-money-7454b0e0?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-05T22:30:00+00:00",
-      "summary": "Major oil producers on Sunday agreed once again to modestly increase their crude production, although, as in previous months, the hike is largely symbolic until a peace deal between the U.S. and Iran sticks and the Strait of Hormuz is fully reopened to shipping traffic.",
+      "published_at": "2026-07-06T21:36:00+00:00",
+      "summary": "Your share of the AI wealth is a right — not a handout. Here is how we claw back our money.",
       "sentiment": "bullish",
-      "sentiment_score": 0.735,
+      "sentiment_score": 0.7964,
       "tags": [
-        "Oil",
-        "AI",
-        "Shipping"
+        "AI"
       ],
       "signal": "watch",
       "category": "technology",
       "source_repo": "financenews"
     },
     {
-      "title": "‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Should I confront her?",
-      "url": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
+      "title": "Stocks rally when Congress goes on summer break. Here’s why.",
+      "url": "https://www.marketwatch.com/story/stocks-rally-when-congress-goes-on-summer-break-here-is-the-hidden-reason-e70a6be3?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-05T12:48:00+00:00",
-      "summary": "“She thanked us for the $100 birthday gift and then announced that her mother-in-law had sent her $400.”",
+      "published_at": "2026-07-06T21:18:00+00:00",
+      "summary": "Stock prices face greater volatility when lawmakers are active, driven entirely by the regulatory uncertainty they create.",
       "sentiment": "bullish",
-      "sentiment_score": 0.6249,
+      "sentiment_score": 0.5994,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Micron’s stock gains, signaling a ‘return to optimism’ about the chip sector",
+      "url": "https://www.marketwatch.com/story/microns-stock-gains-signaling-a-return-to-optimism-about-the-chip-sector-0b7f6a8c?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-06T20:33:00+00:00",
+      "summary": "Investors are looking forward to Samsung’s earnings and SK Hynix’s ADR listing, experts say.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.34,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "The EU that the UK left no longer exists | Mujtaba Rahman",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/06/eu-uk-andy-burnham-britain-rejoin",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-06T04:00:01+00:00",
+      "summary": "<p>Andy Burnham’s rise has stoked talk of the terms for a future British return – but this is the wrong question</p><p>The question of the UK’s relationship with the EU has resurfaced with Keir Starmer’s premiership drawing to a close and Andy Burnham, his likely successor, preparing to enter No 10. Wes Streeting, until recently one of the contenders for the top job and now a possible future chancellor of the exchequer, went as far as to say recently that <a href=\"https://www.euronews.com/my-europe/2026/05/17/uk-leadership-hopeful-streeting-calls-brexit-a-catastrophic-mistake\">Britain should be back in the EU</a>.</p><p>The “rejoin” debate in the UK has focused squarely and, parochially, on two things. The first is the <a href=\"https://www.theguardian.com/politics/2026/jun/14/how-uk-economy-changed-since-brexit-vote-charts\">cost imposed by Brexit on the UK economy</a>, the second is the price of rejoining – in other words, whether the UK would be able to win back its previous <a href=\"https://yougov.com/en-gb/articles/55023-ten-years-after-the-eu-referendum-do-the-french-and-german-publics-want-the-uk-to-rejoin\">opt-outs</a> from the Euro and Schengen areas.</p><p>Mujtaba Rahman is the managing director for Europe at Eurasia Group, a political risk research and consulting firm</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jul/06/eu-uk-andy-burnham-britain-rejoin\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.3612,
       "tags": [
         "AI"
       ],
@@ -433,36 +461,6 @@
       ],
       "signal": "watch",
       "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "OpenAI is reportedly delaying its IPO. Here's when Kalshi traders think it will announce",
-      "url": "https://www.cnbc.com/2026/06/26/openai-ipo-timeline-delayed-kalshi-predictions.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-26T17:45:05+00:00",
-      "summary": "Speculators think the OpenAI IPO will come early next year, with only one-in-three odds it happens in 2026 but a high likelihood it is done by June 2027.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Warsh reaches within the Fed for latest advisory appointments",
-      "url": "https://www.cnbc.com/2026/06/26/warsh-reaches-within-the-fed-for-latest-advisory-appointments.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-26T16:52:10+00:00",
-      "summary": "Warsh has added two more key advisors as he seeks to remake how the central bank approaches the economy and monetary policy.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0516,
-      "tags": [
-        "Fed"
-      ],
-      "signal": "watch",
-      "category": "macro",
       "source_repo": "financenews"
     }
   ]
