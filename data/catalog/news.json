@@ -1,17 +1,47 @@
 {
-  "generated_at": "2026-07-07T06:46:42Z",
-  "snapshot_date": "2026-07-07",
+  "generated_at": "2026-07-08T06:19:10Z",
+  "snapshot_date": "2026-07-08",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Trump calls Walmart ‘patriotic’ for cutting beef prices — in a stark change of tune",
-      "url": "https://www.marketwatch.com/story/trump-calls-walmart-patriotic-for-cutting-beef-prices-in-a-stark-change-of-tune-96c32712?mod=mw_rss_topstories",
+      "title": "‘Our family is broken beyond repair’: My brother took over my parents’ finances. What can I do?",
+      "url": "https://www.marketwatch.com/story/our-family-is-broken-beyond-repair-my-brother-took-over-my-parents-finances-what-can-i-do-95239fb9?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-07T00:15:00+00:00",
-      "summary": "The president hasn’t always approved of Walmart’s moves, having criticized the chain’s response to tariffs last year.",
+      "published_at": "2026-07-07T23:00:00+00:00",
+      "summary": "“Without telling me, my brother petitioned for sole guardianship of our mother.”",
+      "sentiment": "bearish",
+      "sentiment_score": -0.4767,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Micron’s stock falls as investors wonder if the memory market is near the top",
+      "url": "https://www.marketwatch.com/story/microns-stock-falls-as-investors-wonder-if-the-memory-market-is-near-the-top-ab2d2feb?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-07T22:43:00+00:00",
+      "summary": "“Most investor feedback continues to point to a skittish AI tape,” one analyst said.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.2023,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Adobe’s stock is temptingly cheap. Should investors bite?",
+      "url": "https://www.marketwatch.com/story/adobes-stock-is-temptingly-cheap-should-investors-bite-196258b5?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-07T22:35:00+00:00",
+      "summary": "Adobe has become a polarizing stock in the face of questions about its AI future.",
       "sentiment": "neutral",
-      "sentiment_score": -0.0516,
+      "sentiment_score": 0.0,
       "tags": [
         "AI"
       ],
@@ -20,13 +50,13 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Your data built the AI boom — but Big Tech is pocketing 100% of the equity",
-      "url": "https://www.marketwatch.com/story/your-share-of-the-ai-wealth-is-a-right-not-a-handout-here-is-how-we-claw-back-our-money-7454b0e0?mod=mw_rss_topstories",
+      "title": "AI-related debt sells off sharply as Amazon looks to borrow another $25 billion",
+      "url": "https://www.marketwatch.com/story/ai-related-debt-sells-off-sharply-as-amazon-borrows-another-25-billion-46928353?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-06T21:36:00+00:00",
-      "summary": "Your share of the AI wealth is a right — not a handout. Here is how we claw back our money.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7964,
+      "published_at": "2026-07-07T22:35:00+00:00",
+      "summary": "Bonds financing the massive artificial-intelligence buildout were hit hard by selling on Tuesday, as Amazon.com set out to borrow another $25 billion in new debt.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.5719,
       "tags": [
         "AI"
       ],
@@ -35,13 +65,28 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Stocks rally when Congress goes on summer break. Here’s why.",
-      "url": "https://www.marketwatch.com/story/stocks-rally-when-congress-goes-on-summer-break-here-is-the-hidden-reason-e70a6be3?mod=mw_rss_topstories",
+      "title": "Crude prices rise as U.S. launches strikes on Iran shortly after canceling its license to sell oil",
+      "url": "https://www.marketwatch.com/story/oil-prices-rise-as-the-u-s-cancels-irans-license-to-sell-oil-030635fc?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-06T21:18:00+00:00",
-      "summary": "Stock prices face greater volatility when lawmakers are active, driven entirely by the regulatory uncertainty they create.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5994,
+      "published_at": "2026-07-07T22:11:00+00:00",
+      "summary": "Oil futures climbed late Tuesday after the Treasury Department canceled a license granted on June 21 to allow for the sale of Iranian oil.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.3612,
+      "tags": [
+        "Oil"
+      ],
+      "signal": "watch",
+      "category": "energy",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Think the U.S. stock market is too heavily exposed to AI? It’s even worse abroad.",
+      "url": "https://www.marketwatch.com/story/think-the-u-s-stock-market-is-too-heavily-exposed-to-ai-its-even-worse-abroad-7524d770?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-07T21:59:00+00:00",
+      "summary": "Stock-market concentration is hardly just an issue in the U.S.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.5267,
       "tags": [
         "AI"
       ],
@@ -50,14 +95,91 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Micron’s stock gains, signaling a ‘return to optimism’ about the chip sector",
-      "url": "https://www.marketwatch.com/story/microns-stock-gains-signaling-a-return-to-optimism-about-the-chip-sector-0b7f6a8c?mod=mw_rss_topstories",
+      "title": "GameStop investors clear the way for a fresh attempt at buying eBay",
+      "url": "https://www.marketwatch.com/story/gamestop-investors-clear-the-way-for-a-fresh-attempt-at-buying-ebay-8231871d?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-06T20:33:00+00:00",
-      "summary": "Investors are looking forward to Samsung’s earnings and SK Hynix’s ADR listing, experts say.",
+      "published_at": "2026-07-07T21:37:00+00:00",
+      "summary": "Shareholders approved a change that will let the video-game retailer issue more stock.",
       "sentiment": "bullish",
-      "sentiment_score": 0.34,
+      "sentiment_score": 0.7717,
       "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "‘The money would have been life-changing’: My father told my grandmother to slash my inheritance. Is that fair?",
+      "url": "https://www.marketwatch.com/story/the-money-would-have-been-life-changing-my-father-told-my-grandmother-to-slash-my-inheritance-is-that-fair-3808b6d1?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-07T21:30:00+00:00",
+      "summary": "“I could have bought a home for what I hope will be a growing family.”",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5859,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Buy these quality, low-stress stocks for the summer, says Jefferies",
+      "url": "https://www.cnbc.com/2026/07/07/buy-these-quality-low-stress-stocks-for-the-summer-says-jefferies.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-07-07T15:45:33+00:00",
+      "summary": "This summer, Jefferies recommends focusing on some high-quality stocks that have been left behind by the AI momentum trade.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.2263,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Recession off the cards but Australia faces dreary outlook, economists say",
+      "url": "https://www.theguardian.com/business/2026/jul/08/economy-of-australia-avoids-recession-consumer-pessimism-lingers-economists",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-07T15:00:06+00:00",
+      "summary": "<p>De-escalation of war in the Middle East has lowered oil prices and eased fears of economic downturn but households are still feeling the pinch</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jul/08/anthony-albanese-pacific-diplomacy-state-of-origin-labor-coalition-recession-unemployment-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Fears of a recession have fallen away, with economists saying Australia is set to safely navigate the <a href=\"https://www.theguardian.com/business/2026/apr/14/imf-world-economic-outlook-energy-crisis-global-recession-australia-fuel\">biggest global oil supply shock</a> in history even as they warn of substandard growth in the year ahead.</p><p>The de-escalation of the Middle East conflict has been accompanied by <a href=\"https://www.theguardian.com/australia-news/2026/jun/21/oil-price-petrol-prices-australia-fuel-crisis-us-iran-war-lower\">a major retreat in global oil prices</a> back to prewar levels, essentially removing the worst-case scenarios contemplated before Donald Trump’s wobbly ceasefire with Iran was announced in mid-June.</p> <a href=\"https://www.theguardian.com/business/2026/jul/08/economy-of-australia-avoids-recession-consumer-pessimism-lingers-economists\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.9148,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Act soon to change ‘unsustainable’ direction of UK debt, OBR warns",
+      "url": "https://www.theguardian.com/business/2026/jul/07/change-unsustainable-direction-uk-debt-obr-health-pensions",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-07T13:21:36+00:00",
+      "summary": "<p>Forecaster says curtailing rising costs such as health and pensions ‘are today’s challenge, not just tomorrow’s’</p><p>Policymakers must act to prevent public debt rising unsustainably in coming decades as the population ages and defence spending rises, the government’s independent economic forecaster has said.</p><p>In a fresh illustration of the challenges facing the prime minister in waiting, Andy Burnham, the Office for Budget Responsibility (OBR) said that without government action “debt would move on to what would be an unsustainable, ever-upward path from around the 2040s”.</p> <a href=\"https://www.theguardian.com/business/2026/jul/07/change-unsustainable-direction-uk-debt-obr-health-pensions\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.25,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Half of Americans struggle to afford groceries and gas, exclusive poll finds",
+      "url": "https://www.theguardian.com/business/2026/jul/07/cost-of-living-poll-groceries-gas",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-07T11:00:06+00:00",
+      "summary": "<p>About 57% of polled Americans also believe economy is worsening in grim portrait of cost of living crisis, according to Harris survey for the Guardian</p><p>Ninety-five per cent of Americans believe the US is suffering an affordability crisis, as many report trouble with the rising cost of groceries and gas, according to an exclusive new poll conducted for the Guardian.</p><p>The survey, conducted by Harris Poll, paints a bleak picture of how people feel about the <a href=\"https://www.theguardian.com/business/useconomy\">US economy</a> amid the <a href=\"https://www.theguardian.com/world/us-israel-war-on-iran\">war in Iran</a> and ahead of the key <a href=\"https://www.theguardian.com/us-news/us-midterm-elections-2026\">midterm elections</a> this fall.</p> <a href=\"https://www.theguardian.com/business/2026/jul/07/cost-of-living-poll-groceries-gas\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.9682,
+      "tags": [
+        "Election",
         "AI"
       ],
       "signal": "watch",
@@ -333,129 +455,6 @@
       "summary": "<p>Andy Burnham has a short window to demonstrate that he will follow a new path, writes <strong>Benjamin Selwyn</strong></p><p>Andy Beckett is right to identify Andy Burnham as a figure on to whom renewed hopes might be projected (<a href=\"https://www.theguardian.com/commentisfree/2026/jun/26/andy-burnham-labour-hope-mp-makerfield-politics\">Burnham has brought hope back to Labour – but he must understand how quickly it can be punctured, 26 June</a>). But those hopes must be understood in the shadow of Keir Starmer’s rapid dissipation of the electoral mandate secured in 2024.</p><p>That victory was built on a promise – implicit if not explicit – of material improvement. Instead, policies such as maintaining the two‑child benefit cap, cutting the winter fuel allowance, and failing to confront price gouging by utilities and supermarkets deepened the cost of living crisis for millions.</p> <a href=\"https://www.theguardian.com/politics/2026/jun/30/hope-must-be-backed-by-legislation\">Continue reading...</a>",
       "sentiment": "bullish",
       "sentiment_score": 0.8462,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "UK disposable incomes squeezed by price rises and tax changes",
-      "url": "https://www.theguardian.com/business/2026/jun/30/uk-disposable-incomes-price-rises-tax-cgt-ons-gdp-growth",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-30T15:14:39+00:00",
-      "summary": "<p>ONS confirms 0.6% GDP growth in first quarter, with services, production and construction sectors expanding</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jun/30/uk-living-standards-fall-fastest-growth-in-g7-andy-burnham-pound-bonds-live-news-updates\">Business live – latest updates</a></p></li></ul><p>UK households suffered a drop in disposable incomes in the first three months of the year as price rises and extra wealth taxes hit average spending power.</p><p>The Office for National Statistics said a rise in the consumer prices index (CPI) measure of inflation in the first quarter and higher capital gains tax receipts reduced real household disposable income by 0.8% from January to the end of March.</p> <a href=\"https://www.theguardian.com/business/2026/jun/30/uk-disposable-incomes-price-rises-tax-cgt-ons-gdp-growth\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.4404,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "EU sets up three months of talks with China over €360bn trade deficit",
-      "url": "https://www.theguardian.com/world/2026/jun/29/eu-sets-up-three-months-of-talks-with-china-over-360bn-trade-deficit",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-29T18:33:51+00:00",
-      "summary": "<p>Two sides agree to try to make bilateral relationship ‘more balanced’ after weeks of threats</p><p>The EU and China have agreed to enter three months of talks to try to avoid a trade war over the bloc’s €360bn (£310bn) annual import/export imbalance.</p><p>In their first joint statement in seven years, the two sides agreed in Brussels to open a formal trade consultation after weeks of threats and recriminations from China if the EU imposed any measures to stop the flood of goods and components into the bloc.</p> <a href=\"https://www.theguardian.com/world/2026/jun/29/eu-sets-up-three-months-of-talks-with-china-over-360bn-trade-deficit\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.8126,
-      "tags": [
-        "Trade War"
-      ],
-      "signal": "watch",
-      "category": "markets",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "What is Andy Burnham’s economic and political blueprint for Britain?",
-      "url": "https://www.theguardian.com/politics/2026/jun/29/what-is-andy-burnhams-economic-and-political-blueprint-for-britain",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-29T18:31:06+00:00",
-      "summary": "<p>Plans include greater regional power, public ownership of utilities and the end of trickle-down economics</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/jun/29/burnham-sets-out-vision-to-transform-britain-and-fix-broken-system\">Burnham sets out vision to transform Britain and fix ‘broken’ system</a></p></li></ul><p>Andy Burnham’s speech at the People’s History Museum in Manchester was the first time we saw the man likely to be Britain’s next prime minister set out his vision for power.</p><p>He promised “good growth in every postcode” in a speech that focused on a significant transfer of power out of Whitehall to local communities and a new economic vision. But what might this mean in practice?</p><p>It will be about offering new opportunities to extend devolution in Scotland, Wales and Northern Ireland by taking power deeper down.</p><p><em>They require radical change if the country is to get back on track.</em></p><p><em>All parts of the UK should now be given the chance to develop … focusing on the things that most matter to them.</em></p><p><em>We will ensure all parts of the UK are able to take greater public control of essential services like water, housing, energy and transport …</em></p><p><em>Britain has lost almost 1.5</em><em>m council homes since the 1980s and around the same number of people are now on housing waiting lists and have been there for a very long time.</em></p><p><em>Shouldn’t we make our high streets the symbols of Britain’s renaissance?</em></p><p><em>We will support every region to set clear and credible industrial ambitions – and provide the support to achieve them.</em></p><p><em>We need a complete rethink of how we support the next generation to succeed, and it has to start with the education system.</em></p><p><em>We will set out 10-year plans to bring down the cost of </em><em> … essentials</em><em> to individuals, families and businesses.</em></p><p><em>All of it backed by the stability that comes from sound public finances, as I said before, and the discipline of our current fiscal rules.</em></p> <a href=\"https://www.theguardian.com/politics/2026/jun/29/what-is-andy-burnhams-economic-and-political-blueprint-for-britain\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.9926,
-      "tags": [
-        "AI",
-        "Transport"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Andy Burnham confirms he will set up ‘No 10 North’ in Manchester in major policy speech – as it happened",
-      "url": "https://www.theguardian.com/politics/live/2026/jun/29/andy-burnham-devolution-speech-keir-starmer-labour-latest-news-updates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-29T16:23:07+00:00",
-      "summary": "<p>Makerfield MP and hopeful prime minister says he will ‘bring about biggest rebalancing of power the country has ever seen’</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/jun/29/andy-burnham-no-10-north-nerve-centre-rewired-britain\">Andy Burnham vows to set up No 10 North as ‘nerve centre of rewired Britain’</a></p></li></ul><p>Asked what she thought of Andy Burnham not taking questions this morning, <strong>Badenoch</strong> said:</p><p>Andy Burnham doesn’t like questions. Nigel Farage doesn’t like questions. Even Keir Starmer in parliament, he doesn’t like questions here.</p><p>If you want somebody who can answer questions, please come to me. I will answer all of your questions.</p><p>I know that it should not be Ed Miliband. He is the single person who has done the most to deindustrialise our country and make us poorer. He should not be rewarded with an even more powerful job where he can completely bankrupt the country.</p> <a href=\"https://www.theguardian.com/politics/live/2026/jun/29/andy-burnham-devolution-speech-keir-starmer-labour-latest-news-updates\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6454,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "UK government borrowing costs dip and pound rises as City welcomes Burnham speech – as it happened",
-      "url": "https://www.theguardian.com/business/live/2026/jun/29/bank-of-england-inflation-warning-ai-stock-markets-oil-burnham-bond-yields-live-news-updates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-29T15:21:02+00:00",
-      "summary": "<p>Makerfield MP’s plans for good-quality growth around the UK, and commitment to fiscal rules, are welcomed by investors and economists</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/jun/29/shares-in-chipmakers-underpinning-ai-boom-surge-in-first-half-of-2026\">Shares in chipmakers underpinning AI boom rocket in first half of 2026</a></p></li></ul><p><strong>The total value of new mortgage approvals also fell in May.</strong></p><p>Net borrowing of mortgage debt by individuals decreased to £2.9bn in May, down from £4.4bn in April, the Bank of England reports.</p><p>“The sharp slowdown in mortgage borrowing and approvals suggests the surge in activity earlier this year has now faded, with buyers and homeowners taking a more cautious approach. While borrowing costs have eased from their recent highs, affordability remains stretched and many prospective buyers continue to contend with elevated house prices and wider cost-of-living pressures.</p><p>“For lenders, the changing outlook highlights the importance of integrating forward-looking affordability assessments that better reflect real borrower behaviour and lifetime income patterns. As caution rises, these more personalised models can help to sustain housing demand over the coming months.</p> <a href=\"https://www.theguardian.com/business/live/2026/jun/29/bank-of-england-inflation-warning-ai-stock-markets-oil-burnham-bond-yields-live-news-updates\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.9501,
-      "tags": [
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "‘Crypto v community’: 4,000 local US lenders join forces to fight ‘stablecoins’ law",
-      "url": "https://www.theguardian.com/technology/2026/jun/28/crypto-v-community-local-lenders-fight-stablecoins-law",
-      "source": "The Guardian Economics",
-      "published_at": "2026-06-28T12:00:08+00:00",
-      "summary": "<p>Up to 4,000 community banks fear looming legislation to regulate digital cash will deprive rural firms and farmers of $850bn-worth of loans</p><p>On a quiet summer morning, above a small mid-western town, an American flag is waving in the breeze. The camera cuts to a father helping his son at the wheel of a tractor, and flits to a smiling couple on a grass-lined pavement, moments before flashing to grainy images of “crypto insiders” in suits.</p><p>“American families don’t want experiments with their money,” a voice booms. “They want jobs, growth, and available credit. When crypto gets a free pass, communities pay the price.”</p> <a href=\"https://www.theguardian.com/technology/2026/jun/28/crypto-v-community-local-lenders-fight-stablecoins-law\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5423,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Why investors may want to prioritize bond markets outside the U.S.",
-      "url": "https://www.cnbc.com/2026/06/27/inflation-as-major-reason-to-invest-in-global-bond-markets.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-27T15:00:01+00:00",
-      "summary": "Allspring Global Investments is pushing clients toward countries with central banks that are raising interest rates or have different inflation dynamics.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6597,
-      "tags": [
-        "Interest Rates",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Jeremy Grantham says, 'This is the most expensive market in American history'",
-      "url": "https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-06-27T12:22:08+00:00",
-      "summary": "Jeremy Grantham says soaring valuations around AI makes the U.S. stock market historically expensive.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
       "tags": [
         "AI"
       ],
