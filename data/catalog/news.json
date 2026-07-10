@@ -1,17 +1,33 @@
 {
-  "generated_at": "2026-07-09T06:46:23Z",
-  "snapshot_date": "2026-07-09",
+  "generated_at": "2026-07-10T06:46:41Z",
+  "snapshot_date": "2026-07-10",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Levi’s is finding new ways to win customers — by looking toward tops and ‘denim luxury’",
-      "url": "https://www.marketwatch.com/story/levis-is-finding-new-ways-to-win-customers-by-looking-toward-tops-and-denim-luxury-b6e0890a?mod=mw_rss_topstories",
+      "title": "SK Hynix is about to hit the U.S. market. Here’s what to know about the deal.",
+      "url": "https://www.marketwatch.com/story/sk-hynix-is-about-to-hit-the-u-s-market-heres-what-to-know-about-the-deal-1c873fa4?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-09T00:38:00+00:00",
-      "summary": "Jeans maker raises its full-year outlook for the second straight time, but shares fall after hours",
+      "published_at": "2026-07-09T22:07:00+00:00",
+      "summary": "U.S. investors are about to get another straightforward way to play the red-hot market for memory chips.",
       "sentiment": "bullish",
-      "sentiment_score": 0.7783,
+      "sentiment_score": 0.34,
+      "tags": [
+        "Chips",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "‘I’ve no idea how they got her number’: My student-loan servicer called a friend after I missed a payment. Is that legal?",
+      "url": "https://www.marketwatch.com/story/ive-no-idea-how-they-got-her-number-my-student-loan-servicer-called-a-friend-after-i-missed-a-payment-is-that-legal-28ef698e?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-09T22:00:00+00:00",
+      "summary": "“She said it’s the second message they have left.”",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0772,
       "tags": [
         "AI"
       ],
@@ -20,15 +36,181 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Higher gas prices aren’t the only way rising tensions with Iran will hit home",
-      "url": "https://www.marketwatch.com/story/higher-gas-prices-arent-the-only-way-rising-tensions-with-iran-will-hit-home-0a995066?mod=mw_rss_topstories",
+      "title": "Can Walmart help the Fed harness real-time U.S. economic data? We’re about to find out.",
+      "url": "https://www.marketwatch.com/story/can-walmart-help-the-fed-harness-real-time-u-s-economic-data-were-about-to-find-out-e625925a?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-09T00:07:00+00:00",
-      "summary": "Wall Street expects President Donald Trump’s call that the Iran cease-fire is over will hurt airlines and home builders more than it will help oil companies.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.5267,
+      "published_at": "2026-07-09T21:52:00+00:00",
+      "summary": "The Federal Reserve named a former Walmart CEO to a task force to develop contemporaneous data on spending, inflation and growth.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6486,
       "tags": [
-        "Oil",
+        "Fed"
+      ],
+      "signal": "watch",
+      "category": "macro",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "A junior employee saved this company six figures using AI. Here’s how.",
+      "url": "https://www.marketwatch.com/story/a-junior-employee-saved-this-company-six-figures-using-ai-heres-how-ca4335d3?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-09T21:29:00+00:00",
+      "summary": "“Some of the best ideas can come from anywhere in the organization.”",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7906,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "‘The money would have been life-changing’: My father told my grandmother to slash my inheritance. Is that fair?",
+      "url": "https://www.marketwatch.com/story/the-money-would-have-been-life-changing-my-father-told-my-grandmother-to-slash-my-inheritance-is-that-fair-3808b6d1?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-09T21:00:00+00:00",
+      "summary": "“I could have bought a home for what I hope will be a growing family.”",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5859,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Meta’s stock rebounds as agentic AI coding and custom chips ease spending fears",
+      "url": "https://www.marketwatch.com/story/metas-stock-rebounds-as-agentic-ai-coding-and-custom-chips-ease-spending-fears-16d1cb24?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-09T20:58:00+00:00",
+      "summary": "Shares of Meta rallied on Thursday following the launch of a new AI model and reports of a big custom-chip milestone.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.2263,
+      "tags": [
+        "Chips",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "A slower AI payoff risks tipping the economy into recession, Apollo says",
+      "url": "https://www.marketwatch.com/story/a-slower-ai-payoff-risks-tipping-the-economy-into-recession-apollo-says-5d495f6c?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-09T20:56:00+00:00",
+      "summary": "Growing threats from China and falling token prices may put AI financials at risk.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.8271,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon",
+      "url": "https://www.cnbc.com/2026/07/09/kevin-warsh-names-members-of-his-federal-reserve-task-forces-including-marc-andreessen-doug-mcmillon.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-07-09T19:53:20+00:00",
+      "summary": "Federal Reserve Chairman Kevin Warsh on Thursday released names of the experts who will comprise five task forces to examine the institution's operations.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Kalshi traders think gas prices will stay higher for longer as U.S.-Iran tensions heat back up",
+      "url": "https://www.cnbc.com/2026/07/09/kalshi-traders-see-higher-gas-prices-lasting-through-election-day.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-07-09T19:44:17+00:00",
+      "summary": "Odds that gas prices are above $3.50 on Election Day have jumped to 75% on the platform.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.4019,
+      "tags": [
+        "Election"
+      ],
+      "signal": "watch",
+      "category": "energy",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Prediction markets spark insider trading concerns. Here's how Goldman and other companies are responding",
+      "url": "https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-07-09T18:52:22+00:00",
+      "summary": "CNBC reached out to 50 companies about what are their trading policies for employees on prediction markets. A handful had an answer.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.3182,
+      "tags": [
+        "Gold"
+      ],
+      "signal": "watch",
+      "category": "markets",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin",
+      "url": "https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-07-09T15:00:50+00:00",
+      "summary": "Competition in the multitrillion-dollar market for retirement assets is fierce among managers such as Goldman Sachs, BlackRock, Russell Investments and Mercer.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7845,
+      "tags": [
+        "Gold"
+      ],
+      "signal": "watch",
+      "category": "markets",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Andy Burnham urged to scrap income tax and NI in radical fiscal overhaul",
+      "url": "https://www.theguardian.com/business/2026/jul/09/andy-burnham-scrap-income-tax-national-insurance-fiscal-overhaul",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-09T13:27:57+00:00",
+      "summary": "<p>Economists including Jim O’Neill write open letter calling for single levy to replace six key taxes to raise money for public services</p><p>Prominent economists including Jim O’Neill, an ally of Andy Burnham, are urging the MP for Makerfield to pursue radical tax and spending reform to “unlock the gridlock that plagues the country” when he is confirmed as prime minister.</p><p>O’Neill joins Jonathan Portes, an economics professor at King’s College London, and Danny Sriskandarajah, the chief executive of the New Economics Foundation, in calling for bold action in an open letter.</p> <a href=\"https://www.theguardian.com/business/2026/jul/09/andy-burnham-scrap-income-tax-national-insurance-fiscal-overhaul\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.3818,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Invest in Britain or I’ll force you to, minister tells pension funds",
+      "url": "https://www.theguardian.com/business/2026/jul/09/invest-in-britain-force-you-peter-kyle-pension-funds",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-09T12:13:07+00:00",
+      "summary": "<p>Business secretary Peter Kyle says asset managers should feel a patriotic duty to make the UK a success</p><p>The business secretary, Peter Kyle, has told UK pension funds to “get off their high horses” and invest in Britain or be forced to do so by law.</p><p>Expressing frustration at the level of investment in British companies after years of government initiatives, Kyle said the UK’s biggest asset managers “should feel a patriotic duty in making Britain a success”.</p> <a href=\"https://www.theguardian.com/business/2026/jul/09/invest-in-britain-force-you-peter-kyle-pension-funds\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.3321,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "China warns about AI risks with Anthropic's Claude Code",
+      "url": "https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-07-09T01:24:02+00:00",
+      "summary": "China said specific versions of Claude Code posed back-door vulnerabilities that could send sensitive information to a remote server.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.4767,
+      "tags": [
         "AI"
       ],
       "signal": "watch",
@@ -48,84 +230,6 @@
       ],
       "signal": "watch",
       "category": "markets",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Oil prices extend gains after hours as U.S. forces conduct additional strikes on Iran",
-      "url": "https://www.marketwatch.com/story/oil-prices-jump-by-the-most-in-two-months-after-trump-suggests-u-s-iran-cease-fire-is-over-9fa7caee?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-08T21:16:00+00:00",
-      "summary": "Oil prices settled at their highest levels in more than two weeks on Wednesday, then extended their gains in after-hours trading after the U.S. military said it launched additional strikes on Iran.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.25,
-      "tags": [
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Investors haven’t been this bullish on the dollar in a decade. How the buck can keep climbing.",
-      "url": "https://www.marketwatch.com/story/traders-havent-been-this-bullish-on-the-dollar-in-a-decade-how-the-buck-can-keep-climbing-2e2bb287?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-08T21:01:00+00:00",
-      "summary": "A crowded bet on a stronger U.S. dollar may depend on whether Wednesday’s jump in oil prices proves lasting, as renewed Middle East tensions revive inflation concerns and bolster expectations that the Federal Reserve may need to keep policy tight.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3182,
-      "tags": [
-        "Fed",
-        "Oil"
-      ],
-      "signal": "watch",
-      "category": "energy",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "This chart shows stamp prices over the years as USPS hikes postage again this weekend",
-      "url": "https://www.marketwatch.com/story/this-chart-shows-stamp-prices-over-the-years-as-usps-hikes-postage-again-this-weekend-affbb84b?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-08T20:35:00+00:00",
-      "summary": "The new rate will go into effect on July 12, and will be the eighth price increase over the last five calendar years",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3182,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "The Strait of Hormuz is back under ‘full-conflict conditions’ — and energy markets are scrambling",
-      "url": "https://www.marketwatch.com/story/oil-surges-as-strait-of-hormuz-is-back-into-full-conflict-conditions-6ef59562?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-08T20:32:00+00:00",
-      "summary": "Oil prices surge as U.S. and Iran trade strikes; but even without further disruption, volatility appears here to stay for energy markets",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6267,
-      "tags": [
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Nvidia’s stock trades at a juicy discount, according to BofA",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-trades-at-a-juicy-discount-according-to-bofa-93f46d19?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-08T19:36:00+00:00",
-      "summary": "An analyst recommends investors take advantage of the “enhanced” buying opportunity brought upon by sustained underperformance.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6908,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
       "source_repo": "financenews"
     },
     {
@@ -215,21 +319,6 @@
       "sentiment_score": 0.7845,
       "tags": [
         "Election",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "China warns about AI risks with Anthropic's Claude Code",
-      "url": "https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-08T08:14:28+00:00",
-      "summary": "China said specific versions of Claude Code posed back-door vulnerabilities that could send sensitive information to a remote server.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.4767,
-      "tags": [
         "AI"
       ],
       "signal": "watch",
@@ -371,97 +460,6 @@
         "Mining",
         "AI",
         "Artificial Intelligence"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "UK service sector shrinks amid Iran war disruption and heatwave; FTSE 100 hits four-month closing high – business live",
-      "url": "https://www.theguardian.com/business/live/2026/jul/03/oil-price-fall-strait-of-hormuz-traffic-jumps-food-price-inflation-services-sector-live-news-updates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-07-03T15:42:09+00:00",
-      "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Today’s UK Service PMI report (which polls purchasing managers from across the sector) found there was a “sustained reduction in backlogs of work across the service economy”.</strong></p><p>This was due to weak demand, <strong>S&amp;P</strong> <strong>Global</strong> reports, adding:</p><p>This contributed to another fall in employment numbers, with the pace of job losses the sharpest since February. Many service providers noted either redundancies or the non-replacement of voluntary leavers in response to reduced business requirements and pressure on margins from rising costs.</p> <a href=\"https://www.theguardian.com/business/live/2026/jul/03/oil-price-fall-strait-of-hormuz-traffic-jumps-food-price-inflation-services-sector-live-news-updates\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9287,
-      "tags": [
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Don't throw away your shot to speak to an AI Alexander Hamilton at Boston's new finance museum",
-      "url": "https://www.cnbc.com/2026/07/03/the-museum-of-american-finance-opens-its-doors-in-boston.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-03T13:16:09+00:00",
-      "summary": "Nearly a decade after leaving its former home, the Museum of American Finance is opening its new doors to the public.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Burnham’s funding gap: what state are UK finances in for the PM-in-waiting?",
-      "url": "https://www.theguardian.com/business/2026/jul/03/burnham-funding-gap-uk-finances-pm-in-waiting",
-      "source": "The Guardian Economics",
-      "published_at": "2026-07-03T06:00:20+00:00",
-      "summary": "<p>Given pressures on the public purse, the Makerfield MP may have to look at  autumn tax rises to fund his ‘new direction’</p><p>An economy rattled by a global energy shock, jittery bond markets and rising spending demands. As Andy Burnham prepares for government, the pressures on the public finances are in focus.</p><p>The prospective prime minister <a href=\"https://www.theguardian.com/politics/2026/jun/29/what-is-andy-burnhams-economic-and-political-blueprint-for-britain\">pledged a new direction for Britain this week</a> within two constraints: sticking to Labour’s current fiscal rules, and consistency with its 2024 manifesto.</p> <a href=\"https://www.theguardian.com/business/2026/jul/03/burnham-funding-gap-uk-finances-pm-in-waiting\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.6249,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Citadel's hedge funds post broad first-half gains, top performing strategy sidesteps quant selloff",
-      "url": "https://www.cnbc.com/2026/07/02/citadels-hedge-funds-post-broad-first-half-gains.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-02T21:11:03+00:00",
-      "summary": "The hedge fund firm's tactical trading fund, which combines discretionary equity investing with quantitative strategies, climbed 14.3% through the end of June.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.4939,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "US economy added fewer jobs than expected in June as World Cup fails to boost hiring – as it happened",
-      "url": "https://www.theguardian.com/business/live/2026/jul/02/uk-cost-of-living-squeeze-diesel-record-fall-mortage-rates-stock-markets-us-jobs-report-live-news-updates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-07-02T14:25:02+00:00",
-      "summary": "<p>US non-farm payrolls only increased by 57,000 in June, but unemployment rate fell</p><p><strong>Just in: Default rates on UK credit cards have risen, and the situation is expected to get worse.</strong></p><p>New data from the Bank of England has found that default rates for total unsecured lending, including credit card defaults, rose in the April-June quarter.</p> <a href=\"https://www.theguardian.com/business/live/2026/jul/02/uk-cost-of-living-squeeze-diesel-record-fall-mortage-rates-stock-markets-us-jobs-report-live-news-updates\">Continue reading...</a>",
-      "sentiment": "neutral",
-      "sentiment_score": -0.1001,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "US employers added just 57,000 new jobs in June, lower than expected",
-      "url": "https://www.theguardian.com/business/2026/jul/02/us-job-growth-slowed-june",
-      "source": "The Guardian Economics",
-      "published_at": "2026-07-02T13:21:35+00:00",
-      "summary": "<p>The country’s unemployment rate dropped slightly to 4.2% as US job growth also slowed for the month</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US newsletter email</a></p></li></ul><p>US job growth slowed in June as employers added 57,000 new jobs –&nbsp;just about half of what economists had predicted – and the Bureau of Labor Statistics revised its figures from the past two months down by a total of 74,000.</p><p>The country’s unemployment rate dropped slightly to 4.2%, but the number of unemployed people changed little, according to the latest data, as 720,000 people left the labor force. The bureau revised the unexpectedly high May figures from 172,000 new jobs to 129,000, and revised the April figures from 179,000 to 148,000.</p> <a href=\"https://www.theguardian.com/business/2026/jul/02/us-job-growth-slowed-june\">Continue reading...</a>",
-      "sentiment": "neutral",
-      "sentiment_score": -0.1154,
-      "tags": [
-        "AI"
       ],
       "signal": "watch",
       "category": "technology",
