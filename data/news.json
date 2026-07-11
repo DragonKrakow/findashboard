@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-07-11T16:19:19.114272+00:00",
+  "generated_at": "2026-07-11T20:18:50.379155+00:00",
   "articles": [
+    {
+      "id": "a13ae8f2edd4",
+      "title": "Warsh and US Inflation Will Set Tone for July Fed Decision",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-11/warsh-and-us-inflation-will-set-tone-for-july-fed-decision",
+      "published_at": "2026-07-11T20:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Kevin Warsh is about to make his first appearance before Congress as Federal Reserve chairman, and during two days of testimony he’ll have new US inflation data to parse with lawmakers.",
+      "tags": []
+    },
+    {
+      "id": "59e2b2d59934",
+      "title": "Banks’ Record Bond Short Sparks Quest for Answers",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-11/banks-record-bond-short-sparks-quest-for-answers-credit-weekly",
+      "published_at": "2026-07-11T19:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "For the first time in recent history, primary dealers have gone net short on debt they used to hold billions of dollars of.",
+      "tags": []
+    },
+    {
+      "id": "ac89394e9468",
+      "title": "Patriot Supply Strains Shape Ukraine Aid",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-11/patriot-supply-strains-shape-ukraine-aid-video",
+      "published_at": "2026-07-11T16:58:19+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Axios defense reporter Colin Demarest says President Donald Trump's proposal to let Ukraine produce Patriot interceptors faces significant manufacturing, licensing and technology hurdles, making it un",
+      "tags": []
+    },
+    {
+      "id": "3edf320aa3f2",
+      "title": "Hannah Elliott Highlights Tinnitus Risks",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-11/hannah-elliott-highlights-tinnitus-risks-video",
+      "published_at": "2026-07-11T16:48:18+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Bloomberg Pursuit staff writer Hannah Elliott says Tinnitus affects more than 50 million Americans, remains underdiagnosed and underfunded, and can have profound effects on mental health and quality o",
+      "tags": []
+    },
     {
       "id": "e07cd2a08fe8",
       "title": "McCaul Backs Deeper US Ukraine Defense Ties",
@@ -74,54 +122,6 @@
       "tags": []
     },
     {
-      "id": "78dc7363ca41",
-      "title": "Fuel Prices Are Slamming Consumers Even as Crude Crisis Fades",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-11/fuel-prices-are-slamming-consumers-even-as-crude-crisis-fades",
-      "published_at": "2026-07-11T13:30:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Prices for gasoline, diesel and jet fuel are rebounding even as crude oil eases, a rare divergence that’s swelling costs for peak-season travelers and threatening to undermine President Donald Trump’s",
-      "tags": []
-    },
-    {
-      "id": "5c6cddce2c04",
-      "title": "Stocks Priced for ‘Sunshine and Rainbows’ Now Face Earnings Test",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-11/stocks-priced-for-sunshine-and-rainbows-now-face-earnings-test",
-      "published_at": "2026-07-11T13:00:01+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Wall Street is anticipating a near-record earnings season, but for investors a key question remains: Will it be enough to keep stock market bulls running?",
-      "tags": []
-    },
-    {
-      "id": "81dda494bc2d",
-      "title": "The World’s First Trillionaire and the Company He Won’t Let Go",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-07-11/the-world-s-first-trillionaire-and-the-company-he-won-t-let-go",
-      "published_at": "2026-07-11T12:00:01+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Elon Musk made history last month.",
-      "tags": []
-    },
-    {
-      "id": "ce0373276a7f",
-      "title": "EasyJet Has Private Equity Firms Going Out of Their Comfort Zone",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-11/easyjet-has-private-equity-firms-going-out-of-their-comfort-zone",
-      "published_at": "2026-07-11T11:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The aviation industry has seen plenty of deals activity in recent years, but the battle between two US funds for EasyJet Plc stands out because the volatile, low-margin airlines business rarely draws ",
-      "tags": []
-    },
-    {
       "id": "45e447a800a0",
       "title": "How AI rebrands fail to deliver a lasting share price boost",
       "source": "International homepage",
@@ -143,18 +143,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Lawsuit marks collapse of relationship between two of the biggest names in Silicon Valley",
-      "tags": []
-    },
-    {
-      "id": "321c694f7e33",
-      "title": "Investors sell longer-dated AI debt amid Big Tech borrowing spree",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/28380abc-72f9-4287-8d36-2823c73358ce",
-      "published_at": "2026-07-10T16:29:50+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Waning demand highlights scepticism over sector’s long-term profitability",
       "tags": []
     },
     {
@@ -215,18 +203,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Fatih Birol says EU should have moved faster to achieve energy independence after 2022 gas crisis",
-      "tags": []
-    },
-    {
-      "id": "5bcb4e306de3",
-      "title": "Bezos-backed fusion start-up to become first to go public",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/1f0bdc93-5ee8-41d7-aaf8-11df73a9847c",
-      "published_at": "2026-07-10T19:57:18+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "General Fusion’s ‘steampunk’ approach to the technology is under scrutiny ahead of Nasdaq debut",
       "tags": []
     },
     {
@@ -362,6 +338,30 @@
       "tags": []
     },
     {
+      "id": "b3d6af79e7c4",
+      "title": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera",
+      "published_at": "2026-07-11T18:06:58+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
+      "tags": []
+    },
+    {
+      "id": "70ffd02fce70",
+      "title": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs",
+      "published_at": "2026-07-11T17:07:24+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
+      "tags": []
+    },
+    {
       "id": "9a6a763590d6",
       "title": "The UK has finally shown it’s serious about crypto",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
@@ -458,27 +458,39 @@
       "tags": []
     },
     {
-      "id": "bc841a1264f8",
-      "title": "Circle soars after securing U.S. trust bank approval in crypto expansion",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/07/10/circle-secures-u-s-trust-bank-approval-in-crypto-expansion",
-      "published_at": "2026-07-10T11:41:47+00:00",
+      "id": "8e5b40995799",
+      "title": "Lightwave Logic: The Marvell-Polariton Setup Is The Real Story",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4921371-lightwave-logic-the-marvell-polariton-setup-is-the-real-story?source=feed_all_articles",
+      "published_at": "2026-07-11T18:52:21+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Circle soars after securing U.S. trust bank approval in crypto expansion",
+      "summary": "Lightwave Logic: The Marvell-Polariton Setup Is The Real Story",
       "tags": []
     },
     {
-      "id": "2fa29e287c85",
-      "title": "Japan's 'invest locally' plan likely to spur demand for assets like bitcoin, gold",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/daybook-us/2026/07/10/japan-s-invest-locally-plan-likely-to-spur-demand-for-assets-like-bitcoin-gold",
-      "published_at": "2026-07-10T11:37:31+00:00",
+      "id": "8142dae949ac",
+      "title": "The 1-Minute Market Report, July 11, 2026",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4921380-the-1-minute-market-report-july-11-2026?source=feed_all_articles",
+      "published_at": "2026-07-11T16:39:36+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Japan's 'invest locally' plan likely to spur demand for assets like bitcoin, gold",
+      "summary": "The 1-Minute Market Report, July 11, 2026",
+      "tags": []
+    },
+    {
+      "id": "3102cc0c8a8e",
+      "title": "Applied Digital: The 37% Drop Doesn't Get Me Excited",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4921353-applied-digital-the-37-percent-drop-doesnt-get-me-excited?source=feed_all_articles",
+      "published_at": "2026-07-11T16:35:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Applied Digital: The 37% Drop Doesn't Get Me Excited",
       "tags": []
     },
     {
@@ -563,42 +575,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "SpaceX: Too Cheap To Ignore",
-      "tags": []
-    },
-    {
-      "id": "6658a03103a3",
-      "title": "El Pollo Loco: Comps Strength Defies A Weaker Restaurant Industry",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4921376-el-pollo-loco-comps-strength-defies-a-weaker-restaurant-industry?source=feed_all_articles",
-      "published_at": "2026-07-11T14:42:36+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "El Pollo Loco: Comps Strength Defies A Weaker Restaurant Industry",
-      "tags": []
-    },
-    {
-      "id": "3be73bfc6bfa",
-      "title": "Ares Commercial: High Safety Margin",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4921375-ares-commercial-high-safety-margin?source=feed_all_articles",
-      "published_at": "2026-07-11T14:40:46+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Ares Commercial: High Safety Margin",
-      "tags": []
-    },
-    {
-      "id": "c0afcc9ef2cb",
-      "title": "Disney: Value Trap Or Contrarian Buy? It Isn't For The Weak",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4921314-disney-value-trap-or-contrarian-buy-it-isnt-for-the-weak?source=feed_all_articles",
-      "published_at": "2026-07-11T14:30:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Disney: Value Trap Or Contrarian Buy? It Isn't For The Weak",
       "tags": []
     }
   ]
