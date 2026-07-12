@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-12T05:06:02.318248+00:00",
+  "generated_at": "2026-07-12T08:46:24.763516+00:00",
   "articles": [
+    {
+      "id": "880051c31585",
+      "title": "US, Iran Trade Wave of Attacks as Tehran Says Hormuz Closed",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-12/us-iran-trade-wave-of-attacks-as-tehran-says-hormuz-closed",
+      "published_at": "2026-07-12T08:06:08+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "US forces struck Iran for a third time in a week, prompting retaliatory attacks from Tehran as it declared the Strait of Hormuz would be closed “until further notice.”",
+      "tags": []
+    },
     {
       "id": "8aed0cf31908",
       "title": "Typhoon Bavi Weakens as Heavy Rain Spreads Across China",
@@ -110,27 +122,15 @@
       "tags": []
     },
     {
-      "id": "10adb29bf558",
-      "title": "US Iran Talks Face Persistent Impasse",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-11/us-iran-talks-face-persistent-impasse-video",
-      "published_at": "2026-07-11T15:09:55+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Bloomberg Economics analysts Becca Wasser and Dina Esfandiary say the US and Iran remain far apart on key issues, with intermittent strikes and negotiations likely to define the conflict for the fores",
-      "tags": []
-    },
-    {
       "id": "06425204f679",
-      "title": "US launches more strikes after Iran declares Strait of Hormuz closed",
+      "title": "US launches fresh strikes after Tehran declares Strait of Hormuz closed",
       "source": "International homepage",
       "url": "https://www.ft.com/content/6b6c23e9-f24e-4c3e-bb1a-e5cb6860008d",
       "published_at": "2026-07-12T04:17:53+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "IRGC hits commercial ship transiting through waterway, with Centcom saying crew member was missing from vessel",
+      "summary": "Iran hits commercial ship transiting the waterway and targets in Kuwait, Bahrain and Qatar",
       "tags": []
     },
     {
@@ -158,6 +158,18 @@
       "tags": []
     },
     {
+      "id": "e68ed862006b",
+      "title": "US Senator Lindsey Graham dies, aged 71",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/b3b93565-652a-41e9-aabd-9ed35309bdeb",
+      "published_at": "2026-07-12T07:44:11+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "South Carolina politician was one of the most influential and hawkish Republicans",
+      "tags": []
+    },
+    {
       "id": "ef5e077f109f",
       "title": "China cracks down on top ratings for corporate bonds",
       "source": "International homepage",
@@ -167,6 +179,30 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Regulators pressure agencies to limit triple-A designations for higher-interest borrowers",
+      "tags": []
+    },
+    {
+      "id": "87c1795f9b6d",
+      "title": "Big Tech to face fines for consumer protection failures, says EU official",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/25640be5-a5bd-4548-81f9-bd0e16f87f35",
+      "published_at": "2026-07-12T04:00:06+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Justice commissioner Michael McGrath says Brussels seeks to strengthen social media safeguards",
+      "tags": []
+    },
+    {
+      "id": "fbdec63f6fb7",
+      "title": "Stranded pollock prompt EU to delay fish import controls for US",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/aba8d356-489a-469b-bb49-b54e74acc3a0",
+      "published_at": "2026-07-12T04:00:14+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "System introduced to crack down on illegal fishing has left cargoes stuck in docks for days",
       "tags": []
     },
     {
@@ -191,42 +227,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Hotel bookings fall short of expectations as price-conscious fans opt to stay in American homes",
-      "tags": []
-    },
-    {
-      "id": "87c1795f9b6d",
-      "title": "Big Tech to face fines for consumer protection failures, says EU official",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/25640be5-a5bd-4548-81f9-bd0e16f87f35",
-      "published_at": "2026-07-12T04:00:06+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Justice commissioner Michael McGrath says Brussels seeks to strengthen social media safeguards",
-      "tags": []
-    },
-    {
-      "id": "7918c7e31c5d",
-      "title": "Quantum is exciting, but watch out for the Schrödinger’s cat bounce",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/b85769b5-ca03-466a-a76c-13a772d8bcf4",
-      "published_at": "2026-07-12T04:00:14+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The ‘fault tolerant’ computer — one that is acceptably error-free — is still some time away",
-      "tags": []
-    },
-    {
-      "id": "fe3ad57cc805",
-      "title": "Big private equity firms pull in more cash as winners take all",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/b7130eb3-c8bd-460f-9d8a-082e7bb48b48",
-      "published_at": "2026-07-12T04:00:06+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Shrinking pool of recipients points to coming wave of so-called zombie firms",
       "tags": []
     },
     {
@@ -350,6 +350,42 @@
       "tags": []
     },
     {
+      "id": "18e3b43b6ea5",
+      "title": "Bitcoin, ether little changed as U.S. launches fresh Iran strikes",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/markets/2026/07/12/bitcoin-ether-little-changed-as-u-s-launches-fresh-iran-strikes",
+      "published_at": "2026-07-12T06:18:15+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Bitcoin, ether little changed as U.S. launches fresh Iran strikes",
+      "tags": []
+    },
+    {
+      "id": "ddbdb5387fa6",
+      "title": "Ripple once weighed shutting down and handing XRP to shareholders, CEO says",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/markets/2026/07/12/ripple-once-weighed-shutting-down-and-handing-xrp-to-shareholders-ceo-says",
+      "published_at": "2026-07-12T06:09:49+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Ripple once weighed shutting down and handing XRP to shareholders, CEO says",
+      "tags": []
+    },
+    {
+      "id": "1712bdf6957e",
+      "title": "Bitcoin’s BIP 110 fork deadline nears with miner support at zero",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/tech/2026/07/12/bitcoin-s-bip-110-fork-deadline-nears-with-miner-support-at-zero",
+      "published_at": "2026-07-12T05:49:52+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Bitcoin’s BIP 110 fork deadline nears with miner support at zero",
+      "tags": []
+    },
+    {
       "id": "b3d6af79e7c4",
       "title": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
@@ -434,51 +470,111 @@
       "tags": []
     },
     {
-      "id": "477502360e25",
-      "title": "U.S. government digital dollar set to be banned tonight under housing law's CBDC limit",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/policy/2026/07/10/u-s-government-digital-dollar-set-to-be-banned-tonight-under-housing-law-s-cbdc-limit",
-      "published_at": "2026-07-10T16:02:21+00:00",
+      "id": "5d7cd691cbdf",
+      "title": "BYD's Growing Exports Meet Cash Flow/Balance Sheet Risks - Growth Pains Persist",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4921404-byd-stock-growing-exports-cash-flow-balance-sheet-risks-growth-pains?source=feed_all_articles",
+      "published_at": "2026-07-12T08:35:50+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "U.S. government digital dollar set to be banned tonight under housing law's CBDC limit",
+      "summary": "BYD's Growing Exports Meet Cash Flow/Balance Sheet Risks - Growth Pains Persist",
       "tags": []
     },
     {
-      "id": "d14680398efe",
-      "title": "Hyundai becomes first major South Korean company to introduce internal stablecoin transfers",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/07/10/hyundai-becomes-first-major-south-korean-company-to-introduce-internal-stablecoin-transfers",
-      "published_at": "2026-07-10T15:26:43+00:00",
+      "id": "2f6363eb3ea4",
+      "title": "Lumen: A Patient Buy Where The Entry Is Urgent But The Payoff Isn't",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4921403-lumen-stock-patient-buy-entry-urgent-but-payoff-isnt?source=feed_all_articles",
+      "published_at": "2026-07-12T07:58:33+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Hyundai becomes first major South Korean company to introduce internal stablecoin transfers",
+      "summary": "Lumen: A Patient Buy Where The Entry Is Urgent But The Payoff Isn't",
       "tags": []
     },
     {
-      "id": "41d1ddd56531",
-      "title": "OKX, MetaMask, Matter Labs back dispute resolution court for AI agents",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/07/10/okx-metamask-matter-labs-back-dispute-resolution-court-for-ai-agents",
-      "published_at": "2026-07-10T12:29:08+00:00",
+      "id": "f3a67c637c9e",
+      "title": "Mar Vista U.S. Quality Premier Portfolio Q2 2026 Portfolio Activity",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4921402-mar-vista-us-quality-premier-portfolio-q2-2026-portfolio-activity?source=feed_all_articles",
+      "published_at": "2026-07-12T07:42:00+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "OKX, MetaMask, Matter Labs back dispute resolution court for AI agents",
+      "summary": "Mar Vista U.S. Quality Premier Portfolio Q2 2026 Portfolio Activity",
+      "tags": []
+    },
+    {
+      "id": "fbb77af8a386",
+      "title": "Mar Vista U.S. Quality Premier Portfolio Q2 2026 Commentary",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4921400-mar-vista-us-quality-premier-portfolio-q2-2026-commentary?source=feed_all_articles",
+      "published_at": "2026-07-12T07:34:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Mar Vista U.S. Quality Premier Portfolio Q2 2026 Commentary",
+      "tags": []
+    },
+    {
+      "id": "7da7c65487e2",
+      "title": "Kevin Warsh's First FOMC Meeting Was A Success - But Where Does It Lead?",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4921398-kevin-warshs-first-fomc-meeting-was-a-success-but-where-does-it-lead?source=feed_all_articles",
+      "published_at": "2026-07-12T07:17:37+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Kevin Warsh's First FOMC Meeting Was A Success - But Where Does It Lead?",
+      "tags": []
+    },
+    {
+      "id": "8a1eecdd2078",
+      "title": "ZWB:CA: Strong Q2 But Rated As Hold Due To Valuation Concerns",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4921396-zwbca-strong-q2-but-rated-as-hold-due-to-valuation-concerns?source=feed_all_articles",
+      "published_at": "2026-07-12T07:05:29+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "ZWB:CA: Strong Q2 But Rated As Hold Due To Valuation Concerns",
+      "tags": []
+    },
+    {
+      "id": "01a72f085f4c",
+      "title": "Ventas: Ahead Of Q2 Results, Lots To Like About This Senior-Care REIT",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4921394-ventas-q2-results-senior-care-reit?source=feed_all_articles",
+      "published_at": "2026-07-12T06:36:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Ventas: Ahead Of Q2 Results, Lots To Like About This Senior-Care REIT",
+      "tags": []
+    },
+    {
+      "id": "fb735818ec45",
+      "title": "HORAN Capital Advisors Summer 2026 Quarterly Investor Letter",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4921395-horan-capital-advisors-summer-2026-quarterly-investor-letter?source=feed_all_articles",
+      "published_at": "2026-07-12T06:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "HORAN Capital Advisors Summer 2026 Quarterly Investor Letter",
       "tags": []
     },
     {
       "id": "03fed24f0109",
-      "title": "PepsiCo: It's Undervalued But Recent Growth Struggles Are A Concern",
+      "title": "PepsiCo: It's Undervalued, But Recent Growth Struggles Are A Concern",
       "source": "All Articles on Seeking Alpha",
       "url": "https://seekingalpha.com/article/4921393-pepsico-its-undervalued-but-recent-growth-struggles-are-a-concern?source=feed_all_articles",
       "published_at": "2026-07-12T04:20:58+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "PepsiCo: It's Undervalued But Recent Growth Struggles Are A Concern",
+      "summary": "PepsiCo: It's Undervalued, But Recent Growth Struggles Are A Concern",
       "tags": []
     },
     {
@@ -491,102 +587,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Politics And The Markets 07/12/26",
-      "tags": []
-    },
-    {
-      "id": "e751be957395",
-      "title": "Wabash National: Stock At A Key Pivot Point During An Industry Recovery",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4921392-wabash-national-stock-at-a-key-pivot-point-during-an-industry-recovery?source=feed_all_articles",
-      "published_at": "2026-07-12T03:52:43+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Wabash National: Stock At A Key Pivot Point During An Industry Recovery",
-      "tags": []
-    },
-    {
-      "id": "1cefed1e8d1e",
-      "title": "Defensive Leader Kraft Heinz Is Experiencing Bullish Capital Rotation",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4921391-defensive-leader-kraft-heinz-is-experiencing-bullish-capital-rotation?source=feed_all_articles",
-      "published_at": "2026-07-12T03:45:28+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Defensive Leader Kraft Heinz Is Experiencing Bullish Capital Rotation",
-      "tags": []
-    },
-    {
-      "id": "cf200d2cc2a1",
-      "title": "RDIV: A Yield Play For A Broader Market, But Not A Buy Yet",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4921390-rdiv-a-yield-play-for-a-broader-market-but-not-a-buy-yet?source=feed_all_articles",
-      "published_at": "2026-07-12T03:31:09+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "RDIV: A Yield Play For A Broader Market, But Not A Buy Yet",
-      "tags": []
-    },
-    {
-      "id": "f176a53ebae8",
-      "title": "Lam Research: Wouldn't Be Surprised If Consolidation Is Next (Rating Downgrade)",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4921389-lam-research-stock-consolidation-next-rating-downgrade?source=feed_all_articles",
-      "published_at": "2026-07-12T03:24:05+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Lam Research: Wouldn't Be Surprised If Consolidation Is Next (Rating Downgrade)",
-      "tags": []
-    },
-    {
-      "id": "fee50ce3c8ac",
-      "title": "Nasdaq: FinTech Strength, Rising Profits, But Flat Stock Warrants An Upgrade",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4921388-nasdaq-fintech-strength-rising-profits-but-flat-stock-warrants-an-upgrade?source=feed_all_articles",
-      "published_at": "2026-07-12T03:22:26+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Nasdaq: FinTech Strength, Rising Profits, But Flat Stock Warrants An Upgrade",
-      "tags": []
-    },
-    {
-      "id": "fdff9cae446e",
-      "title": "HeartFlow: A Premium AI Diagnostics Story",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4921387-heartflow-stock-premium-ai-diagnostics-story?source=feed_all_articles",
-      "published_at": "2026-07-12T03:10:20+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "HeartFlow: A Premium AI Diagnostics Story",
-      "tags": []
-    },
-    {
-      "id": "a1911ff543c6",
-      "title": "Crescent Energy: Concentrating On Free Cash Flow Growth",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4921385-crescent-energy-concentrating-on-free-cash-flow-growth?source=feed_all_articles",
-      "published_at": "2026-07-12T02:44:01+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Crescent Energy: Concentrating On Free Cash Flow Growth",
-      "tags": []
-    },
-    {
-      "id": "c3f7afc67aaa",
-      "title": "Arrow Electronics: Why I Prefer It To Avnet Today",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4921384-arrow-electronics-why-i-prefer-it-to-avnet-today?source=feed_all_articles",
-      "published_at": "2026-07-12T02:33:13+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Arrow Electronics: Why I Prefer It To Avnet Today",
       "tags": []
     }
   ]
