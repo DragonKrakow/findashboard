@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-11T20:18:50.379155+00:00",
+  "generated_at": "2026-07-12T00:35:49.812449+00:00",
   "articles": [
+    {
+      "id": "b19acd5052e2",
+      "title": "Korea’s World-Beating Stocks Are Now Trading Cheaper Than Ever",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-12/korea-s-world-beating-stocks-are-now-trading-cheaper-than-ever",
+      "published_at": "2026-07-12T00:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "South Korea’s blistering stock rally has left investors facing an unlikely backdrop: equities trading at record-low valuations.",
+      "tags": []
+    },
+    {
+      "id": "6810cdac61eb",
+      "title": "Modi Courts Pacific Partners as China, US Reshape Region",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-11/modi-courts-indo-pacific-partners-as-china-us-reshape-region",
+      "published_at": "2026-07-11T21:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "From missiles and uranium to critical minerals and sports diplomacy, Prime Minister Narendra Modi used a three-nation tour to deepen India’s Indo-Pacific partnerships as regional powers strengthen tie",
+      "tags": []
+    },
     {
       "id": "a13ae8f2edd4",
       "title": "Warsh and US Inflation Will Set Tone for July Fed Decision",
@@ -98,30 +122,6 @@
       "tags": []
     },
     {
-      "id": "9d77a08f7e7e",
-      "title": "Hormuz Reopening Faces Costly Hurdles",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-11/hormuz-reopening-faces-costly-hurdles-video",
-      "published_at": "2026-07-11T13:57:43+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Senior Fellow at the Council on Foreign Relations Clara Gillespie says Gulf energy flows face an uncertain recovery as producers work to clear ships, bring in tankers, restart halted output and repair",
-      "tags": []
-    },
-    {
-      "id": "ce1ab8e34385",
-      "title": "Hormuz Dispute Clouds US Iran Diplomacy",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-11/hormuz-dispute-clouds-us-iran-diplomacy-video",
-      "published_at": "2026-07-11T13:57:06+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Bloomberg News Middle East reporter Dan Williams says negotiations between the US and Iran remain focused on securing freedom of navigation through the Strait of Hormuz, even as President Donald Trump",
-      "tags": []
-    },
-    {
       "id": "45e447a800a0",
       "title": "How AI rebrands fail to deliver a lasting share price boost",
       "source": "International homepage",
@@ -131,18 +131,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Most of the groups that pivoted have not sustained their valuation gains, an FT analysis has found",
-      "tags": []
-    },
-    {
-      "id": "c6af4bb729a4",
-      "title": "Apple sues OpenAI alleging theft of top-secret information",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/5054739e-7f97-455c-910a-dd8a8150fed2",
-      "published_at": "2026-07-10T22:50:16+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Lawsuit marks collapse of relationship between two of the biggest names in Silicon Valley",
       "tags": []
     },
     {
@@ -182,15 +170,27 @@
       "tags": []
     },
     {
-      "id": "6a36d6ef6841",
-      "title": "Trump ups the pressure on US companies in drive to lower prices",
+      "id": "06425204f679",
+      "title": "US strikes again after Iran declares Strait of Hormuz closed",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/3e3d18d8-d6c2-4846-93ad-67ea0aaa12a2",
-      "published_at": "2026-07-11T11:00:08+00:00",
+      "url": "https://www.ft.com/content/6b6c23e9-f24e-4c3e-bb1a-e5cb6860008d",
+      "published_at": "2026-07-12T00:00:34+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Critics fear shift to ‘hyper-populist playbook’ as inflation lingers",
+      "summary": "IRGC hits commercial ship transiting through waterway, with Centcom saying a crew member was missing from vessel",
+      "tags": []
+    },
+    {
+      "id": "eee0cb46e97f",
+      "title": "Inside the risky race through the Strait of Hormuz",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/68d396cd-2800-4ff8-b563-1f5c95beb9ba",
+      "published_at": "2026-07-11T04:00:41+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Vessels that dare to use route close to Oman’s coast face increased risk of Iranian missiles",
       "tags": []
     },
     {
@@ -206,15 +206,27 @@
       "tags": []
     },
     {
-      "id": "cc8bdb334681",
-      "title": "US relaxes export controls on advanced chips and drones for UAE",
+      "id": "b14d82c9efa0",
+      "title": "Donald Trump clears path for $4.5bn bridge between Canada and US",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/8f33a9b2-bf8a-4c11-8a94-5d86a93b29ba",
-      "published_at": "2026-07-10T21:25:08+00:00",
+      "url": "https://www.ft.com/content/7c9c3e82-63c5-442f-aef5-09f6b7bb501f",
+      "published_at": "2026-07-11T20:28:18+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Gulf state will receive access to sophisticated American technology",
+      "summary": "President drops objection to much delayed project after claiming to have won ‘much better deal’",
+      "tags": []
+    },
+    {
+      "id": "6a36d6ef6841",
+      "title": "Trump ups the pressure on US companies in drive to lower prices",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/3e3d18d8-d6c2-4846-93ad-67ea0aaa12a2",
+      "published_at": "2026-07-11T11:00:08+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Critics fear shift to ‘hyper-populist playbook’ as inflation lingers",
       "tags": []
     },
     {
@@ -458,6 +470,30 @@
       "tags": []
     },
     {
+      "id": "404db5704099",
+      "title": "POSCO Holdings Inc. (PKX) Analyst/Investor Day - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4921381-posco-holdings-inc-pkx-analyst-investor-day-slideshow?source=feed_all_articles",
+      "published_at": "2026-07-11T23:02:10+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "POSCO Holdings Inc. (PKX) Analyst/Investor Day - Slideshow",
+      "tags": []
+    },
+    {
+      "id": "44ba0b859b04",
+      "title": "Vistance Networks: A Leaner Company, But A Wait-And-See Rating (Rating Downgrade)",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4921374-vistance-networks-a-leaner-company-but-a-wait-and-see-rating-rating-downgrade?source=feed_all_articles",
+      "published_at": "2026-07-11T20:33:10+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Vistance Networks: A Leaner Company, But A Wait-And-See Rating (Rating Downgrade)",
+      "tags": []
+    },
+    {
       "id": "8e5b40995799",
       "title": "Lightwave Logic: The Marvell-Polariton Setup Is The Real Story",
       "source": "All Articles on Seeking Alpha",
@@ -551,30 +587,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Atlanta Braves Q2 2026 Earnings Preview: Battery Atlanta Drives Growth",
-      "tags": []
-    },
-    {
-      "id": "cd5c3e709c08",
-      "title": "Banking Heavyweights To Kick Off Earnings Next Week",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4921238-banking-heavyweights-to-kick-off-earnings-next-week?source=feed_all_articles",
-      "published_at": "2026-07-11T15:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Banking Heavyweights To Kick Off Earnings Next Week",
-      "tags": []
-    },
-    {
-      "id": "b3f166e2a64b",
-      "title": "SpaceX: Too Cheap To Ignore",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4921377-spacex-too-cheap-to-ignore?source=feed_all_articles",
-      "published_at": "2026-07-11T14:46:21+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "SpaceX: Too Cheap To Ignore",
       "tags": []
     }
   ]
