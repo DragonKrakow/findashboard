@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T06:16:03Z",
-  "snapshot_date": "2026-07-11",
+  "generated_at": "2026-07-12T06:21:42Z",
+  "snapshot_date": "2026-07-12",
   "totals": {
     "catalog_instruments": 39,
     "signals": 139,
@@ -12,8 +12,8 @@
     "unknown": 2
   },
   "signal_summary": {
-    "neutral": 117,
-    "bullish": 22
+    "neutral": 121,
+    "bullish": 18
   },
   "source_status": {
     "watchlist": true,

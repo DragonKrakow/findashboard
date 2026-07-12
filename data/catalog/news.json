@@ -1,74 +1,14 @@
 {
-  "generated_at": "2026-07-11T06:16:03Z",
-  "snapshot_date": "2026-07-11",
+  "generated_at": "2026-07-12T06:21:42Z",
+  "snapshot_date": "2026-07-12",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Apple sues OpenAI for alleged theft of confidential info — and says that’s just ‘the tip of the iceberg’",
-      "url": "https://www.marketwatch.com/story/apple-sues-openai-for-institutional-misconduct-and-alleges-thats-just-the-tip-of-the-iceberg-6e803c4d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-10T23:06:00+00:00",
-      "summary": "The iPhone maker claims “misconduct is normalized and exemplified by leadership” at OpenAI.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Meta’s stock roars back to life as it notches its best week in years",
-      "url": "https://www.marketwatch.com/story/metas-stock-roars-back-to-life-as-it-heads-for-its-best-week-in-years-0ff0fa7d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-10T22:24:00+00:00",
-      "summary": "Investors are bullish on Meta’s new low-cost AI pricing and infrastructure plans.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6369,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "SK Hynix’s stock sees double-digit pop in Nasdaq debut",
-      "url": "https://www.marketwatch.com/story/sk-hynixs-stock-looks-primed-for-a-pop-in-its-nasdaq-debut-38054370?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-10T22:18:00+00:00",
-      "summary": "The South Korean memory-chip company’s new American depositary receipts began trading on Friday and logged gains of nearly 13%.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.34,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "‘I get $1,460 in Social Security’: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?",
-      "url": "https://www.marketwatch.com/story/i-get-1-460-in-social-security-my-millionaire-ex-husband-74-refuses-to-pay-alimony-what-can-i-do-c5e60824?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-10T21:12:00+00:00",
-      "summary": "“I have very little money, while my ex’s financial statements show assets in the millions.”",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0772,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
       "title": "My insurance company said my roof lost a few tiles. Loss adjusters found $10,000 in storm damage. How could this happen?",
       "url": "https://www.marketwatch.com/story/my-insurance-company-said-my-roof-lost-a-few-tiles-loss-adjusters-found-10-000-in-storm-damage-how-could-this-happen-8e1cb8bf?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-10T21:11:00+00:00",
+      "published_at": "2026-07-11T21:45:00+00:00",
       "summary": "“My house shook violently from the wind.”",
       "sentiment": "bearish",
       "sentiment_score": -0.9001,
@@ -80,15 +20,14 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Where to put cash right now: Should you lock in at 4% — or wait for the next Fed rate decision?",
-      "url": "https://www.marketwatch.com/story/should-you-lock-in-a-4-cd-rate-now-heres-how-to-decide-on-the-next-move-for-your-cash-41a7ef4c?mod=mw_rss_topstories",
+      "title": "‘I get $1,460 in Social Security’: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?",
+      "url": "https://www.marketwatch.com/story/i-get-1-460-in-social-security-my-millionaire-ex-husband-74-refuses-to-pay-alimony-what-can-i-do-c5e60824?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-10T19:30:00+00:00",
-      "summary": "CD rates are at a standstill, but that could change after the next Fed meeting, or the one after that.",
+      "published_at": "2026-07-11T19:00:00+00:00",
+      "summary": "“I have very little money, while my ex’s financial statements show assets in the millions.”",
       "sentiment": "neutral",
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.0772,
       "tags": [
-        "Fed",
         "AI"
       ],
       "signal": "watch",
@@ -96,31 +35,89 @@
       "source_repo": "financenews"
     },
     {
-      "title": "A hedge-fund trade blamed for a massive market blowup in 2024 has made a big comeback, Goldman Sachs says",
-      "url": "https://www.marketwatch.com/story/a-hedge-fund-trade-blamed-for-a-massive-market-blowup-in-2024-has-made-a-big-comeback-goldman-sachs-says-f2308a78?mod=mw_rss_topstories",
+      "title": "‘It’s heartbreaking’: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
+      "url": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-10T19:04:00+00:00",
-      "summary": "The currency-market carry trade is back — and bigger than it’s been in many years.",
+      "published_at": "2026-07-11T18:46:00+00:00",
+      "summary": "“I’ve always been a little skeptical of the government’s encouragement to delay claiming benefits.”",
       "sentiment": "bearish",
-      "sentiment_score": -0.4767,
+      "sentiment_score": -0.7968,
       "tags": [
-        "Gold"
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Is it better to spend my savings now so I can delay taking Social Security? How do I choose?",
+      "url": "https://www.marketwatch.com/story/my-retirement-savings-will-suffer-if-i-delay-social-security-how-do-i-choose-between-the-two-a85273e3?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-11T16:44:00+00:00",
+      "summary": "“By claiming earlier, I could preserve more of my portfolio and allow those assets to continue compounding.”",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6904,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Your data built the AI boom — but Big Tech is pocketing 100% of the equity",
+      "url": "https://www.marketwatch.com/story/your-share-of-the-ai-wealth-is-a-right-not-a-handout-here-is-how-we-claw-back-our-money-7454b0e0?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-11T16:01:00+00:00",
+      "summary": "Your share of the AI wealth is a right — not a handout. Here is how we claw back our money.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7964,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Stocks rally when Congress goes on summer break. Here’s why.",
+      "url": "https://www.marketwatch.com/story/stocks-rally-when-congress-goes-on-summer-break-here-is-the-hidden-reason-e70a6be3?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-11T16:00:00+00:00",
+      "summary": "Stock prices face greater volatility when lawmakers are active, driven entirely by the regulatory uncertainty they create.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5994,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "These underperforming trades could yield big returns over next six months",
+      "url": "https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-07-11T15:00:01+00:00",
+      "summary": "ETF Action's Mike Akins is encouraging investors to boost exposure to groups that underperformed compared with major artificial intelligence stocks.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8583,
+      "tags": [
+        "Artificial Intelligence"
       ],
       "signal": "watch",
       "category": "markets",
       "source_repo": "financenews"
     },
     {
-      "title": "Prepare for the Fed to undo rate cuts that stabilized the economy, expert cautions",
-      "url": "https://www.marketwatch.com/story/prepare-for-the-fed-to-undo-rate-cuts-that-stabilized-the-economy-expert-cautions-bc36ea76?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-10T19:02:00+00:00",
-      "summary": "The Federal Reserve likely will take back all the 2025 ‘insurance cuts’ or not raise interest rates at all, according to RBC Wealth Management.",
-      "sentiment": "neutral",
-      "sentiment_score": -0.123,
+      "title": "Labour MPs call for Andy Burnham to restore aid spending target set by Brown",
+      "url": "https://www.theguardian.com/global-development/2026/jul/11/labour-mps-andy-burnham-overseas-aid-development-spending-levels",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-11T06:00:41+00:00",
+      "summary": "<p>Thinktank urges prospective prime minister to reclaim UK’s role as an international leader on development</p><p>Influential backbenchers are calling on Andy Burnham to reclaim Labour’s leadership on international development and chart a course back to spending 0.7% of national income on overseas aid.</p><p>In a collection of essays to be published soon by the New Economics Foundation (NEF) thinktank, MPs lay out proposals for a Burnham-led government to rethink foreign policy.</p> <a href=\"https://www.theguardian.com/global-development/2026/jul/11/labour-mps-andy-burnham-overseas-aid-development-spending-levels\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.296,
       "tags": [
-        "Interest Rates",
-        "Fed",
         "AI"
       ],
       "signal": "watch",
