@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T12:51:40.328013+00:00",
+  "generated_at": "2026-07-13T16:48:45.563355+00:00",
   "portfolio_summary": {
     "total_assets": 10,
     "buy_count": 3,
@@ -13,12 +13,11 @@
       "name": "NVIDIA Corporation",
       "sector": "Technology",
       "type": "stock",
-      "price": 210.96,
-      "change_pct": 4.0339,
+      "price": 205.0501,
+      "change_pct": -2.8014,
       "signal": "buy",
       "note": "Record earnings beat; data-centre momentum intact",
       "sparkline": [
-        208.65,
         200.04,
         199.0,
         195.74,
@@ -31,7 +30,8 @@
         196.93,
         204.12,
         202.78,
-        210.96
+        210.96,
+        205.0501
       ]
     },
     {
@@ -39,12 +39,11 @@
       "name": "Apple Inc.",
       "sector": "Technology",
       "type": "stock",
-      "price": 315.32,
-      "change_pct": -0.2846,
+      "price": 316.565,
+      "change_pct": 0.3948,
       "signal": "hold",
       "note": "WWDC catalyst expected in June; AI Siri could re-rate",
       "sparkline": [
-        297.01,
         294.3,
         293.08,
         275.15,
@@ -57,7 +56,8 @@
         310.66,
         313.39,
         316.22,
-        315.32
+        315.32,
+        316.565
       ]
     },
     {
@@ -65,12 +65,11 @@
       "name": "Microsoft Corporation",
       "sector": "Technology",
       "type": "stock",
-      "price": 385.1,
-      "change_pct": 0.1925,
+      "price": 392.67,
+      "change_pct": 1.9657,
       "signal": "buy",
       "note": "Azure AI growth accelerating; Copilot adoption exceeding estimates",
       "sparkline": [
-        367.34,
         373.94,
         365.46,
         352.83,
@@ -83,7 +82,8 @@
         388.84,
         383.34,
         384.36,
-        385.1
+        385.1,
+        392.67
       ]
     },
     {
@@ -91,12 +91,11 @@
       "name": "S&P 500 ETF",
       "sector": "Broad Market",
       "type": "etf",
-      "price": 754.95,
-      "change_pct": 0.431,
+      "price": 750.145,
+      "change_pct": -0.6365,
       "signal": "hold",
       "note": "Breadth improving; watch 530 resistance",
       "sparkline": [
-        744.39,
         733.58,
         733.24,
         734.3,
@@ -109,7 +108,8 @@
         747.71,
         745.4,
         751.71,
-        754.95
+        754.95,
+        750.145
       ]
     },
     {
@@ -117,8 +117,8 @@
       "name": "Bitcoin",
       "sector": "Crypto",
       "type": "crypto",
-      "price": 62551.6016,
-      "change_pct": -1.8925,
+      "price": 62283.1094,
+      "change_pct": -2.3136,
       "signal": "watch",
       "note": "Above $90k resistance; ETF inflows strong",
       "sparkline": [
@@ -135,7 +135,7 @@
         64127.1406,
         63802.0273,
         63758.2188,
-        62551.6016
+        62283.1094
       ]
     },
     {
@@ -143,8 +143,8 @@
       "name": "Ethereum",
       "sector": "Crypto",
       "type": "crypto",
-      "price": 1770.13,
-      "change_pct": -1.9747,
+      "price": 1771.91,
+      "change_pct": -1.8761,
       "signal": "hold",
       "note": "ETF decision in Q3; staking yield at 4.2%",
       "sparkline": [
@@ -161,7 +161,7 @@
         1795.6932,
         1788.0996,
         1805.7881,
-        1770.13
+        1771.91
       ]
     },
     {
@@ -169,12 +169,11 @@
       "name": "Gold ETF",
       "sector": "Commodities",
       "type": "etf",
-      "price": 377.01,
-      "change_pct": -0.3094,
+      "price": 366.8099,
+      "change_pct": -2.7055,
       "signal": "buy",
       "note": "Safe-haven demand rising on macro uncertainty",
       "sparkline": [
-        384.59,
         377.32,
         365.92,
         369.46,
@@ -187,7 +186,8 @@
         377.49,
         374.45,
         378.18,
-        377.01
+        377.01,
+        366.8099
       ]
     },
     {
@@ -195,12 +195,11 @@
       "name": "20yr+ Treasury ETF",
       "sector": "Fixed Income",
       "type": "etf",
-      "price": 84.47,
-      "change_pct": -0.0237,
+      "price": 84.045,
+      "change_pct": -0.5031,
       "signal": "watch",
       "note": "Rate cut expectations lifting long bonds",
       "sparkline": [
-        85.7732,
         85.8828,
         87.0585,
         87.0286,
@@ -213,7 +212,8 @@
         84.55,
         84.36,
         84.49,
-        84.47
+        84.47,
+        84.045
       ]
     },
     {
@@ -221,12 +221,11 @@
       "name": "Exxon Mobil",
       "sector": "Energy",
       "type": "stock",
-      "price": 138.88,
-      "change_pct": 1.033,
+      "price": 144.15,
+      "change_pct": 3.7946,
       "signal": "sell",
       "note": "OPEC+ supply boost pressures energy names",
       "sparkline": [
-        138.47,
         139.73,
         136.9,
         137.55,
@@ -239,7 +238,8 @@
         141.69,
         141.13,
         137.46,
-        138.88
+        138.88,
+        144.15
       ]
     },
     {
@@ -247,12 +247,11 @@
       "name": "ASML Holding",
       "sector": "Technology",
       "type": "stock",
-      "price": 1797.3199,
-      "change_pct": -0.3841,
+      "price": 1736.955,
+      "change_pct": -3.3586,
       "signal": "watch",
       "note": "EUV lithography demand strong; export-control risk from US policy",
       "sparkline": [
-        1929.25,
         1778.46,
         1762.77,
         1841.1801,
@@ -265,7 +264,8 @@
         1747.28,
         1768.65,
         1804.25,
-        1797.3199
+        1797.3199,
+        1736.955
       ]
     }
   ]
