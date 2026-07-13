@@ -1,6 +1,90 @@
 {
-  "generated_at": "2026-07-12T20:18:02.789920+00:00",
+  "generated_at": "2026-07-13T00:35:18.083710+00:00",
   "articles": [
+    {
+      "id": "073b2459b0be",
+      "title": "Oil Jumps as Conflict Over Hormuz Escalates With Fresh Strikes",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-12/latest-oil-market-news-and-analysis-for-july-13",
+      "published_at": "2026-07-12T22:02:12+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Oil jumped as the US and Iran exchanged fresh strikes, with the sides offering conflicting statements on whether the Strait of Hormuz remains open.",
+      "tags": []
+    },
+    {
+      "id": "a9db61d74668",
+      "title": "Oil Climbs, Treasuries Decline on Iran Strikes: Markets Wrap",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-12/oil-climbs-us-futures-dip-on-fresh-iran-strikes-markets-wrap",
+      "published_at": "2026-07-12T22:10:28+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Oil rose and Treasuries declined after the US launched another round of strikes against Iran, while conflicting claims over the status of the Strait of Hormuz heightened uncertainty.",
+      "tags": []
+    },
+    {
+      "id": "8f57fe3701d2",
+      "title": "Season of Selling to End Philippine Peso Rally, Strategists Say",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/season-of-selling-to-end-philippine-peso-rally-strategists-say",
+      "published_at": "2026-07-13T00:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The Philippine peso’s relief rally following the initial US-Iran ceasefire is likely to be short-lived as seasonal selling drives the currency to new record lows, strategists say.",
+      "tags": []
+    },
+    {
+      "id": "020595791484",
+      "title": "Gold Declines as Renewed US-Iran Strikes Raise Rate-Hike Bets",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-12/gold-declines-as-renewed-us-iran-strikes-raise-rate-hike-bets",
+      "published_at": "2026-07-12T23:13:35+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Gold declined after the US and Iran exchanged strikes over the weekend, sending energy prices higher and once more raising the prospects for interest-rate hikes to combat inflation.",
+      "tags": []
+    },
+    {
+      "id": "880051c31585",
+      "title": "US Renews Iran Strikes as Both Sides Dispute Hormuz Status",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-12/us-iran-trade-wave-of-attacks-as-tehran-says-hormuz-closed",
+      "published_at": "2026-07-12T08:06:08+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The US launched fresh missile attacks against Iran on Sunday in what has become a pattern of strikes and counterstrikes by Washington and Tehran as the two sides issued conflicting declarations over w",
+      "tags": []
+    },
+    {
+      "id": "8a683f0abb14",
+      "title": "US Says It Began Launching More Strikes Against Iran at 5pm ET",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-12/us-says-it-began-launching-more-strikes-against-iran-at-5pm-et",
+      "published_at": "2026-07-12T21:22:42+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "US Central Command forces began launching more strikes against Iran at 5 p.m. ET today, to continue degrading their ability to attack civilian mariners and commercial ships freely transiting the Strai",
+      "tags": []
+    },
+    {
+      "id": "7e55bd5ec6b7",
+      "title": "【今朝の5本】仕事を始める前に読んでおきたい厳選ニュース",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/jp/news/newsletters/2026-07-12/TI2YJ2RKV2TH00",
+      "published_at": "2026-07-12T21:04:14+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "​米イラン応酬激化、AI開発競争、グラム上院議員死去、アップルが提訴、半導体株に慎重",
+      "tags": []
+    },
     {
       "id": "c1f240639d84",
       "title": "Traders Grapple With World That’s Good for Dollar, Bad for Bonds",
@@ -38,99 +122,27 @@
       "tags": []
     },
     {
-      "id": "996d3ff008bb",
-      "title": "Stanton Warns Hormuz Closure Hurts Economy",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-12/stanton-warns-hormuz-closure-hurts-economy-video",
-      "published_at": "2026-07-12T17:27:54+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Rep. Greg Stanton says the Trump administration needs a stronger diplomatic strategy to reopen the Strait of Hormuz and negotiate a more accountable agreement with Iran, warning the conflict has incre",
-      "tags": []
-    },
-    {
-      "id": "65e9806db4fb",
-      "title": "Demographic Shift Tests AI Promise",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-12/demographic-shift-tests-ai-promise-video",
-      "published_at": "2026-07-12T17:20:13+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Martha Gimbel, executive director and cofounder of the Budget Lab at Yale University, says artificial intelligence is unlikely to offset the economic challenges of an aging population, arguing the US ",
-      "tags": []
-    },
-    {
-      "id": "880051c31585",
-      "title": "US, Iran Trade Strikes While Disputing Status of Hormuz",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-12/us-iran-trade-wave-of-attacks-as-tehran-says-hormuz-closed",
-      "published_at": "2026-07-12T08:06:08+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The US struck Iran for a third time in a week, prompting retaliatory attacks on at least five Arab nations as Washington and Tehran issued conflicting declarations over whether the Strait of Hormuz re",
-      "tags": []
-    },
-    {
-      "id": "a13ae8f2edd4",
-      "title": "Warsh and US Inflation Will Set Tone for July Fed Decision",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-11/warsh-and-us-inflation-will-set-tone-for-july-fed-decision",
-      "published_at": "2026-07-11T20:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Kevin Warsh is about to make his first appearance before Congress as Federal Reserve chairman, and during two days of testimony he’ll have new US inflation data to parse with lawmakers.",
-      "tags": []
-    },
-    {
-      "id": "e10df895b1c7",
-      "title": "Volker Sees NATO Summit Strengthening Alliance",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-12/volker-sees-nato-summit-strengthening-alliance-video",
-      "published_at": "2026-07-12T16:34:49+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Former US ambassador to NATO Kurt Volker says the NATO summit reinforces alliance unity, strengthens support for Ukraine and sends a tougher message to Russian President Vladimir Putin, while praising",
-      "tags": []
-    },
-    {
-      "id": "d6d7982c2279",
-      "title": "Oil Market Prices In Hormuz Resilience",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-12/oil-market-prices-in-hormuz-resilience-video",
-      "published_at": "2026-07-12T16:08:25+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Bloomberg Intelligence senior commodities strategist Mike McGlone says oil markets are largely accepting US assurances that the Strait of Hormuz remains open, with expanding Western Hemisphere supply ",
-      "tags": []
-    },
-    {
-      "id": "d95064bc4c43",
-      "title": "Navy Chief Backs Bigger NATO Role",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-12/navy-chief-backs-bigger-nato-role-video",
-      "published_at": "2026-07-12T15:55:40+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Chief of Naval Operations Adm. Daryl Caudle says NATO's naval alliances remain strong as the US shifts more responsibility to allies while focusing on capabilities only the US Navy can provide. He say",
-      "tags": []
-    },
-    {
-      "id": "06425204f679",
-      "title": "US launches new strikes on Iran in battle over Strait of Hormuz",
+      "id": "6c3eb395e64a",
+      "title": "US launches another round of strikes on Iran as ceasefire teeters",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/6b6c23e9-f24e-4c3e-bb1a-e5cb6860008d",
-      "published_at": "2026-07-12T17:12:26+00:00",
+      "url": "https://www.ft.com/content/c5beec47-ba53-412e-910e-6b9ab2f3238d",
+      "published_at": "2026-07-12T22:52:37+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Trump claims waterway is open while Tehran says it will remain closed until ‘further notice’",
+      "summary": "Fighting escalates as Trump insists the Strait of Hormuz remains open while Tehran says it is closed",
+      "tags": []
+    },
+    {
+      "id": "0e93c8262da3",
+      "title": "Oil prices jump as US and Iran step up tit-for-tat strikes",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/a3075fc2-74bd-4908-ab02-bbac79c32ee6",
+      "published_at": "2026-07-12T22:41:05+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Traders fear escalating hostilities could further restrict the flow of crude through the Strait of Hormuz",
       "tags": []
     },
     {
@@ -158,15 +170,15 @@
       "tags": []
     },
     {
-      "id": "16a6f5f3abde",
-      "title": "Knives out at US Supreme Court as justices’ squabbles go public",
+      "id": "90977803dabe",
+      "title": "A three-way nuclear arms race",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/815fe0f4-03c5-4583-9baf-a0cf679624a7",
-      "published_at": "2026-07-12T10:00:06+00:00",
+      "url": "https://www.ft.com/content/e7ff97e3-a4a2-4237-af16-de7115296ca6",
+      "published_at": "2026-07-12T12:00:07+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "The spilling-over of partisan divisions on the normally collegiate bench erodes public support for the institution",
+      "summary": "Today’s world has alarming echoes of the era before weapons controls",
       "tags": []
     },
     {
@@ -186,11 +198,11 @@
       "title": "US senator Lindsey Graham dies aged 71",
       "source": "International homepage",
       "url": "https://www.ft.com/content/b3b93565-652a-41e9-aabd-9ed35309bdeb",
-      "published_at": "2026-07-12T09:26:47+00:00",
+      "published_at": "2026-07-12T21:46:52+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "South Carolina politician was one of the most influential and hawkish Republicans",
+      "summary": "South Carolina politician, who died from cardiovascular disease, was one of the most influential and hawkish Republicans",
       "tags": []
     },
     {
@@ -230,15 +242,15 @@
       "tags": []
     },
     {
-      "id": "ce12ea327d64",
-      "title": "Qatar’s Sheikh Hamad bin Khalifa al-Thani dies aged 74",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/99d08a69-6c14-46fd-bf91-2ac517f7a475",
-      "published_at": "2026-07-12T15:37:49+00:00",
+      "id": "03b04ebefa0e",
+      "title": "Robinhood L2 sparks ETH optimism, Saylor 'muddies waters.' Hodler's Digest, July 5-12, 2026",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/features/ethereum-climbs-as-robinhood-l2-takes-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-07-12T23:24:26+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Former ruler was known for modernising gas-rich Gulf state and pursuing regional dialogue rather than confrontation",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Robinhood L2 sparks ETH optimism, Saylor 'muddies waters.' Hodler's Digest, July 5-12, 2026\" class=\"type:primaryImage\" src=\"http",
       "tags": []
     },
     {
@@ -347,18 +359,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bonzo Lend loses $9M in oracle exploit on Hedera\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
-      "tags": []
-    },
-    {
-      "id": "ef47c5f42175",
-      "title": "Bitcoin price gains nearly 10% in July, but traders still see BTC copying 2022 bear market",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-gains-nearly-10-in-july-but-traders-still-see-btc-copying-2022-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-07-11T11:21:07+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price gains nearly 10% in July, but traders still see BTC copying 2022 bear market\" class=\"type:primaryImage\" src=\"https",
       "tags": []
     },
     {
@@ -482,6 +482,66 @@
       "tags": []
     },
     {
+      "id": "9fce842f095e",
+      "title": "Ooma: Stock Could Outperform On Above-Average Growth And A Low Valuation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4921456-ooma-stock-could-outperform-on-above-average-growth-low-valuation?source=feed_all_articles",
+      "published_at": "2026-07-13T00:33:38+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Ooma: Stock Could Outperform On Above-Average Growth And A Low Valuation",
+      "tags": []
+    },
+    {
+      "id": "edf3f10491d3",
+      "title": "AH Realty Trust: An Unsafe 8% Dividend, But A Strong Long-Term Buy",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4921451-ah-realty-trust-an-unsafe-8-percent-dividend-but-a-strong-long-term-buy?source=feed_all_articles",
+      "published_at": "2026-07-13T00:20:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "AH Realty Trust: An Unsafe 8% Dividend, But A Strong Long-Term Buy",
+      "tags": []
+    },
+    {
+      "id": "9a20496c7f3a",
+      "title": "Similarweb: Large LLM Contracts Represent A New Era For This Analytics Company",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4921453-similarweb-large-llm-contracts-represent-a-new-era-for-this-analytics-company?source=feed_all_articles",
+      "published_at": "2026-07-13T00:14:30+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Similarweb: Large LLM Contracts Represent A New Era For This Analytics Company",
+      "tags": []
+    },
+    {
+      "id": "5b5deb8311ac",
+      "title": "Apple: AI Toll Booth Myth",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4921441-apple-ai-toll-booth-myth?source=feed_all_articles",
+      "published_at": "2026-07-13T00:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Apple: AI Toll Booth Myth",
+      "tags": []
+    },
+    {
+      "id": "5d70b72d200e",
+      "title": "CSD: There's More To The Spin-Off Story Than Sandisk",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4921450-csd-theres-more-to-the-spin-off-story-than-sandisk?source=feed_all_articles",
+      "published_at": "2026-07-12T23:41:07+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "CSD: There's More To The Spin-Off Story Than Sandisk",
+      "tags": []
+    },
+    {
       "id": "16b3262f0a37",
       "title": "S&P500: Set Up For Disappointment, And Earnings Won't Help",
       "source": "All Articles on Seeking Alpha",
@@ -539,66 +599,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Wall Street Brunch: Will AI Steal Earnings Spotlight From Banks?",
-      "tags": []
-    },
-    {
-      "id": "c79fbdfff65f",
-      "title": "Thornburg Global Opportunities Fund Q2 2026 Commentary",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4921445-thornburg-global-opportunities-fund-q2-2026-commentary?source=feed_all_articles",
-      "published_at": "2026-07-12T16:12:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Thornburg Global Opportunities Fund Q2 2026 Commentary",
-      "tags": []
-    },
-    {
-      "id": "a4a07db58906",
-      "title": "Disney: The IP Flywheel Is Working Better Than Ever",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4921443-disney-stock-ip-flywheel-is-working-better-than-ever?source=feed_all_articles",
-      "published_at": "2026-07-12T16:00:39+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Disney: The IP Flywheel Is Working Better Than Ever",
-      "tags": []
-    },
-    {
-      "id": "b1f4c9bbad63",
-      "title": "Q2 Earnings: The 'AI Bubble' Will Accelerate As We Enter Definite Optimism",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4921440-q2-earnings-ai-bubble-will-accelerate-as-we-enter-definite-optimism?source=feed_all_articles",
-      "published_at": "2026-07-12T15:28:32+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Q2 Earnings: The 'AI Bubble' Will Accelerate As We Enter Definite Optimism",
-      "tags": []
-    },
-    {
-      "id": "303a4a4095a3",
-      "title": "Tesla And The Emperor's New Clothes",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4921439-tesla-and-the-emperors-new-clothes?source=feed_all_articles",
-      "published_at": "2026-07-12T15:12:27+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Tesla And The Emperor's New Clothes",
-      "tags": []
-    },
-    {
-      "id": "9332cda031c5",
-      "title": "STMicroelectronics: A Strong Case For Valuation Investing, And Rotation (Rating Downgrade)",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4921438-stmicroelectronics-strong-case-for-valuation-investing-and-rotation-rating-downgrade?source=feed_all_articles",
-      "published_at": "2026-07-12T14:58:41+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "STMicroelectronics: A Strong Case For Valuation Investing, And Rotation (Rating Downgrade)",
       "tags": []
     }
   ]
