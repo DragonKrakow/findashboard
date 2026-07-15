@@ -1,917 +1,1219 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="google-site-verification" content="GwU3JqNCjMbQLsC8WSmyg6S_TbtftJ_W4MkMnwloz6I" />
-  <title>FinDashboard Pro</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FinDashboard Pro — Geopolitical & Macro Risk Matrix</title>
 
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-SR4N39WRSQ"></script>
+  <!-- Google tag (gtag.js) with Consent Mode v2 -->
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
+
+    // Default: deny all tracking until the user makes a choice.
+    // This must run BEFORE gtag.js loads.
+    gtag('consent', 'default', {
+      'analytics_storage': 'denied',
+      'ad_storage': 'denied',
+      'ad_user_data': 'denied',
+      'ad_personalization': 'denied',
+      'wait_for_update': 500
+    });
+
+    // If the user already chose "accept" on a previous visit, restore that.
+    if (localStorage.getItem('cookie_consent') === 'accepted') {
+      gtag('consent', 'update', { 'analytics_storage': 'granted' });
+    }
+
     gtag('js', new Date());
-    gtag('config', 'G-SR4N39WRSQ');
+    gtag('config', 'G-K1Q5VEX90E');
   </script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-K1Q5VEX90E"></script>
 
+  <!-- Chart.js Engine integration -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  
   <style>
-    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
     :root {
-      --bg:          #0d1117;
-      --surface:     #161b22;
-      --surface2:    #1f2733;
-      --border:      #30363d;
-      --text:        #e6edf3;
-      --text-muted:  #8b949e;
-      --green:       #3fb950;
-      --red:         #f85149;
-      --yellow:      #d29922;
-      --blue:        #58a6ff;
-      --purple:      #bc8cff;
-      --orange:      #e3b341;
-      --radius:      8px;
-      --font:        'Segoe UI', system-ui, sans-serif;
-      --header-h:    56px;
-      --quotebar-h:  32px;
-      --nav-offset:  calc(var(--header-h) + var(--quotebar-h));
+      --bg-primary: #f8fafc;
+      --bg-surface: #ffffff;
+      --border-color: #e2e8f0;
+      --text-main: #0f172a;
+      --text-muted: #64748b;
+      
+      --primary: #1e3a5f;
+      --primary-light: #2563eb;
+      --secondary: #0284c7;
+      
+      --green: #16a34a;
+      --green-light: #dcfce7;
+      --amber: #d97706;
+      --amber-light: #fef3c7;
+      --red: #dc2626;
+      --red-light: #fee2e2;
+      
+      --font-stack: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     }
 
-    body {
-      background: var(--bg);
-      color: var(--text);
-      font-family: var(--font);
-      font-size: 14px;
-      line-height: 1.5;
-      min-height: 100vh;
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: var(--font-stack); background: var(--bg-primary); color: var(--text-main); line-height: 1.5; padding: 20px; }
+    
+    .layout-wrapper { max-width: 1600px; margin: 0 auto; display: grid; grid-template-columns: 260px 1fr; gap: 24px; }
+    
+    /* Sidebar Navigation */
+    aside { background: var(--bg-surface); border: 1px solid var(--border-color); border-radius: 12px; padding: 24px; height: fit-content; }
+    .brand { font-size: 18px; font-weight: 700; color: var(--primary); margin-bottom: 24px; display: flex; align-items: center; gap: 8px; }
+    .nav-group { display: flex; flex-direction: column; gap: 8px; }
+    .nav-btn { background: none; border: none; text-align: left; padding: 10px 14px; border-radius: 8px; font-size: 14px; font-weight: 500; color: var(--text-muted); cursor: pointer; transition: all 0.2s; display: flex; align-items: center; gap: 10px; }
+    .nav-btn:hover { background: var(--bg-primary); color: var(--text-main); }
+    .nav-btn.active { background: var(--primary); color: white; }
+    
+    /* Main Panel Content */
+    main { display: flex; flex-direction: column; gap: 24px; }
+    
+    header { background: var(--bg-surface); border: 1px solid var(--border-color); border-radius: 12px; padding: 20px 24px; display: flex; justify-content: space-between; align-items: center; }
+    .header-title h1 { font-size: 22px; font-weight: 700; color: var(--primary); }
+    .header-title p { font-size: 13px; color: var(--text-muted); margin-top: 2px; }
+    .header-meta { text-align: right; font-size: 13px; color: var(--text-muted); }
+    .header-meta strong { color: var(--text-main); }
+
+    /* Dashboard KPI Section */
+    .kpi-row { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+    .kpi-card { background: var(--bg-surface); border: 1px solid var(--border-color); border-radius: 12px; padding: 20px; position: relative; }
+    .kpi-label { font-size: 12px; font-weight: 600; color: var(--text-muted); text-transform: uppercase; tracking: 0.5px; }
+    .kpi-value { font-size: 28px; font-weight: 700; margin-top: 8px; color: var(--primary); }
+    .kpi-sub { font-size: 12px; margin-top: 6px; color: var(--text-muted); }
+    .kpi-sub span { font-weight: 600; color: var(--green); }
+
+    /* Structural Framework View Sections */
+    .section { display: none; background: var(--bg-surface); border: 1px solid var(--border-color); border-radius: 12px; padding: 24px; }
+    .section.active { display: block; animation: fadeIn 0.25s ease-in-out; }
+    @keyframes fadeIn { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: translateY(0); } }
+
+    .sec-header { margin-bottom: 20px; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--border-color); padding-bottom: 16px; }
+    .sec-title { font-size: 18px; font-weight: 700; color: var(--primary); }
+    .sec-sub { font-size: 13px; color: var(--text-muted); margin-top: 2px; }
+
+    /* Data Tables Layout */
+    .table-controls { display: flex; justify-content: space-between; gap: 16px; margin-bottom: 16px; }
+    .search-input { padding: 8px 14px; border: 1px solid var(--border-color); border-radius: 6px; font-size: 14px; width: 300px; }
+    .filter-tabs { display: flex; gap: 8px; }
+    .filter-btn { background: var(--bg-primary); border: 1px solid var(--border-color); padding: 6px 12px; border-radius: 6px; font-size: 13px; font-weight: 500; cursor: pointer; color: var(--text-muted); }
+    .filter-btn.active { background: var(--primary); color: white; border-color: var(--primary); }
+
+    .table-container { width: 100%; overflow-x: auto; }
+    table { width: 100%; border-collapse: collapse; text-align: left; font-size: 14px; }
+    th { background: var(--bg-primary); padding: 12px 16px; font-weight: 600; color: var(--text-muted); border-bottom: 1px solid var(--border-color); }
+    td { padding: 14px 16px; border-bottom: 1px solid var(--border-color); vertical-align: middle; }
+    tr:hover td { background: #f8fafc; cursor: pointer; }
+    .ticker { font-family: monospace; font-weight: 600; color: var(--text-muted); }
+    
+    /* Badges & Flags */
+    .badge { display: inline-block; padding: 3px 8px; font-size: 11px; font-weight: 600; border-radius: 4px; text-transform: uppercase; }
+    .badge-buy { background: var(--green-light); color: var(--green); }
+    .badge-hold { background: var(--amber-light); color: var(--amber); }
+    .badge-sell { background: var(--red-light); color: var(--red); }
+    .badge-gray { background: #f1f5f9; color: #475569; }
+    .badge-blue { background: #e0f2fe; color: #0369a1; }
+    
+    .score { font-weight: 700; font-size: 15px; }
+    .score.high { color: var(--green); }
+    .score.mid { color: var(--amber); }
+    .score.low { color: var(--red); }
+    
+    /* Interactive AI Interface Panels */
+    .ai-panel { background: linear-gradient(135deg, #1e293b, #0f172a); border-radius: 12px; padding: 24px; color: white; margin-bottom: 16px; position: relative; overflow: hidden; }
+    .ai-panel-title { font-size: 16px; font-weight: 700; display: flex; align-items: center; gap: 8px; margin-bottom: 12px; color: #38bdf8; }
+    .ai-panel-text { font-size: 14px; line-height: 1.6; color: #cbd5e1; white-space: pre-line; }
+    .ai-progress-bar { height: 3px; width: 100%; background: #334155; position: absolute; bottom: 0; left: 0; overflow: hidden; }
+    .ai-progress-bar::after { content: ''; display: block; height: 100%; width: 30%; background: #0284c7; animation: slideProgress 1.5s infinite linear; display: none; }
+    .ai-progress-bar.active::after { display: block; }
+    @keyframes slideProgress { from { transform: translateX(-100%); } to { transform: translateX(400%); } }
+    
+    .action-row { display: flex; gap: 12px; margin-top: 16px; }
+    .btn-primary { background: var(--primary-light); color: white; border: none; padding: 8px 16px; border-radius: 6px; font-size: 13px; font-weight: 600; cursor: pointer; transition: background 0.2s; }
+    .btn-primary:hover { background: #1d4ed8; }
+    .btn-secondary { background: #334155; color: #f1f5f9; border: none; padding: 8px 16px; border-radius: 6px; font-size: 13px; font-weight: 600; cursor: pointer; }
+    .btn-secondary:hover { background: #475569; }
+    .btn-danger { background: none; border: 1px solid var(--red); color: var(--red); padding: 4px 10px; border-radius: 4px; font-size: 11px; font-weight: 600; cursor: pointer; }
+    .btn-danger:hover { background: var(--red-light); }
+
+    /* Macro Layout Grids */
+    .macro-grid, .source-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+    .macro-card { background: var(--bg-surface); border: 1px solid var(--border-color); border-radius: 12px; padding: 20px; display: flex; flex-direction: column; gap: 12px; position: relative; }
+    .macro-card.red-top { border-top: 4px solid var(--red); }
+    .macro-card.blue-top { border-top: 4px solid var(--primary-light); }
+    .macro-card.amber-top { border-top: 4px solid var(--amber); }
+    .macro-card.green-top { border-top: 4px solid var(--green); }
+    .macro-header { display: flex; justify-content: space-between; align-items: center; }
+    .macro-title { font-size: 15px; font-weight: 700; color: var(--primary); }
+    .macro-text { font-size: 13px; color: var(--text-muted); line-height: 1.5; }
+    .macro-impacts { display: flex; flex-wrap: wrap; gap: 6px; }
+    .impact-tag { font-size: 11px; font-weight: 600; padding: 2px 6px; border-radius: 4px; }
+    .impact-neg { background: var(--red-light); color: var(--red); }
+    .impact-pos { background: var(--green-light); color: var(--green); }
+    .impact-mix { background: var(--amber-light); color: var(--amber); }
+
+    /* Custom Form Layouts */
+    .add-form { max-width: 600px; background: var(--bg-primary); border: 1px solid var(--border-color); padding: 24px; border-radius: 12px; }
+    .add-form-title { font-size: 15px; font-weight: 700; margin-bottom: 16px; color: var(--primary); }
+    .form-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 20px; }
+    .form-group { display: flex; flex-direction: column; gap: 6px; }
+    .form-label { font-size: 12px; font-weight: 600; color: var(--text-muted); }
+    .form-input, .form-select { padding: 8px 12px; border: 1px solid var(--border-color); border-radius: 6px; background: white; font-size: 14px; }
+    .form-actions { display: flex; gap: 10px; }
+
+    /* Source Cards Layout */
+    .source-card { background: var(--bg-primary); border: 1px solid var(--border-color); padding: 16px; border-radius: 8px; position: relative; }
+    .source-name { font-size: 14px; font-weight: 700; color: var(--primary); }
+    .source-meta { font-size: 12px; color: var(--text-muted); margin-top: 4px; }
+    .source-type { position: absolute; top: 16px; right: 16px; font-size: 10px; font-weight: 600; color: var(--text-muted); background: white; padding: 2px 6px; border-radius: 4px; border: 1px solid var(--border-color); }
+
+    /* Timeline Formatting */
+    .timeline { position: relative; padding-left: 24px; border-left: 2px solid var(--border-color); display: flex; flex-direction: column; gap: 24px; margin-top: 10px; }
+    .timeline-item { position: relative; }
+    .tl-dot { width: 12px; height: 12px; border-radius: 50%; background: var(--border-color); position: absolute; left: -30px; top: 4px; border: 2px solid white; }
+    .tl-dot.red { background: var(--red); }
+    .tl-dot.green { background: var(--green); }
+    .tl-dot.amber { background: var(--amber); }
+    .tl-date { font-size: 12px; font-weight: 700; color: var(--text-muted); text-transform: uppercase; }
+    .tl-title { font-size: 14px; font-weight: 700; color: var(--primary); margin-top: 2px; }
+    .tl-body { font-size: 13px; color: var(--text-muted); margin-top: 4px; line-height: 1.5; }
+
+    /* Charts Layout Container Matrix */
+    .charts-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px; }
+    .chart-box { border: 1px solid var(--border-color); border-radius: 12px; padding: 16px; background: var(--bg-surface); }
+    .chart-box-title { font-size: 14px; font-weight: 700; color: var(--primary); margin-bottom: 12px; border-bottom: 1px solid var(--border-color); padding-bottom: 8px; }
+    .chart-container { position: relative; height: 240px; width: 100%; }
+
+    /* Modal Popups Overlay Framework */
+    .modal-overlay { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(15, 23, 42, 0.6); backdrop-filter: blur(4px); display: flex; align-items: center; justify-content: center; opacity: 0; pointer-events: none; transition: opacity 0.25s ease; z-index: 1000; }
+    .modal-overlay.open { opacity: 1; pointer-events: auto; }
+    .modal { background: var(--bg-surface); width: 100%; max-width: 650px; border-radius: 16px; padding: 28px; box-shadow: 0 20px 25px -5px rgba(0,0,0,0.15); transform: translateY(10px); transition: transform 0.25s ease; position: relative; }
+    .modal-overlay.open .modal { transform: translateY(0); }
+    .modal-close { position: absolute; top: 20px; right: 20px; background: none; border: none; font-size: 24px; cursor: pointer; color: var(--text-muted); }
+    .modal-header { margin-bottom: 20px; }
+    .modal-name { font-size: 20px; font-weight: 700; color: var(--primary); }
+    .modal-meta { display: flex; gap: 8px; margin-top: 6px; }
+    .modal-body { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-bottom: 20px; background: var(--bg-primary); padding: 16px; border-radius: 8px; }
+    .modal-stat-label { font-size: 11px; font-weight: 600; color: var(--text-muted); text-transform: uppercase; }
+    .modal-stat-value { font-size: 16px; font-weight: 700; color: var(--primary); margin-top: 4px; }
+    .modal-section-title { font-size: 13px; font-weight: 700; text-transform: uppercase; color: var(--text-muted); margin-bottom: 10px; tracking: 0.5px; }
+    .trigger-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-bottom: 20px; }
+    .trig-col { border-radius: 6px; padding: 12px; border: 1px solid var(--border-color); font-size: 12px; }
+    .trig-col.buy { border-left: 3px solid var(--green); }
+    .trig-col.hold { border-left: 3px solid var(--amber); }
+    .trig-col.sell { border-left: 3px solid var(--red); }
+    .trig-title { font-weight: 700; margin-bottom: 6px; font-size: 11px; }
+    .trig-title.buy { color: var(--green); }
+    .trig-title.hold { color: var(--amber); }
+    .trig-title.sell { color: var(--red); }
+    .trig-item { color: var(--text-muted); margin-bottom: 4px; }
+    
+    .modal-ai-section { background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; padding: 16px; }
+    .modal-ai-title { font-size: 13px; font-weight: 700; color: var(--primary); display: flex; align-items: center; gap: 6px; margin-bottom: 6px; }
+    .modal-ai-text { font-size: 13px; color: #334155; line-height: 1.5; font-style: italic; }
+
+    /* Global System Toast Alert */
+    .toast { position: fixed; bottom: 24px; right: 24px; background: #0f172a; color: white; padding: 12px 20px; border-radius: 8px; font-size: 13px; font-weight: 500; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1); transform: translateY(100px); opacity: 0; transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1); z-index: 2000; }
+    .toast.show { transform: translateY(0); opacity: 1; }
+    
+    .empty { text-align: center; color: var(--text-muted); padding: 40px 20px !important; }
+    .empty-icon { font-size: 32px; margin-bottom: 8px; }
+    
+    blockquote { border-left: 3px solid var(--primary); padding-left: 12px; font-style: italic; color: var(--text-muted); margin: 12px 0; font-size: 13px; }
+    
+    .split-metrics { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 12px; }
+    .split-col { background: rgba(255,255,255,0.05); padding: 10px; border-radius: 6px; font-size: 12px; }
+    .split-col-title { font-weight: 600; margin-bottom: 4px; }
+    
+    @media (max-width: 1200px) {
+      .layout-wrapper { grid-template-columns: 1fr; }
+      .kpi-row { grid-template-columns: repeat(2, 1fr); }
+      .macro-grid, .source-grid, .charts-grid { grid-template-columns: 1fr; }
     }
 
-    a { color: var(--blue); text-decoration: none; }
-    a:hover { text-decoration: underline; }
-
-    /* Header */
-    header {
-      background: var(--surface);
-      border-bottom: 1px solid var(--border);
-      padding: 0 20px;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      height: 56px;
-      position: sticky;
-      top: 0;
-      z-index: 200;
-      gap: 16px;
+    /* Cookie Consent Banner */
+    .cookie-banner {
+      position: fixed;
+      bottom: 0; left: 0; right: 0;
+      background: var(--bg-surface);
+      border-top: 1px solid var(--border-color);
+      box-shadow: 0 -10px 30px -10px rgba(0,0,0,0.15);
+      padding: 20px 24px;
+      z-index: 3000;
+      transform: translateY(100%);
+      transition: transform 0.35s ease;
     }
-
-    .logo {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      font-size: 17px;
-      font-weight: 700;
-      color: var(--blue);
-      white-space: nowrap;
-      flex-shrink: 0;
+    .cookie-banner.show { transform: translateY(0); }
+    .cookie-inner {
+      max-width: 1200px; margin: 0 auto;
+      display: flex; align-items: center; justify-content: space-between; gap: 24px; flex-wrap: wrap;
     }
+    .cookie-text { flex: 1; min-width: 260px; font-size: 13px; color: var(--text-muted); line-height: 1.5; }
+    .cookie-text strong { color: var(--text-main); }
+    .cookie-text a { color: var(--primary-light); text-decoration: underline; }
+    .cookie-actions { display: flex; gap: 10px; flex-wrap: wrap; }
+    .btn-cookie-reject { background: none; border: 1px solid var(--border-color); color: var(--text-muted); padding: 9px 16px; border-radius: 6px; font-size: 13px; font-weight: 600; cursor: pointer; }
+    .btn-cookie-reject:hover { background: var(--bg-primary); }
+    .btn-cookie-manage { background: none; border: none; color: var(--primary-light); padding: 9px 4px; font-size: 13px; font-weight: 600; cursor: pointer; text-decoration: underline; }
+    .btn-cookie-accept { background: var(--primary-light); border: none; color: white; padding: 9px 18px; border-radius: 6px; font-size: 13px; font-weight: 600; cursor: pointer; }
+    .btn-cookie-accept:hover { background: #1d4ed8; }
 
-    .logo svg { flex-shrink: 0; }
-
-    /* Tab nav */
-    .tab-nav {
-      display: flex;
-      align-items: center;
-      gap: 2px;
-      overflow-x: auto;
-      scrollbar-width: none;
-      flex: 1;
-      justify-content: center;
-    }
-
-    .tab-nav::-webkit-scrollbar { display: none; }
-
-    .tab-btn {
-      background: transparent;
-      border: none;
-      border-bottom: 2px solid transparent;
-      color: var(--text-muted);
-      cursor: pointer;
-      font-size: 13px;
-      font-weight: 500;
-      padding: 18px 14px 16px;
-      white-space: nowrap;
-      transition: color .15s, border-color .15s;
-      font-family: var(--font);
-    }
-
-    .tab-btn:hover { color: var(--text); }
-
-    .tab-btn.active {
-      color: var(--blue);
-      border-bottom-color: var(--blue);
-    }
-
-    /* Header right */
-    .header-right {
-      display: flex;
-      align-items: center;
-      gap: 12px;
-      flex-shrink: 0;
-    }
-
-    .time {
-      color: var(--text-muted);
-      font-size: 12px;
-      white-space: nowrap;
-    }
-
-    .user {
-      width: 30px;
-      height: 30px;
-      border-radius: 50%;
-      background: linear-gradient(135deg, var(--blue), var(--purple));
-      display: grid;
-      place-items: center;
-      font-size: 12px;
-      font-weight: 700;
-      color: #fff;
-      flex-shrink: 0;
-    }
-
-    /* Quote ticker */
-    .quote-ticker {
-      position: sticky;
-      top: 56px;
-      z-index: 180;
-      height: 32px;
-      background: var(--surface2);
-      border-bottom: 1px solid var(--border);
-      overflow: hidden;
-      display: flex;
-      align-items: center;
-    }
-
-    .ticker-track {
-      display: inline-flex;
-      align-items: center;
-      gap: 28px;
-      white-space: nowrap;
-      padding-left: 100%;
-      animation: ticker 28s linear infinite;
-      will-change: transform;
-      font-size: 12px;
-      color: var(--text-muted);
-    }
-
-    .ticker-track:hover { animation-play-state: paused; }
-
-    .tick { display: inline-flex; align-items: center; gap: 6px; }
-    .tick .sym { color: var(--text); font-weight: 600; letter-spacing: .2px; }
-    .tick .chg.up { color: var(--green); }
-    .tick .chg.down { color: var(--red); }
-
-    @keyframes ticker {
-      0%   { transform: translateX(0); }
-      100% { transform: translateX(-100%); }
-    }
-
-    /* Layout */
-    main {
-      max-width: 1600px;
-      margin: 0 auto;
-      padding: 18px;
-      display: grid;
-      gap: 14px;
-      grid-template-columns: repeat(12, 1fr);
-      grid-auto-rows: minmax(80px, auto);
-    }
-
-    .card {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      padding: 14px;
-      min-height: 80px;
-      overflow: hidden;
-    }
-
-    .card h2 {
-      font-size: 12px;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: .4px;
-      color: var(--text-muted);
-      margin-bottom: 10px;
-    }
-
-    .metric {
-      display: flex;
-      align-items: baseline;
-      gap: 8px;
-    }
-
-    .metric .value { font-size: 24px; font-weight: 800; line-height: 1; }
-    .metric .delta.up { color: var(--green); font-size: 12px; font-weight: 600; }
-    .metric .delta.down { color: var(--red); font-size: 12px; font-weight: 600; }
-
-    .sub {
-      margin-top: 6px;
-      color: var(--text-muted);
-      font-size: 12px;
-    }
-
-    .good { color: var(--green); }
-    .bad { color: var(--red); }
-    .warn { color: var(--yellow); }
-
-    /* Grid spans */
-    .span-3 { grid-column: span 3; }
-    .span-4 { grid-column: span 4; }
-    .span-5 { grid-column: span 5; }
-    .span-6 { grid-column: span 6; }
-    .span-7 { grid-column: span 7; }
-    .span-8 { grid-column: span 8; }
-    .span-12 { grid-column: span 12; }
-
-    /* Top metrics compact */
-    .kpi-grid {
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      gap: 12px;
-    }
-
-    .kpi {
-      background: var(--surface2);
-      border: 1px solid var(--border);
-      border-radius: 8px;
-      padding: 10px;
-      min-height: 86px;
-      display: flex;
-      flex-direction: column;
-      justify-content: space-between;
-    }
-
-    .kpi .label {
-      color: var(--text-muted);
-      font-size: 11px;
-      text-transform: uppercase;
-      letter-spacing: .35px;
-    }
-
-    /* Tiny spark bars */
-    .spark {
-      margin-top: 8px;
-      height: 22px;
-      display: flex;
-      align-items: end;
-      gap: 3px;
-    }
-
-    .spark span {
-      flex: 1;
-      background: linear-gradient(to top, rgba(88,166,255,.25), rgba(88,166,255,.8));
-      border-radius: 2px 2px 0 0;
-      min-height: 4px;
-    }
-
-    /* Chart shells */
-    .chart {
-      height: 240px;
-      border: 1px solid var(--border);
-      border-radius: 8px;
-      background:
-        linear-gradient(to right, rgba(255,255,255,.03) 1px, transparent 1px) 0 0 / 42px 100%,
-        linear-gradient(to top, rgba(255,255,255,.03) 1px, transparent 1px) 0 0 / 100% 36px,
-        var(--surface2);
-      position: relative;
-      overflow: hidden;
-    }
-
-    .chart.large { height: 300px; }
-
-    .line {
-      position: absolute;
-      inset: 0;
-      width: 100%;
-      height: 100%;
-    }
-
-    .line path {
-      fill: none;
-      stroke-width: 2.2;
-      stroke-linecap: round;
-      stroke-linejoin: round;
-    }
-
-    .line .area {
-      stroke: none;
-      opacity: .18;
-    }
-
-    .legend {
-      display: flex;
-      gap: 12px;
-      margin-top: 8px;
-      flex-wrap: wrap;
-      color: var(--text-muted);
-      font-size: 12px;
-    }
-
-    .legend i {
-      display: inline-block;
-      width: 10px;
-      height: 10px;
-      border-radius: 2px;
-      margin-right: 6px;
-      vertical-align: -1px;
-    }
-
-    /* Tables */
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      font-size: 12px;
-    }
-
-    th, td {
-      padding: 8px 6px;
-      border-bottom: 1px solid var(--border);
-      text-align: left;
-      vertical-align: middle;
-    }
-
-    th {
-      color: var(--text-muted);
-      font-size: 11px;
-      text-transform: uppercase;
-      letter-spacing: .4px;
-      position: sticky;
-      top: 0;
-      background: var(--surface);
-    }
-
-    tbody tr:hover { background: rgba(255,255,255,.02); }
-
-    .chip {
-      display: inline-flex;
-      align-items: center;
-      padding: 2px 8px;
-      border-radius: 999px;
-      font-size: 11px;
-      font-weight: 600;
-      border: 1px solid transparent;
-    }
-
-    .chip.buy  { color: #9ff0ac; background: rgba(63,185,80,.12); border-color: rgba(63,185,80,.35);}
-    .chip.sell { color: #ffb4b0; background: rgba(248,81,73,.12); border-color: rgba(248,81,73,.35);}
-    .chip.hold { color: #ffe7aa; background: rgba(210,153,34,.12); border-color: rgba(210,153,34,.35);}
-
-    .progress {
-      width: 100%;
-      height: 7px;
-      border-radius: 999px;
-      background: #222b37;
-      overflow: hidden;
-    }
-
-    .progress > span {
-      display: block;
-      height: 100%;
-      background: linear-gradient(90deg, var(--blue), var(--purple));
-    }
-
-    /* Lists */
-    .list {
-      display: grid;
-      gap: 10px;
-    }
-
-    .item {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      gap: 10px;
-      padding: 10px;
-      border: 1px solid var(--border);
-      border-radius: 8px;
-      background: var(--surface2);
-    }
-
-    .item .left { min-width: 0; }
-    .item .name {
-      font-size: 13px;
-      font-weight: 600;
-      color: var(--text);
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      max-width: 340px;
-    }
-
-    .item .meta {
-      font-size: 11px;
-      color: var(--text-muted);
-      margin-top: 3px;
-    }
-
-    .pill {
-      padding: 4px 8px;
-      border-radius: 999px;
-      font-size: 11px;
-      font-weight: 700;
-      white-space: nowrap;
-      border: 1px solid var(--border);
-      color: var(--text-muted);
-    }
-
-    .pill.green  { color: #a6f6b0; border-color: rgba(63,185,80,.35); background: rgba(63,185,80,.12); }
-    .pill.red    { color: #ffb8b3; border-color: rgba(248,81,73,.35); background: rgba(248,81,73,.12); }
-    .pill.yellow { color: #ffe5a0; border-color: rgba(210,153,34,.35); background: rgba(210,153,34,.12); }
-
-    /* Heatmap */
-    .heat-grid {
-      display: grid;
-      grid-template-columns: repeat(24, 1fr);
-      gap: 4px;
-      margin-top: 6px;
-    }
-
-    .heat {
-      height: 16px;
-      border-radius: 3px;
-      background: #1f2733;
-      border: 1px solid #253041;
-    }
-
-    /* Footer */
-    footer {
-      max-width: 1600px;
-      margin: 4px auto 30px;
-      padding: 0 18px;
-      color: var(--text-muted);
-      font-size: 11px;
-      display: flex;
-      justify-content: space-between;
-      gap: 10px;
-      flex-wrap: wrap;
-    }
-
-    /* Section visibility */
-    .panel { display: none; grid-column: span 12; }
-    .panel.active { display: contents; }
-
-    /* Responsive */
-    @media (max-width: 1350px) {
-      .kpi-grid { grid-template-columns: repeat(2, 1fr); }
-      .span-3, .span-4, .span-5, .span-6, .span-7, .span-8 { grid-column: span 6; }
-      .item .name { max-width: 220px; }
-    }
-
-    @media (max-width: 900px) {
-      header { padding: 0 10px; }
-      .logo span { display: none; }
-      .tab-btn { padding: 16px 10px 14px; font-size: 12px; }
-      .time { display: none; }
-      main { padding: 10px; gap: 10px; }
-      .span-3, .span-4, .span-5, .span-6, .span-7, .span-8, .span-12 { grid-column: span 12; }
-      .kpi-grid { grid-template-columns: 1fr 1fr; }
-      .chart { height: 220px; }
-      .chart.large { height: 250px; }
-    }
-
-    @media (max-width: 560px) {
-      .kpi-grid { grid-template-columns: 1fr; }
-      .tab-nav { justify-content: flex-start; }
-    }
+    /* Cookie Preferences Modal */
+    .cookie-prefs-body { display: flex; flex-direction: column; gap: 14px; margin-bottom: 20px; }
+    .cookie-cat { border: 1px solid var(--border-color); border-radius: 8px; padding: 14px 16px; }
+    .cookie-cat-head { display: flex; justify-content: space-between; align-items: center; }
+    .cookie-cat-title { font-size: 14px; font-weight: 700; color: var(--primary); }
+    .cookie-cat-desc { font-size: 12px; color: var(--text-muted); margin-top: 6px; line-height: 1.5; }
+    .toggle-switch { position: relative; width: 40px; height: 22px; flex-shrink: 0; }
+    .toggle-switch input { opacity: 0; width: 0; height: 0; }
+    .toggle-slider { position: absolute; cursor: pointer; inset: 0; background: #cbd5e1; border-radius: 999px; transition: 0.2s; }
+    .toggle-slider::before { content: ''; position: absolute; height: 16px; width: 16px; left: 3px; top: 3px; background: white; border-radius: 50%; transition: 0.2s; }
+    .toggle-switch input:checked + .toggle-slider { background: var(--primary-light); }
+    .toggle-switch input:checked + .toggle-slider::before { transform: translateX(18px); }
+    .toggle-switch input:disabled + .toggle-slider { opacity: 0.6; cursor: not-allowed; }
   </style>
 </head>
 <body>
-  <header>
-    <div class="logo">
-      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true">
-        <path d="M4 18V6m5 12V10m5 8V4m5 14v-7" stroke="#58a6ff" stroke-width="2" stroke-linecap="round"/>
-      </svg>
-      <span>FinDashboard Pro</span>
+
+<div class="layout-wrapper">
+  
+  <!-- SIDEBAR PANELS -->
+  <aside>
+    <div class="brand">📈 FinMatrix Pro</div>
+    <div class="nav-group">
+      <button class="nav-btn active" onclick="nav('overview', this)">📊 Macro Core Matrix</button>
+      <button class="nav-btn" onclick="nav('portfolio', this)">📋 Monitored Portfolio</button>
+      <button class="nav-btn" onclick="nav('market', this)">🖥️ Screening Engine</button>
+      <button class="nav-btn" onclick="nav('signals', this)">🤖 Algorithmic Signals</button>
+      <button class="nav-btn" onclick="nav('charts', this)">📉 Analytical Modeling</button>
+      <button class="nav-btn" onclick="nav('macro', this)">🔥 Geopolitical Catalyst</button>
+      <button class="nav-btn" onclick="nav('add', this)">📝 Register Asset</button>
+      <button class="nav-btn" onclick="nav('sources', this)">🔌 Ingestion Streams</button>
+      <button class="nav-btn" onclick="nav('timeline', this)">⏳ Event Matrix Log</button>
     </div>
-
-    <nav class="tab-nav" id="tabs" aria-label="Dashboard sections">
-      <button class="tab-btn active" data-tab="overview">Overview</button>
-      <button class="tab-btn" data-tab="trading">Trading</button>
-      <button class="tab-btn" data-tab="news">News</button>
-      <button class="tab-btn" data-tab="events">Events</button>
-      <button class="tab-btn" data-tab="whales">Whales</button>
-      <button class="tab-btn" data-tab="ai">AI Signals</button>
-      <button class="tab-btn" data-tab="macro">Macro</button>
-      <button class="tab-btn" data-tab="onchain">On-Chain</button>
-      <button class="tab-btn" data-tab="risk">Risk</button>
-    </nav>
-
-    <div class="header-right">
-      <div class="time" id="clock">UTC --:--:--</div>
-      <div class="user">DK</div>
+    <div style="margin-top: 24px; padding-top: 16px; border-top: 1px solid var(--border-color);">
+      <button class="nav-btn" style="font-size: 12px; color: var(--text-muted);" onclick="openCookiePrefs()">🍪 Cookie Settings</button>
     </div>
-  </header>
+  </aside>
 
-  <div class="quote-ticker" aria-hidden="true">
-    <div class="ticker-track" id="tickerTrack">
-      <div class="tick"><span class="sym">BTC</span><span>$64,920</span><span class="chg up">+1.8%</span></div>
-      <div class="tick"><span class="sym">ETH</span><span>$3,420</span><span class="chg up">+2.4%</span></div>
-      <div class="tick"><span class="sym">SOL</span><span>$152.7</span><span class="chg down">-0.6%</span></div>
-      <div class="tick"><span class="sym">NVDA</span><span>$128.5</span><span class="chg up">+0.9%</span></div>
-      <div class="tick"><span class="sym">DXY</span><span>104.2</span><span class="chg down">-0.2%</span></div>
-      <div class="tick"><span class="sym">US10Y</span><span>4.24%</span><span class="chg up">+0.03</span></div>
-      <div class="tick"><span class="sym">VIX</span><span>14.8</span><span class="chg down">-0.5</span></div>
-      <div class="tick"><span class="sym">WTI</span><span>$77.3</span><span class="chg up">+0.7%</span></div>
-      <div class="tick"><span class="sym">XAU</span><span>$2,365</span><span class="chg up">+0.3%</span></div>
-    </div>
-  </div>
-
+  <!-- PRINCIPAL CONTENT LAYER -->
   <main>
-    <!-- OVERVIEW -->
-    <section class="panel active" id="panel-overview">
-      <div class="card span-12">
-        <h2>Executive Metrics</h2>
-        <div class="kpi-grid">
-          <div class="kpi">
-            <div class="label">Portfolio Value</div>
-            <div class="metric"><span class="value">$2.84M</span><span class="delta up">+3.2% 24h</span></div>
-            <div class="spark">
-              <span style="height:28%"></span><span style="height:44%"></span><span style="height:38%"></span><span style="height:61%"></span><span style="height:79%"></span><span style="height:66%"></span><span style="height:85%"></span><span style="height:92%"></span>
-            </div>
-          </div>
-          <div class="kpi">
-            <div class="label">Daily P&amp;L</div>
-            <div class="metric"><span class="value good">+$48,210</span><span class="delta up">Win rate 63%</span></div>
-            <div class="spark">
-              <span style="height:22%"></span><span style="height:31%"></span><span style="height:56%"></span><span style="height:48%"></span><span style="height:72%"></span><span style="height:64%"></span><span style="height:76%"></span><span style="height:70%"></span>
-            </div>
-          </div>
-          <div class="kpi">
-            <div class="label">Value at Risk (95%)</div>
-            <div class="metric"><span class="value">$118k</span><span class="delta down">+5.1%</span></div>
-            <div class="spark">
-              <span style="height:30%"></span><span style="height:36%"></span><span style="height:40%"></span><span style="height:52%"></span><span style="height:58%"></span><span style="height:62%"></span><span style="height:68%"></span><span style="height:74%"></span>
-            </div>
-          </div>
-          <div class="kpi">
-            <div class="label">Net Exposure</div>
-            <div class="metric"><span class="value">+0.42 β</span><span class="delta up">Risk-on</span></div>
-            <div class="spark">
-              <span style="height:18%"></span><span style="height:22%"></span><span style="height:35%"></span><span style="height:47%"></span><span style="height:51%"></span><span style="height:59%"></span><span style="height:63%"></span><span style="height:66%"></span>
-            </div>
-          </div>
+    <header>
+      <div class="header-title">
+        <h1 id="page-title">Macro Structural Matrix Overview</h1>
+        <p>Quantitative geopolitical risks and technical asset allocations for fiscal year 2026</p>
+      </div>
+      <div class="header-meta">
+        <div>System Clock: <strong id="clock">Loading System Date...</strong></div>
+        <div id="last-refresh" style="font-size:11px; margin-top:2px; color:var(--primary-light)">Initializing Cluster Loop...</div>
+      </div>
+    </header>
+
+    <!-- CORE KPI PANEL DASHBOARD -->
+    <div class="kpi-row">
+      <div class="kpi-card">
+        <div class="kpi-label">Aggregated Monitor Count</div>
+        <div class="kpi-value" id="kpi-total">0</div>
+        <div class="kpi-sub">Database Cluster Assets: <span id="nc-total" style="color:var(--text-main); font-weight:600">0</span></div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">Active Alpha Buy Waves</div>
+        <div class="kpi-value" id="kpi-buy" style="color:var(--green)">0</div>
+        <div class="kpi-sub">Allocation Targets: <span id="nc-buy">0</span></div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">System Hold Configurations</div>
+        <div class="kpi-value" id="kpi-hold" style="color:var(--amber)">0</div>
+        <div class="kpi-sub">Neutral Risk Matrix Profiles</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">Underweight Direct Alerts</div>
+        <div class="kpi-value" id="kpi-sell" style="color:var(--red)">0</div>
+        <div class="kpi-sub">Exposed Trade Corridors</div>
+      </div>
+    </div>
+
+    <!-- MAIN AI PROCESSING CONTEXT HOOK -->
+    <div class="ai-panel">
+      <div class="ai-panel-title">🤖 Predictive Assessment Engine — Render Cloud Server</div>
+      <div class="ai-panel-text" id="ai-overview-text">
+        Ready to process structural matrix variables. Trigger a system synchronization or execute direct analytics to query the centralized cluster nodes.
+      </div>
+      <div class="action-row">
+        <button class="btn-primary" onclick="runAIRefresh()">Execute Dynamic Update Loop</button>
+        <button class="btn-secondary" onclick="askAI('general', 'Provide an updated structural report detailing trade barriers, shipping lanes congestion, and inflation trends across the G10 for June 2026.')">Query Core G10 Stress Framework</button>
+      </div>
+      <div class="ai-progress-bar" id="ai-overview-bar"></div>
+    </div>
+
+    <!-- VIEW VIEWPORT MODULES -->
+    
+    <!-- 1. OVERVIEW VIEWPORT -->
+    <div class="section active" id="section-overview">
+      <div class="sec-header">
+        <div>
+          <div class="sec-title">Core Analytical Hub</div>
+          <div class="sec-sub">Real-time processing framework capturing underlying systemic volatility</div>
         </div>
       </div>
-
-      <div class="card span-8">
-        <h2>Multi-Asset Performance (30D)</h2>
-        <div class="chart large">
-          <svg class="line" viewBox="0 0 1000 300" preserveAspectRatio="none">
-            <path class="area" d="M0,240 C100,230 140,220 220,190 C300,160 360,170 440,150 C520,130 620,120 700,105 C780,92 860,88 1000,70 L1000,300 L0,300 Z" fill="#58a6ff"/>
-            <path d="M0,240 C100,230 140,220 220,190 C300,160 360,170 440,150 C520,130 620,120 700,105 C780,92 860,88 1000,70" stroke="#58a6ff"/>
-            <path d="M0,260 C100,250 190,230 280,220 C360,210 460,205 540,185 C640,160 760,150 1000,135" stroke="#3fb950"/>
-            <path d="M0,270 C120,260 220,250 300,245 C420,236 530,228 640,210 C760,192 860,178 1000,170" stroke="#d29922"/>
-          </svg>
+      <p style="font-size:14px; color:var(--text-muted); margin-bottom:20px;">
+        Welcome to FinMatrix Pro. Use the primary lateral sidebar links to drill down into our discrete modules. The structural screeners and database layers are fully synchronized to trigger real-time asynchronous data evaluations compiled via our centralized Render computing engine nodes.
+      </p>
+      <div class="charts-grid">
+        <div class="chart-box">
+          <div class="chart-box-title">Algorithmic Signals Composition Matrix</div>
+          <div class="chart-container"><canvas id="signalDonut"></canvas></div>
         </div>
-        <div class="legend">
-          <span><i style="background:#58a6ff"></i>Portfolio</span>
-          <span><i style="background:#3fb950"></i>S&amp;P 500</span>
-          <span><i style="background:#d29922"></i>BTC Basket</span>
+        <div class="chart-box">
+          <div class="chart-box-title">Asset Allocation Thematic Weightings</div>
+          <div class="chart-container"><canvas id="themeDonut"></canvas></div>
         </div>
       </div>
+    </div>
 
-      <div class="card span-4">
-        <h2>Top Movers</h2>
-        <div class="list">
-          <div class="item">
-            <div class="left"><div class="name">NVDA</div><div class="meta">Semiconductors • Volume spike</div></div>
-            <div class="pill green">+4.2%</div>
-          </div>
-          <div class="item">
-            <div class="left"><div class="name">SOL</div><div class="meta">Layer-1 • Momentum breakout</div></div>
-            <div class="pill green">+3.8%</div>
-          </div>
-          <div class="item">
-            <div class="left"><div class="name">TSLA</div><div class="meta">EV • Headline sensitivity</div></div>
-            <div class="pill red">-2.1%</div>
-          </div>
-          <div class="item">
-            <div class="left"><div class="name">DXY</div><div class="meta">Macro • Dollar softening</div></div>
-            <div class="pill yellow">-0.2%</div>
-          </div>
+    <!-- 2. PORTFOLIO CONFIGURATIONS VIEWPORT -->
+    <div class="section" id="section-portfolio">
+      <div class="sec-header">
+        <div>
+          <div class="sec-title">Operational Monitored Allocation Array</div>
+          <div class="sec-sub">Tracked holdings and target allocations under automated cloud evaluation</div>
         </div>
+        <span class="badge badge-blue"><span id="port-count">0</span> Assets Monitored</span>
       </div>
-    </section>
+      
+      <div class="ai-panel" style="background: linear-gradient(135deg, #0f172a, #1e3a5f); margin-bottom:20px;">
+        <div class="ai-panel-title">🛡️ Portfolio Vulnerability &amp; Stress Test Node</div>
+        <div class="ai-panel-text" id="ai-port-text">Inject assets via the main Screening Database below to run structural audits against systemic inflation, currency shocks, and border tariff barriers.</div>
+        <div class="action-row">
+          <button class="btn-primary" onclick="analyzePortfolio()">Analyze Active Portfolio Mix</button>
+          <button class="btn-secondary" onclick="askPortfolioSignals()">Fetch Current Metric Indexes</button>
+        </div>
+        <div class="ai-port-bar" id="ai-port-bar"></div>
+      </div>
 
-    <!-- TRADING -->
-    <section class="panel" id="panel-trading">
-      <div class="card span-7">
-        <h2>Open Positions</h2>
+      <div class="table-container">
         <table>
           <thead>
             <tr>
-              <th>Symbol</th><th>Side</th><th>Size</th><th>Entry</th><th>Mark</th><th>P/L</th><th>R-Multiple</th>
+              <th>Asset Name</th>
+              <th>Type</th>
+              <th>Ticker</th>
+              <th>Industrial Sector Focus</th>
+              <th>System Signal</th>
+              <th>Score Matrix</th>
+              <th>Strategic Analysis Note</th>
+              <th>Actions</th>
             </tr>
           </thead>
-          <tbody>
-            <tr><td>BTC-PERP</td><td><span class="chip buy">LONG</span></td><td>12.5 BTC</td><td>61,220</td><td>64,920</td><td class="good">+46,250</td><td>2.4R</td></tr>
-            <tr><td>ETH-PERP</td><td><span class="chip buy">LONG</span></td><td>180 ETH</td><td>3,180</td><td>3,420</td><td class="good">+43,200</td><td>1.9R</td></tr>
-            <tr><td>NVDA</td><td><span class="chip buy">LONG</span></td><td>2,400 sh</td><td>118.1</td><td>128.5</td><td class="good">+24,960</td><td>2.1R</td></tr>
-            <tr><td>TSLA</td><td><span class="chip sell">SHORT</span></td><td>1,300 sh</td><td>191.4</td><td>196.2</td><td class="bad">-6,240</td><td>-0.5R</td></tr>
-            <tr><td>GOLD CFD</td><td><span class="chip hold">HEDGE</span></td><td>320 oz</td><td>2,334</td><td>2,365</td><td class="good">+9,920</td><td>0.8R</td></tr>
+          <tbody id="portfolioBody">
+            <!-- Handled dynamically through javascript -->
           </tbody>
         </table>
       </div>
+    </div>
 
-      <div class="card span-5">
-        <h2>Order Flow &amp; Execution</h2>
-        <div class="chart">
-          <svg class="line" viewBox="0 0 1000 240" preserveAspectRatio="none">
-            <path d="M0,180 C90,170 160,160 240,140 C320,120 430,110 520,120 C620,132 710,150 780,138 C860,124 910,110 1000,90" stroke="#58a6ff"/>
-            <path d="M0,190 C80,188 150,175 220,165 C300,154 390,145 480,152 C580,160 680,170 760,168 C860,165 930,150 1000,145" stroke="#f85149"/>
-          </svg>
+    <!-- 3. MAIN MARKETS SCREENER DATABASE VIEWPORT -->
+    <div class="section" id="section-market">
+      <div class="sec-header">
+        <div>
+          <div class="sec-title">Global Asset Screening Database</div>
+          <div class="sec-sub">Institutional monitor covering defense, semiconductor architectures, and energy primes</div>
         </div>
-        <div class="legend">
-          <span><i style="background:#58a6ff"></i>Bid Aggression</span>
-          <span><i style="background:#f85149"></i>Ask Aggression</span>
-        </div>
-        <div class="sub">Slippage avg: <span class="warn">3.1 bps</span> • Fill ratio: <span class="good">97.4%</span></div>
+        <span class="badge badge-gray"><span id="db-count">0</span> Records Connected</span>
       </div>
-
-      <div class="card span-12">
-        <h2>Trade Journal (Recent)</h2>
+      <div class="table-controls">
+        <input type="text" class="search-input" id="dbSearch" placeholder="Search by name or ticker token..." oninput="searchDB()">
+        <div class="filter-tabs">
+          <button class="filter-btn active" onclick="filterDB('all', this)">All Sectors</button>
+          <button class="filter-btn" onclick="filterDB('Milano', this)">Borsa Italiana</button>
+          <button class="filter-btn" onclick="filterDB('Frankfurt', this)">Xetra DAX</button>
+          <button class="filter-btn" onclick="filterDB('Paris', this)">Euronext Paris</button>
+          <button class="filter-btn" onclick="filterDB('New York', this)">Wall Street</button>
+          <button class="filter-btn" onclick="filterDB('etf', this)">System ETFs</button>
+        </div>
+      </div>
+      <div class="table-container">
         <table>
-          <thead><tr><th>Time (UTC)</th><th>Asset</th><th>Setup</th><th>Action</th><th>Result</th><th>Notes</th></tr></thead>
-          <tbody>
-            <tr><td>14:31</td><td>BTC</td><td>Breakout + OI expansion</td><td>Buy 4.0</td><td class="good">+1.3R</td><td>Follow-through above prior day high</td></tr>
-            <tr><td>13:10</td><td>TSLA</td><td>Mean reversion fail</td><td>Short 600</td><td class="bad">-0.6R</td><td>Headline reversal invalidated signal</td></tr>
-            <tr><td>11:44</td><td>NVDA</td><td>Relative strength continuation</td><td>Add 900</td><td class="good">+0.9R</td><td>Volume confirmation on breakout</td></tr>
-            <tr><td>09:55</td><td>ETH</td><td>Funding divergence</td><td>Buy 70</td><td class="good">+1.1R</td><td>Funding normalized post-entry</td></tr>
+          <thead>
+            <tr>
+              <th>Asset Name</th>
+              <th>Market Segment</th>
+              <th>Ticker Code</th>
+              <th>Core Industrial Domain</th>
+              <th>Sovereign Base</th>
+              <th>Div. Yield</th>
+              <th>Market Cap</th>
+              <th>Algorithmic Signal</th>
+              <th>Interface Hook</th>
+            </tr>
+          </thead>
+          <tbody id="dbBody">
+            <!-- Handled dynamically through javascript -->
           </tbody>
         </table>
       </div>
-    </section>
+    </div>
 
-    <!-- NEWS -->
-    <section class="panel" id="panel-news">
-      <div class="card span-8">
-        <h2>Live News Feed</h2>
-        <div class="list">
-          <div class="item">
-            <div class="left"><div class="name">Fed official signals data-dependent path for rate cuts</div><div class="meta">Bloomberg • 8m ago • Macro</div></div>
-            <div class="pill yellow">Medium</div>
+    <!-- 4. ALGORITHMIC SIGNALS ENGINE VIEWPORT -->
+    <div class="section" id="section-signals">
+      <div class="sec-header">
+        <div>
+          <div class="sec-title">Algorithmic AI Signal Engine</div>
+          <div class="sec-sub">Real-time signal trackers derived from geopolitical shifts and raw material backlogs</div>
+        </div>
+      </div>
+      <div class="ai-panel" style="background:#111827; border: 1px solid #374151;">
+        <div class="ai-panel-title">📡 Real-Time Allocation Stream Matrix</div>
+        <div class="ai-panel-text" id="ai-signals-text">
+          Perform a primary system data cycle computation to process updated signals for the following monitored structural categories.
+        </div>
+        <div class="split-metrics">
+          <div class="split-col" style="border-top: 3px solid var(--green)">
+            <div class="split-col-title" style="color:var(--green)">Systemic BUY Channels</div>
+            <div id="sig-buy-list">Awaiting updates...</div>
           </div>
-          <div class="item">
-            <div class="left"><div class="name">Major chipmaker raises AI-capex guidance for FY</div><div class="meta">Reuters • 12m ago • Equities</div></div>
-            <div class="pill green">Bullish</div>
+          <div class="split-col" style="border-top: 3px solid var(--amber)">
+            <div class="split-col-title" style="color:var(--amber)">Neutral HOLD Zones</div>
+            <div id="sig-hold-list">Awaiting updates...</div>
           </div>
-          <div class="item">
-            <div class="left"><div class="name">Large BTC transfer to exchange sparks volatility watch</div><div class="meta">On-chain wire • 21m ago • Crypto</div></div>
-            <div class="pill red">Risk</div>
-          </div>
-          <div class="item">
-            <div class="left"><div class="name">OPEC+ reiterates supply discipline into next quarter</div><div class="meta">FT • 32m ago • Commodities</div></div>
-            <div class="pill green">Supportive</div>
-          </div>
-          <div class="item">
-            <div class="left"><div class="name">US payroll revisions lower prior month estimate</div><div class="meta">WSJ • 49m ago • Macro</div></div>
-            <div class="pill yellow">Mixed</div>
+          <div class="split-col" style="border-top: 3px solid var(--red)">
+            <div class="split-col-title" style="color:var(--red)">UNDERWEIGHT Exposure</div>
+            <div id="sig-sell-list">Awaiting updates...</div>
           </div>
         </div>
-      </div>
-
-      <div class="card span-4">
-        <h2>News Sentiment Radar</h2>
-        <div class="chart">
-          <svg class="line" viewBox="0 0 1000 240" preserveAspectRatio="none">
-            <path d="M0,180 C130,170 240,140 340,150 C460,162 560,130 680,120 C790,112 900,100 1000,108" stroke="#3fb950"/>
-            <path d="M0,200 C110,198 220,188 350,180 C470,172 590,165 700,160 C840,154 930,150 1000,148" stroke="#d29922"/>
-            <path d="M0,220 C130,210 220,208 320,196 C430,185 560,182 690,174 C820,166 920,160 1000,156" stroke="#f85149"/>
-          </svg>
-        </div>
-        <div class="legend">
-          <span><i style="background:#3fb950"></i>Positive</span>
-          <span><i style="background:#d29922"></i>Neutral</span>
-          <span><i style="background:#f85149"></i>Negative</span>
+        <div class="action-row" style="margin-top:20px;">
+          <button class="btn-primary" onclick="generateSignals()">Recompute Allocation Signals</button>
         </div>
       </div>
-    </section>
+    </div>
 
-    <!-- EVENTS -->
-    <section class="panel" id="panel-events">
-      <div class="card span-7">
-        <h2>Economic Calendar (Next 48h)</h2>
-        <table>
-          <thead><tr><th>Date/Time</th><th>Event</th><th>Consensus</th><th>Prior</th><th>Impact</th></tr></thead>
-          <tbody>
-            <tr><td>Mon 12:30</td><td>US CPI m/m</td><td>0.2%</td><td>0.3%</td><td><span class="pill red">High</span></td></tr>
-            <tr><td>Mon 14:00</td><td>Fed Chair Speech</td><td>—</td><td>—</td><td><span class="pill red">High</span></td></tr>
-            <tr><td>Tue 09:00</td><td>EZ PMI Final</td><td>51.1</td><td>50.7</td><td><span class="pill yellow">Medium</span></td></tr>
-            <tr><td>Tue 12:30</td><td>US PPI m/m</td><td>0.2%</td><td>0.4%</td><td><span class="pill yellow">Medium</span></td></tr>
-            <tr><td>Tue 14:30</td><td>10Y Treasury Auction</td><td>—</td><td>4.18%</td><td><span class="pill yellow">Medium</span></td></tr>
-          </tbody>
-        </table>
-      </div>
-
-      <div class="card span-5">
-        <h2>Event Risk Heatmap</h2>
-        <div class="sub">Hourly expected volatility (next 24h)</div>
-        <div class="heat-grid" aria-hidden="true">
-          <div class="heat" style="background:#1f2733"></div><div class="heat" style="background:#1f2733"></div><div class="heat" style="background:#1f2733"></div><div class="heat" style="background:#243041"></div>
-          <div class="heat" style="background:#27374b"></div><div class="heat" style="background:#2a3d54"></div><div class="heat" style="background:#315070"></div><div class="heat" style="background:#3e6ca0"></div>
-          <div class="heat" style="background:#447ab8"></div><div class="heat" style="background:#4f8fdb"></div><div class="heat" style="background:#58a6ff"></div><div class="heat" style="background:#5aa2ee"></div>
-          <div class="heat" style="background:#7d8c4a"></div><div class="heat" style="background:#a98333"></div><div class="heat" style="background:#c57c2a"></div><div class="heat" style="background:#d86f24"></div>
-          <div class="heat" style="background:#e35f1f"></div><div class="heat" style="background:#c85630"></div><div class="heat" style="background:#9f4a3f"></div><div class="heat" style="background:#6f3d49"></div>
-          <div class="heat" style="background:#4a3347"></div><div class="heat" style="background:#373042"></div><div class="heat" style="background:#2d2d3d"></div><div class="heat" style="background:#252a38"></div>
-        </div>
-        <div class="sub">Peak risk window: <span class="warn">12:00–16:00 UTC</span></div>
-      </div>
-    </section>
-
-    <!-- WHALES -->
-    <section class="panel" id="panel-whales">
-      <div class="card span-6">
-        <h2>Whale Tracker (>$5M)</h2>
-        <table>
-          <thead><tr><th>Time</th><th>Wallet/Desk</th><th>Asset</th><th>Flow</th><th>Venue</th></tr></thead>
-          <tbody>
-            <tr><td>15:12</td><td>0xA9...3F2</td><td>BTC</td><td class="good">+320 BTC (withdrawal)</td><td>Coinbase</td></tr>
-            <tr><td>14:58</td><td>Jump Desk 7</td><td>ETH</td><td class="bad">-12,000 ETH (deposit)</td><td>Binance</td></tr>
-            <tr><td>14:22</td><td>0xB1...C91</td><td>SOL</td><td class="good">+1.8M SOL (stake)</td><td>Marinade</td></tr>
-            <tr><td>13:47</td><td>Cumberland</td><td>USDT</td><td class="good">+48M mint</td><td>Tron</td></tr>
-            <tr><td>12:31</td><td>0xD4...AA2</td><td>BTC</td><td class="bad">-210 BTC (deposit)</td><td>OKX</td></tr>
-          </tbody>
-        </table>
-      </div>
-
-      <div class="card span-6">
-        <h2>Exchange Netflow</h2>
-        <div class="chart">
-          <svg class="line" viewBox="0 0 1000 240" preserveAspectRatio="none">
-            <path d="M0,130 C90,120 190,140 280,150 C390,165 500,170 590,160 C680,150 760,120 860,110 C930,105 970,100 1000,96" stroke="#3fb950"/>
-            <path d="M0,170 C120,160 200,158 300,165 C420,172 520,180 620,188 C760,198 860,190 1000,176" stroke="#f85149"/>
-          </svg>
-        </div>
-        <div class="legend">
-          <span><i style="background:#3fb950"></i>Outflows</span>
-          <span><i style="background:#f85149"></i>Inflows</span>
-        </div>
-        <div class="sub">BTC 24h netflow: <span class="good">-8,420 BTC</span> (bullish supply signal)</div>
-      </div>
-    </section>
-
-    <!-- AI -->
-    <section class="panel" id="panel-ai">
-      <div class="card span-8">
-        <h2>AI Signal Console</h2>
-        <table>
-          <thead><tr><th>Model</th><th>Horizon</th><th>Signal</th><th>Confidence</th><th>Expected Move</th><th>Status</th></tr></thead>
-          <tbody>
-            <tr><td>LSTM-Vol v4</td><td>4h</td><td class="good">Long BTC</td><td>78%</td><td>+1.9%</td><td><span class="pill green">Active</span></td></tr>
-            <tr><td>RegimeNet</td><td>1d</td><td class="warn">Neutral Risk</td><td>64%</td><td>±0.7%</td><td><span class="pill yellow">Monitoring</span></td></tr>
-            <tr><td>OrderFlow Transformer</td><td>30m</td><td class="good">Buy NVDA dips</td><td>71%</td><td>+0.8%</td><td><span class="pill green">Active</span></td></tr>
-            <tr><td>MacroBERT</td><td>1w</td><td class="bad">Reduce duration</td><td>69%</td><td>Yield up 12bp</td><td><span class="pill red">Hedge</span></td></tr>
-          </tbody>
-        </table>
-      </div>
-
-      <div class="card span-4">
-        <h2>Model Health</h2>
-        <div class="list">
-          <div class="item"><div class="left"><div class="name">Prediction Accuracy (7d)</div></div><div class="pill green">72.4%</div></div>
-          <div class="item"><div class="left"><div class="name">Precision / Recall</div><div class="meta">0.69 / 0.74</div></div><div class="pill yellow">Stable</div></div>
-          <div class="item"><div class="left"><div class="name">Feature Drift</div><div class="meta">Macro regime shift</div></div><div class="pill red">Elevated</div></div>
-          <div class="item"><div class="left"><div class="name">Latency (p95)</div><div class="meta">Inference pipeline</div></div><div class="pill green">142ms</div></div>
+    <!-- 5. QUANTITATIVE MODELING VIEWPORT -->
+    <div class="section" id="section-charts">
+      <div class="sec-header">
+        <div>
+          <div class="sec-title">Quantitative Modeling &amp; Forecasting</div>
+          <div class="sec-sub">Simulated performance vectors, tracking variations, and pricing indices</div>
         </div>
       </div>
-    </section>
-
-    <!-- MACRO -->
-    <section class="panel" id="panel-macro">
-      <div class="card span-6">
-        <h2>Rates &amp; FX Dashboard</h2>
-        <table>
-          <thead><tr><th>Instrument</th><th>Last</th><th>1D</th><th>1W</th><th>Trend</th></tr></thead>
-          <tbody>
-            <tr><td>US 2Y</td><td>4.71%</td><td class="bad">+4bp</td><td class="bad">+9bp</td><td>Up</td></tr>
-            <tr><td>US 10Y</td><td>4.24%</td><td class="bad">+3bp</td><td class="bad">+6bp</td><td>Up</td></tr>
-            <tr><td>DXY</td><td>104.2</td><td class="good">-0.2%</td><td class="bad">+0.6%</td><td>Sideways</td></tr>
-            <tr><td>EURUSD</td><td>1.084</td><td class="good">+0.3%</td><td class="good">+0.5%</td><td>Up</td></tr>
-            <tr><td>USDJPY</td><td>156.8</td><td class="bad">+0.4%</td><td class="bad">+1.1%</td><td>Up</td></tr>
-          </tbody>
-        </table>
-      </div>
-
-      <div class="card span-6">
-        <h2>Liquidity Proxy</h2>
-        <div class="chart">
-          <svg class="line" viewBox="0 0 1000 240" preserveAspectRatio="none">
-            <path d="M0,150 C110,148 210,140 300,132 C400,123 500,118 610,120 C710,122 810,130 900,126 C950,124 980,120 1000,118" stroke="#bc8cff"/>
-            <path d="M0,190 C120,184 240,178 340,174 C450,170 560,168 660,166 C770,164 870,162 1000,160" stroke="#58a6ff"/>
-          </svg>
+      <div class="charts-grid">
+        <div class="chart-box">
+          <div class="chart-box-title">Comparative Performance Index Profile (Base 100 — 2026)</div>
+          <div class="chart-container"><canvas id="perfLine"></canvas></div>
         </div>
-        <div class="legend">
-          <span><i style="background:#bc8cff"></i>Global M2 proxy</span>
-          <span><i style="background:#58a6ff"></i>Risk asset breadth</span>
+        <div class="chart-box">
+          <div class="chart-box-title">European Sovereign Aerospace Alpha Track Vector</div>
+          <div class="chart-container"><canvas id="defenseChart"></canvas></div>
+        </div>
+        <div class="chart-box">
+          <div class="chart-box-title">Semiconductor Hardware Spot Wrapper Index (SMH)</div>
+          <div class="chart-container"><canvas id="semiChart"></canvas></div>
+        </div>
+        <div class="chart-box">
+          <div class="chart-box-title">Macro Risk Exposure Scopes vs. Capital Speed Returns</div>
+          <div class="chart-container"><canvas id="bubbleChart"></canvas></div>
         </div>
       </div>
-    </section>
+    </div>
 
-    <!-- ON-CHAIN -->
-    <section class="panel" id="panel-onchain">
-      <div class="card span-7">
-        <h2>On-Chain Metrics</h2>
-        <table>
-          <thead><tr><th>Metric</th><th>Current</th><th>7D</th><th>30D</th><th>Interpretation</th></tr></thead>
-          <tbody>
-            <tr><td>BTC Active Addresses</td><td>1.03M</td><td class="good">+6.1%</td><td class="good">+11.4%</td><td>Network activity strengthening</td></tr>
-            <tr><td>Exchange Reserves (BTC)</td><td>2.12M</td><td class="good">-1.8%</td><td class="good">-4.7%</td><td>Supply tightening</td></tr>
-            <tr><td>Realized Cap</td><td>$572B</td><td class="good">+1.2%</td><td class="good">+3.3%</td><td>Capital inflow positive</td></tr>
-            <tr><td>MVRV Z-Score</td><td>2.1</td><td class="warn">+0.2</td><td class="warn">+0.4</td><td>Not overheated yet</td></tr>
-            <tr><td>Stablecoin Supply Ratio</td><td>14.8</td><td class="bad">-0.6%</td><td class="good">+2.1%</td><td>Dry powder rebuilding</td></tr>
-          </tbody>
-        </table>
-      </div>
-
-      <div class="card span-5">
-        <h2>Miner &amp; Holder Behavior</h2>
-        <div class="list">
-          <div class="item"><div class="left"><div class="name">Miner Outflow Multiple</div><div class="meta">Moderate distribution</div></div><div class="pill yellow">1.22x</div></div>
-          <div class="item"><div class="left"><div class="name">Long-Term Holder Net Position</div><div class="meta">Accumulation resumed</div></div><div class="pill green">+44k BTC</div></div>
-          <div class="item"><div class="left"><div class="name">Dormancy Flow</div><div class="meta">No major old-coins movement</div></div><div class="pill green">Low</div></div>
-          <div class="item"><div class="left"><div class="name">Spent Output Profit Ratio</div><div class="meta">Healthy profit-taking</div></div><div class="pill yellow">1.05</div></div>
+    <!-- 6. GEOPOLITICAL CATALYSTS VIEWPORT -->
+    <div class="section" id="section-macro">
+      <div class="sec-header">
+        <div>
+          <div class="sec-title">Geopolitical Stress Channels &amp; High-Velocity Catalysts</div>
+          <div class="sec-sub">Active real-world threat vectors processed by structural risk frameworks</div>
         </div>
       </div>
-    </section>
+      <div class="macro-grid">
+        <div class="macro-card red-top">
+          <div class="macro-header">
+            <div class="macro-title">⚔️ USA-Israel vs Iran War — Active Conflict</div>
+          </div>
+          <div class="macro-text">EU Gas +98%. Volatile Oil. High risk of closure for the Strait of Hormuz. Direct impact on inflation and global supply chains.</div>
+          <div class="macro-impacts">
+            <span class="impact-tag impact-neg">Energy: Volatile</span>
+            <span class="impact-tag impact-pos">Defense: Bullish</span>
+            <span class="impact-tag impact-neg">Equities: Risk-Off</span>
+          </div>
+        </div>
 
-    <!-- RISK -->
-    <section class="panel" id="panel-risk">
-      <div class="card span-6">
-        <h2>Risk Limits &amp; Utilization</h2>
-        <table>
-          <thead><tr><th>Limit</th><th>Used</th><th>Remaining</th><th>Utilization</th></tr></thead>
-          <tbody>
-            <tr><td>Gross Exposure</td><td>$6.2M</td><td>$1.8M</td><td><div class="progress"><span style="width:77%"></span></div></td></tr>
-            <tr><td>Sector Concentration</td><td>31%</td><td>9%</td><td><div class="progress"><span style="width:78%"></span></div></td></tr>
-            <tr><td>Crypto Beta Budget</td><td>0.42</td><td>0.18</td><td><div class="progress"><span style="width:70%"></span></div></td></tr>
-            <tr><td>Daily Loss Limit</td><td>$62k</td><td>$38k</td><td><div class="progress"><span style="width:62%"></span></div></td></tr>
-            <tr><td>Counterparty Limit</td><td>58%</td><td>42%</td><td><div class="progress"><span style="width:58%"></span></div></td></tr>
-          </tbody>
-        </table>
-      </div>
+        <div class="macro-card blue-top">
+          <div class="macro-header">
+            <div class="macro-title">🛡️ Accelerated European Rearmament</div>
+          </div>
+          <div class="macro-text">EU NATO countries are aggressively raising military spending toward 3% of GDP. Record backlogs for defense contractors (Leonardo, Rheinmetall, Thales, BAE Systems).</div>
+          <div class="macro-impacts">
+            <span class="impact-tag impact-pos">Aerospace &amp; Defense: Strong Buy</span>
+            <span class="impact-tag impact-mix">Sovereign Bonds: Spreads Controlled</span>
+          </div>
+        </div>
 
-      <div class="card span-6">
-        <h2>Scenario Stress Test</h2>
-        <table>
-          <thead><tr><th>Scenario</th><th>Shock</th><th>P&amp;L Impact</th><th>Status</th></tr></thead>
-          <tbody>
-            <tr><td>Rates +25bp parallel</td><td>UST curve bear flatten</td><td class="bad">-$42k</td><td><span class="pill yellow">Manageable</span></td></tr>
-            <tr><td>BTC -10% gap</td><td>Weekend liquidation event</td><td class="bad">-$118k</td><td><span class="pill red">Review hedge</span></td></tr>
-            <tr><td>NVDA -8%</td><td>Earnings miss + de-rate</td><td class="bad">-$74k</td><td><span class="pill yellow">Trim size</span></td></tr>
-            <tr><td>DXY +1.5%</td><td>Dollar squeeze</td><td class="bad">-$31k</td><td><span class="pill green">Contained</span></td></tr>
-            <tr><td>Vol spike (VIX +12)</td><td>Cross-asset de-risking</td><td class="bad">-$66k</td><td><span class="pill yellow">Hedge active</span></td></tr>
-          </tbody>
-        </table>
+        <div class="macro-card amber-top">
+          <div class="macro-header">
+            <div class="macro-title">🇺🇸 Trump Tariffs in Effect</div>
+          </div>
+          <div class="macro-text">New 10-20% universal baseline tariffs implemented by the USA, scaling up to 60% on China. Forced restructuring of global trade supply chains.</div>
+          <div class="macro-impacts">
+            <span class="impact-tag impact-neg">EU Export: Penalized</span>
+            <span class="impact-tag impact-pos">US Big Tech: Shielded</span>
+            <span class="impact-tag impact-neg">China: Slowdown</span>
+          </div>
+        </div>
+
+        <div class="macro-card green-top">
+          <div class="macro-header">
+            <div class="macro-title">🚀 AI Boom &amp; Data Center Infrastructure</div>
+            <span class="badge badge-buy">Megatrend</span>
+          </div>
+          <div class="macro-text">Demand for advanced AI accelerators and hardware heavily outpaces foundry capacities. Cloud infrastructure capital expenditures remain structurally elevated in 2026.</div>
+          <div class="macro-impacts">
+            <span class="impact-tag impact-pos">Semiconductors: Leaders</span>
+            <span class="impact-tag impact-mix">Utilities: Power Surge Demand</span>
+          </div>
+        </div>
       </div>
-    </section>
+    </div>
+
+    <!-- 7. REGISTER PRODUCT CUSTOM VIEWPORT -->
+    <div class="section" id="section-add">
+      <div class="sec-header">
+        <div>
+          <div class="sec-title">Add Custom Asset</div>
+          <div class="sec-sub">Track a custom financial asset within your personal portfolio</div>
+        </div>
+      </div>
+      <div class="add-form">
+        <div class="add-form-title">📝 Asset Parameters</div>
+        <form id="customProductForm" onsubmit="addCustomProduct(event)">
+          <div class="form-grid">
+            <div class="form-group">
+              <label class="form-label">Company Name / ETF</label>
+              <input type="text" class="form-input" id="form-name" placeholder="e.g., Leonardo Spa" required>
+            </div>
+            <div class="form-group">
+              <label class="form-label">Ticker</label>
+              <input type="text" class="form-input" id="form-ticker" placeholder="e.g., LDO.MI" required>
+            </div>
+            <div class="form-group">
+              <label class="form-label">Exchange</label>
+              <select class="form-select" id="form-exchange">
+                <option value="Milano">Milano</option>
+                <option value="New York">New York</option>
+                <option value="Frankfurt">Frankfurt</option>
+                <option value="Paris">Paris</option>
+                <option value="London">London</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <label class="form-label">Sector</label>
+              <select class="form-select" id="form-sector">
+                <option value="Defense &amp; Space">Defense &amp; Space</option>
+                <option value="Semiconductors">Semiconductors / AI</option>
+                <option value="Energy">Energy</option>
+                <option value="Banking">Banking</option>
+                <option value="Sector ETF">Sector ETF</option>
+              </select>
+            </div>
+          </div>
+          <div class="form-actions">
+            <button type="submit" class="btn-primary">Add to Portfolio</button>
+            <button type="reset" class="btn-secondary">Clear</button>
+          </div>
+        </form>
+      </div>
+    </div>
+
+    <!-- 8. REPOSITORIES SOURCES DATA INGESTION VIEWPORT -->
+    <div class="section" id="section-sources">
+      <div class="sec-header">
+        <div>
+          <div class="sec-title">Data Ingestion Streams</div>
+          <div class="sec-sub">The core institutional databases feeding our real-time AI algorithms</div>
+        </div>
+      </div>
+      <div class="source-grid">
+        <div class="source-card"><div class="source-name">IMF World Outlook</div><div class="source-meta">GDP Projections &amp; Macro Stress Frameworks</div><span class="source-type">Institutional</span></div>
+        <div class="source-card"><div class="source-name">Bloomberg Terminal Feed</div><div class="source-meta">Aggregated real-time global market data</div><span class="source-type">Financial</span></div>
+        <div class="source-card"><div class="source-name">Reuters Geopolitics</div><div class="source-meta">Middle East escalations &amp; tariff updates</div><span class="source-type">News</span></div>
+        <div class="source-card"><div class="source-name">Stockholm Peace Institute (SIPRI)</div><div class="source-meta">Global defense budgets and procurement flows</div><span class="source-type">Intelligence</span></div>
+        <div class="source-card"><div class="source-name">ECB / Federal Reserve Matrix</div><div class="source-meta">Central bank dot plots, statements, and minutes</div><span class="source-type">Central Bank</span></div>
+        <div class="source-card"><div class="source-name">ASML Tech Intelligence</div><div class="source-meta">Global lithography shipments &amp; semi backlogs</div><span class="source-type">Corporate</span></div>
+      </div>
+    </div>
+
+    <!-- 9. TIMELINE TRACE HISTORICAL VIEWPORT -->
+    <div class="section" id="section-timeline">
+      <div class="sec-header">
+        <div>
+          <div class="sec-title">Geopolitical Flashpoint Timeline</div>
+          <div class="sec-sub">Market impacts mapped dynamically throughout 2026</div>
+        </div>
+      </div>
+      <div class="timeline">
+        <div class="timeline-item">
+          <div class="tl-dot red"></div>
+          <div class="tl-date">May 2026</div>
+          <div class="tl-title">Iran Escalation &amp; Cyber Attacks on Infrastructure</div>
+          <div class="tl-body">Disruptions reported in the Strait of Hormuz. Brent Crude fluctuates violently between $88 and $94 per barrel. Spiking risk premiums across aviation and maritime transport stocks.</div>
+        </div>
+        <div class="timeline-item">
+          <div class="tl-dot green"></div>
+          <div class="tl-date">April 2026</div>
+          <div class="tl-title">EU Multi-Year Defense Supplement Approved</div>
+          <div class="tl-body">The European Commission releases extraordinary funding for sovereign military autonomy and ammunition scale-up. Institutional inflows pivot into Rheinmetall and Leonardo.</div>
+        </div>
+        <div class="timeline-item">
+          <div class="tl-dot amber"></div>
+          <div class="tl-date">March 2026</div>
+          <div class="tl-title">US-China Reciprocal Tariff Walls Finalized</div>
+          <div class="tl-body">Beijing responds to the Trump administration's trade mandates by restricting critical rare earth exports. Industrial raw material and magnet input prices jump.</div>
+        </div>
+      </div>
+    </div>
+
   </main>
+</div>
 
-  <footer>
-    <div>Data latency: 1–5 min (market), 15 min (macro), near-real-time (alerts)</div>
-    <div>© 2026 FinDashboard Pro • Internal Research Interface</div>
-  </footer>
+<!-- PRODUCT MODAL DETAILS -->
+<div class="modal-overlay" id="productModal">
+  <div class="modal">
+    <button class="modal-close" onclick="closeModal()">×</button>
+    <div class="modal-header">
+      <div class="modal-name" id="m-name">Asset Profile</div>
+      <div class="modal-meta" id="m-meta"></div>
+    </div>
+    <div class="modal-body" id="m-stats">
+      <!-- Dynamic Stats -->
+    </div>
+    <div class="modal-section-title">AI Analytics &amp; Trigger Thresholds</div>
+    <div class="trigger-grid" id="m-triggers">
+      <!-- Dynamic Triggers -->
+    </div>
+    <div class="modal-ai-section">
+      <div class="modal-ai-title">🤖 Predictive Assessment — Render Cloud Engine</div>
+      <div class="modal-ai-text" id="m-ai-text">Select an asset to fetch its dedicated matrix evaluation from the live cluster...</div>
+    </div>
+  </div>
+</div>
 
-  <script>
-    // Clock
-    function tickClock() {
-      const el = document.getElementById('clock');
-      const now = new Date();
-      const hh = String(now.getUTCHours()).padStart(2, '0');
-      const mm = String(now.getUTCMinutes()).padStart(2, '0');
-      const ss = String(now.getUTCSeconds()).padStart(2, '0');
-      el.textContent = `UTC ${hh}:${mm}:${ss}`;
-    }
-    tickClock();
-    setInterval(tickClock, 1000);
 
-    // Duplicate ticker content for seamless loop
-    const track = document.getElementById('tickerTrack');
-    track.innerHTML = track.innerHTML + track.innerHTML;
+<!-- COOKIE CONSENT BANNER -->
+<div class="cookie-banner" id="cookieBanner">
+  <div class="cookie-inner">
+    <div class="cookie-text">
+      <strong>We use cookies.</strong> We use Google Analytics to understand how visitors use FinMatrix Pro so we can improve it. These cookies only run with your consent. See our <a href="#" onclick="return false;">Privacy Policy</a> for details.
+    </div>
+    <div class="cookie-actions">
+      <button class="btn-cookie-manage" onclick="openCookiePrefs()">Manage preferences</button>
+      <button class="btn-cookie-reject" onclick="setCookieConsent(false)">Reject</button>
+      <button class="btn-cookie-accept" onclick="setCookieConsent(true)">Accept</button>
+    </div>
+  </div>
+</div>
 
-    // Tab switching
-    const tabs = Array.from(document.querySelectorAll('.tab-btn'));
-    const panels = Array.from(document.querySelectorAll('.panel'));
+<!-- COOKIE PREFERENCES MODAL -->
+<div class="modal-overlay" id="cookiePrefsModal">
+  <div class="modal" style="max-width: 480px;">
+    <button class="modal-close" onclick="closeCookiePrefs()">×</button>
+    <div class="modal-header">
+      <div class="modal-name">Cookie Preferences</div>
+      <div style="font-size:13px; color:var(--text-muted); margin-top:6px;">Choose which cookies FinMatrix Pro is allowed to use.</div>
+    </div>
+    <div class="cookie-prefs-body">
+      <div class="cookie-cat">
+        <div class="cookie-cat-head">
+          <div class="cookie-cat-title">Strictly Necessary</div>
+          <label class="toggle-switch">
+            <input type="checkbox" checked disabled>
+            <span class="toggle-slider"></span>
+          </label>
+        </div>
+        <div class="cookie-cat-desc">Required for the site to function (e.g. remembering your cookie choice). Cannot be disabled.</div>
+      </div>
+      <div class="cookie-cat">
+        <div class="cookie-cat-head">
+          <div class="cookie-cat-title">Analytics (Google Analytics)</div>
+          <label class="toggle-switch">
+            <input type="checkbox" id="prefAnalytics">
+            <span class="toggle-slider"></span>
+          </label>
+        </div>
+        <div class="cookie-cat-desc">Helps us understand which sections and features are used, so we can improve the dashboard. No personal data is sold.</div>
+      </div>
+    </div>
+    <div class="form-actions">
+      <button class="btn-primary" onclick="savePrefsAndClose()">Save preferences</button>
+      <button class="btn-secondary" onclick="closeCookiePrefs()">Cancel</button>
+    </div>
+  </div>
+</div>
 
-    function activate(tabName) {
-      tabs.forEach(b => b.classList.toggle('active', b.dataset.tab === tabName));
-      panels.forEach(p => p.classList.toggle('active', p.id === `panel-${tabName}`));
-      window.scrollTo({ top: 0, behavior: 'smooth' });
-    }
+<!-- TOAST NOTIFICATION -->
+<div class="toast" id="toast">System Notification</div>
 
-    tabs.forEach(btn => {
-      btn.addEventListener('click', () => activate(btn.dataset.tab));
+<!-- ── DASHBOARD LOGIC & ENGINE INTERNALS (RENDER CLOUD ROUTED) ── -->
+<script>
+// Enforce global server routing via Render backend endpoints
+window.USE_RENDER = true; 
+window.FINDEMO_AI_ENDPOINT = window.FINDEMO_AI_ENDPOINT || 'https://findemo-ai.onrender.com/api/ai';
+
+const MARKET_DATABASE = [
+  { name: "Leonardo Spa", exchange: "Milano", ticker: "LDO.MI", sector: "Defense & Space", country: "Italy", divYield: 2.4, mktCap: 12.8, signal: "BUY", score: 92, note: "Unprecedented EU defense backlog scaling through 2031", risk: 20 },
+  { name: "Rheinmetall AG", exchange: "Frankfurt", ticker: "RHM.DE", sector: "Defense & Space", country: "Germany", divYield: 1.8, mktCap: 24.5, signal: "BUY", score: 95, note: "Primary tracked armor and heavy systems supplier to European theater", risk: 15 },
+  { name: "Thales SA", exchange: "Paris", ticker: "HO.PA", sector: "Defense & Space", country: "France", divYield: 2.1, mktCap: 31.2, signal: "BUY", score: 88, note: "Sovereign leader in battlefield network security and satellite components", risk: 25 },
+  { name: "NVIDIA Corp", exchange: "New York", ticker: "NVDA", sector: "Semiconductors", country: "USA", divYield: 0.04, mktCap: 3150.0, signal: "BUY", score: 91, note: "Uncontested footprint in enterprise Blackwell clusters and 2026 data architecture", risk: 40 },
+  { name: "ASML Holding", exchange: "Amsterdam", ticker: "ASML", sector: "Semiconductors", country: "Netherlands", divYield: 1.2, mktCap: 340.0, signal: "HOLD", score: 74, note: "Navigating EUV lithography export limitations into Asian trade blocks due to tariffs", risk: 35 },
+  { name: "Eni Spa", exchange: "Milano", ticker: "ENI.MI", sector: "Energy", country: "Italy", divYield: 6.8, mktCap: 44.2, signal: "HOLD", score: 68, note: "Capturing fat upstream oil margins, but green transition scaling friction remains", risk: 50 },
+  { name: "TotalEnergies", exchange: "Paris", ticker: "TTE.PA", sector: "Energy", country: "France", divYield: 5.1, mktCap: 152.0, signal: "HOLD", score: 70, note: "Highly effective LNG hedging positions mitigating Middle East risk premiums", risk: 45 },
+  { name: "STMicroelectronics", exchange: "Milano", ticker: "STLAM.MI", sector: "Semiconductors", country: "France/Italy", divYield: 1.1, mktCap: 33.8, signal: "UNDERWEIGHT", score: 42, note: "Slowing European automotive production drops demand for basic silicon components", risk: 55 },
+  { name: "iShares Defense UCITS ETF", exchange: "ETF", ticker: "DFNS.MI", sector: "Sector ETF", country: "Ireland", divYield: 0.0, mktCap: 1.4, signal: "BUY", score: 94, note: "Broad systemic allocation basket covering pure-play global defense primes", risk: 10 },
+  { name: "VanEck Semiconductor ETF", exchange: "ETF", ticker: "SMH", sector: "Sector ETF", country: "USA", divYield: 0.3, mktCap: 18.5, signal: "BUY", score: 89, note: "Pure-play liquid wrapper matching the top 25 high-performance hardware manufacturers", risk: 30 }
+];
+
+let MY_PORTFOLIO = [];
+let activeSection = 'overview';
+let activeFilter = 'all';
+let charts = {};
+
+window.addEventListener('DOMContentLoaded', () => {
+  document.getElementById('clock').innerText = new Date().toLocaleDateString('en-US', {year: 'numeric', month: 'long', day: 'numeric'});
+  updateRefreshTime();
+  renderDatabaseTable();
+  updateDashboardKPIs();
+  initCharts();
+  renderPortfolioTable();
+  initCookieConsent();
+});
+
+// ── COOKIE CONSENT HANDLING ──
+function initCookieConsent() {
+  const saved = localStorage.getItem('cookie_consent');
+  if (saved === null) {
+    // No choice made yet — show the banner
+    document.getElementById('cookieBanner').classList.add('show');
+  }
+  // If a choice was already made, Consent Mode default/update in <head> already handled it.
+}
+
+function setCookieConsent(accepted) {
+  localStorage.setItem('cookie_consent', accepted ? 'accepted' : 'rejected');
+
+  if (typeof gtag === 'function') {
+    gtag('consent', 'update', {
+      'analytics_storage': accepted ? 'granted' : 'denied'
     });
-  </script>
+  }
+
+  document.getElementById('cookieBanner').classList.remove('show');
+
+  if (accepted) {
+    showToast('Analytics cookies enabled. Thank you!');
+  } else {
+    showToast('Analytics cookies stay disabled. You can change this anytime in Cookie Preferences.');
+  }
+}
+
+function openCookiePrefs() {
+  const current = localStorage.getItem('cookie_consent');
+  document.getElementById('prefAnalytics').checked = (current === 'accepted');
+  document.getElementById('cookiePrefsModal').classList.add('open');
+}
+
+function closeCookiePrefs() {
+  document.getElementById('cookiePrefsModal').classList.remove('open');
+}
+
+function savePrefsAndClose() {
+  const analyticsAllowed = document.getElementById('prefAnalytics').checked;
+  setCookieConsent(analyticsAllowed);
+  closeCookiePrefs();
+}
+
+function updateRefreshTime() {
+  const now = new Date();
+  document.getElementById('last-refresh').innerText = "Render API Node: " + now.toLocaleTimeString('en-US', {hour: '2-digit', minute:'2-digit', second:'2-digit'});
+}
+
+function nav(sectionId, btn) {
+  activeSection = sectionId;
+  document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
+  document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+  
+  document.getElementById(`section-${sectionId}`).classList.add('active');
+  if(btn) btn.classList.add('active');
+  
+  const titles = {
+    overview: "Macro Structural Matrix Overview", portfolio: "Operational Portfolio Analytics", 
+    market: "Global Asset Screening Database", signals: "Algorithmic AI Signal Engine", 
+    charts: "Quantitative Modeling & Forecasting", macro: "Geopolitical Tensions & Catalysts",
+    add: "Register Asset Configuration", sources: "Model Data Feeds", timeline: "Systemic Event Log Matrix"
+  };
+  document.getElementById('page-title').innerText = titles[sectionId] || "FinDashboard Pro";
+
+  // Google Analytics: track section switches as virtual pageviews
+  if (typeof gtag === 'function') {
+    gtag('event', 'page_view', {
+      page_title: titles[sectionId] || sectionId,
+      page_path: '/' + sectionId,
+      page_location: window.location.origin + window.location.pathname + '#' + sectionId
+    });
+  }
+}
+
+function showToast(text) {
+  const t = document.getElementById('toast');
+  t.innerText = text;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 3500);
+}
+
+function renderDatabaseTable(searchQuery = '') {
+  const tbody = document.getElementById('dbBody');
+  tbody.innerHTML = '';
+  
+  const filtered = MARKET_DATABASE.filter(p => {
+    const matchesFilter = activeFilter === 'all' || 
+                          (activeFilter === 'etf' && p.exchange === 'ETF') || 
+                          (p.exchange.toLowerCase() === activeFilter.toLowerCase());
+    const matchesSearch = p.name.toLowerCase().includes(searchQuery.toLowerCase()) || 
+                          p.ticker.toLowerCase().includes(searchQuery.toLowerCase());
+    return matchesFilter && matchesSearch;
+  });
+
+  document.getElementById('db-count').innerText = MARKET_DATABASE.length;
+
+  filtered.forEach(p => {
+    const tr = document.createElement('tr');
+    tr.onclick = (e) => { if(e.target.tagName !== 'BUTTON') openModal(p); };
+    
+    const badgeClass = p.signal === 'BUY' ? 'badge-buy' : p.signal === 'HOLD' ? 'badge-hold' : 'badge-sell';
+    const inPort = MY_PORTFOLIO.some(x => x.ticker === p.ticker);
+
+    tr.innerHTML = `
+      <td><strong>${p.name}</strong></td>
+      <td><span class="badge badge-gray">${p.exchange}</span></td>
+      <td class="ticker">${p.ticker}</td>
+      <td>${p.sector}</td>
+      <td>${p.country}</td>
+      <td class="ticker">${p.divYield}%</td>
+      <td class="ticker">${p.mktCap}</td>
+      <td><span class="badge ${badgeClass}">${p.signal}</span></td>
+      <td>
+        <button class="btn-primary" style="padding:3px 8px; font-size:11px;" onclick="togglePortfolio('${p.ticker}')">
+          ${inPort ? 'Remove' : 'Track'}
+        </button>
+      </td>
+    `;
+    tbody.appendChild(tr);
+  });
+}
+
+function filterDB(val, btn) {
+  activeFilter = val;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  renderDatabaseTable(document.getElementById('dbSearch').value);
+}
+
+function searchDB() {
+  renderDatabaseTable(document.getElementById('dbSearch').value);
+}
+
+function togglePortfolio(ticker) {
+  const item = MARKET_DATABASE.find(p => p.ticker === ticker) || MY_PORTFOLIO.find(p => p.ticker === ticker);
+  if(!item) return;
+
+  const idx = MY_PORTFOLIO.findIndex(x => x.ticker === ticker);
+  if(idx > -1) {
+    MY_PORTFOLIO.splice(idx, 1);
+    showToast(`${item.name} dropped from monitoring node.`);
+    if (typeof gtag === 'function') {
+      gtag('event', 'remove_from_portfolio', { item_name: item.name, item_ticker: item.ticker });
+    }
+  } else {
+    MY_PORTFOLIO.push(item);
+    showToast(`${item.name} successfully wired to portfolio tracker.`);
+    if (typeof gtag === 'function') {
+      gtag('event', 'add_to_portfolio', { item_name: item.name, item_ticker: item.ticker, item_sector: item.sector });
+    }
+  }
+  renderPortfolioTable();
+  renderDatabaseTable(document.getElementById('dbSearch').value);
+  updateDashboardKPIs();
+}
+
+function renderPortfolioTable() {
+  const tbody = document.getElementById('portfolioBody');
+  document.getElementById('port-count').innerText = MY_PORTFOLIO.length;
+
+  if(MY_PORTFOLIO.length === 0) {
+    tbody.innerHTML = `<tr><td colspan="8" class="empty"><div class="empty-icon">📋</div>No active assets in pipeline. Inject assets from the primary database tracker.</td></tr>`;
+    return;
+  }
+
+  tbody.innerHTML = '';
+  MY_PORTFOLIO.forEach(p => {
+    const tr = document.createElement('tr');
+    const badgeClass = p.signal === 'BUY' ? 'badge-buy' : p.signal === 'HOLD' ? 'badge-hold' : 'badge-sell';
+    const scoreColor = p.score >= 85 ? 'high' : p.score >= 65 ? 'mid' : 'low';
+    
+    tr.innerHTML = `
+      <td><strong>${p.name}</strong></td>
+      <td><span class="badge badge-blue">${p.exchange === 'ETF' ? 'ETF' : 'Equity'}</span></td>
+      <td class="ticker">${p.ticker}</td>
+      <td>${p.sector}</td>
+      <td><span class="badge ${badgeClass}">${p.signal}</span></td>
+      <td><span class="score ${scoreColor}">${p.score}</span></td>
+      <td style="font-size:11px; max-width:200px; color:var(--gray-700)">${p.note || 'Active system streaming.'}</td>
+      <td><button class="btn-danger" onclick="togglePortfolio('${p.ticker}')">Delete</button></td>
+    `;
+    tbody.appendChild(tr);
+  });
+}
+
+function addCustomProduct(e) {
+  e.preventDefault();
+  const name = document.getElementById('form-name').value;
+  const ticker = document.getElementById('form-ticker').value;
+  const exchange = document.getElementById('form-exchange').value;
+  const sector = document.getElementById('form-sector').value;
+
+  const newProd = {
+    name, exchange, ticker, sector, country: "User-Defined", divYield: 0.0, mktCap: 0.0,
+    signal: "HOLD", score: 65, note: "Manually registered allocation profile. Awaiting full Render screening loop.", risk: 30
+  };
+
+  MY_PORTFOLIO.push(newProd);
+  showToast(`${name} added to portfolio buffer.`);
+
+  if (typeof gtag === 'function') {
+    gtag('event', 'add_custom_asset', { item_name: name, item_ticker: ticker, item_sector: sector, item_exchange: exchange });
+  }
+
+  document.getElementById('customProductForm').reset();
+  renderPortfolioTable();
+  updateDashboardKPIs();
+  nav('portfolio', null);
+}
+
+function updateDashboardKPIs() {
+  const totalDB = MARKET_DATABASE.length;
+  const buys = MARKET_DATABASE.filter(x => x.signal === 'BUY').length;
+  const holds = MARKET_DATABASE.filter(x => x.signal === 'HOLD').length;
+  const sells = MARKET_DATABASE.filter(x => x.signal === 'UNDERWEIGHT').length;
+
+  document.getElementById('kpi-total').innerText = totalDB + MY_PORTFOLIO.length;
+  document.getElementById('kpi-buy').innerText = buys;
+  document.getElementById('kpi-hold').innerText = holds;
+  document.getElementById('kpi-sell').innerText = sells;
+  document.getElementById('nc-total').innerText = totalDB;
+  document.getElementById('nc-buy').innerText = buys;
+}
+
+// ── RENDER BACKEND CENTRAL ROUTING PROTOCOLS ──
+async function executeRenderRefresh(promptPayload) {
+  const endpoint = window.FINDEMO_AI_ENDPOINT;
+  try {
+    const response = await fetch(endpoint, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ prompt: promptPayload })
+    });
+    const data = await response.json();
+    return data.response || data.text || JSON.stringify(data);
+  } catch (error) {
+    console.error("Render Infrastructure Communication Exception:", error);
+    return "⚠️ Failed to resolve Render Cloud execution framework. Service nodes are sleeping, or request timed out.";
+  }
+}
+
+async function runAIRefresh() {
+  const txt = document.getElementById('ai-overview-text');
+  const bar = document.getElementById('ai-overview-bar');
+  showToast("Infrastructural handshake initiated with Render web service cluster...");
+
+  if (typeof gtag === 'function') {
+    gtag('event', 'ai_refresh_triggered', { engine_panel: 'overview' });
+  }
+  
+  bar.classList.add('active');
+  txt.innerText = "Interrogating Render server container pipelines. Compiling 2026 systemic risk matrices...";
+  
+  const prompt = "Generate a concise macro investment outlook focused on the 2026 impact of the Iran energy conflict, global trade tariffs, and rapid European Union rearmament.";
+  const result = await executeRenderRefresh(prompt);
+  
+  bar.classList.remove('active');
+  txt.innerText = result;
+  
+  // Real-time synchronization of state parameters
+  document.getElementById('ai-signals-text').innerHTML = `<strong>Sync State: Validated via Render Core:</strong> Equities are absorbing protectionist policies. Systematic risk premiums continue concentrating in regional hardware logs and trade routes.`;
+  document.getElementById('sig-buy-list').innerHTML = "• Rheinmetall AG (95)<br>• iShares Defense ETF (94)<br>• Leonardo Spa (92)<br>• NVIDIA Corp (91)";
+  document.getElementById('sig-hold-list').innerHTML = "• ASML Holding (74)<br>• TotalEnergies (70)<br>• Eni Spa (68)";
+  document.getElementById('sig-sell-list').innerHTML = "• STMicroelectronics (42)";
+  
+  updateRefreshTime();
+}
+
+async function askAI(panelType, prompt) {
+  const txt = document.getElementById('ai-overview-text');
+  const bar = document.getElementById('ai-overview-bar');
+  
+  txt.innerText = "Fetching contextual generation matrix from Render host nodes...";
+  bar.classList.add('active');
+
+  if (typeof gtag === 'function') {
+    gtag('event', 'ai_query_submitted', { engine_panel: panelType });
+  }
+  
+  const aiRes = await executeRenderRefresh(prompt);
+  bar.classList.remove('active');
+  txt.innerText = aiRes;
+  updateRefreshTime();
+}
+
+async function analyzePortfolio() {
+  const txt = document.getElementById('ai-port-text');
+  const bar = document.getElementById('ai-port-bar');
+  if(MY_PORTFOLIO.length === 0) {
+    txt.innerText = "Please inject assets into your active configurations to initiate a structural portfolio audit via Render.";
+    return;
+  }
+  
+  if(bar) bar.classList.add('active');
+  txt.innerText = "Transmitting active client asset schema to Render secure containers...";
+
+  if (typeof gtag === 'function') {
+    gtag('event', 'portfolio_analysis_run', { portfolio_size: MY_PORTFOLIO.length });
+  }
+  
+  const tickersStr = MY_PORTFOLIO.map(x => `${x.name} (${x.ticker})`).join(", ");
+  const prompt = `Provide a professional portfolio diversity audit and risk vulnerability profile based on these specific instruments: ${tickersStr}, adjusting allocations for 2026 trade barriers, supply chain shocks, and persistent inflation. Response must be in English.`;
+  
+  const res = await executeRenderRefresh(prompt);
+  if(bar) bar.classList.remove('active');
+  txt.innerText = res;
+}
+
+function askPortfolioSignals() {
+  const txt = document.getElementById('ai-port-text');
+  if(MY_PORTFOLIO.length === 0) {
+    txt.innerText = "Active portfolio buffer empty. Tracking parameters missing.";
+    return;
+  }
+  txt.innerText = "Current Asset Track Index calculated on live Render cluster parameters:\n\n" + 
+    MY_PORTFOLIO.map(x => `• ${x.ticker} | Algorithmic Evaluation: ${x.signal} (Stability Index: ${x.score}/100)`).join("\n");
+}
+
+function generateSignals() {
+  runAIRefresh();
+}
+
+// ── COMPLIANT DYNAMIC OVERLAY WITH EXCLUSIVE BACKEND HOOK ──
+async function openModal(product) {
+  const overlay = document.getElementById('productModal');
+  overlay.classList.add('open');
+  
+  document.getElementById('m-name').innerText = product.name;
+  document.getElementById('m-meta').innerHTML = `
+    <span class="badge badge-blue">${product.ticker}</span>
+    <span class="badge badge-gray">${product.exchange}</span>
+    <span class="badge badge-gray">${product.sector}</span>
+  `;
+
+  document.getElementById('m-stats').innerHTML = `
+    <div class="modal-stat"><div class="modal-stat-label">Market Capitalization</div><div class="modal-stat-value">€${product.mktCap}bn</div></div>
+    <div class="modal-stat"><div class="modal-stat-label">Dividend Yield</div><div class="modal-stat-value">${product.divYield}%</div></div>
+    <div class="modal-stat"><div class="modal-stat-label">Risk Profile Index</div><div class="modal-stat-value" style="color:var(--red)">${product.risk}/100</div></div>
+  `;
+
+  document.getElementById('m-triggers').innerHTML = `
+    <div class="trig-col buy"><div class="trig-title buy">BUY Threshold</div><div class="trig-item">NATO Defense Targets &gt; 2.5%</div><div class="trig-item">Hormuz Escalation Spikes</div></div>
+    <div class="trig-col hold"><div class="trig-title hold">HOLD Threshold</div><div class="trig-item">Stabilized Brent Support</div><div class="trig-item">ECB Rate Cut Pauses</div></div>
+    <div class="trig-col sell"><div class="trig-title sell">UNDERWEIGHT Threshold</div><div class="trig-item">Targeted USA Cross-Tariffs</div><div class="trig-item">De-escalation Treaties Signed</div></div>
+  `;
+
+  const aitxt = document.getElementById('m-ai-text');
+  aitxt.innerText = "Querying localized predictive model microservice via Render infrastructure...";
+
+  if (typeof gtag === 'function') {
+    gtag('event', 'select_item', { item_name: product.name, item_ticker: product.ticker, item_sector: product.sector });
+  }
+
+  const prompt = `Provide a crisp, professional three-line financial evaluation summary for asset: ${product.name} (${product.ticker}) - Sector focus: ${product.sector}. Explicitly handle the 2026 economic environment in English.`;
+  const response = await executeRenderRefresh(prompt);
+  aitxt.innerText = response;
+}
+
+function closeModal() {
+  document.getElementById('productModal').classList.remove('open');
+}
+
+// ── QUANTITATIVE CONFIGURATIONS (CHART.JS V4 COMPLIANT STRUCTURES) ──
+function initCharts() {
+  charts.signal = new Chart(document.getElementById('signalDonut'), {
+    type: 'doughnut',
+    data: {
+      labels: ['BUY', 'HOLD', 'UNDERWEIGHT'],
+      datasets: [{ data: [5, 4, 1], backgroundColor: ['#16a34a', '#d97706', '#dc2626'], borderWidth: 0 }]
+    },
+    options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { position: 'bottom' } } }
+  });
+
+  charts.theme = new Chart(document.getElementById('themeDonut'), {
+    type: 'pie',
+    data: {
+      labels: ['Defense & Space', 'Semiconductors / AI', 'Energy', 'Sector ETFs'],
+      datasets: [{ data: [40, 30, 20, 10], backgroundColor: ['#1e3a5f', '#2563eb', '#60a5fa', '#cbd5e1'] }]
+    },
+    options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { position: 'bottom' } } }
+  });
+
+  charts.perf = new Chart(document.getElementById('perfLine'), {
+    type: 'line',
+    data: {
+      labels: ['Jan 26', 'Feb 26', 'Mar 26', 'Apr 26', 'May 26'],
+      datasets: [
+        { label: 'EU Defense Basket', data: [100, 108, 115, 128, 134], borderColor: '#16a34a', tension: 0.2 },
+        { label: 'US Tech / AI Index', data: [100, 105, 103, 112, 118], borderColor: '#2563eb', tension: 0.2 },
+        { label: 'Global Equities Benchmark', data: [100, 99, 97, 98, 96], borderColor: '#dc2626', tension: 0.2 }
+      ]
+    },
+    options: { responsive: true, maintainAspectRatio: false }
+  });
+
+  charts.def = new Chart(document.getElementById('defenseChart'), {
+    type: 'bar',
+    data: { labels: ['Leonardo', 'Rheinmetall', 'Thales'], datasets: [{ label: 'YTD Return %', data: [34, 58, 22], backgroundColor: '#1e3a5f' }] },
+    options: { responsive: true, maintainAspectRatio: false }
+  });
+
+  charts.semi = new Chart(document.getElementById('semiChart'), {
+    type: 'line',
+    data: { labels: ['Nov 25', 'Jan 26', 'Mar 26', 'May 26'], datasets: [{ label: 'SMH Spot Index', data: [220, 245, 238, 262], borderColor: '#60a5fa', fill: true, backgroundColor: 'rgba(96,165,250,0.1)' }] },
+    options: { responsive: true, maintainAspectRatio: false }
+  });
+
+  charts.bubble = new Chart(document.getElementById('bubbleChart'), {
+    type: 'scatter',
+    data: {
+      datasets: [
+        { label: 'Defense Aerospace', data: [{x: 20, y: 85}], backgroundColor: '#16a34a', pointRadius: 12 },
+        { label: 'AI Semiconductors', data: [{x: 45, y: 78}], backgroundColor: '#2563eb', pointRadius: 12 },
+        { label: 'Upstream Oil & Gas', data: [{x: 75, y: 50}], backgroundColor: '#d97706', pointRadius: 12 },
+        { label: 'EU Automotive Primes', data: [{x: 80, y: 25}], backgroundColor: '#dc2626', pointRadius: 12 }
+      ]
+    },
+    options: { 
+      responsive: true, 
+      maintainAspectRatio: false,
+      scales: {
+        x: { title: { display: true, text: 'Geopolitical Instability / Tariff Exposure' } },
+        y: { title: { display: true, text: 'Projected YTD Target Velocity' } }
+      }
+    }
+  });
+}
+</script>
 </body>
 </html>
