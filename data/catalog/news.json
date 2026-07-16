@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-15T06:16:14Z",
-  "snapshot_date": "2026-07-15",
+  "generated_at": "2026-07-16T06:16:50Z",
+  "snapshot_date": "2026-07-16",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Brace for $4 gas again: How U.S.-Iran tensions are threatening to end the price break at the pump",
-      "url": "https://www.marketwatch.com/story/brace-for-4-gas-again-how-u-s-iran-tensions-are-threatening-to-end-the-price-break-at-the-pump-343a76e1?mod=mw_rss_topstories",
+      "title": "United Airlines gets hit by a $6 billion added-fuel-cost headwind",
+      "url": "https://www.marketwatch.com/story/united-airlines-gets-hit-by-a-6-billion-added-fuel-cost-headwind-dacb07b6?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-15T00:28:00+00:00",
-      "summary": "Americans got some relief at the gas pump in recent weeks, enough to slow down inflation. That might not last long as the U.S. and Iran continue to vie for control of the Strait of Hormuz.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.4588,
+      "published_at": "2026-07-16T00:25:00+00:00",
+      "summary": "Investors zero in on United’s potentially fatter jet-fuel bill — the airline said it expects nearly $6 billion in additional fuel expenses for the year.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.4215,
       "tags": [
         "AI"
       ],
@@ -20,28 +20,13 @@
       "source_repo": "financenews"
     },
     {
-      "title": "‘It’s heartbreaking’: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
-      "url": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
+      "title": "The trucking market is tighter than it’s been in years — but investors are upbeat on J.B. Hunt",
+      "url": "https://www.marketwatch.com/story/the-trucking-market-is-tighter-than-its-been-in-years-but-investors-are-upbeat-on-j-b-hunt-af0f1587?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-14T22:15:00+00:00",
-      "summary": "“I’ve always been a little skeptical of the government’s encouragement to delay claiming benefits.”",
-      "sentiment": "bearish",
-      "sentiment_score": -0.7968,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Three powerful forces are draining family wealth — and your estate plan is completely unprepared",
-      "url": "https://www.marketwatch.com/story/the-great-wealth-transfer-is-real-but-the-irs-or-a-nursing-home-might-get-your-money-first-d0c46676?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-14T21:38:00+00:00",
-      "summary": "From Medicaid cuts to an IRA tax trap, here are the real threats to your family’s inheritance and what to do about them.",
+      "published_at": "2026-07-16T00:22:00+00:00",
+      "summary": "Shares of the trucking giant jump 8% after hours, as fuel charges and demand for its railroad-connection business lift results",
       "sentiment": "neutral",
-      "sentiment_score": -0.0772,
+      "sentiment_score": -0.1531,
       "tags": [
         "AI"
       ],
@@ -50,13 +35,45 @@
       "source_repo": "financenews"
     },
     {
-      "title": "What IBM’s profit warning means: Hardware is ‘eating everyone’s lunch’",
-      "url": "https://www.marketwatch.com/story/what-ibms-profit-warning-means-hardware-is-eating-everyones-lunch-c6878824?mod=mw_rss_topstories",
+      "title": "‘I don’t want to sound callous’: Why base your Social Security claim on life expectancy? We could die at any time.",
+      "url": "https://www.marketwatch.com/story/i-dont-want-to-sound-callous-nobody-knows-when-theyll-die-dont-base-when-you-claim-social-security-on-that-53370fad?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-14T21:10:00+00:00",
-      "summary": "The company said the shortfall in its software and infrastructure business was tied to clients spending on memory ahead of price hikes.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.128,
+      "published_at": "2026-07-15T23:00:00+00:00",
+      "summary": "“The actual date of death ultimately affects only the surviving beneficiaries.”",
+      "sentiment": "bearish",
+      "sentiment_score": -0.5994,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates",
+      "url": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-07-15T22:05:14+00:00",
+      "summary": "As part of congressionally mandated Capitol Hill appearances for the central bank leader, Warsh spoke Tuesday to the House financial services committee.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.4588,
+      "tags": [
+        "Interest Rates",
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "A big dividend cut and a $2 billion charge: Conagra’s results signal more pain ahead for food industry",
+      "url": "https://www.marketwatch.com/story/a-big-dividend-cut-and-a-2-billion-charge-conagras-results-signal-more-pain-ahead-for-food-industry-8613bd71?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-15T21:43:00+00:00",
+      "summary": "Conagra Brands’ stock was up a bit on Thursday, but the company’s results and forecast were the latest dose of bad news for the packaged-food industry.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.8223,
       "tags": [
         "AI"
       ],
@@ -68,13 +85,135 @@
       "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
       "url": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
       "source": "CNBC Finance",
-      "published_at": "2026-07-14T19:50:48+00:00",
+      "published_at": "2026-07-15T18:45:53+00:00",
       "summary": "Goldman Sachs and JPMorgan showed that Wall Street is a major beneficiary of the AI boom, with record revenue driven by surging trading and investment banking.",
       "sentiment": "bullish",
       "sentiment_score": 0.7574,
       "tags": [
         "Gold",
         "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "New York Fed President Williams says inflation has peaked, rates 'well positioned'",
+      "url": "https://www.cnbc.com/2026/07/15/new-york-fed-president-williams-says-inflation-has-peaked-rates-well-positioned.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-07-15T17:31:41+00:00",
+      "summary": "Williams cited five reasons why he expects the latest price surge has run its course.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.2732,
+      "tags": [
+        "Fed"
+      ],
+      "signal": "watch",
+      "category": "macro",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
+      "url": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-07-15T17:22:51+00:00",
+      "summary": "Anthropic is lining up investor meetings ahead of a potential IPO as soon as October as the AI startup behind looks to beat rival OpenAI to the public markets.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Warren Buffett calls Bill Gates' actions with Epstein 'distasteful' but says people make mistakes",
+      "url": "https://www.cnbc.com/2026/07/15/warren-buffett-calls-bill-gates-actions-with-epstein-distasteful-but-people-make-mistakes.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-07-15T14:58:54+00:00",
+      "summary": "The Berkshire Hathaway chairman left out the Gates Foundation from his annual charitable stock gifts for the first time in 20 years.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0772,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Morgan Stanley posts record quarterly revenue and profit as equities trading surges 69%",
+      "url": "https://www.cnbc.com/2026/07/15/morgan-stanley-ms-earnings-q2-2026-.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-07-15T13:44:44+00:00",
+      "summary": "Like at peers Goldman Sachs and JPMorgan Chase, a massive beat in equities trading drove the quarter's outsized results.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6597,
+      "tags": [
+        "Gold"
+      ],
+      "signal": "watch",
+      "category": "markets",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Buffett says Trump's pick of Kevin Warsh for Fed chair was 'good choice'",
+      "url": "https://www.cnbc.com/2026/07/15/buffett-says-trumps-pick-of-kevin-warsh-for-fed-chair-was-good-choice.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-07-15T12:21:33+00:00",
+      "summary": "Warren Buffett believes Fed Chair Kevin Warsh will do the best job he can.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7964,
+      "tags": [
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Labour should ditch triple-lock pensions promise, says OECD",
+      "url": "https://www.theguardian.com/business/2026/jul/15/labour-should-ditch-triple-lock-pensions-promise-says-oecd",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-15T09:00:51+00:00",
+      "summary": "<p>Organisation’s experts say pledge puts pressure on UK public finances and ‘adds significant fiscal risks’</p><p>Labour should ditch the triple-lock pensions promise to help tackle the UK’s straitened public finances, the Organisation for Economic Cooperation and Development has urged.</p><p>In its latest survey of the UK economy, the Paris-based club of industrialised nations added its voice to those calling for an end to the pledge, <a href=\"https://www.theguardian.com/money/2025/sep/16/uk-state-pension-what-is-the-triple-lock-and-could-it-be-ditched\">which uprates the state pension each year</a> by whichever is the highest of wage growth, inflation or 2.5%.</p> <a href=\"https://www.theguardian.com/business/2026/jul/15/labour-should-ditch-triple-lock-pensions-promise-says-oecd\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8176,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Labour must stop just writing a cheque for benefit claimants, says McFadden",
+      "url": "https://www.theguardian.com/society/2026/jul/15/labour-stop-writing-cheque-benefit-claimants-pat-mcfadden-welfare-reform",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-15T05:00:46+00:00",
+      "summary": "<p>Exclusive: Work and pensions secretary signals possible reform to welfare as ministers await key reviews</p><p>Labour must stop “simply writing a cheque” for health and disability benefit claimants and will provide more job support instead, the work and pensions secretary has said.</p><p>Pat McFadden said the government was preparing to launch a renewed effort at welfare reform with a focus on encouraging more people with health conditions to get into work and off benefits.</p> <a href=\"https://www.theguardian.com/society/2026/jul/15/labour-stop-writing-cheque-benefit-claimants-pat-mcfadden-welfare-reform\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8548,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "AI may be the toughest challenge Anthony Albanese faces this term. Guardrails are urgently needed | Peter Lewis",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/15/australia-ai-challenge-anthony-albanese",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-15T02:53:48+00:00",
+      "summary": "<p>Coherent decision-making and internal accountability are critical to meeting this manic moment</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/jul/14/anthony-albanese-promises-fast-track-approvals-for-datacentres-to-shore-up-ai-investment\">Anthony Albanese promises fast-track approvals for datacentres to shore up AI investment</a></p></li></ul><p>The University of Sydney was the natural setting for Anthony Albanese to lay out his vision for how Australia should confront the profound economic and social challenges posed by so-called artificial intelligence technology.</p><p>His time around the jacaranda and sandstone in the early 80s was a seminal marker in the future PM’s development, not as a scholar but as a rabble-rousing organiser honing skills that would make him the political grandmaster of his generation.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jul/15/australia-ai-challenge-anthony-albanese\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5023,
+      "tags": [
+        "AI",
+        "Artificial Intelligence"
       ],
       "signal": "watch",
       "category": "technology",
@@ -132,7 +271,7 @@
       "url": "https://www.theguardian.com/news/audio/2026/jul/14/trump-forced-to-refund-billions-in-tariffs-the-latest",
       "source": "The Guardian Economics",
       "published_at": "2026-07-14T16:17:48+00:00",
-      "summary": "<p>The US government has been forced to pay billions in refunds to companies that were hit by Donald Trump’s ‘liberation day’ tariffs.</p><p>The US has paid out $81bn (£61bn) this fiscal year after the supreme court ruled the tariffs were illegal. Lucy Hough speaks to Chris Michael, the International editor for Guardian US <strong>– </strong><a href=\"https://www.youtube.com/@todayinfocuspodcast\"><strong>watch on YouTube</strong></a></p> <a href=\"https://www.theguardian.com/news/audio/2026/jul/14/trump-forced-to-refund-billions-in-tariffs-the-latest\">Continue reading...</a>",
+      "summary": "<p>The US government has been forced to pay billions in refunds to companies that were hit by Donald Trump’s ‘liberation day’ tariffs.</p><p>The US has paid out $81bn (£61bn) this fiscal year after the supreme court ruled the tariffs were illegal. Lucy Hough speaks to international editor Chris Michael <strong>– </strong><a href=\"https://www.youtube.com/@todayinfocuspodcast\"><strong>watch on YouTube</strong></a></p> <a href=\"https://www.theguardian.com/news/audio/2026/jul/14/trump-forced-to-refund-billions-in-tariffs-the-latest\">Continue reading...</a>",
       "sentiment": "bearish",
       "sentiment_score": -0.7506,
       "tags": [
@@ -327,143 +466,6 @@
       ],
       "signal": "watch",
       "category": "markets",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
-      "url": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
-      "source": "The Guardian Economics",
-      "published_at": "2026-07-10T07:00:14+00:00",
-      "summary": "<p>Unesco report shows children lost out to servicing debt in 113 countries, with 18 spending five times more on loans</p><p>Most developing countries spent less on education than they did repaying debt last year, according to the UN, at the same time as global aid to education is predicted to decline by up to 30%.</p><p>More was spent on servicing foreign debt than on education in 113 developing countries in 2025, according to research by the UN’s culture and education agency, Unesco. In sub-Saharan Africa, <a href=\"https://unesdoc.unesco.org/ark:/48223/pf0000398572\">countries spent 3.6 times more on debt than education</a>.</p> <a href=\"https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9238,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon",
-      "url": "https://www.cnbc.com/2026/07/09/kevin-warsh-names-members-of-his-federal-reserve-task-forces-including-marc-andreessen-doug-mcmillon.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-09T19:53:20+00:00",
-      "summary": "Federal Reserve Chairman Kevin Warsh on Thursday released names of the experts who will comprise five task forces to examine the institution's operations.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Kalshi traders think gas prices will stay higher for longer as U.S.-Iran tensions heat back up",
-      "url": "https://www.cnbc.com/2026/07/09/kalshi-traders-see-higher-gas-prices-lasting-through-election-day.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-09T19:44:17+00:00",
-      "summary": "Odds that gas prices are above $3.50 on Election Day have jumped to 75% on the platform.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.4019,
-      "tags": [
-        "Election"
-      ],
-      "signal": "watch",
-      "category": "energy",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin",
-      "url": "https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-09T15:00:50+00:00",
-      "summary": "Competition in the multitrillion-dollar market for retirement assets is fierce among managers such as Goldman Sachs, BlackRock, Russell Investments and Mercer.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7845,
-      "tags": [
-        "Gold"
-      ],
-      "signal": "watch",
-      "category": "markets",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Andy Burnham urged to scrap income tax and NI in radical fiscal overhaul",
-      "url": "https://www.theguardian.com/business/2026/jul/09/andy-burnham-scrap-income-tax-national-insurance-fiscal-overhaul",
-      "source": "The Guardian Economics",
-      "published_at": "2026-07-09T13:27:57+00:00",
-      "summary": "<p>Economists including Jim O’Neill write open letter calling for single levy to replace six key taxes to raise money for public services</p><p>Prominent economists including Jim O’Neill, an ally of Andy Burnham, are urging the MP for Makerfield to pursue radical tax and spending reform to “unlock the gridlock that plagues the country” when he is confirmed as prime minister.</p><p>O’Neill joins Jonathan Portes, an economics professor at King’s College London, and Danny Sriskandarajah, the chief executive of the New Economics Foundation, in calling for bold action in an open letter.</p> <a href=\"https://www.theguardian.com/business/2026/jul/09/andy-burnham-scrap-income-tax-national-insurance-fiscal-overhaul\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3818,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Invest in Britain or I’ll force you to, minister tells pension funds",
-      "url": "https://www.theguardian.com/business/2026/jul/09/invest-in-britain-force-you-peter-kyle-pension-funds",
-      "source": "The Guardian Economics",
-      "published_at": "2026-07-09T12:13:07+00:00",
-      "summary": "<p>Business secretary Peter Kyle says asset managers should feel a patriotic duty to make the UK a success</p><p>The business secretary, Peter Kyle, has told UK pension funds to “get off their high horses” and invest in Britain or be forced to do so by law.</p><p>Expressing frustration at the level of investment in British companies after years of government initiatives, Kyle said the UK’s biggest asset managers “should feel a patriotic duty in making Britain a success”.</p> <a href=\"https://www.theguardian.com/business/2026/jul/09/invest-in-britain-force-you-peter-kyle-pension-funds\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.3321,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "China warns about AI risks with Anthropic's Claude Code",
-      "url": "https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-09T01:24:02+00:00",
-      "summary": "China said specific versions of Claude Code posed back-door vulnerabilities that could send sensitive information to a remote server.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.4767,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Michael Burry bets on sportsbooks DraftKings and Flutter, sees prediction markets curbed by regulation",
-      "url": "https://www.cnbc.com/2026/07/08/michael-burry-bets-on-sportsbooks-draftkings-flutter.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-08T21:59:27+00:00",
-      "summary": "The investor believes regulators will eventually crack down on prediction markets after competition from the upstarts pressured the stocks of sportsbooks.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.2263,
-      "tags": [
-        "Regulation"
-      ],
-      "signal": "watch",
-      "category": "markets",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Fed officials were split on direction of interest rates at last meeting, minutes show",
-      "url": "https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-08T19:05:47+00:00",
-      "summary": "The Federal Reserve on Wednesday released minutes from its June 16-17 meeting.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.4588,
-      "tags": [
-        "Interest Rates",
-        "Fed"
-      ],
-      "signal": "watch",
-      "category": "macro",
       "source_repo": "financenews"
     }
   ]
