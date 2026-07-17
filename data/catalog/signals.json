@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T06:16:50Z",
-  "snapshot_date": "2026-07-16",
+  "generated_at": "2026-07-17T06:16:37Z",
+  "snapshot_date": "2026-07-17",
   "source": "financenews",
   "count": 139,
   "signals": [
@@ -12,7 +12,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -23,7 +23,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -34,7 +34,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -45,18 +45,18 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
       "ticker": "XLE",
       "signal": "bullish",
       "confidence": "high",
-      "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold. Triggered by 7 related headline(s) from the latest news run. Educational use only.",
+      "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold. Triggered by 6 related headline(s) from the latest news run. Educational use only.",
       "action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
-      "headline_title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
-      "headline_url": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "headline_title": "UK economy grew by 0.1% in May despite impact of Iran war",
+      "headline_url": "https://www.theguardian.com/business/2026/jul/16/uk-economy-grew-gdp-despite-iran-war",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -65,31 +65,31 @@
       "confidence": "medium",
       "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
       "action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
-      "headline_title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
-      "headline_url": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "headline_title": "UK economy grew by 0.1% in May despite impact of Iran war",
+      "headline_url": "https://www.theguardian.com/business/2026/jul/16/uk-economy-grew-gdp-despite-iran-war",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
       "ticker": "GLD",
       "signal": "bullish",
       "confidence": "high",
-      "reasoning": "Risk-off sentiment can support precious metals demand. Triggered by 5 related headline(s) from the latest news run. Educational use only.",
+      "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold. Triggered by 4 related headline(s) from the latest news run. Educational use only.",
       "action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
-      "headline_title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
-      "headline_url": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "headline_title": "UK economy grew by 0.1% in May despite impact of Iran war",
+      "headline_url": "https://www.theguardian.com/business/2026/jul/16/uk-economy-grew-gdp-despite-iran-war",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
       "ticker": "NVDA",
       "signal": "bullish",
       "confidence": "high",
-      "reasoning": "AI/data-center demand can support semiconductor revenue and capex cycles. Triggered by 28 related headline(s) from the latest news run. Educational use only.",
+      "reasoning": "AI/data-center demand can support semiconductor revenue and capex cycles. Triggered by 30 related headline(s) from the latest news run. Educational use only.",
       "action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
-      "headline_title": "United Airlines gets hit by a $6 billion added-fuel-cost headwind",
-      "headline_url": "https://www.marketwatch.com/story/united-airlines-gets-hit-by-a-6-billion-added-fuel-cost-headwind-dacb07b6?mod=mw_rss_topstories",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "headline_title": "Palo Alto Networks’ stock has been on a tear — and it could go even higher, according to these bulls",
+      "headline_url": "https://www.marketwatch.com/story/palo-alto-networks-stock-has-been-on-a-tear-and-it-could-go-even-higher-according-to-these-bulls-1ddde6f4?mod=mw_rss_topstories",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -100,7 +100,7 @@
       "action": "Educational prompt: research downside scenarios, earnings sensitivity, and risk controls before any trade.",
       "headline_title": "Trump forced to refund billions in tariffs – The Latest",
       "headline_url": "https://www.theguardian.com/news/audio/2026/jul/14/trump-forced-to-refund-billions-in-tariffs-the-latest",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -109,9 +109,9 @@
       "confidence": "medium",
       "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
       "action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
-      "headline_title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
-      "headline_url": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "headline_title": "UK economy grew by 0.1% in May despite impact of Iran war",
+      "headline_url": "https://www.theguardian.com/business/2026/jul/16/uk-economy-grew-gdp-despite-iran-war",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -120,9 +120,9 @@
       "confidence": "medium",
       "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
       "action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
-      "headline_title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
-      "headline_url": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "headline_title": "UK economy grew by 0.1% in May despite impact of Iran war",
+      "headline_url": "https://www.theguardian.com/business/2026/jul/16/uk-economy-grew-gdp-despite-iran-war",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -131,9 +131,9 @@
       "confidence": "medium",
       "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
       "action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
-      "headline_title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
-      "headline_url": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "headline_title": "UK economy grew by 0.1% in May despite impact of Iran war",
+      "headline_url": "https://www.theguardian.com/business/2026/jul/16/uk-economy-grew-gdp-despite-iran-war",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -142,9 +142,9 @@
       "confidence": "medium",
       "reasoning": "Geopolitical headlines can increase defense demand, energy risk premiums, and risk-off flows into gold. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
       "action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
-      "headline_title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
-      "headline_url": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "headline_title": "UK economy grew by 0.1% in May despite impact of Iran war",
+      "headline_url": "https://www.theguardian.com/business/2026/jul/16/uk-economy-grew-gdp-despite-iran-war",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -155,7 +155,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -166,7 +166,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -177,7 +177,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -188,7 +188,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -199,62 +199,62 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
       "ticker": "PHYS_GOLD_ETC",
       "signal": "bullish",
       "confidence": "medium",
-      "reasoning": "Risk-off sentiment can support precious metals demand. Triggered by 3 related headline(s) from the latest news run. Educational use only.",
+      "reasoning": "Risk-off sentiment can support precious metals demand. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
       "action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
       "headline_title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
       "headline_url": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
       "ticker": "WT_PHYSICAL_SILVER",
       "signal": "bullish",
       "confidence": "medium",
-      "reasoning": "Risk-off sentiment can support precious metals demand. Triggered by 3 related headline(s) from the latest news run. Educational use only.",
+      "reasoning": "Risk-off sentiment can support precious metals demand. Triggered by 2 related headline(s) from the latest news run. Educational use only.",
       "action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
       "headline_title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
       "headline_url": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
       "ticker": "SMH",
       "signal": "bullish",
       "confidence": "high",
-      "reasoning": "AI/data-center demand can support semiconductor revenue and capex cycles. Triggered by 28 related headline(s) from the latest news run. Educational use only.",
+      "reasoning": "AI/data-center demand can support semiconductor revenue and capex cycles. Triggered by 30 related headline(s) from the latest news run. Educational use only.",
       "action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
-      "headline_title": "United Airlines gets hit by a $6 billion added-fuel-cost headwind",
-      "headline_url": "https://www.marketwatch.com/story/united-airlines-gets-hit-by-a-6-billion-added-fuel-cost-headwind-dacb07b6?mod=mw_rss_topstories",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "headline_title": "Palo Alto Networks’ stock has been on a tear — and it could go even higher, according to these bulls",
+      "headline_url": "https://www.marketwatch.com/story/palo-alto-networks-stock-has-been-on-a-tear-and-it-could-go-even-higher-according-to-these-bulls-1ddde6f4?mod=mw_rss_topstories",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
       "ticker": "VVSM",
       "signal": "bullish",
       "confidence": "high",
-      "reasoning": "AI/data-center demand can support semiconductor revenue and capex cycles. Triggered by 25 related headline(s) from the latest news run. Educational use only.",
+      "reasoning": "AI/data-center demand can support semiconductor revenue and capex cycles. Triggered by 27 related headline(s) from the latest news run. Educational use only.",
       "action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
-      "headline_title": "United Airlines gets hit by a $6 billion added-fuel-cost headwind",
-      "headline_url": "https://www.marketwatch.com/story/united-airlines-gets-hit-by-a-6-billion-added-fuel-cost-headwind-dacb07b6?mod=mw_rss_topstories",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "headline_title": "Palo Alto Networks’ stock has been on a tear — and it could go even higher, according to these bulls",
+      "headline_url": "https://www.marketwatch.com/story/palo-alto-networks-stock-has-been-on-a-tear-and-it-could-go-even-higher-according-to-these-bulls-1ddde6f4?mod=mw_rss_topstories",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
       "ticker": "SOXX",
       "signal": "bullish",
       "confidence": "high",
-      "reasoning": "AI/data-center demand can support semiconductor revenue and capex cycles. Triggered by 28 related headline(s) from the latest news run. Educational use only.",
+      "reasoning": "AI/data-center demand can support semiconductor revenue and capex cycles. Triggered by 30 related headline(s) from the latest news run. Educational use only.",
       "action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
-      "headline_title": "United Airlines gets hit by a $6 billion added-fuel-cost headwind",
-      "headline_url": "https://www.marketwatch.com/story/united-airlines-gets-hit-by-a-6-billion-added-fuel-cost-headwind-dacb07b6?mod=mw_rss_topstories",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "headline_title": "Palo Alto Networks’ stock has been on a tear — and it could go even higher, according to these bulls",
+      "headline_url": "https://www.marketwatch.com/story/palo-alto-networks-stock-has-been-on-a-tear-and-it-could-go-even-higher-according-to-these-bulls-1ddde6f4?mod=mw_rss_topstories",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -265,7 +265,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -276,7 +276,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -287,7 +287,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -298,7 +298,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -309,7 +309,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -320,7 +320,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -331,7 +331,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -342,18 +342,18 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
       "ticker": "VDE",
       "signal": "bullish",
       "confidence": "high",
-      "reasoning": "Oil supply disruptions and geopolitics can raise crude prices and support traditional energy exposures. Triggered by 5 related headline(s) from the latest news run. Educational use only.",
+      "reasoning": "Oil supply disruptions and geopolitics can raise crude prices and support traditional energy exposures. Triggered by 4 related headline(s) from the latest news run. Educational use only.",
       "action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
       "headline_title": "Inflation cools to 3.5% in June in relief brought by brief US-Iran peace deal",
       "headline_url": "https://www.theguardian.com/business/2026/jul/14/june-cpi-report-inflation-cools-iran-deal",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -364,7 +364,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -375,7 +375,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -384,9 +384,9 @@
       "confidence": "high",
       "reasoning": "Supply-chain disruptions and freight rate moves can affect transport/logistics exposures. Triggered by 6 related headline(s) from the latest news run. Educational use only.",
       "action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
-      "headline_title": "Labour must stop just writing a cheque for benefit claimants, says McFadden",
-      "headline_url": "https://www.theguardian.com/society/2026/jul/15/labour-stop-writing-cheque-benefit-claimants-pat-mcfadden-welfare-reform",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "headline_title": "He backed Tesla and SpaceX before anyone else — here is the ‘impossible’ bet Tim Draper is making now",
+      "headline_url": "https://www.marketwatch.com/story/he-backed-tesla-and-spacex-before-anyone-else-here-is-the-impossible-bet-he-is-making-now-025e00ef?mod=mw_rss_topstories",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -395,9 +395,9 @@
       "confidence": "high",
       "reasoning": "Supply-chain disruptions and freight rate moves can affect transport/logistics exposures. Triggered by 6 related headline(s) from the latest news run. Educational use only.",
       "action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
-      "headline_title": "Labour must stop just writing a cheque for benefit claimants, says McFadden",
-      "headline_url": "https://www.theguardian.com/society/2026/jul/15/labour-stop-writing-cheque-benefit-claimants-pat-mcfadden-welfare-reform",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "headline_title": "He backed Tesla and SpaceX before anyone else — here is the ‘impossible’ bet Tim Draper is making now",
+      "headline_url": "https://www.marketwatch.com/story/he-backed-tesla-and-spacex-before-anyone-else-here-is-the-impossible-bet-he-is-making-now-025e00ef?mod=mw_rss_topstories",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -406,20 +406,20 @@
       "confidence": "high",
       "reasoning": "Supply-chain disruptions and freight rate moves can affect transport/logistics exposures. Triggered by 6 related headline(s) from the latest news run. Educational use only.",
       "action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
-      "headline_title": "Labour must stop just writing a cheque for benefit claimants, says McFadden",
-      "headline_url": "https://www.theguardian.com/society/2026/jul/15/labour-stop-writing-cheque-benefit-claimants-pat-mcfadden-welfare-reform",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "headline_title": "He backed Tesla and SpaceX before anyone else — here is the ‘impossible’ bet Tim Draper is making now",
+      "headline_url": "https://www.marketwatch.com/story/he-backed-tesla-and-spacex-before-anyone-else-here-is-the-impossible-bet-he-is-making-now-025e00ef?mod=mw_rss_topstories",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
       "ticker": "USO",
       "signal": "bullish",
       "confidence": "high",
-      "reasoning": "Oil supply disruptions and geopolitics can raise crude prices and support traditional energy exposures. Triggered by 5 related headline(s) from the latest news run. Educational use only.",
+      "reasoning": "Oil supply disruptions and geopolitics can raise crude prices and support traditional energy exposures. Triggered by 4 related headline(s) from the latest news run. Educational use only.",
       "action": "Educational prompt: research whether this theme improves the ticker's macro setup and define risk limits before any trade.",
       "headline_title": "Inflation cools to 3.5% in June in relief brought by brief US-Iran peace deal",
       "headline_url": "https://www.theguardian.com/business/2026/jul/14/june-cpi-report-inflation-cools-iran-deal",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -430,7 +430,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -441,7 +441,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -452,7 +452,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -463,7 +463,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -474,7 +474,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -485,7 +485,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -496,7 +496,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -507,7 +507,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -518,7 +518,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -529,7 +529,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -540,7 +540,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -551,7 +551,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -562,7 +562,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -573,7 +573,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -584,7 +584,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -595,7 +595,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -606,7 +606,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -617,7 +617,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -628,7 +628,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -639,7 +639,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -650,7 +650,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -661,7 +661,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -672,7 +672,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -683,7 +683,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -694,7 +694,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -705,7 +705,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -716,7 +716,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -727,7 +727,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -738,7 +738,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -749,7 +749,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -760,7 +760,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -771,7 +771,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -782,7 +782,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -793,7 +793,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -804,7 +804,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -815,7 +815,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -826,7 +826,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -837,7 +837,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -848,7 +848,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -859,7 +859,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -870,7 +870,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -881,7 +881,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -892,7 +892,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -903,7 +903,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -914,7 +914,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -925,7 +925,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -936,7 +936,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -947,7 +947,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -958,7 +958,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -969,7 +969,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -980,7 +980,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -991,7 +991,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1002,7 +1002,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1013,7 +1013,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1024,7 +1024,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1035,7 +1035,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1046,7 +1046,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1057,7 +1057,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1068,7 +1068,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1079,7 +1079,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1090,7 +1090,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1101,7 +1101,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1112,7 +1112,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1123,7 +1123,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1134,7 +1134,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1145,7 +1145,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1156,7 +1156,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1167,7 +1167,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1178,7 +1178,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1189,7 +1189,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1200,7 +1200,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1211,7 +1211,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1222,7 +1222,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1233,7 +1233,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1244,7 +1244,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1255,7 +1255,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1266,7 +1266,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1277,7 +1277,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1288,7 +1288,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1299,7 +1299,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1310,7 +1310,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1321,7 +1321,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1332,7 +1332,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1343,7 +1343,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1354,7 +1354,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1365,7 +1365,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1376,7 +1376,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1387,7 +1387,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1398,7 +1398,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1409,7 +1409,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1420,7 +1420,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1431,7 +1431,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1442,7 +1442,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1453,7 +1453,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1464,7 +1464,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1475,7 +1475,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1486,7 +1486,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1497,7 +1497,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1508,7 +1508,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1519,7 +1519,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     },
     {
@@ -1530,7 +1530,7 @@
       "action": "Educational prompt: monitor for confirming headlines and update your research thesis before taking action.",
       "headline_title": "No direct trigger in latest run",
       "headline_url": "",
-      "last_updated": "2026-07-16T00:38:16.929274Z",
+      "last_updated": "2026-07-17T00:40:15.228776Z",
       "source": "financenews"
     }
   ]

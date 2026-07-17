@@ -1,15 +1,61 @@
 {
-  "generated_at": "2026-07-16T06:16:50Z",
-  "snapshot_date": "2026-07-16",
+  "generated_at": "2026-07-17T06:16:37Z",
+  "snapshot_date": "2026-07-17",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "United Airlines gets hit by a $6 billion added-fuel-cost headwind",
-      "url": "https://www.marketwatch.com/story/united-airlines-gets-hit-by-a-6-billion-added-fuel-cost-headwind-dacb07b6?mod=mw_rss_topstories",
+      "title": "Palo Alto Networks’ stock has been on a tear — and it could go even higher, according to these bulls",
+      "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-has-been-on-a-tear-and-it-could-go-even-higher-according-to-these-bulls-1ddde6f4?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-16T00:25:00+00:00",
-      "summary": "Investors zero in on United’s potentially fatter jet-fuel bill — the airline said it expects nearly $6 billion in additional fuel expenses for the year.",
+      "published_at": "2026-07-16T23:38:00+00:00",
+      "summary": "The company’s shares have roughly doubled over the past three months, as investors have warmed to the idea that AI is increasing the need for cybersecurity products.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5106,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "GE boosts profit outlook, but stock falls as booming order growth cools",
+      "url": "https://www.marketwatch.com/story/ge-boosts-profit-outlook-but-stock-falls-as-booming-order-growth-cools-f5184533?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-16T23:12:00+00:00",
+      "summary": "GE Aerospace’s stock falls after earnings, again, with recently rapid order-book growth slowing.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8555,
+      "tags": [
+        "Aerospace",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "‘It’s heartbreaking’: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
+      "url": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-16T22:00:00+00:00",
+      "summary": "“I’ve always been a little skeptical of the government’s encouragement to delay claiming benefits.”",
+      "sentiment": "bearish",
+      "sentiment_score": -0.7968,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "He backed Tesla and SpaceX before anyone else — here is the ‘impossible’ bet Tim Draper is making now",
+      "url": "https://www.marketwatch.com/story/he-backed-tesla-and-spacex-before-anyone-else-here-is-the-impossible-bet-he-is-making-now-025e00ef?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-16T21:45:00+00:00",
+      "summary": "Veteran venture capitalist weighs in on the AI bubble and four huge opportunities he missed.",
       "sentiment": "bullish",
       "sentiment_score": 0.4215,
       "tags": [
@@ -20,13 +66,13 @@
       "source_repo": "financenews"
     },
     {
-      "title": "The trucking market is tighter than it’s been in years — but investors are upbeat on J.B. Hunt",
-      "url": "https://www.marketwatch.com/story/the-trucking-market-is-tighter-than-its-been-in-years-but-investors-are-upbeat-on-j-b-hunt-af0f1587?mod=mw_rss_topstories",
+      "title": "Alphabet’s stock falls as Gemini delays suggest Google is struggling to keep up in the AI race",
+      "url": "https://www.marketwatch.com/story/alphabets-stock-falls-as-gemini-delays-suggest-google-is-struggling-to-keep-up-in-the-ai-race-4d821205?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-16T00:22:00+00:00",
-      "summary": "Shares of the trucking giant jump 8% after hours, as fuel charges and demand for its railroad-connection business lift results",
-      "sentiment": "neutral",
-      "sentiment_score": -0.1531,
+      "published_at": "2026-07-16T21:32:00+00:00",
+      "summary": "Alphabet shares fell more than 4% on Thursday, reflecting concerns that the Google parent company is falling further behind in the artificial-intelligence race.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.296,
       "tags": [
         "AI"
       ],
@@ -35,13 +81,90 @@
       "source_repo": "financenews"
     },
     {
-      "title": "‘I don’t want to sound callous’: Why base your Social Security claim on life expectancy? We could die at any time.",
-      "url": "https://www.marketwatch.com/story/i-dont-want-to-sound-callous-nobody-knows-when-theyll-die-dont-base-when-you-claim-social-security-on-that-53370fad?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-15T23:00:00+00:00",
-      "summary": "“The actual date of death ultimately affects only the surviving beneficiaries.”",
+      "title": "Dallas Fed President Logan calls for 'modestly' higher interest rates",
+      "url": "https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-07-16T18:50:42+00:00",
+      "summary": "The policymaker said this week's good inflation news wasn't good enough.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5414,
+      "tags": [
+        "Interest Rates",
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Short sellers load up against SpaceX as stock drops below IPO price",
+      "url": "https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-07-16T18:12:21+00:00",
+      "summary": "About 185 million SpaceX shares are now sold short, representing roughly 29% of the company's publicly tradable float, according to S3.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.296,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "‘Bizarre choice’: business and Labour puzzle over Shabana Mahmood as future chancellor",
+      "url": "https://www.theguardian.com/politics/2026/jul/16/shabana-mahmood-future-chancellor",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-16T18:00:45+00:00",
+      "summary": "<p>The home secretary, favourite to take over at No 11, has minimal economic credentials and many MPs would prefer Ed Miliband</p><p>Andy Burnham last month promised the UK he would bring “good growth in every postcode and hope in every heart” when he is installed as prime minister. Britain’s industry leaders also have a hope in their hearts: that Burnham will install a pro-business chancellor.</p><p>The energy secretary, Ed Miliband, was for several weeks seen as the most likely candidate to succeed Rachel Reeves but, after a brutal briefing battle and a backlash from big business, the home secretary, <a href=\"https://www.theguardian.com/politics/2026/jul/15/shabana-mahmood-andy-burnham-chancellor\">Shabana Mahmood, appears to have emerged as the frontrunner</a>. Now businesses are scrambling to try to work out how she might run the economy if confirmed in the Treasury on Monday.</p> <a href=\"https://www.theguardian.com/politics/2026/jul/16/shabana-mahmood-future-chancellor\">Continue reading...</a>",
+      "sentiment": "neutral",
+      "sentiment_score": -0.128,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Warren Buffett calls Bill Gates' actions with Epstein 'distasteful' but says people make mistakes",
+      "url": "https://www.cnbc.com/2026/07/15/warren-buffett-calls-bill-gates-actions-with-epstein-distasteful-but-people-make-mistakes.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-07-16T17:07:36+00:00",
+      "summary": "The Berkshire Hathaway chairman left out the Gates Foundation from his annual charitable stock gifts for the first time in 20 years.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0772,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Sadiq Khan given seat in Lords, as Starmer creates 26 new peers days before he leaves No 10 – as it happened",
+      "url": "https://www.theguardian.com/politics/live/2026/jul/16/keir-starmer-andy-burnham-labour-farage-badenoch-widdecombe-latest-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-16T16:45:22+00:00",
+      "summary": "<p>This blog is now closed, you can read more on this story <a href=\"https://www.theguardian.com/politics/2026/jul/16/keir-starmer-makes-sadiq-khan-a-peer-in-the-house-of-lords\">here</a></p><p>Couples could legally marry in forests, on beaches, at sea or in their gardens under new proposals, the Press Association reports. PA says <a href=\"https://www.gov.uk/government/consultations/tying-the-knot-reforming-weddings-law-in-england-and-wales\">a government consultation announced today</a>, covering rules in England and Wales, could help cut the costs of <em>weddings</em> and mean two ceremonies are no longer required to cover different faiths. PA says:</p><p>The average <em>wedding</em> in England is estimated to cost more than £20,000, with venue hire alone typically accounting for around £6,000 without catering.</p><p>The system as it stands means some couples have two ceremonies – one where they feel their beliefs are best reflected and another making their marriage legal.</p> <a href=\"https://www.theguardian.com/politics/live/2026/jul/16/keir-starmer-andy-burnham-labour-farage-badenoch-widdecombe-latest-news-updates\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6908,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "UK economy grew by 0.1% in May despite impact of Iran war",
+      "url": "https://www.theguardian.com/business/2026/jul/16/uk-economy-grew-gdp-despite-iran-war",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-16T07:36:05+00:00",
+      "summary": "<p>Rise in GDP follows a 0.1% decline in April, figures from the Office for National Statistics show</p><p>The UK economy returned to growth in May, despite the impact of the Iran war on energy costs, official figures show.</p><p>The Office for National Statistics said GDP rose 0.1% in May, in line with economists’ forecasts, <a href=\"https://www.theguardian.com/business/2026/jun/12/uk-economy-gdp-shrank-april-iran-war-held-back-growth#:~:text=UK%20economy%20shrank%20by%200.1,growth%20(GDP)%20%7C%20The%20Guardian\">after a 0.1% decline in April</a>.</p> <a href=\"https://www.theguardian.com/business/2026/jul/16/uk-economy-grew-gdp-despite-iran-war\">Continue reading...</a>",
       "sentiment": "bearish",
-      "sentiment_score": -0.5994,
+      "sentiment_score": -0.6249,
       "tags": [
         "AI"
       ],
@@ -60,21 +183,6 @@
       "tags": [
         "Interest Rates",
         "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "A big dividend cut and a $2 billion charge: Conagra’s results signal more pain ahead for food industry",
-      "url": "https://www.marketwatch.com/story/a-big-dividend-cut-and-a-2-billion-charge-conagras-results-signal-more-pain-ahead-for-food-industry-8613bd71?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-15T21:43:00+00:00",
-      "summary": "Conagra Brands’ stock was up a bit on Thursday, but the company’s results and forecast were the latest dose of bad news for the packaged-food industry.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.8223,
-      "tags": [
         "AI"
       ],
       "signal": "watch",
@@ -120,21 +228,6 @@
       "summary": "Anthropic is lining up investor meetings ahead of a potential IPO as soon as October as the AI startup behind looks to beat rival OpenAI to the public markets.",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Warren Buffett calls Bill Gates' actions with Epstein 'distasteful' but says people make mistakes",
-      "url": "https://www.cnbc.com/2026/07/15/warren-buffett-calls-bill-gates-actions-with-epstein-distasteful-but-people-make-mistakes.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-15T14:58:54+00:00",
-      "summary": "The Berkshire Hathaway chairman left out the Gates Foundation from his annual charitable stock gifts for the first time in 20 years.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0772,
       "tags": [
         "AI"
       ],
@@ -373,99 +466,6 @@
       ],
       "signal": "watch",
       "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "A July rate hike from the Fed? The odds are rising",
-      "url": "https://www.cnbc.com/2026/07/13/-a-july-rate-hike-from-the-fed-the-odds-are-rising.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-13T17:07:51+00:00",
-      "summary": "Chances of a rate hike in July by the Federal Reserve rose as oil prices jumped on the latest developments in the Strait of Hormuz.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.2023,
-      "tags": [
-        "Fed",
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "UK must cap political donations to stop the rich buying influence | Heather Stewart",
-      "url": "https://www.theguardian.com/politics/2026/jul/12/uk-cap-political-donations-stop-rich-buying-influence",
-      "source": "The Guardian Economics",
-      "published_at": "2026-07-12T11:01:33+00:00",
-      "summary": "<p>If Keir Starmer won’t act then his successor should – by restricting the power of a small group of mega-donors <br /></p><p>Just as Nigel Farage kicks off a summer of <a href=\"https://www.theguardian.com/politics/2026/jul/08/clacton-byelection-date-nigel-farage-resignation-reform\">“arguing with a bin”</a>, as the chancellor, Rachel Reeves called it, Labour’s bill to clean up politics returns to the House of Commons this week.</p><p>As more questions emerge about the financing of Reform UK and Farage’s mega-donor chums – through the brilliant <a href=\"https://www.theguardian.com/politics/2026/jul/07/revealed-farages-5m-gift-reported-to-uk-agency-over-money-laundering-concerns\">reporting of Guardian colleagues</a> – MPs should seize the opportunity to toughen it up.</p> <a href=\"https://www.theguardian.com/politics/2026/jul/12/uk-cap-political-donations-stop-rich-buying-influence\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8779,
-      "tags": [
-        "Election"
-      ],
-      "signal": "watch",
-      "category": "geopolitical",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "‘Super’ El Niño could cause global food price shock lasting into 2028, analysts say",
-      "url": "https://www.theguardian.com/business/2026/jul/12/super-el-nino-severe-shock-global-food-prices-lasting-into-2028-economists-warn",
-      "source": "The Guardian Economics",
-      "published_at": "2026-07-12T07:00:11+00:00",
-      "summary": "<p>Weather cycle threatens harvests worldwide, adding to inflation already fuelled by the Iran war</p><p>Economists are warning that a “super” <a href=\"https://www.theguardian.com/environment/elnino\">El Niño</a> weather cycle this year could cause a severe shock to global food prices lasting into 2028.</p><p>As the Iran war pushes up world food prices to the highest level in three years, economists said supply chains faced “two shocks at once” stoked by extreme weather linked to global heating.</p> <a href=\"https://www.theguardian.com/business/2026/jul/12/super-el-nino-severe-shock-global-food-prices-lasting-into-2028-economists-warn\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9538,
-      "tags": [
-        "AI",
-        "Supply Chain"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "These underperforming trades could yield big returns over next six months",
-      "url": "https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-11T15:00:01+00:00",
-      "summary": "ETF Action's Mike Akins is encouraging investors to boost exposure to groups that underperformed compared with major artificial intelligence stocks.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8583,
-      "tags": [
-        "Artificial Intelligence"
-      ],
-      "signal": "watch",
-      "category": "markets",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Labour MPs call for Andy Burnham to restore aid spending target set by Brown",
-      "url": "https://www.theguardian.com/global-development/2026/jul/11/labour-mps-andy-burnham-overseas-aid-development-spending-levels",
-      "source": "The Guardian Economics",
-      "published_at": "2026-07-11T06:00:41+00:00",
-      "summary": "<p>Thinktank urges prospective prime minister to reclaim UK’s role as an international leader on development</p><p>Influential backbenchers are calling on Andy Burnham to reclaim Labour’s leadership on international development and chart a course back to spending 0.7% of national income on overseas aid.</p><p>In a collection of essays to be published soon by the New Economics Foundation (NEF) thinktank, MPs lay out proposals for a Burnham-led government to rethink foreign policy.</p> <a href=\"https://www.theguardian.com/global-development/2026/jul/11/labour-mps-andy-burnham-overseas-aid-development-spending-levels\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.296,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Prediction markets spark insider trading concerns. Here's how Goldman and other companies are responding",
-      "url": "https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-10T14:22:40+00:00",
-      "summary": "CNBC reached out to 50 companies about what are their trading policies for employees on prediction markets. A handful had an answer.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3182,
-      "tags": [
-        "Gold"
-      ],
-      "signal": "watch",
-      "category": "markets",
       "source_repo": "financenews"
     }
   ]
