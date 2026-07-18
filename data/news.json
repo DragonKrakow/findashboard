@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-18T16:19:44.032797+00:00",
+  "generated_at": "2026-07-18T20:17:19.565193+00:00",
   "articles": [
+    {
+      "id": "6119fab319d3",
+      "title": "Vanishing CLO Profits Are Sparking Infighting: Credit Weekly",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-18/vanishing-clo-profits-are-sparking-infighting-credit-weekly",
+      "published_at": "2026-07-18T15:50:09+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "A type of investment that once generated some of Wall Street’s juiciest fixed-income returns has deteriorated so badly that investors are heading for the exits and arguing about who’s to blame.",
+      "tags": []
+    },
     {
       "id": "6ebc731b8b14",
       "title": "Kuwait Energy Infrastructure Hit During Intense Iran Attacks",
@@ -86,18 +98,6 @@
       "tags": []
     },
     {
-      "id": "8a42fed20175",
-      "title": "RBI Currency Printer Seeks Bids for Polymer Banknote Material",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-18/rbi-currency-printer-seeks-bids-for-polymer-banknote-material",
-      "published_at": "2026-07-18T06:35:43+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "India has invited bids from manufacturers to supply polymer substrate sheets with security features suitable for printing of Indian banknotes.",
-      "tags": []
-    },
-    {
       "id": "3e5957cfeb06",
       "title": "China Urges Better Cooperation With Kyrgyzstan on Green Minerals",
       "source": "Bloomberg Markets",
@@ -134,6 +134,18 @@
       "tags": []
     },
     {
+      "id": "25ed28f2e20c",
+      "title": "Trump to fund Maga-aligned projects in Europe as he reorders US aid",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/1cb986a4-2428-4e64-a559-7867cfa1a3e3?syn-25a6b1a6=1",
+      "published_at": "2026-07-18T17:22:03+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Objectives include countering ‘censorship’ from EU regulations and supporting ‘national sovereignty’",
+      "tags": []
+    },
+    {
       "id": "a7f072b8063e",
       "title": "My journey down the rabbit hole at the Conspiracy World Cup",
       "source": "International homepage",
@@ -155,6 +167,18 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Stock markets are not only ignoring the obvious threats, but seem imbued with extreme optimism",
+      "tags": []
+    },
+    {
+      "id": "8f88cc64191c",
+      "title": "Two US servicemen killed in Iranian strikes on Jordan",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/e8e8adc5-7c56-45a8-99fc-bb5acfda263e?syn-25a6b1a6=1",
+      "published_at": "2026-07-18T18:10:45+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Battle for control of the Strait of Hormuz escalates as Tehran hits Saudi Arabia for the first time in months",
       "tags": []
     },
     {
@@ -182,15 +206,15 @@
       "tags": []
     },
     {
-      "id": "658e878dcf9f",
-      "title": "Gibraltar land grab stirs age-old dispute with Spain",
+      "id": "0e90cc8ee4d8",
+      "title": "Traders are increasingly betting against SpaceX just weeks after IPO",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/58d83b39-79c6-41f0-89c8-04856483d4e1?syn-25a6b1a6=1",
-      "published_at": "2026-07-18T04:00:34+00:00",
+      "url": "https://www.ft.com/content/2b96703d-440b-46db-8d86-9fff9ecc59d5?syn-25a6b1a6=1",
+      "published_at": "2026-07-18T11:00:02+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "British overseas territory is expanding into the sea to relieve cramped living conditions",
+      "summary": "Shares of Elon Musk’s rockets and AI company have slipped below their listing price for the first time",
       "tags": []
     },
     {
@@ -203,18 +227,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "CDU rightwinger Jens Spahn steps down after revealing he used a surrogate mother in the US to become a father",
-      "tags": []
-    },
-    {
-      "id": "0e90cc8ee4d8",
-      "title": "Traders are increasingly betting against SpaceX just weeks after IPO",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/2b96703d-440b-46db-8d86-9fff9ecc59d5?syn-25a6b1a6=1",
-      "published_at": "2026-07-18T11:00:02+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Shares of Elon Musk’s rockets and AI company have slipped below their listing price for the first time",
       "tags": []
     },
     {
@@ -338,6 +350,30 @@
       "tags": []
     },
     {
+      "id": "bc21d79591f3",
+      "title": "Crypto executives say digital native generations may never need a bank account",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/business/2026/07/17/crypto-executives-say-digital-native-generations-may-never-need-a-bank-account",
+      "published_at": "2026-07-18T18:30:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Crypto executives say digital native generations may never need a bank account",
+      "tags": []
+    },
+    {
+      "id": "d4025edd47ef",
+      "title": "DOG Mode explains Bitcoin's next governance fight",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight",
+      "published_at": "2026-07-18T17:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "DOG Mode explains Bitcoin's next governance fight",
+      "tags": []
+    },
+    {
       "id": "2f41393774a0",
       "title": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
@@ -434,27 +470,75 @@
       "tags": []
     },
     {
-      "id": "e22376e6f3a0",
-      "title": "Japan's SBI Group is building Asia's first cross-border digital asset empire",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/07/17/japan-s-sbi-group-is-building-asia-s-first-cross-border-digital-asset-empire",
-      "published_at": "2026-07-17T13:46:46+00:00",
+      "id": "84b81e16bef9",
+      "title": "Why I'm 80% Cash While Everyone's Busy Blaming Kimi K3",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4923260-why-im-80-percent-cash-while-everyones-busy-blaming-kimi-k3?source=feed_all_articles",
+      "published_at": "2026-07-18T18:12:35+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Japan's SBI Group is building Asia's first cross-border digital asset empire",
+      "summary": "Why I'm 80% Cash While Everyone's Busy Blaming Kimi K3",
       "tags": []
     },
     {
-      "id": "cfb11b86822a",
-      "title": "Bitcoin faces fresh headwinds as China’s Kimi beats Claude, GPT in coding benchmark",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/07/17/bitcoin-faces-fresh-headwinds-as-china-s-kimi-beats-claude-gpt-in-coding-benchmark",
-      "published_at": "2026-07-17T12:45:11+00:00",
+      "id": "f05b17b39ff0",
+      "title": "The 1-Minute Market Report, July 18, 2026",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4923259-the-1-minute-market-report-july-18-2026?source=feed_all_articles",
+      "published_at": "2026-07-18T17:56:02+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Bitcoin faces fresh headwinds as China’s Kimi beats Claude, GPT in coding benchmark",
+      "summary": "The 1-Minute Market Report, July 18, 2026",
+      "tags": []
+    },
+    {
+      "id": "41351df6366c",
+      "title": "Aehr Test Systems: Still Some Worry About The Blue-Sky Bull Case",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4923258-aehr-test-systems-still-some-worry-about-the-blue-sky-bull-case?source=feed_all_articles",
+      "published_at": "2026-07-18T17:26:44+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Aehr Test Systems: Still Some Worry About The Blue-Sky Bull Case",
+      "tags": []
+    },
+    {
+      "id": "75da8304df87",
+      "title": "HDFC Bank Limited (HDB) Q1 2027 Earnings Call Transcript",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4923239-hdfc-bank-limited-hdb-q1-2027-earnings-call-transcript?source=feed_all_articles",
+      "published_at": "2026-07-18T17:16:16+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "HDFC Bank Limited (HDB) Q1 2027 Earnings Call Transcript",
+      "tags": []
+    },
+    {
+      "id": "537bebff7008",
+      "title": "AI Bubble Risks Make Dividend Stocks Attractive Again",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4923257-ai-bubble-risks-make-dividend-stocks-attractive-again?source=feed_all_articles",
+      "published_at": "2026-07-18T17:03:19+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "AI Bubble Risks Make Dividend Stocks Attractive Again",
+      "tags": []
+    },
+    {
+      "id": "4dbc0c94be54",
+      "title": "ICICI Bank Limited (IBN) Q1 2027 Earnings Call Transcript",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4923241-icici-bank-limited-ibn-q1-2027-earnings-call-transcript?source=feed_all_articles",
+      "published_at": "2026-07-18T16:26:16+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "ICICI Bank Limited (IBN) Q1 2027 Earnings Call Transcript",
       "tags": []
     },
     {
@@ -503,78 +587,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Fifth Third Bancorp: Wait For A Cooldown To Buy Stock",
-      "tags": []
-    },
-    {
-      "id": "7146f010e095",
-      "title": "DIV Is Positioned To Beat The S&P 500 In 2026, A Perfect Vehicle For Rotation To Less Risky Securities",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4923251-div-is-positioned-to-beat-the-s-and-p-500-in-2026-a-perfect-vehicle-for-rotation-to-less-risky-securities?source=feed_all_articles",
-      "published_at": "2026-07-18T15:23:57+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "DIV Is Positioned To Beat The S&P 500 In 2026, A Perfect Vehicle For Rotation To Less Risky Securities",
-      "tags": []
-    },
-    {
-      "id": "f74a0fe51bfb",
-      "title": "PayPal: Value Trap No More - Robust Venmo/PSP & Higher Bid Prospects (Rating Downgrade)",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4923250-paypal-value-trap-no-more-robust-venmopsp-and-higher-bid-prospects?source=feed_all_articles",
-      "published_at": "2026-07-18T15:22:04+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "PayPal: Value Trap No More - Robust Venmo/PSP & Higher Bid Prospects (Rating Downgrade)",
-      "tags": []
-    },
-    {
-      "id": "02f3de62c9c9",
-      "title": "EIDO: Indonesia Not Benefiting From Commodity Price Gains",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4923249-eido-indonesia-not-benefiting-from-commodity-price-gains?source=feed_all_articles",
-      "published_at": "2026-07-18T15:08:18+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "EIDO: Indonesia Not Benefiting From Commodity Price Gains",
-      "tags": []
-    },
-    {
-      "id": "60e71b44c54f",
-      "title": "Google, Tesla, Intel To Headline Earnings Next Week",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4923063-google-tesla-intel-to-headline-earnings-next-week?source=feed_all_articles",
-      "published_at": "2026-07-18T15:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Google, Tesla, Intel To Headline Earnings Next Week",
-      "tags": []
-    },
-    {
-      "id": "11e71b2e8e87",
-      "title": "IWN: This Small-Cap Value ETF Offers Greater Returns With A Low-Risk Factor",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4923248-iwn-this-small-cap-value-etf-offers-greater-returns-with-a-low-risk-factor?source=feed_all_articles",
-      "published_at": "2026-07-18T14:57:36+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "IWN: This Small-Cap Value ETF Offers Greater Returns With A Low-Risk Factor",
-      "tags": []
-    },
-    {
-      "id": "7ad5aaa64475",
-      "title": "TFLO: Hormuz Risks Strengthen Ultra-Low Duration Case",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4923247-tflo-hormuz-risks-strengthen-ultra-low-duration-case?source=feed_all_articles",
-      "published_at": "2026-07-18T14:44:56+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "TFLO: Hormuz Risks Strengthen Ultra-Low Duration Case",
       "tags": []
     }
   ]
