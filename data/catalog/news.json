@@ -1,83 +1,52 @@
 {
-  "generated_at": "2026-07-17T06:16:37Z",
-  "snapshot_date": "2026-07-17",
+  "generated_at": "2026-07-18T06:13:34Z",
+  "snapshot_date": "2026-07-18",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Palo Alto Networks’ stock has been on a tear — and it could go even higher, according to these bulls",
-      "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-has-been-on-a-tear-and-it-could-go-even-higher-according-to-these-bulls-1ddde6f4?mod=mw_rss_topstories",
+      "title": "Meet Kimi K3, the newest Chinese AI model haunting Silicon Valley",
+      "url": "https://www.marketwatch.com/story/meet-kimi-k3-the-newest-chinese-ai-model-haunting-silicon-valley-755ed738?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-16T23:38:00+00:00",
-      "summary": "The company’s shares have roughly doubled over the past three months, as investors have warmed to the idea that AI is increasing the need for cybersecurity products.",
+      "published_at": "2026-07-17T22:31:00+00:00",
+      "summary": "Moonshot AI’s new open model is catching up to Anthropic and OpenAI, raising questions about the future of the AI race.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.2732,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "The average stock is having a moment as semiconductors struggle. It’s a sign of a healthy market.",
+      "url": "https://www.marketwatch.com/story/the-average-stock-is-having-a-moment-as-semiconductors-struggle-its-a-sign-of-a-healthy-market-0dc01e9a?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-17T21:55:00+00:00",
+      "summary": "It has been a good week to be average on Wall Street.",
       "sentiment": "bullish",
       "sentiment_score": 0.5106,
       "tags": [
-        "AI"
+        "Semiconductors"
       ],
       "signal": "watch",
       "category": "technology",
       "source_repo": "financenews"
     },
     {
-      "title": "GE boosts profit outlook, but stock falls as booming order growth cools",
-      "url": "https://www.marketwatch.com/story/ge-boosts-profit-outlook-but-stock-falls-as-booming-order-growth-cools-f5184533?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-16T23:12:00+00:00",
-      "summary": "GE Aerospace’s stock falls after earnings, again, with recently rapid order-book growth slowing.",
+      "title": "Hot tubs and £80 rosé: how the mud-soaked British festival got a luxury makeover",
+      "url": "https://www.theguardian.com/culture/2026/jul/17/great-british-festival-industry-luxury-makeover-gen-z",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-17T14:00:31+00:00",
+      "summary": "<p>Struggling industry seeks to capitalise on Gen Z’s willingness to spend on experiences and comfort</p><p>It had always been the great British festival way: greasy burgers and warm beer, retch-inducing toilets and the descent into dishevelment as roughing it takes its toll.</p><p>But a generation of festivalgoers has emerged who are willing to splash the cash to inject luxury into the experience. This summer, there are signs the under-pressure industry is ramping up its offer, from gleaming private toilets and “pamper parlours” to fine dining, hot tubs, saunas and even a “cold waterfall drench” to keep refreshed.</p> <a href=\"https://www.theguardian.com/culture/2026/jul/17/great-british-festival-industry-luxury-makeover-gen-z\">Continue reading...</a>",
       "sentiment": "bullish",
-      "sentiment_score": 0.8555,
+      "sentiment_score": 0.9477,
       "tags": [
-        "Aerospace",
-        "AI"
+        "Oil"
       ],
       "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "‘It’s heartbreaking’: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
-      "url": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-16T22:00:00+00:00",
-      "summary": "“I’ve always been a little skeptical of the government’s encouragement to delay claiming benefits.”",
-      "sentiment": "bearish",
-      "sentiment_score": -0.7968,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "He backed Tesla and SpaceX before anyone else — here is the ‘impossible’ bet Tim Draper is making now",
-      "url": "https://www.marketwatch.com/story/he-backed-tesla-and-spacex-before-anyone-else-here-is-the-impossible-bet-he-is-making-now-025e00ef?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-16T21:45:00+00:00",
-      "summary": "Veteran venture capitalist weighs in on the AI bubble and four huge opportunities he missed.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.4215,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Alphabet’s stock falls as Gemini delays suggest Google is struggling to keep up in the AI race",
-      "url": "https://www.marketwatch.com/story/alphabets-stock-falls-as-gemini-delays-suggest-google-is-struggling-to-keep-up-in-the-ai-race-4d821205?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-16T21:32:00+00:00",
-      "summary": "Alphabet shares fell more than 4% on Thursday, reflecting concerns that the Google parent company is falling further behind in the artificial-intelligence race.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.296,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
+      "category": "energy",
       "source_repo": "financenews"
     },
     {
@@ -466,6 +435,38 @@
       ],
       "signal": "watch",
       "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "A July rate hike from the Fed? The odds are rising",
+      "url": "https://www.cnbc.com/2026/07/13/-a-july-rate-hike-from-the-fed-the-odds-are-rising.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-07-13T17:07:51+00:00",
+      "summary": "Chances of a rate hike in July by the Federal Reserve rose as oil prices jumped on the latest developments in the Strait of Hormuz.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.2023,
+      "tags": [
+        "Fed",
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "UK must cap political donations to stop the rich buying influence | Heather Stewart",
+      "url": "https://www.theguardian.com/politics/2026/jul/12/uk-cap-political-donations-stop-rich-buying-influence",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-12T11:01:33+00:00",
+      "summary": "<p>If Keir Starmer won’t act then his successor should – by restricting the power of a small group of mega-donors <br /></p><p>Just as Nigel Farage kicks off a summer of <a href=\"https://www.theguardian.com/politics/2026/jul/08/clacton-byelection-date-nigel-farage-resignation-reform\">“arguing with a bin”</a>, as the chancellor, Rachel Reeves called it, Labour’s bill to clean up politics returns to the House of Commons this week.</p><p>As more questions emerge about the financing of Reform UK and Farage’s mega-donor chums – through the brilliant <a href=\"https://www.theguardian.com/politics/2026/jul/07/revealed-farages-5m-gift-reported-to-uk-agency-over-money-laundering-concerns\">reporting of Guardian colleagues</a> – MPs should seize the opportunity to toughen it up.</p> <a href=\"https://www.theguardian.com/politics/2026/jul/12/uk-cap-political-donations-stop-rich-buying-influence\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8779,
+      "tags": [
+        "Election"
+      ],
+      "signal": "watch",
+      "category": "geopolitical",
       "source_repo": "financenews"
     }
   ]
