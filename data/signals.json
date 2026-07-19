@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T12:20:18.174241+00:00",
+  "generated_at": "2026-07-19T16:20:53.079722+00:00",
   "portfolio_summary": {
     "total_assets": 10,
     "buy_count": 3,
@@ -117,8 +117,8 @@
       "name": "Bitcoin",
       "sector": "Crypto",
       "type": "crypto",
-      "price": 64306.1406,
-      "change_pct": -0.7569,
+      "price": 64537.9219,
+      "change_pct": -0.3992,
       "signal": "watch",
       "note": "Above $90k resistance; ETF inflows strong",
       "sparkline": [
@@ -135,7 +135,7 @@
         63789.2812,
         63899.4609,
         64796.6016,
-        64306.1406
+        64537.9219
       ]
     },
     {
