@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-18T06:13:34Z",
-  "snapshot_date": "2026-07-18",
+  "generated_at": "2026-07-19T06:19:01Z",
+  "snapshot_date": "2026-07-19",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Meet Kimi K3, the newest Chinese AI model haunting Silicon Valley",
-      "url": "https://www.marketwatch.com/story/meet-kimi-k3-the-newest-chinese-ai-model-haunting-silicon-valley-755ed738?mod=mw_rss_topstories",
+      "title": "‘Respect is important’: If my financial adviser said, ‘Hey,’ my wife and I would walk out. Where do you draw the line?",
+      "url": "https://www.marketwatch.com/story/respect-is-important-if-my-financial-adviser-said-hey-my-wife-and-i-would-walk-out-where-do-you-draw-the-line-5fbf5879?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-17T22:31:00+00:00",
-      "summary": "Moonshot AI’s new open model is catching up to Anthropic and OpenAI, raising questions about the future of the AI race.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.2732,
+      "published_at": "2026-07-18T19:16:00+00:00",
+      "summary": "“I met with a financial representative who was not aware that AT&amp;T was the shortened form of American Telephone and Telegraph.”",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
       "tags": [
         "AI"
       ],
@@ -20,15 +20,46 @@
       "source_repo": "financenews"
     },
     {
-      "title": "The average stock is having a moment as semiconductors struggle. It’s a sign of a healthy market.",
-      "url": "https://www.marketwatch.com/story/the-average-stock-is-having-a-moment-as-semiconductors-struggle-its-a-sign-of-a-healthy-market-0dc01e9a?mod=mw_rss_topstories",
+      "title": "‘They are relentless’: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
+      "url": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-17T21:55:00+00:00",
-      "summary": "It has been a good week to be average on Wall Street.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5106,
+      "published_at": "2026-07-18T19:00:00+00:00",
+      "summary": "“I’ve just been ignoring their attempts.”",
+      "sentiment": "neutral",
+      "sentiment_score": -0.0258,
       "tags": [
-        "Semiconductors"
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
+      "url": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-07-18T18:16:42+00:00",
+      "summary": "Investment firms are readying for an era with less public commentary from the U.S. central bank. Some are relying on AI for an edge.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Trump has normalized crypto. Is it the path to the next financial collapse? | Eduardo Porter",
+      "url": "https://www.theguardian.com/business/2026/jul/18/trump-crypto-us-economy",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-18T10:00:02+00:00",
+      "summary": "<p>Cheerleading by the president, who made $1.2bn last year off uninsured currency, does not bode well for US economy</p><p>The scale of the graft is decidedly off the charts, but the <a href=\"https://www.theguardian.com/us-news/2026/jun/30/trump-1bn-crypto-businesses-2025\">revelation</a> that Donald Trump raked in a personal fortune of <a href=\"https://www.theguardian.com/us-news/2026/jul/01/trump-earnings-as-president\">$2.2bn</a> during his first year in office should come as no surprise. The president didn’t even try to hide his venality. Not only did he refuse to sell businesses and put assets in a blind trust, as other presidents have done to limit opportunities for self-dealing; the quid pro quos with foreign governments and assorted magnates were exposed for all to see.</p><p>It is troubling that the president of the United States would so nonchalantly deploy his official powers to profit from dealings with <a href=\"https://www.bbc.com/news/articles/cly1qrl9l1qo\">money launderers</a> and <a href=\"https://www.nytimes.com/2026/02/01/us/politics/trump-crypto-uae-world-liberty.html\">Middle Eastern princes</a>. It is perhaps more so that the supposedly robust checks and balances upholding American governance proved powerless to stop him. (Here’s waiting for the supreme court to define Trump’s dealings as “<a href=\"https://www.aclu.org/press-releases/supreme-court-grants-trump-broad-immunity-for-official-acts-placing-presidents-above-the-law\">official acts</a>” in order to exonerate him.)</p> <a href=\"https://www.theguardian.com/business/2026/jul/18/trump-crypto-us-economy\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6929,
+      "tags": [
+        "AI"
       ],
       "signal": "watch",
       "category": "technology",
@@ -435,38 +466,6 @@
       ],
       "signal": "watch",
       "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "A July rate hike from the Fed? The odds are rising",
-      "url": "https://www.cnbc.com/2026/07/13/-a-july-rate-hike-from-the-fed-the-odds-are-rising.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-13T17:07:51+00:00",
-      "summary": "Chances of a rate hike in July by the Federal Reserve rose as oil prices jumped on the latest developments in the Strait of Hormuz.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.2023,
-      "tags": [
-        "Fed",
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "UK must cap political donations to stop the rich buying influence | Heather Stewart",
-      "url": "https://www.theguardian.com/politics/2026/jul/12/uk-cap-political-donations-stop-rich-buying-influence",
-      "source": "The Guardian Economics",
-      "published_at": "2026-07-12T11:01:33+00:00",
-      "summary": "<p>If Keir Starmer won’t act then his successor should – by restricting the power of a small group of mega-donors <br /></p><p>Just as Nigel Farage kicks off a summer of <a href=\"https://www.theguardian.com/politics/2026/jul/08/clacton-byelection-date-nigel-farage-resignation-reform\">“arguing with a bin”</a>, as the chancellor, Rachel Reeves called it, Labour’s bill to clean up politics returns to the House of Commons this week.</p><p>As more questions emerge about the financing of Reform UK and Farage’s mega-donor chums – through the brilliant <a href=\"https://www.theguardian.com/politics/2026/jul/07/revealed-farages-5m-gift-reported-to-uk-agency-over-money-laundering-concerns\">reporting of Guardian colleagues</a> – MPs should seize the opportunity to toughen it up.</p> <a href=\"https://www.theguardian.com/politics/2026/jul/12/uk-cap-political-donations-stop-rich-buying-influence\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8779,
-      "tags": [
-        "Election"
-      ],
-      "signal": "watch",
-      "category": "geopolitical",
       "source_repo": "financenews"
     }
   ]
