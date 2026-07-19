@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-18T20:17:19.565193+00:00",
+  "generated_at": "2026-07-19T00:34:43.992720+00:00",
   "articles": [
+    {
+      "id": "556b16e5bc0f",
+      "title": "Korea’s AI-Heavy Market Now Sets the Tone for Global Stocks",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-19/korea-s-ai-heavy-market-now-sets-the-tone-for-global-stocks",
+      "published_at": "2026-07-19T00:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "For fund managers in London, New York and Tokyo, a new ritual has emerged before trading gets underway: checking South Korean stocks.",
+      "tags": []
+    },
     {
       "id": "6119fab319d3",
       "title": "Vanishing CLO Profits Are Sparking Infighting: Credit Weekly",
@@ -110,39 +122,15 @@
       "tags": []
     },
     {
-      "id": "c46b67d2e775",
-      "title": "China’s Siemens Competitor Eyes Buying Its Way Into Europe",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-18/china-s-siemens-competitor-eyes-buying-its-way-into-europe",
-      "published_at": "2026-07-18T05:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Shenzhen Inovance Technology Co. Ltd. is considering acquisitions in Europe, signaling the Chinese company is readying a push to compete in Europe with industrial incumbents like Siemens AG and top au",
-      "tags": []
-    },
-    {
-      "id": "eff3db9a49c4",
-      "title": "Big Law braces for second fight with Trump over capitulation deals",
+      "id": "8f88cc64191c",
+      "title": "US strikes Iran after two American troops are killed in Jordan",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/44a3698f-6481-4e83-a50d-7db109768ea1?syn-25a6b1a6=1",
-      "published_at": "2026-07-18T12:00:03+00:00",
+      "url": "https://www.ft.com/content/e8e8adc5-7c56-45a8-99fc-bb5acfda263e?syn-25a6b1a6=1",
+      "published_at": "2026-07-18T22:54:39+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Department of Justice tells top firms their leaders must sit for depositions over agreements they reached over a year ago",
-      "tags": []
-    },
-    {
-      "id": "25ed28f2e20c",
-      "title": "Trump to fund Maga-aligned projects in Europe as he reorders US aid",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/1cb986a4-2428-4e64-a559-7867cfa1a3e3?syn-25a6b1a6=1",
-      "published_at": "2026-07-18T17:22:03+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Objectives include countering ‘censorship’ from EU regulations and supporting ‘national sovereignty’",
+      "summary": "Battle for control of Strait of Hormuz escalates after Tehran launches attack on Gulf states",
       "tags": []
     },
     {
@@ -170,15 +158,15 @@
       "tags": []
     },
     {
-      "id": "8f88cc64191c",
-      "title": "Two US servicemen killed in Iranian strikes on Jordan",
+      "id": "eff3db9a49c4",
+      "title": "Big Law braces for second fight with Trump over capitulation deals",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/e8e8adc5-7c56-45a8-99fc-bb5acfda263e?syn-25a6b1a6=1",
-      "published_at": "2026-07-18T18:10:45+00:00",
+      "url": "https://www.ft.com/content/44a3698f-6481-4e83-a50d-7db109768ea1?syn-25a6b1a6=1",
+      "published_at": "2026-07-18T12:00:03+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Battle for control of the Strait of Hormuz escalates as Tehran hits Saudi Arabia for the first time in months",
+      "summary": "Department of Justice tells top firms their leaders must sit for depositions over agreements they reached over a year ago",
       "tags": []
     },
     {
@@ -218,15 +206,27 @@
       "tags": []
     },
     {
-      "id": "227bed38ad0e",
-      "title": "Surrogacy controversy sparks resignation of Merz’s parliamentary leader",
+      "id": "970062c496fc",
+      "title": "Asia AI bets power record equities run for Wall Street banks",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/784a7d34-e005-4266-8bd4-82f26298b3e4?syn-25a6b1a6=1",
-      "published_at": "2026-07-18T15:29:29+00:00",
+      "url": "https://www.ft.com/content/2dc8d54c-89b7-4e57-bd43-084d9edf01a4?syn-25a6b1a6=1",
+      "published_at": "2026-07-18T04:00:41+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "CDU rightwinger Jens Spahn steps down after revealing he used a surrogate mother in the US to become a father",
+      "summary": "Investments in semiconductors fuel growth in regional revenues for US banks",
+      "tags": []
+    },
+    {
+      "id": "25ed28f2e20c",
+      "title": "Trump to fund Maga-aligned projects in Europe as he reorders US aid",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/1cb986a4-2428-4e64-a559-7867cfa1a3e3?syn-25a6b1a6=1",
+      "published_at": "2026-07-18T17:22:03+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Objectives include countering ‘censorship’ from EU regulations and supporting ‘national sovereignty’",
       "tags": []
     },
     {
@@ -350,6 +350,18 @@
       "tags": []
     },
     {
+      "id": "f4170115a401",
+      "title": "France orders country's internet service providers to block Polymarket",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket",
+      "published_at": "2026-07-18T21:52:18+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "France orders country's internet service providers to block Polymarket",
+      "tags": []
+    },
+    {
       "id": "bc21d79591f3",
       "title": "Crypto executives say digital native generations may never need a bank account",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
@@ -458,15 +470,111 @@
       "tags": []
     },
     {
-      "id": "b6f3c8374dbe",
-      "title": "Inside Robinhood’s high-stakes bet to onboard millions of casual users onto decentralized finance",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/07/17/inside-robinhood-s-high-stakes-bet-to-onboard-10-million-casual-investors-onto-decentralized-finance",
-      "published_at": "2026-07-17T15:36:39+00:00",
+      "id": "7890cb1f0f14",
+      "title": "Teradyne: You're Not Thinking About 2027",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4923268-teradyne-youre-not-thinking-about-2027?source=feed_all_articles",
+      "published_at": "2026-07-19T00:19:23+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Inside Robinhood’s high-stakes bet to onboard millions of casual users onto decentralized finance",
+      "summary": "Teradyne: You're Not Thinking About 2027",
+      "tags": []
+    },
+    {
+      "id": "13c43989c189",
+      "title": "QuickLogic: Improving Growth Case, But The Valuation Is Still Asking A Lot",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4923267-quicklogic-improving-growth-case-but-the-valuation-is-still-asking-a-lot?source=feed_all_articles",
+      "published_at": "2026-07-19T00:13:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "QuickLogic: Improving Growth Case, But The Valuation Is Still Asking A Lot",
+      "tags": []
+    },
+    {
+      "id": "4aaf41f88a56",
+      "title": "Idaho Strategic Resources: Tremendous Ability To Expand, But Only If The Opportunity Is There",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4923266-idaho-strategic-resources-tremendous-ability-to-expand-if-opportunity-there?source=feed_all_articles",
+      "published_at": "2026-07-19T00:05:59+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Idaho Strategic Resources: Tremendous Ability To Expand, But Only If The Opportunity Is There",
+      "tags": []
+    },
+    {
+      "id": "8405f07f640c",
+      "title": "ASML: Margin Expansion Is Just Getting Started",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4923262-asml-margin-expansion-is-just-getting-started?source=feed_all_articles",
+      "published_at": "2026-07-18T23:45:33+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "ASML: Margin Expansion Is Just Getting Started",
+      "tags": []
+    },
+    {
+      "id": "65d13d947d54",
+      "title": "Axis Bank Limited (AXBKY) Q1 2027 Earnings Call Transcript",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4923254-axis-bank-limited-axbky-q1-2027-earnings-call-transcript?source=feed_all_articles",
+      "published_at": "2026-07-18T23:16:16+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Axis Bank Limited (AXBKY) Q1 2027 Earnings Call Transcript",
+      "tags": []
+    },
+    {
+      "id": "386437e96f53",
+      "title": "Veradermics, Incorporated (MANE) Discusses Positive Female Results From Phase II Study of VDPHL01 for Pattern Hair Loss - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4923265-veradermics-incorporated-mane-discusses-positive-female-results-from-phase-ii-study-of?source=feed_all_articles",
+      "published_at": "2026-07-18T23:03:52+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Veradermics, Incorporated (MANE) Discusses Positive Female Results From Phase II Study of VDPHL01 for Pattern Hair Loss - Slideshow",
+      "tags": []
+    },
+    {
+      "id": "088cd823e4d5",
+      "title": "Investor AB (publ) 2026 Q2 - Results - Earnings Call Presentation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4923264-investor-ab-publ-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+      "published_at": "2026-07-18T23:02:14+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Investor AB (publ) 2026 Q2 - Results - Earnings Call Presentation",
+      "tags": []
+    },
+    {
+      "id": "770b695c7b55",
+      "title": "ITV plc (ITVPY) ITV plc, - M&A Call - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4923263-itv-plc-itvpy-itv-plc-m-and-a-call-slideshow?source=feed_all_articles",
+      "published_at": "2026-07-18T23:01:16+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "ITV plc (ITVPY) ITV plc, - M&A Call - Slideshow",
+      "tags": []
+    },
+    {
+      "id": "8ea61a966798",
+      "title": "Quanta Services: Buy The Bottleneck Between AI And Energized Power",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4923261-quanta-services-buy-bottleneck-between-ai-energized-power?source=feed_all_articles",
+      "published_at": "2026-07-18T20:31:36+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Quanta Services: Buy The Bottleneck Between AI And Energized Power",
       "tags": []
     },
     {
@@ -479,114 +587,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Why I'm 80% Cash While Everyone's Busy Blaming Kimi K3",
-      "tags": []
-    },
-    {
-      "id": "f05b17b39ff0",
-      "title": "The 1-Minute Market Report, July 18, 2026",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4923259-the-1-minute-market-report-july-18-2026?source=feed_all_articles",
-      "published_at": "2026-07-18T17:56:02+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The 1-Minute Market Report, July 18, 2026",
-      "tags": []
-    },
-    {
-      "id": "41351df6366c",
-      "title": "Aehr Test Systems: Still Some Worry About The Blue-Sky Bull Case",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4923258-aehr-test-systems-still-some-worry-about-the-blue-sky-bull-case?source=feed_all_articles",
-      "published_at": "2026-07-18T17:26:44+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Aehr Test Systems: Still Some Worry About The Blue-Sky Bull Case",
-      "tags": []
-    },
-    {
-      "id": "75da8304df87",
-      "title": "HDFC Bank Limited (HDB) Q1 2027 Earnings Call Transcript",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4923239-hdfc-bank-limited-hdb-q1-2027-earnings-call-transcript?source=feed_all_articles",
-      "published_at": "2026-07-18T17:16:16+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "HDFC Bank Limited (HDB) Q1 2027 Earnings Call Transcript",
-      "tags": []
-    },
-    {
-      "id": "537bebff7008",
-      "title": "AI Bubble Risks Make Dividend Stocks Attractive Again",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4923257-ai-bubble-risks-make-dividend-stocks-attractive-again?source=feed_all_articles",
-      "published_at": "2026-07-18T17:03:19+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "AI Bubble Risks Make Dividend Stocks Attractive Again",
-      "tags": []
-    },
-    {
-      "id": "4dbc0c94be54",
-      "title": "ICICI Bank Limited (IBN) Q1 2027 Earnings Call Transcript",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4923241-icici-bank-limited-ibn-q1-2027-earnings-call-transcript?source=feed_all_articles",
-      "published_at": "2026-07-18T16:26:16+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "ICICI Bank Limited (IBN) Q1 2027 Earnings Call Transcript",
-      "tags": []
-    },
-    {
-      "id": "733d444cf58e",
-      "title": "UnitedHealth Just Told Us The Economy Isn't Breaking․ Here's The Proof",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4923253-unitedhealth-just-told-us-the-economy-isnt-breaking-heres-the-proof?source=feed_all_articles",
-      "published_at": "2026-07-18T16:08:30+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "UnitedHealth Just Told Us The Economy Isn't Breaking․ Here's The Proof",
-      "tags": []
-    },
-    {
-      "id": "f776be7c7660",
-      "title": "Micron: This Is A Golden Opportunity",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4923183-micron-this-is-golden-opportunity?source=feed_all_articles",
-      "published_at": "2026-07-18T16:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Micron: This Is A Golden Opportunity",
-      "tags": []
-    },
-    {
-      "id": "8118e60ee6d0",
-      "title": "Beacon Financial: Q2 Earnings Preview, With Shares Still Cheap",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4923252-beacon-financial-q2-earnings-preview-with-shares-still-cheap?source=feed_all_articles",
-      "published_at": "2026-07-18T15:51:21+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Beacon Financial: Q2 Earnings Preview, With Shares Still Cheap",
-      "tags": []
-    },
-    {
-      "id": "63c175f5d0bf",
-      "title": "Fifth Third Bancorp: Wait For A Cooldown To Buy Stock",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4923129-fifth-third-bancorp-wait-for-a-cooldown-to-buy-stock?source=feed_all_articles",
-      "published_at": "2026-07-18T15:40:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Fifth Third Bancorp: Wait For A Cooldown To Buy Stock",
       "tags": []
     }
   ]
