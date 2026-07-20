@@ -1,9 +1,148 @@
 {
-  "generated_at": "2026-07-19T06:19:01Z",
-  "snapshot_date": "2026-07-19",
+  "generated_at": "2026-07-20T06:31:57Z",
+  "snapshot_date": "2026-07-20",
   "source": "financenews",
   "count": 30,
   "articles": [
+    {
+      "title": "Oil prices surge, stock futures flat as fighting between U.S. and Iran intensifies",
+      "url": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-20T00:16:00+00:00",
+      "summary": "Oil prices rose while U.S stock-index futures were little changed on Sunday, amid an escalation of fighting in the Middle East and as investors await key tech earnings this week.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.5574,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "World Cup-champion Spain just won $50 million — and the IRS gets a cut",
+      "url": "https://www.marketwatch.com/story/the-world-cupwinning-side-will-make-50-million-and-the-irs-gets-a-cut-10f0780b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-19T22:29:00+00:00",
+      "summary": "“It doesn’t make a difference who wins the game. The IRS will get a piece.”",
+      "sentiment": "bullish",
+      "sentiment_score": 0.743,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "The Guardian view on pubs: football gave them a boost – now they need another | Editorial",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/19/the-guardian-view-on-pubs-football-gave-them-a-boost-now-they-need-another",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-19T16:25:31+00:00",
+      "summary": "<p>Communal spaces where people can share big moments are a vital part of our shared life</p><p>“People can’t get enough of football fever,” a <a href=\"https://www.theguardian.com/football/2026/jul/13/pub-landlords-lifeline-england-world-cup-heroes\">pub landlord, Sam Hale,</a> told the Guardian last week. The World Cup provided the UK’s struggling hospitality industry with a much-needed boost, with <a href=\"https://www.theguardian.com/business/2026/jul/14/world-cup-sunshine-uk-consumers-splash-out-on-beer-and-online-shopping\">pubs benefiting</a> from extended opening hours and one estimate suggesting that an extra 5.5m pints were sold in the group stages alone. The tournament lifted customers’ spirits too – even if it ended in disappointment for England and Scotland fans – as millions of people relished the communal spectacle.</p><p>These sociable few weeks could not have come at a better time for pubs, which are <a href=\"https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/07/now-the-village-is-dead-its-awful-why-was-one-of-britains-best-pubs-forced-to-close\">closing at a rate of two a day</a>, with about 2,000 gone since 2020. This reflects a long-term trend away from going out, combined with pressures from rising costs including energy bills, business rates, wages and national insurance contributions. The hope in the sector, and among its advocates, is that the temporary uplift of the past few weeks will focus minds on the importance of venues, including pubs, in promoting social cohesion and “<a href=\"https://www.theguardian.com/commentisfree/2026/jul/17/andy-burnham-world-cup-outdoor-viewing-parties-fan-zone-british\">watercooler moments</a>”.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jul/19/the-guardian-view-on-pubs-football-gave-them-a-boost-now-they-need-another\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.9393,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Is there a deadline to claim the $1,000 ‘Trump account’ contribution for my kid?",
+      "url": "https://www.marketwatch.com/story/is-there-a-deadline-to-claim-the-1-000-trump-account-contribution-for-my-kid-1b70141c?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-19T15:43:00+00:00",
+      "summary": "Some children who don’t qualify for the government contribution may be eligible for an initial $250.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Can former employers withhold money from your 401(k) when you’re laid off?",
+      "url": "https://www.marketwatch.com/story/can-former-employers-withhold-money-from-your-401-k-when-youre-laid-off-5ceb4d4e?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-19T14:45:00+00:00",
+      "summary": "There are two main ways to move money from your workplace retirement plan when you leave your job. One can cost you.",
+      "sentiment": "neutral",
+      "sentiment_score": -0.0516,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Why a modest US interest rate rise won’t change much for most businesses",
+      "url": "https://www.theguardian.com/business/2026/jul/19/us-interest-rates-businesses",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-19T14:00:28+00:00",
+      "summary": "<p>Rates may rise, but don’t be too concerned – a small increase is unlikely to change major decisions on investment or hiring</p><p>With the appointment of a new <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a> chair, the latest concern is that interest rates will go up in the next few months. That decision will depend on many factors, including <a href=\"https://www.theguardian.com/business/inflation\">inflation</a>, jobs and the economy’s overall growth. But when that happens, watch out! The media will go nuts and the president will go ballistic. Everyone treats every Fed meeting as an economic earthquake. But for most small businesses, it isn’t.</p><p>A 25-basis-point increase doesn’t meaningfully change borrowing costs for most established businesses. In fact, it changes nothing at all.</p> <a href=\"https://www.theguardian.com/business/2026/jul/19/us-interest-rates-businesses\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.9125,
+      "tags": [
+        "Interest Rates",
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Are money and soft power draining World Cup football of its magic? | Richard Partington",
+      "url": "https://www.theguardian.com/media/2026/jul/19/money-soft-power-draining-world-cup-football-magic-fifa",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-19T11:16:50+00:00",
+      "summary": "<p>Fifa’s orchestration of incompatible or frankly absurd corporate sponsorship suggests the balance may have tipped too far</p><p>It’s almost all over. No more hydration breaks, no more obligatory pans of the TV cameras to Hollywood A-listers, or dread of the crushing inevitability of English disappointment. The Fifa <a href=\"https://www.theguardian.com/football/world-cup-2026\">World Cup</a> 2026 is at an end, after another month of planet-straddling drama laced with significance and symbolism, both on and off the pitch.</p><p>Before the kick-off between Spain and Argentina on Sunday evening, the result is already clear: football’s greatest prize is more than a sporting event; it is a geopolitically charged economic juggernaut.</p> <a href=\"https://www.theguardian.com/media/2026/jul/19/money-soft-power-draining-world-cup-football-magic-fifa\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.2023,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Restoring Britain’s health to 2014 levels could add 2% to GDP, thinktank says",
+      "url": "https://www.theguardian.com/society/2026/jul/19/restoring-britains-health-to-2014-levels-could-add-2-to-gdp-thinktank-says",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-19T09:00:22+00:00",
+      "summary": "<p>Health Foundation paper argues health is an economic asset and improving it could generate £72bn for public finances</p><p>Restoring the deteriorating health of the UK’s population to the level of 2014 would boost GDP by 2% and generate a £72bn dividend for the public finances, research suggests.</p><p>A <a href=\"https://www.health.org.uk/reports-and-analysis/reports/health-as-an-economic-asset\">paper by the Health Foundation thinktank</a>, published on Sunday, argues the nation’s health should be valued by policymakers as an economic asset.</p> <a href=\"https://www.theguardian.com/society/2026/jul/19/restoring-britains-health-to-2014-levels-could-add-2-to-gdp-thinktank-says\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7845,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "‘Good growth in every postcode’: Burnham’s economic to-do list in seven charts",
+      "url": "https://www.theguardian.com/business/2026/jul/19/andy-burnham-economy-defence-housing-and-living-costs",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-19T06:00:20+00:00",
+      "summary": "<p>From industrial strategy and defence to housing and living costs, we lay out the challenges facing the new PM</p><p>Andy Burnham becomes prime minister as Britain contends with a series of global economic shocks and years of weak growth in living standards, fuelled by underinvestment and deep regional divisions.</p><p>Before his arrival in Downing Street, the Labour leader pledged to deliver “<a href=\"https://www.theguardian.com/politics/2026/jun/28/andy-burnham-to-pledge-good-growth-in-every-postcode-in-devolution-plan\">good growth in every postcode</a>” by transferring power from Westminster to local communities. But with the public finances under pressure, and time running out before the next general election, the task is not straightforward.</p> <a href=\"https://www.theguardian.com/business/2026/jul/19/andy-burnham-economy-defence-housing-and-living-costs\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.2023,
+      "tags": [
+        "Election",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
     {
       "title": "‘Respect is important’: If my financial adviser said, ‘Hey,’ my wife and I would walk out. Where do you draw the line?",
       "url": "https://www.marketwatch.com/story/respect-is-important-if-my-financial-adviser-said-hey-my-wife-and-i-would-walk-out-where-do-you-draw-the-line-5fbf5879?mod=mw_rss_topstories",
@@ -325,147 +464,6 @@
       ],
       "signal": "watch",
       "category": "macro",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Watch: Fed Chairman Kevin Warsh testifies to House Financial Services committee",
-      "url": "https://www.cnbc.com/2026/07/14/watch-fed-chairman-kevin-warsh-testify-live-to-house-financial-services-committee.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-14T17:26:37+00:00",
-      "summary": "In remarks prepared for the appearance, Warsh promised a vigilant fight to return inflation to the Fed's 2% target.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3612,
-      "tags": [
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Inflation cools to 3.5% in June in relief brought by brief US-Iran peace deal",
-      "url": "https://www.theguardian.com/business/2026/jul/14/june-cpi-report-inflation-cools-iran-deal",
-      "source": "The Guardian Economics",
-      "published_at": "2026-07-14T16:56:56+00:00",
-      "summary": "<p>Recent strikes have sent oil prices climbing again, with average gas price per gallon up by $0.70 compared with 2025</p><p>Inflation cooled to an annual rate of 3.5% in June as the brief US-Iran ceasefire, which has since ended, brought energy prices down, according to new data from the Bureau of Labor Statistics.</p><p>The consumer price index (CPI), which measures a basket of goods and services, has been elevated since the start of the war, largely because of higher energy prices. After mostly staying under 3% since mid-2024, CPI reached a three-year high of 4.2% in May – up from 2.4% in February. Month-over-month, CPI fell 0.8% in June, the largest one-month decrease since April 2020.</p> <a href=\"https://www.theguardian.com/business/2026/jul/14/june-cpi-report-inflation-cools-iran-deal\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5859,
-      "tags": [
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Trump forced to refund billions in tariffs – The Latest",
-      "url": "https://www.theguardian.com/news/audio/2026/jul/14/trump-forced-to-refund-billions-in-tariffs-the-latest",
-      "source": "The Guardian Economics",
-      "published_at": "2026-07-14T16:17:48+00:00",
-      "summary": "<p>The US government has been forced to pay billions in refunds to companies that were hit by Donald Trump’s ‘liberation day’ tariffs.</p><p>The US has paid out $81bn (£61bn) this fiscal year after the supreme court ruled the tariffs were illegal. Lucy Hough speaks to international editor Chris Michael <strong>– </strong><a href=\"https://www.youtube.com/@todayinfocuspodcast\"><strong>watch on YouTube</strong></a></p> <a href=\"https://www.theguardian.com/news/audio/2026/jul/14/trump-forced-to-refund-billions-in-tariffs-the-latest\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.7506,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Oil price jumps as US-Iran clashes raise odds of interest rate rises",
-      "url": "https://www.theguardian.com/business/2026/jul/14/oil-price-gas-rise-us-iran-interest-rates-stock-markets",
-      "source": "The Guardian Economics",
-      "published_at": "2026-07-14T11:24:04+00:00",
-      "summary": "<p>Energy prices later stabilise after Trump abandons plan for 20% levy on traffic through strait of Hormuz </p><p>Oil and gas prices jumped and expectations of interest rate rises in Europe increased on Tuesday after the <a href=\"https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news\">US carried out a third night of military strikes against Iran</a>.</p><p>However, they later eased back after Donald Trump said <a href=\"https://www.theguardian.com/world/2026/jul/14/us-strikes-iran-bahrain-jordan-uae-tankers\">he would abandon</a> his proposal for the US to levy a 20% fee on cargo passing through the strait of Hormuz.</p> <a href=\"https://www.theguardian.com/business/2026/jul/14/oil-price-gas-rise-us-iran-interest-rates-stock-markets\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6705,
-      "tags": [
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "China’s monthly car ‌exports top 1m for first time as overall trade soars",
-      "url": "https://www.theguardian.com/business/2026/jul/14/china-car-exports-june-trade-us-eu-trump-tariffs",
-      "source": "The Guardian Economics",
-      "published_at": "2026-07-14T10:32:23+00:00",
-      "summary": "<p>Country risks new tariffs from US and EU as it looks likely to match or beat last year’s record surplus of $1tn</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jul/14/oil-prices-rise-2-middle-east-strikes-chinas-exports-surge-ai-boom-live-updates\">Business live – latest updates</a></p></li></ul><p>China’s monthly car ‌exports topped 1m for the first time in June as overall overseas shipments from the world’s second biggest economy rose 27%.</p><p>Official Chinese customs data showed that a stronger-than-expected trade performance kept China on track to match or beat last year’s <a href=\"https://www.theguardian.com/world/2026/jan/14/china-reports-record-trillion-dollar-trade-surplus-despite-trump-tariffs\">record trade surplus</a> of $1tn (£748bn), achieved despite Donald Trump’s <a href=\"https://www.theguardian.com/us-news/2026/jul/14/trump-tariffs-us-refunds\">curtailed</a> tariff war.</p> <a href=\"https://www.theguardian.com/business/2026/jul/14/china-car-exports-june-trade-us-eu-trump-tariffs\">Continue reading...</a>",
-      "sentiment": "neutral",
-      "sentiment_score": -0.0772,
-      "tags": [
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "North Sea oil industry urges Burnham to approve new drilling in UK waters",
-      "url": "https://www.theguardian.com/business/2026/jul/14/north-sea-oil-industry-urges-burnham-approve-more-drilling-uk-waters",
-      "source": "The Guardian Economics",
-      "published_at": "2026-07-14T05:00:20+00:00",
-      "summary": "<p>Lobby appeals to prospective PM’s reindustrialisation agenda as it pushes for Rosebank and Jackdaw approval</p><p>The UK’s North Sea oil industry has made a last-ditch attempt to curry favour with the Labour government by appealing to Andy Burnham’s reindustrialisation agenda just days before he is expected to become Britain’s next prime minister.</p><p>Industry lobbyists have written to more than 400 Labour MPs to call on the government’s new leaders to allow more oil and gas drilling in UK waters to support homegrown energy and show “a commitment to UK manufacturing, industrial capability and the skilled workforce that has powered the nation for generations”.</p> <a href=\"https://www.theguardian.com/business/2026/jul/14/north-sea-oil-industry-urges-burnham-approve-more-drilling-uk-waters\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8807,
-      "tags": [
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "'Listing is a must': Chinese humanoid startups are rushing to launch IPOs",
-      "url": "https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-14T00:31:01+00:00",
-      "summary": "Shenzhen-based LimX Dynamics is the latest humanoid company in China to raise capital in recent weeks as investors eye IPO exits.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.2732,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "World Cup and sunshine prompt UK consumers to splash out on beer and online shopping",
-      "url": "https://www.theguardian.com/business/2026/jul/14/world-cup-sunshine-uk-consumers-splash-out-on-beer-and-online-shopping",
-      "source": "The Guardian Economics",
-      "published_at": "2026-07-13T23:01:13+00:00",
-      "summary": "<p>Despite spending increase in June, Barclays says most people still pessimistic about economy</p><p>Relentless sunshine and the World Cup coaxed consumers to spend more on beer and online shopping last month, with purse strings expected to remain loose as England fans gear up for Wednesday’s semi-final.</p><p>Most people remain pessimistic about the UK economy, according to data from Barclays Bank based on debit and credit card transactions.</p> <a href=\"https://www.theguardian.com/business/2026/jul/14/world-cup-sunshine-uk-consumers-splash-out-on-beer-and-online-shopping\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.577,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Waller says Fed shouldn't 'fight the last war' on inflation but warns hikes still possible",
-      "url": "https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-13T19:15:25+00:00",
-      "summary": "The Fed governor said inflation has expanded beyond the often-cited drivers such as the energy price spike in tariffs.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0495,
-      "tags": [
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
       "source_repo": "financenews"
     }
   ]
