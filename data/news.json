@@ -1,16 +1,76 @@
 {
-  "generated_at": "2026-07-19T20:18:37.537895+00:00",
+  "generated_at": "2026-07-20T00:36:00.905346+00:00",
   "articles": [
     {
+      "id": "78abdd159a78",
+      "title": "Korea President’s Stock Dream Bumps Into Leveraged ETF Backlash",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-19/korea-president-s-stock-dream-bumps-into-leveraged-etf-backlash",
+      "published_at": "2026-07-19T21:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "South Korea’s most closely watched stock-market innovation is morphing into a headache for President Lee Jae Myung.",
+      "tags": []
+    },
+    {
+      "id": "bbbe369bb128",
+      "title": "Oil Climbs on Middle East Tensions, Kospi Drops: Markets Wrap",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-19/oil-climbs-as-middle-east-conflict-escalates-markets-wrap",
+      "published_at": "2026-07-19T22:10:10+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Oil climbed to the highest level in more than a month while Asian equities fell after US and Iranian attacks escalated over the weekend, compounding a technology-led selloff that had already rattled m",
+      "tags": []
+    },
+    {
+      "id": "51f29cbde21f",
+      "title": "Latest Oil Market News and Analysis for July 20",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-19/latest-oil-market-news-and-analysis-for-july-20",
+      "published_at": "2026-07-19T22:02:08+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Brent crude jumped after the US and Iran escalated hostilities, including the targeting of vessels attempting to transit the Strait of Hormuz and an attack on a key oil facility in Kuwait over the wee",
+      "tags": []
+    },
+    {
+      "id": "60bc17250020",
+      "title": "IDR/USD: Rupiah May Recover on Rate Hike, Stronger Fiscals, Analysts Say",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-20/idr-usd-rupiah-may-recover-on-rate-hike-stronger-fiscals-analysts-say",
+      "published_at": "2026-07-20T00:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The Indonesian rupiah is poised for a period of stability, with analysts expecting the central bank to continue supporting Asia’s worst-performing currency and foreign funds to step up purchases of th",
+      "tags": []
+    },
+    {
+      "id": "cb73298ef693",
+      "title": "Gold Falls as US-Iran Hostilities Keep Rate Hike Bets on Table",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-19/gold-falls-as-us-iran-hostilities-keep-rate-hike-bets-on-table",
+      "published_at": "2026-07-19T23:33:09+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Gold declined after the US and Iran ramped up attacks over the weekend, stoking bets the Federal Reserve may need to raise interest rates to contain inflation.",
+      "tags": []
+    },
+    {
       "id": "190da48e7506",
-      "title": "Iran Conflict Escalates as US Announces Third Troop Death",
+      "title": "US Launches Ninth Wave of Strikes on Iran After Troops Killed",
       "source": "Bloomberg Markets",
       "url": "https://www.bloomberg.com/news/articles/2026-07-19/us-iran-trade-more-attacks-after-two-troops-killed-in-jordan",
       "published_at": "2026-07-19T06:58:45+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "The US and Iran engaged in a quickening series of tit-for-tat attacks, causing fresh chaos in the Middle East as the US military announced the death of a third US troop in the past two days.",
+      "summary": "The US and Iran engaged in a quickening series of tit-for-tat attacks, with the US military carrying out its ninth consecutive night of strikes.",
       "tags": []
     },
     {
@@ -62,75 +122,15 @@
       "tags": []
     },
     {
-      "id": "b5f1d1ab4911",
-      "title": "Extreme Stock Swings Tempt Funds Into Reverse Dispersion Trade",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-19/extreme-stock-swings-tempt-funds-into-reverse-dispersion-trade",
-      "published_at": "2026-07-19T14:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Betting that individual stocks will be volatile while the S&amp;P 500 stays relatively calm has been a popular and successful hedge fund strategy. But with the swings in share prices reaching extreme ",
-      "tags": []
-    },
-    {
-      "id": "ee68a2e52a85",
-      "title": "Prediction Markets Swell to 27% of Sports Bets During World Cup",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-19/prediction-markets-swell-to-27-of-sports-bets-during-world-cup",
-      "published_at": "2026-07-19T13:30:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Prediction-market trading has surged during a blowout World Cup, far outpacing the growth at traditional sportsbooks and driving home the competitive threat that companies like Kalshi now pose to the ",
-      "tags": []
-    },
-    {
-      "id": "3a0091f18fba",
-      "title": "Safest Carry in Emerging Markets Is in Latin American Currencies",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-19/safest-carry-in-emerging-markets-is-in-latin-american-currencies",
-      "published_at": "2026-07-19T12:30:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Emerging-market currency volatility has dropped to the lowest since the start of year and that’s re-energizing carry trades, particularly those involving Latin America that are seen to offer the juici",
-      "tags": []
-    },
-    {
-      "id": "1c8606685f9e",
-      "title": "Singapore Eyes Hedge Fund Tax Cuts to Boost Hub Role: FT",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-19/singapore-weighs-hedge-fund-tax-cuts-to-be-more-competitive-ft",
-      "published_at": "2026-07-19T04:41:38+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The Monetary Authority of Singapore has held talks with investment firms on reducing taxes for fund managers in a bid to maintain the island’s competitiveness and retain talent, the Financial Times re",
-      "tags": []
-    },
-    {
-      "id": "d6b2d1fabab2",
-      "title": "South Korea Details Plan for Foreigners to Trade Won Easier",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-19/south-korea-to-ease-fx-rules-for-foreigners-to-trade-won-easier",
-      "published_at": "2026-07-19T03:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "South Korea laid out a detailed plan to make the won freely tradable among foreigners, its boldest step yet to liberalize the forex market and bring the currency closer to full convertibility.",
-      "tags": []
-    },
-    {
-      "id": "5942492a5936",
-      "title": "EU faces crumbling support for new Russia sanctions",
+      "id": "62605c44c4ec",
+      "title": "US death toll climbs as Iran war expands",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/eb0cd740-e45d-4dd7-ab9a-6f6643bb32ee?syn-25a6b1a6=1",
-      "published_at": "2026-07-19T14:00:02+00:00",
+      "url": "https://www.ft.com/content/7aa5493a-a2ba-4824-b3d0-03b9309ae3ea?syn-25a6b1a6=1",
+      "published_at": "2026-07-19T22:31:19+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "National capitals refuse to support measures that could hurt big companies",
+      "summary": "A service member died in a ‘controlled detonation’ of a drone after two troops were killed in Jordan with another missing",
       "tags": []
     },
     {
@@ -170,6 +170,18 @@
       "tags": []
     },
     {
+      "id": "5942492a5936",
+      "title": "EU faces crumbling support for new Russia sanctions",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/eb0cd740-e45d-4dd7-ab9a-6f6643bb32ee?syn-25a6b1a6=1",
+      "published_at": "2026-07-19T14:00:02+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "National capitals refuse to support measures that could hurt big companies",
+      "tags": []
+    },
+    {
       "id": "198bb3ff0225",
       "title": "US day traders flock to ‘the most dangerous product in crypto’",
       "source": "International homepage",
@@ -179,6 +191,18 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Trump administration has opened American markets to highly leveraged perpetual futures",
+      "tags": []
+    },
+    {
+      "id": "eddb46aae02a",
+      "title": "Spain beat Argentina to win World Cup for second time",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/424d3c10-0068-4005-ad9b-d15daa70b842?syn-25a6b1a6=1",
+      "published_at": "2026-07-19T23:35:31+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Extra-time winner from Ferran Torres is decisive moment in tight but completely one-sided final",
       "tags": []
     },
     {
@@ -194,27 +218,15 @@
       "tags": []
     },
     {
-      "id": "90aa551464d6",
-      "title": "Andy Burnham plans beefed-up control centre in Downing Street",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/1370d477-fc16-408a-b9ed-d9c19c076ca3?syn-25a6b1a6=1",
-      "published_at": "2026-07-19T20:00:04+00:00",
+      "id": "4b20aa92a202",
+      "title": "Will the US get CLARITY this week? Bitcoin’s new $80K target: Hodler’s Digest, July 19",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/magazine/will-the-us-get-finally-clarity-this-week-bitcoin-80k-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-07-20T00:12:06+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Incoming prime minister wants to be less reliant on ‘imperial’ Treasury as he bids to restore confidence in government",
-      "tags": []
-    },
-    {
-      "id": "7b13eb460209",
-      "title": "Burnham to maintain ban on North Sea exploration licences",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/d9631aae-1100-43e0-a09a-e49f5c21f896?syn-25a6b1a6=1",
-      "published_at": "2026-07-19T15:37:26+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Decision criticised by oil and gas industry as well as trade union",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Will the US get CLARITY this week? Bitcoin’s new $80K target: Hodler’s Digest, July 19\" class=\"type:primaryImage\" src=\"https://s",
       "tags": []
     },
     {
@@ -323,18 +335,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Consensys unknowingly outsourced developer work to North Korean\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/med",
-      "tags": []
-    },
-    {
-      "id": "9fb62ce123ee",
-      "title": "Crypto Biz: When dollars disappear, stablecoins step in",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/crypto-biz-when-dollars-disappear-stablecoins-step-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-07-17T19:23:53+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: When dollars disappear, stablecoins step in\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/artic",
       "tags": []
     },
     {
@@ -458,6 +458,54 @@
       "tags": []
     },
     {
+      "id": "b08832db870f",
+      "title": "CG Oncology: Priced To Perfection On Future Pipeline Success",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4923331-cg-oncology-priced-to-perfection-on-future-pipeline-success?source=feed_all_articles",
+      "published_at": "2026-07-20T00:26:41+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "CG Oncology: Priced To Perfection On Future Pipeline Success",
+      "tags": []
+    },
+    {
+      "id": "45a14ecec5df",
+      "title": "Titan International: Industry Weakness Offsets A Cheap Valuation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4923329-titan-international-industry-weakness-offsets-cheap-valuation?source=feed_all_articles",
+      "published_at": "2026-07-20T00:03:47+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Titan International: Industry Weakness Offsets A Cheap Valuation",
+      "tags": []
+    },
+    {
+      "id": "098c8705561a",
+      "title": "Globant: A Strong Way To Play The 'Software Isn't Dead' Case",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4923328-globant-stock-strong-way-to-play-the-software-isnt-dead-case?source=feed_all_articles",
+      "published_at": "2026-07-19T23:56:21+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Globant: A Strong Way To Play The 'Software Isn't Dead' Case",
+      "tags": []
+    },
+    {
+      "id": "1e42b531f6be",
+      "title": "Microsoft Earnings: The One Key Commentary I Am Looking For",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4923326-microsoft-earnings-the-one-key-commentary-i-am-looking-for?source=feed_all_articles",
+      "published_at": "2026-07-19T23:52:04+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Microsoft Earnings: The One Key Commentary I Am Looking For",
+      "tags": []
+    },
+    {
       "id": "5c0bd1c66bcf",
       "title": "BNY Mellon Appreciation Fund Q2 2026 Commentary",
       "source": "All Articles on Seeking Alpha",
@@ -527,54 +575,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Third Avenue Value Fund Q2 2026 Shareholder Letter",
-      "tags": []
-    },
-    {
-      "id": "a9d37d021e97",
-      "title": "BTAL: Market Neutral Vs Recent Market Shocks",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4923320-btal-etf-market-neutral-vs-recent-market-shocks?source=feed_all_articles",
-      "published_at": "2026-07-19T17:55:50+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "BTAL: Market Neutral Vs Recent Market Shocks",
-      "tags": []
-    },
-    {
-      "id": "0bb37cf1d0ce",
-      "title": "NZS Capital Q2 2026 Shareholder Letter",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4923319-nzs-capital-q2-2026-shareholder-letter?source=feed_all_articles",
-      "published_at": "2026-07-19T17:45:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "NZS Capital Q2 2026 Shareholder Letter",
-      "tags": []
-    },
-    {
-      "id": "f3bfb152675e",
-      "title": "Tracking Ron Baron's BAMCO Portfolio - Q1 2026 Update",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4923318-tracking-ron-barons-bamco-portfolio-q1-2026-update?source=feed_all_articles",
-      "published_at": "2026-07-19T17:43:17+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Tracking Ron Baron's BAMCO Portfolio - Q1 2026 Update",
-      "tags": []
-    },
-    {
-      "id": "ca36bbe21290",
-      "title": "RSPD: Decent Quality, But Growth Concerns Limit Upside",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4923317-rspd-decent-quality-but-growth-concerns-limit-upside?source=feed_all_articles",
-      "published_at": "2026-07-19T17:34:56+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "RSPD: Decent Quality, But Growth Concerns Limit Upside",
       "tags": []
     }
   ]
