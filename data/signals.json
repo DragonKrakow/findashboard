@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T16:31:37.790391+00:00",
+  "generated_at": "2026-07-20T20:31:05.677581+00:00",
   "portfolio_summary": {
     "total_assets": 10,
     "buy_count": 3,
@@ -13,8 +13,8 @@
       "name": "NVIDIA Corporation",
       "sector": "Technology",
       "type": "stock",
-      "price": 205.185,
-      "change_pct": 1.171,
+      "price": 203.28,
+      "change_pct": 0.2317,
       "signal": "buy",
       "note": "Record earnings beat; data-centre momentum intact",
       "sparkline": [
@@ -31,7 +31,7 @@
         212.5,
         207.4,
         202.81,
-        205.185
+        203.28
       ]
     },
     {
@@ -39,8 +39,8 @@
       "name": "Apple Inc.",
       "sector": "Technology",
       "type": "stock",
-      "price": 324.67,
-      "change_pct": -2.7177,
+      "price": 326.59,
+      "change_pct": -2.1424,
       "signal": "hold",
       "note": "WWDC catalyst expected in June; AI Siri could re-rate",
       "sparkline": [
@@ -57,7 +57,7 @@
         327.5,
         333.26,
         333.74,
-        324.67
+        326.59
       ]
     },
     {
@@ -65,8 +65,8 @@
       "name": "Microsoft Corporation",
       "sector": "Technology",
       "type": "stock",
-      "price": 402.31,
-      "change_pct": 2.1558,
+      "price": 402.29,
+      "change_pct": 2.1507,
       "signal": "buy",
       "note": "Azure AI growth accelerating; Copilot adoption exceeding estimates",
       "sparkline": [
@@ -83,7 +83,7 @@
         395.63,
         401.1,
         393.82,
-        402.31
+        402.29
       ]
     },
     {
@@ -91,8 +91,8 @@
       "name": "S&P 500 ETF",
       "sector": "Broad Market",
       "type": "etf",
-      "price": 746.37,
-      "change_pct": 0.4144,
+      "price": 742.09,
+      "change_pct": -0.1614,
       "signal": "hold",
       "note": "Breadth improving; watch 530 resistance",
       "sparkline": [
@@ -109,7 +109,7 @@
         754.81,
         750.72,
         743.29,
-        746.37
+        742.09
       ]
     },
     {
@@ -117,8 +117,8 @@
       "name": "Bitcoin",
       "sector": "Crypto",
       "type": "crypto",
-      "price": 65409.5195,
-      "change_pct": 1.111,
+      "price": 65232.9297,
+      "change_pct": 0.838,
       "signal": "watch",
       "note": "Above $90k resistance; ETF inflows strong",
       "sparkline": [
@@ -135,7 +135,7 @@
         63899.4609,
         64796.6016,
         64690.8047,
-        65409.5195
+        65232.9297
       ]
     },
     {
@@ -143,8 +143,8 @@
       "name": "Ethereum",
       "sector": "Crypto",
       "type": "crypto",
-      "price": 1898.8,
-      "change_pct": 1.4583,
+      "price": 1900.1,
+      "change_pct": 1.5277,
       "signal": "hold",
       "note": "ETF decision in Q3; staking yield at 4.2%",
       "sparkline": [
@@ -161,7 +161,7 @@
         1840.9882,
         1861.3921,
         1871.5085,
-        1898.8
+        1900.1
       ]
     },
     {
@@ -169,8 +169,8 @@
       "name": "Gold ETF",
       "sector": "Commodities",
       "type": "etf",
-      "price": 367.98,
-      "change_pct": -0.1167,
+      "price": 367.6,
+      "change_pct": -0.2199,
       "signal": "buy",
       "note": "Safe-haven demand rising on macro uncertainty",
       "sparkline": [
@@ -187,7 +187,7 @@
         372.35,
         364.96,
         368.41,
-        367.98
+        367.6
       ]
     },
     {
@@ -195,8 +195,8 @@
       "name": "20yr+ Treasury ETF",
       "sector": "Fixed Income",
       "type": "etf",
-      "price": 83.93,
-      "change_pct": -0.6981,
+      "price": 83.89,
+      "change_pct": -0.7454,
       "signal": "watch",
       "note": "Rate cut expectations lifting long bonds",
       "sparkline": [
@@ -213,7 +213,7 @@
         84.24,
         84.21,
         84.52,
-        83.93
+        83.89
       ]
     },
     {
@@ -221,8 +221,8 @@
       "name": "Exxon Mobil",
       "sector": "Energy",
       "type": "stock",
-      "price": 148.7,
-      "change_pct": 0.9093,
+      "price": 148.36,
+      "change_pct": 0.6786,
       "signal": "sell",
       "note": "OPEC+ supply boost pressures energy names",
       "sparkline": [
@@ -239,7 +239,7 @@
         144.51,
         145.95,
         147.36,
-        148.7
+        148.36
       ]
     },
     {
