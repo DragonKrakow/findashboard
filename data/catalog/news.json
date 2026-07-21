@@ -1,17 +1,62 @@
 {
-  "generated_at": "2026-07-20T06:31:57Z",
-  "snapshot_date": "2026-07-20",
+  "generated_at": "2026-07-21T06:19:26Z",
+  "snapshot_date": "2026-07-21",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Oil prices surge, stock futures flat as fighting between U.S. and Iran intensifies",
-      "url": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
+      "title": "U.S. hits Canada with stiff new tariffs, escalating trade tensions",
+      "url": "https://www.marketwatch.com/story/u-s-hits-canada-with-stiff-new-tariffs-escalating-trade-tensions-4a97065f?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-20T00:16:00+00:00",
-      "summary": "Oil prices rose while U.S stock-index futures were little changed on Sunday, amid an escalation of fighting in the Middle East and as investors await key tech earnings this week.",
+      "published_at": "2026-07-21T00:13:00+00:00",
+      "summary": "The Trump administration on Monday said it would slap 50% tariffs on some goods imported from Canada, in an effort to end what it sees as discriminatory trade practices by Ottawa against the U.S. automobile, dairy and alcohol industries.",
       "sentiment": "bearish",
-      "sentiment_score": -0.5574,
+      "sentiment_score": -0.2732,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Why are gasoline prices rising faster than oil prices? Blame it on the ‘crack.’",
+      "url": "https://www.marketwatch.com/story/why-are-gasoline-prices-rising-faster-than-oil-prices-blame-it-on-the-crack-22b454e7?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-20T22:55:00+00:00",
+      "summary": "The spread between the cost of barrels of gasoline and crude oil — known as the “crack spread” — has widened sharply.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.7269,
+      "tags": [
+        "Oil"
+      ],
+      "signal": "watch",
+      "category": "energy",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "I will claim Social Security early. Why do so few people talk about the elephant in the room?",
+      "url": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-20T22:30:00+00:00",
+      "summary": "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6597,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
+      "url": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-20T22:27:04+00:00",
+      "summary": "<p>Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy products</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> is imposing 50% tariffs on most <a href=\"https://www.theguardian.com/world/canada\">Canadian</a> goods in response to the country retaliating against previous US tariffs, the White House announced Monday, declaring Canada has unfairly discriminated against American cars, alcohol and dairy products.</p><p>The tariffs will hit a wide range of products, the White House said, including wine, hockey sticks and cement. They also include goods previously protected from import taxes under the United States-Mexico-Canada (USMCA) agreement.</p> <a href=\"https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.4767,
       "tags": [
         "Oil",
         "AI"
@@ -21,13 +66,59 @@
       "source_repo": "financenews"
     },
     {
-      "title": "World Cup-champion Spain just won $50 million — and the IRS gets a cut",
-      "url": "https://www.marketwatch.com/story/the-world-cupwinning-side-will-make-50-million-and-the-irs-gets-a-cut-10f0780b?mod=mw_rss_topstories",
+      "title": "Why cheap Chinese AI models could actually be a boon for Nvidia, Micron and other chip stocks",
+      "url": "https://www.marketwatch.com/story/why-cheap-chinese-ai-models-could-actually-be-a-boon-for-nvidia-micron-and-other-chip-stocks-8dd4baba?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-19T22:29:00+00:00",
-      "summary": "“It doesn’t make a difference who wins the game. The IRS will get a piece.”",
+      "published_at": "2026-07-20T22:21:00+00:00",
+      "summary": "Moonshot AI’s Kimi K3 could encourage a surge in enterprise workloads and provide a long-term tailwind to chip demand.",
       "sentiment": "bullish",
-      "sentiment_score": 0.743,
+      "sentiment_score": 0.4215,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Americans are skipping lettuce and salads as investigation into cyclospora outbreak continues",
+      "url": "https://www.marketwatch.com/story/americans-are-skipping-lettuce-and-salads-as-investigation-into-cyclospora-outbreak-continues-562499b6?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-20T21:44:00+00:00",
+      "summary": "Shares of salad chains like Cava, Chipotle and Sweetgreen closed lower on Monday.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.3612,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Global oil prices settle at one-month high despite new Iran ceasefire proposal, as blockade on Saudi Arabia by Yemen’s Houthis keeps market on edge",
+      "url": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-20T21:11:00+00:00",
+      "summary": "Oil prices settled at one-month highs in volatile trading on Monday as traders weighed escalating geopolitical tensions following a fresh barrage of strikes across the Middle East over the weekend against reports of a new ceasefire proposal between the U.S. and Iran.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.4404,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Wall Street’s AI divide: Inside the bull and bear cases for what comes next for the stock market",
+      "url": "https://www.marketwatch.com/story/wall-streets-ai-divide-inside-the-bull-and-bear-cases-for-what-comes-next-for-the-stock-market-3fcab8db?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-20T20:55:00+00:00",
+      "summary": "Three years into the AI trade, Wall Street is no closer to agreeing about whether it’s a bubble, how much longer it can keep going or what might ultimately end it.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0516,
       "tags": [
         "AI"
       ],
@@ -43,36 +134,6 @@
       "summary": "<p>Communal spaces where people can share big moments are a vital part of our shared life</p><p>“People can’t get enough of football fever,” a <a href=\"https://www.theguardian.com/football/2026/jul/13/pub-landlords-lifeline-england-world-cup-heroes\">pub landlord, Sam Hale,</a> told the Guardian last week. The World Cup provided the UK’s struggling hospitality industry with a much-needed boost, with <a href=\"https://www.theguardian.com/business/2026/jul/14/world-cup-sunshine-uk-consumers-splash-out-on-beer-and-online-shopping\">pubs benefiting</a> from extended opening hours and one estimate suggesting that an extra 5.5m pints were sold in the group stages alone. The tournament lifted customers’ spirits too – even if it ended in disappointment for England and Scotland fans – as millions of people relished the communal spectacle.</p><p>These sociable few weeks could not have come at a better time for pubs, which are <a href=\"https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/07/now-the-village-is-dead-its-awful-why-was-one-of-britains-best-pubs-forced-to-close\">closing at a rate of two a day</a>, with about 2,000 gone since 2020. This reflects a long-term trend away from going out, combined with pressures from rising costs including energy bills, business rates, wages and national insurance contributions. The hope in the sector, and among its advocates, is that the temporary uplift of the past few weeks will focus minds on the importance of venues, including pubs, in promoting social cohesion and “<a href=\"https://www.theguardian.com/commentisfree/2026/jul/17/andy-burnham-world-cup-outdoor-viewing-parties-fan-zone-british\">watercooler moments</a>”.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jul/19/the-guardian-view-on-pubs-football-gave-them-a-boost-now-they-need-another\">Continue reading...</a>",
       "sentiment": "bullish",
       "sentiment_score": 0.9393,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Is there a deadline to claim the $1,000 ‘Trump account’ contribution for my kid?",
-      "url": "https://www.marketwatch.com/story/is-there-a-deadline-to-claim-the-1-000-trump-account-contribution-for-my-kid-1b70141c?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-19T15:43:00+00:00",
-      "summary": "Some children who don’t qualify for the government contribution may be eligible for an initial $250.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Can former employers withhold money from your 401(k) when you’re laid off?",
-      "url": "https://www.marketwatch.com/story/can-former-employers-withhold-money-from-your-401-k-when-youre-laid-off-5ceb4d4e?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-19T14:45:00+00:00",
-      "summary": "There are two main ways to move money from your workplace retirement plan when you leave your job. One can cost you.",
-      "sentiment": "neutral",
-      "sentiment_score": -0.0516,
       "tags": [
         "AI"
       ],
@@ -137,36 +198,6 @@
       "sentiment_score": -0.2023,
       "tags": [
         "Election",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "‘Respect is important’: If my financial adviser said, ‘Hey,’ my wife and I would walk out. Where do you draw the line?",
-      "url": "https://www.marketwatch.com/story/respect-is-important-if-my-financial-adviser-said-hey-my-wife-and-i-would-walk-out-where-do-you-draw-the-line-5fbf5879?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-18T19:16:00+00:00",
-      "summary": "“I met with a financial representative who was not aware that AT&amp;T was the shortened form of American Telephone and Telegraph.”",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "‘They are relentless’: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
-      "url": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-18T19:00:00+00:00",
-      "summary": "“I’ve just been ignoring their attempts.”",
-      "sentiment": "neutral",
-      "sentiment_score": -0.0258,
-      "tags": [
         "AI"
       ],
       "signal": "watch",
@@ -433,37 +464,6 @@
       ],
       "signal": "watch",
       "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "AI may be the toughest challenge Anthony Albanese faces this term. Guardrails are urgently needed | Peter Lewis",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/15/australia-ai-challenge-anthony-albanese",
-      "source": "The Guardian Economics",
-      "published_at": "2026-07-15T02:53:48+00:00",
-      "summary": "<p>Coherent decision-making and internal accountability are critical to meeting this manic moment</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/jul/14/anthony-albanese-promises-fast-track-approvals-for-datacentres-to-shore-up-ai-investment\">Anthony Albanese promises fast-track approvals for datacentres to shore up AI investment</a></p></li></ul><p>The University of Sydney was the natural setting for Anthony Albanese to lay out his vision for how Australia should confront the profound economic and social challenges posed by so-called artificial intelligence technology.</p><p>His time around the jacaranda and sandstone in the early 80s was a seminal marker in the future PM’s development, not as a scholar but as a rabble-rousing organiser honing skills that would make him the political grandmaster of his generation.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jul/15/australia-ai-challenge-anthony-albanese\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5023,
-      "tags": [
-        "AI",
-        "Artificial Intelligence"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
-      "url": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-14T17:29:07+00:00",
-      "summary": "Warsh pledged Tuesday to \"get monetary policy right\" and defeat the inflation that has bedeviled the central bank for the past five years.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.4588,
-      "tags": [
-        "Fed"
-      ],
-      "signal": "watch",
-      "category": "macro",
       "source_repo": "financenews"
     }
   ]
