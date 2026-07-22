@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T20:28:22.521706+00:00",
+  "generated_at": "2026-07-22T00:33:16.609828+00:00",
   "portfolio_summary": {
     "total_assets": 10,
     "buy_count": 3,
@@ -91,8 +91,8 @@
       "name": "S&P 500 ETF",
       "sector": "Broad Market",
       "type": "etf",
-      "price": 748.32,
-      "change_pct": 0.8395,
+      "price": 748.28,
+      "change_pct": 0.8341,
       "signal": "hold",
       "note": "Breadth improving; watch 530 resistance",
       "sparkline": [
@@ -109,7 +109,7 @@
         750.72,
         743.29,
         742.09,
-        748.32
+        748.28
       ]
     },
     {
@@ -117,8 +117,8 @@
       "name": "Bitcoin",
       "sector": "Crypto",
       "type": "crypto",
-      "price": 66363.2266,
-      "change_pct": 1.7372,
+      "price": 66622.2031,
+      "change_pct": 2.1343,
       "signal": "watch",
       "note": "Above $90k resistance; ETF inflows strong",
       "sparkline": [
@@ -135,7 +135,7 @@
         64796.6016,
         64690.8047,
         65230.0273,
-        66363.2266
+        66622.2031
       ]
     },
     {
@@ -143,8 +143,8 @@
       "name": "Ethereum",
       "sector": "Crypto",
       "type": "crypto",
-      "price": 1921.89,
-      "change_pct": 0.9524,
+      "price": 1936.39,
+      "change_pct": 1.714,
       "signal": "hold",
       "note": "ETF decision in Q3; staking yield at 4.2%",
       "sparkline": [
@@ -161,7 +161,7 @@
         1861.3921,
         1871.5085,
         1903.7589,
-        1921.89
+        1936.39
       ]
     },
     {
@@ -169,8 +169,8 @@
       "name": "Gold ETF",
       "sector": "Commodities",
       "type": "etf",
-      "price": 374.8,
-      "change_pct": 1.9586,
+      "price": 374.81,
+      "change_pct": 1.9614,
       "signal": "buy",
       "note": "Safe-haven demand rising on macro uncertainty",
       "sparkline": [
@@ -187,7 +187,7 @@
         364.96,
         368.41,
         367.6,
-        374.8
+        374.81
       ]
     },
     {
