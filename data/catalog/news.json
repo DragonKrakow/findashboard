@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-21T06:19:26Z",
-  "snapshot_date": "2026-07-21",
+  "generated_at": "2026-07-22T06:18:43Z",
+  "snapshot_date": "2026-07-22",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "U.S. hits Canada with stiff new tariffs, escalating trade tensions",
-      "url": "https://www.marketwatch.com/story/u-s-hits-canada-with-stiff-new-tariffs-escalating-trade-tensions-4a97065f?mod=mw_rss_topstories",
+      "title": "Super Micro’s stock soars as its margins unexpectedly double",
+      "url": "https://www.marketwatch.com/story/super-micros-stock-soars-as-its-margins-unexpectedly-double-8aa83784?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-21T00:13:00+00:00",
-      "summary": "The Trump administration on Monday said it would slap 50% tariffs on some goods imported from Canada, in an effort to end what it sees as discriminatory trade practices by Ottawa against the U.S. automobile, dairy and alcohol industries.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.2732,
+      "published_at": "2026-07-22T00:33:00+00:00",
+      "summary": "The AI server maker now expects gross margins to be in the range of 15% to 17% thanks to an improving customer and product mix",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7579,
       "tags": [
         "AI"
       ],
@@ -20,13 +20,44 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Why are gasoline prices rising faster than oil prices? Blame it on the ‘crack.’",
-      "url": "https://www.marketwatch.com/story/why-are-gasoline-prices-rising-faster-than-oil-prices-blame-it-on-the-crack-22b454e7?mod=mw_rss_topstories",
+      "title": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
+      "url": "https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-07-21T20:51:34+00:00",
+      "summary": "Goldman Sachs is launching a new alternative investments platform aimed at giving wealthy clients and family offices direct stakes in private companies.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8625,
+      "tags": [
+        "Gold",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
+      "url": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-20T22:55:00+00:00",
-      "summary": "The spread between the cost of barrels of gasoline and crude oil — known as the “crack spread” — has widened sharply.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.7269,
+      "published_at": "2026-07-21T20:30:00+00:00",
+      "summary": "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7964,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Why energy stocks still look so cheap, even after their big rally this month",
+      "url": "https://www.marketwatch.com/story/why-energy-stocks-still-look-so-cheap-even-after-their-big-rally-this-month-7f1a298b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-21T20:27:00+00:00",
+      "summary": "Energy stocks are having a big month as oil prices surge on Iran war fears — but it’s not solely the conflict in the Middle East that makes the sector appear attractive.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6178,
       "tags": [
         "Oil"
       ],
@@ -35,13 +66,166 @@
       "source_repo": "financenews"
     },
     {
-      "title": "I will claim Social Security early. Why do so few people talk about the elephant in the room?",
-      "url": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
+      "title": "Why Micron and other chip stocks are bouncing back so strongly",
+      "url": "https://www.marketwatch.com/story/why-micron-and-other-chip-stocks-are-bouncing-back-so-strongly-3f6d3cee?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-20T22:30:00+00:00",
-      "summary": "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”",
+      "published_at": "2026-07-21T20:12:00+00:00",
+      "summary": "The recent chip sell-off presented a buying opportunity, and open-source AI models should drive more memory demand, analysts say",
       "sentiment": "bullish",
-      "sentiment_score": 0.6597,
+      "sentiment_score": 0.5807,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Forget Nvidia. These 5 S&P 500 stocks are quietly going all in on AI.",
+      "url": "https://www.marketwatch.com/story/forget-nvidia-these-5-s-p-500-stocks-are-quietly-going-all-in-on-ai-68642f84?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-21T20:09:00+00:00",
+      "summary": "The “Mag Seven” has become the “Bag Seven.” Sharp tech investors are looking elsewhere.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.2263,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Bets against SpaceX grow to 32% of float as Elon Musk warns short sellers won't survive",
+      "url": "https://www.cnbc.com/2026/07/21/bets-against-spacex-grow-to-32percent-of-float-as-elon-musk-warns-short-sellers-wont-survive.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-07-21T20:01:39+00:00",
+      "summary": "About 206 million SpaceX shares are now sold short, representing roughly 32% of the company's publicly tradable float, according to S3.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.2023,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Pro stock pickers cannot beat simple math — war in the Middle East is proving it",
+      "url": "https://www.marketwatch.com/story/if-timing-the-stock-market-were-easy-the-iran-war-would-have-proven-it-its-done-the-opposite-ac090ad3?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-21T19:46:00+00:00",
+      "summary": "Active stock pickers almost always lose against the broad market. They can’t beat simple math.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.5606,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "RBA now twice as likely to hike interest rates as US-Iran war drives fuel prices higher",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/22/rba-interest-rate-rise-likely-us-iran-war-markets-forecast",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-21T15:00:51+00:00",
+      "summary": "<p>Experts warn global energy market at a ‘critical juncture’ with escalating Middle East crisis expected to further drag on a slowing Australian economy</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jul/22/australia-news-live-penny-wong-asean-pacific-missile-pauline-hanson-one-nation-labor-conference-tax-anthony-albanese-antisemitism-royal-commission-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The likelihood of a Reserve Bank interest rate hike has doubled, according to market forecasts, as the escalating Middle East crisis once again drives fuel prices higher amid dwindling global oil reserves.</p><p>The <a href=\"https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices\">total breakdown in the fragile ceasefire</a> between the US and Iran has sent the international Brent crude benchmark surging by 23% over the past two weeks and back within reach of $US90 a barrel.</p> <a href=\"https://www.theguardian.com/australia-news/2026/jul/22/rba-interest-rate-rise-likely-us-iran-war-markets-forecast\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.9054,
+      "tags": [
+        "Interest Rates",
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected",
+      "url": "https://www.cnbc.com/2026/07/21/iran-war-economy-markets-trump.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-07-21T14:37:08+00:00",
+      "summary": "Investors and economists are deliberating what the latest exchange in hostilities will mean for the broader economy.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.8225,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Oil price rises above $90 as US and Iran exchange fire and Houthis threaten naval blockade in Saudi Arabia - as it happened",
+      "url": "https://www.theguardian.com/global/live/2026/jul/21/burnham-cuts-vat-electricity-bills-uk-borrowing-debt-economy-news-latest",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-21T14:07:21+00:00",
+      "summary": "<p>Rolling coverage of the latest economic and financial news</p><p>More on the cost of living: new figures show that UK grocery inflation eased in the four weeks to 12th July to 2.6%, its lowest rate since December 2024.</p><p>It marks the fifth consecutive month of slowing price rises, <strong>Worldpanel by Numerator </strong>found.</p><p>Easing price rises will come as welcome news to shoppers, but the annual bill tells a fuller story. The average household spent £5,530 on groceries over the past twelve months to July, up £156 on the same period last year - a reminder that even as the rate of inflation cools, the cumulative cost of the weekly shop keeps climbing.</p><p>L&amp;VW agrees that there is an opportunity to enhance the way local government, regulators and Thames Water work together, granting greater public controls on critical business issues to improve delivery of complex, essential infrastructure projects, and demonstrate shared accountability.</p><p>The consortium is willing to make significant new commitments to grant greater controls and oversight to ministers, implemented through a ‘golden share’.</p> <a href=\"https://www.theguardian.com/global/live/2026/jul/21/burnham-cuts-vat-electricity-bills-uk-borrowing-debt-economy-news-latest\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.9746,
+      "tags": [
+        "Oil",
+        "Gold"
+      ],
+      "signal": "watch",
+      "category": "energy",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "UK borrows less than expected as Healey vows to ‘buffer against uncertainty’",
+      "url": "https://www.theguardian.com/business/2026/jul/21/uk-borrowing-june-andy-burnham-ons-vat-electricity-bills",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-21T09:49:45+00:00",
+      "summary": "<p>Figure of £16bn from ONS comes after Andy Burnham revealed plans to cut VAT on electricity bills</p><ul><li><p><a href=\"https://www.theguardian.com/global/live/2026/jul/21/burnham-cuts-vat-electricity-bills-uk-borrowing-debt-economy-news-latest\">Business live – latest updates</a></p></li></ul><p>The UK government borrowed less than expected in June, in a boost for Andy Burnham as he set out plans to <a href=\"https://www.theguardian.com/politics/2026/jul/21/burnham-announces-plans-to-cut-vat-on-electricity-bills-as-first-cost-of-living-move\">cut VAT on household electricity bills</a> and promised a new direction for the British economy.</p><p>The <a href=\"https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/june2026\">Office for National Statistics</a> (ONS) said public sector net borrowing – the difference between government spending and income – was £16bn last month, £7.9bn less than in June 2025.</p> <a href=\"https://www.theguardian.com/business/2026/jul/21/uk-borrowing-june-andy-burnham-ons-vat-electricity-bills\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.4767,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "UK employers cut job vacancies as Burnham aims to lift living standards",
+      "url": "https://www.theguardian.com/business/2026/jul/21/uk-employers-job-vacancies-andy-burnham-unemployment",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-21T08:16:14+00:00",
+      "summary": "<p>Unemployment holds steady at 4.9%, underlining the challenge facing the new prime minister</p><ul><li><p><a href=\"https://www.theguardian.com/global/live/2026/jul/21/burnham-cuts-vat-electricity-bills-uk-borrowing-debt-economy-news-latest\">Business live – latest updates</a></p></li></ul><p>Employers cut the number of job vacancies in June, according to official figures that highlight the UK’s “fragile” economic outlook amid the conflict in the Middle East.</p><p>Job vacancies fell to 712,000 – almost half the level in 2022 – as employers put off hiring new staff in the three months to May, the Office for National Statistics said.</p> <a href=\"https://www.theguardian.com/business/2026/jul/21/uk-employers-job-vacancies-andy-burnham-unemployment\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.3612,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "JP Morgan boss warns of ‘consequences’ if Burnham taxes banks",
+      "url": "https://www.theguardian.com/business/2026/jul/21/jp-morgan-andy-burnham-tax-banks-jamie-dimon",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-21T07:42:58+00:00",
+      "summary": "<p>Higher taxes on sector could threaten plan for £3bn headquarters in London, says Jamie Dimon</p><ul><li><p><a href=\"https://www.theguardian.com/global/live/2026/jul/21/burnham-cuts-vat-electricity-bills-uk-borrowing-debt-economy-news-latest\">Business live – latest updates</a></p></li></ul><p>The boss of JP Morgan, Jamie Dimon, has warned Andy Burnham against raising tax charges on banks, suggesting it could threaten plans to build its £3bn headquarters in London and drive investment away from Britain.</p><p>The chief executive of the world’s biggest bank, who has a <a href=\"https://www.theguardian.com/business/2026/may/12/jamie-dimon-jp-morgan-could-scrap-new-3bn-hq-if-starmer-is-replaced-by-pm-hostile-to-banks\">track record of criticising the UK’s bank tax surcharge</a>, does not want to see the UK’s new prime minister targeting the banking industry to raise extra revenue.</p> <a href=\"https://www.theguardian.com/business/2026/jul/21/jp-morgan-andy-burnham-tax-banks-jamie-dimon\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.7688,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Wealth tax on UK’s super-rich could raise £10bn a year, Andy Burnham told",
+      "url": "https://www.theguardian.com/business/2026/jul/21/uk-wealth-tax-super-rich-andy-burnham",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-21T05:00:01+00:00",
+      "summary": "<p>New prime minister urged to introduce 2% minimum charge on households with more than £100m in wealth</p><p>A wealth tax on the UK’s super-rich households could raise £10bn a year, according to academics who urged Andy Burnham to include the measure in his plans to “make tax fairer” and pay for better public services.</p><p>The sum could be raised through a 2% minimum charge on households with more than £100m in wealth and would affect fewer than 1,000 of the richest UK households, according to the study by <a href=\"https://www.theguardian.com/profile/gabriel-zucman\">Gabriel Zucman</a>, a professor of economics at the Paris School of Economics, and Ben Tippet, a lecturer in economics and wealth inequality at King’s College London.</p> <a href=\"https://www.theguardian.com/business/2026/jul/21/uk-wealth-tax-super-rich-andy-burnham\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.9565,
       "tags": [
         "AI"
       ],
@@ -53,73 +237,12 @@
       "title": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
       "url": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs",
       "source": "The Guardian Economics",
-      "published_at": "2026-07-20T22:27:04+00:00",
-      "summary": "<p>Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy products</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> is imposing 50% tariffs on most <a href=\"https://www.theguardian.com/world/canada\">Canadian</a> goods in response to the country retaliating against previous US tariffs, the White House announced Monday, declaring Canada has unfairly discriminated against American cars, alcohol and dairy products.</p><p>The tariffs will hit a wide range of products, the White House said, including wine, hockey sticks and cement. They also include goods previously protected from import taxes under the United States-Mexico-Canada (USMCA) agreement.</p> <a href=\"https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs\">Continue reading...</a>",
+      "published_at": "2026-07-21T02:29:47+00:00",
+      "summary": "<p>Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy products</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> is imposing 50% tariffs on most <a href=\"https://www.theguardian.com/world/canada\">Canadian</a> goods in response to the country retaliating against previous US tariffs, the White House announced on Monday, declaring Canada has unfairly discriminated against American cars, alcohol and dairy products.</p><p>The tariffs will hit a wide range of products, the White House said, including wine, hockey sticks and cement. They also include goods previously protected from import taxes under the United States-Mexico-Canada (USMCA) agreement.</p> <a href=\"https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs\">Continue reading...</a>",
       "sentiment": "bullish",
       "sentiment_score": 0.4767,
       "tags": [
         "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Why cheap Chinese AI models could actually be a boon for Nvidia, Micron and other chip stocks",
-      "url": "https://www.marketwatch.com/story/why-cheap-chinese-ai-models-could-actually-be-a-boon-for-nvidia-micron-and-other-chip-stocks-8dd4baba?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-20T22:21:00+00:00",
-      "summary": "Moonshot AI’s Kimi K3 could encourage a surge in enterprise workloads and provide a long-term tailwind to chip demand.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.4215,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Americans are skipping lettuce and salads as investigation into cyclospora outbreak continues",
-      "url": "https://www.marketwatch.com/story/americans-are-skipping-lettuce-and-salads-as-investigation-into-cyclospora-outbreak-continues-562499b6?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-20T21:44:00+00:00",
-      "summary": "Shares of salad chains like Cava, Chipotle and Sweetgreen closed lower on Monday.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3612,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Global oil prices settle at one-month high despite new Iran ceasefire proposal, as blockade on Saudi Arabia by Yemen’s Houthis keeps market on edge",
-      "url": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-20T21:11:00+00:00",
-      "summary": "Oil prices settled at one-month highs in volatile trading on Monday as traders weighed escalating geopolitical tensions following a fresh barrage of strikes across the Middle East over the weekend against reports of a new ceasefire proposal between the U.S. and Iran.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.4404,
-      "tags": [
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Wall Street’s AI divide: Inside the bull and bear cases for what comes next for the stock market",
-      "url": "https://www.marketwatch.com/story/wall-streets-ai-divide-inside-the-bull-and-bear-cases-for-what-comes-next-for-the-stock-market-3fcab8db?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-20T20:55:00+00:00",
-      "summary": "Three years into the AI trade, Wall Street is no closer to agreeing about whether it’s a bubble, how much longer it can keep going or what might ultimately end it.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0516,
-      "tags": [
         "AI"
       ],
       "signal": "watch",
@@ -335,130 +458,6 @@
       "summary": "<p>Rise in GDP follows a 0.1% decline in April, figures from the Office for National Statistics show</p><p>The UK economy returned to growth in May, despite the impact of the Iran war on energy costs, official figures show.</p><p>The Office for National Statistics said GDP rose 0.1% in May, in line with economists’ forecasts, <a href=\"https://www.theguardian.com/business/2026/jun/12/uk-economy-gdp-shrank-april-iran-war-held-back-growth#:~:text=UK%20economy%20shrank%20by%200.1,growth%20(GDP)%20%7C%20The%20Guardian\">after a 0.1% decline in April</a>.</p> <a href=\"https://www.theguardian.com/business/2026/jul/16/uk-economy-grew-gdp-despite-iran-war\">Continue reading...</a>",
       "sentiment": "bearish",
       "sentiment_score": -0.6249,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates",
-      "url": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-15T22:05:14+00:00",
-      "summary": "As part of congressionally mandated Capitol Hill appearances for the central bank leader, Warsh spoke Tuesday to the House financial services committee.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.4588,
-      "tags": [
-        "Interest Rates",
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
-      "url": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-15T18:45:53+00:00",
-      "summary": "Goldman Sachs and JPMorgan showed that Wall Street is a major beneficiary of the AI boom, with record revenue driven by surging trading and investment banking.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7574,
-      "tags": [
-        "Gold",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "New York Fed President Williams says inflation has peaked, rates 'well positioned'",
-      "url": "https://www.cnbc.com/2026/07/15/new-york-fed-president-williams-says-inflation-has-peaked-rates-well-positioned.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-15T17:31:41+00:00",
-      "summary": "Williams cited five reasons why he expects the latest price surge has run its course.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.2732,
-      "tags": [
-        "Fed"
-      ],
-      "signal": "watch",
-      "category": "macro",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
-      "url": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-15T17:22:51+00:00",
-      "summary": "Anthropic is lining up investor meetings ahead of a potential IPO as soon as October as the AI startup behind looks to beat rival OpenAI to the public markets.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Morgan Stanley posts record quarterly revenue and profit as equities trading surges 69%",
-      "url": "https://www.cnbc.com/2026/07/15/morgan-stanley-ms-earnings-q2-2026-.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-15T13:44:44+00:00",
-      "summary": "Like at peers Goldman Sachs and JPMorgan Chase, a massive beat in equities trading drove the quarter's outsized results.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6597,
-      "tags": [
-        "Gold"
-      ],
-      "signal": "watch",
-      "category": "markets",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Buffett says Trump's pick of Kevin Warsh for Fed chair was 'good choice'",
-      "url": "https://www.cnbc.com/2026/07/15/buffett-says-trumps-pick-of-kevin-warsh-for-fed-chair-was-good-choice.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-15T12:21:33+00:00",
-      "summary": "Warren Buffett believes Fed Chair Kevin Warsh will do the best job he can.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7964,
-      "tags": [
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Labour should ditch triple-lock pensions promise, says OECD",
-      "url": "https://www.theguardian.com/business/2026/jul/15/labour-should-ditch-triple-lock-pensions-promise-says-oecd",
-      "source": "The Guardian Economics",
-      "published_at": "2026-07-15T09:00:51+00:00",
-      "summary": "<p>Organisation’s experts say pledge puts pressure on UK public finances and ‘adds significant fiscal risks’</p><p>Labour should ditch the triple-lock pensions promise to help tackle the UK’s straitened public finances, the Organisation for Economic Cooperation and Development has urged.</p><p>In its latest survey of the UK economy, the Paris-based club of industrialised nations added its voice to those calling for an end to the pledge, <a href=\"https://www.theguardian.com/money/2025/sep/16/uk-state-pension-what-is-the-triple-lock-and-could-it-be-ditched\">which uprates the state pension each year</a> by whichever is the highest of wage growth, inflation or 2.5%.</p> <a href=\"https://www.theguardian.com/business/2026/jul/15/labour-should-ditch-triple-lock-pensions-promise-says-oecd\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8176,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Labour must stop just writing a cheque for benefit claimants, says McFadden",
-      "url": "https://www.theguardian.com/society/2026/jul/15/labour-stop-writing-cheque-benefit-claimants-pat-mcfadden-welfare-reform",
-      "source": "The Guardian Economics",
-      "published_at": "2026-07-15T05:00:46+00:00",
-      "summary": "<p>Exclusive: Work and pensions secretary signals possible reform to welfare as ministers await key reviews</p><p>Labour must stop “simply writing a cheque” for health and disability benefit claimants and will provide more job support instead, the work and pensions secretary has said.</p><p>Pat McFadden said the government was preparing to launch a renewed effort at welfare reform with a focus on encouraging more people with health conditions to get into work and off benefits.</p> <a href=\"https://www.theguardian.com/society/2026/jul/15/labour-stop-writing-cheque-benefit-claimants-pat-mcfadden-welfare-reform\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8548,
       "tags": [
         "AI"
       ],
