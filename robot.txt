@@ -1,0 +1,6 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Sitemap location (update URL once your sitemap is generated)
+Sitemap: https://dragonkrakow.github.io/findashboard/sitemap.xml
