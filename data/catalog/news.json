@@ -1,18 +1,94 @@
 {
-  "generated_at": "2026-07-23T06:20:36Z",
-  "snapshot_date": "2026-07-23",
+  "generated_at": "2026-07-24T06:18:29Z",
+  "snapshot_date": "2026-07-24",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "The bull market faces higher likelihood of a Fed rate hike as Iran crisis intensifies",
-      "url": "https://www.marketwatch.com/story/the-bull-market-faces-higher-likelihood-of-a-fed-rate-hike-as-iran-crisis-intensifies-58f268e8?mod=mw_rss_topstories",
+      "title": "Most FDA advisers say peptides like BPC-157 and TB-500 should be made available in the U.S. Here’s what happens next.",
+      "url": "https://www.marketwatch.com/story/peptides-could-soon-become-widely-available-in-the-u-s-heres-what-happens-next-ead02287?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-23T00:27:00+00:00",
-      "summary": "Treasury yields are approaching the highest levels seen since the Iran war started in February as oil prices rise",
-      "sentiment": "bearish",
-      "sentiment_score": -0.802,
+      "published_at": "2026-07-23T23:43:00+00:00",
+      "summary": "The FDA is deciding whether seven peptides can be legally compounded, potentially opening the door to broader use in Americans.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.4404,
       "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "The August stock-market slump is a myth — so why does Wall Street keep repeating it?",
+      "url": "https://www.marketwatch.com/story/the-august-stock-market-slump-is-a-myth-so-why-does-wall-street-keep-repeating-it-bc47db44?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-23T22:12:00+00:00",
+      "summary": "More than 200 years of data show stocks typically gain in August, while market volatility sits well below average.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6705,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
+      "url": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-23T22:02:00+00:00",
+      "summary": "The hottest tech trades of 2026 just got slammed — smart investors are buying anyway.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.81,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "ServiceNow’s stock falls as a new AI threat overshadows earnings beat",
+      "url": "https://www.marketwatch.com/story/why-servicenows-stock-is-a-rare-bright-spot-while-the-rest-of-tech-stumbles-383f7f20?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-23T21:41:00+00:00",
+      "summary": "While ServiceNow’s earnings beat proved that its AI momentum is picking up, the launch of OpenAI Presence reignited fears of enterprise software disruption",
+      "sentiment": "bearish",
+      "sentiment_score": -0.8271,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "These 16 states are offering tax-free shopping days as back-to-school costs soar to over $800 per student",
+      "url": "https://www.marketwatch.com/story/these-16-states-are-offering-tax-holidays-as-back-to-school-costs-soar-to-over-800-per-student-0ec92464?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-23T21:15:00+00:00",
+      "summary": "As inflation continues to squeeze household budgets, parents and students are on a mission to find back-to-school bargains.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher",
+      "url": "https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-07-23T20:25:28+00:00",
+      "summary": "Investors are increasingly readying for the Federal Reserve to hike interest rates in September.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.4588,
+      "tags": [
+        "Interest Rates",
         "Fed",
         "Oil"
       ],
@@ -21,15 +97,49 @@
       "source_repo": "financenews"
     },
     {
-      "title": "ServiceNow’s stock rises as earnings show momentum in cybersecurity",
-      "url": "https://www.marketwatch.com/story/servicenows-stock-gains-as-earnings-show-momentum-in-cybersecurity-86e7a038?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-23T00:18:00+00:00",
-      "summary": "Against a gloomy backdrop for software sentiment, ServiceNow just topped revenue expectations.",
-      "sentiment": "neutral",
-      "sentiment_score": -0.1531,
+      "title": "Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'",
+      "url": "https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-07-23T19:19:01+00:00",
+      "summary": "After staying flat as the U.S.-Iran war heated up again, equities tumbled on Thursday after oil prices crossed $100 per barrel.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.9169,
       "tags": [
+        "Oil",
         "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter",
+      "url": "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-07-23T17:10:06+00:00",
+      "summary": "Wall Street is banking heavily on exchange-traded funds that give investors artificial intelligence exposure, according to JPMorgan Asset Management.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6808,
+      "tags": [
+        "AI",
+        "Artificial Intelligence"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Oil prices near $100 a barrel after US attacks Iran and Houthis hit tankers in Red Sea – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/jul/23/andy-burnham-business-rates-pubs-clubs-live-music-vape-shops-european-central-bank-ecb-interest-rates-latest-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-23T11:27:00+00:00",
+      "summary": "<p>Live, rolling coverage of business, economics and financial markets as traders fear attacks from Yemen and Iran creating ‘two-chokepoint problem’</p><p>The <strong>Houthi attacks</strong> off the coast of Yemen targeted Saudi Arabian tankers, but two <strong>Chinese vessels carrying Saudi oil</strong> appear to be trying to exit the Bab el-Mandeb strait, Reuters reports.</p><p>From Reuters:</p><p>Two Chinese supertankers carrying a combined 4 million barrels of Saudi Arabian oil are exiting the Red Sea via the Bab el-Mandeb strait on Thursday, shipping data showed, even as a Saudi vessel came under attack in the region.</p><p>The ships’ attempt to transit the strait will clearly test how tightly the Houthis will impose the naval blockade on Saudi Arabia they announced on Monday.</p> <a href=\"https://www.theguardian.com/business/live/2026/jul/23/andy-burnham-business-rates-pubs-clubs-live-music-vape-shops-european-central-bank-ecb-interest-rates-latest-news-updates\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.7783,
+      "tags": [
+        "Oil",
+        "AI",
+        "Shipping"
       ],
       "signal": "watch",
       "category": "technology",
@@ -45,37 +155,6 @@
       "sentiment_score": 0.4939,
       "tags": [
         "Gold",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
-      "url": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-22T21:01:00+00:00",
-      "summary": "The hottest tech trades of 2026 just got slammed — smart investors are buying anyway.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.81,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Global oil prices settle at 6-week high after topping $95 a barrel, as hopes dim for de-escalation of Iran war",
-      "url": "https://www.marketwatch.com/story/oil-prices-climb-to-six-week-high-as-hopes-of-de-escalation-in-iran-diminish-b5fb0942?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-22T20:10:00+00:00",
-      "summary": "Oil prices settled at six-week highs on Wednesday after the U.S. struck Iran for the 11th night in a row and President Donald Trump warned that the U.S. will bomb Iranian bridges and power plants if Tehran fires on ships in the Strait of Hormuz.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.8126,
-      "tags": [
-        "Oil",
         "AI"
       ],
       "signal": "watch",
@@ -390,83 +469,6 @@
       ],
       "signal": "watch",
       "category": "energy",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Dallas Fed President Logan calls for 'modestly' higher interest rates",
-      "url": "https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-16T18:50:42+00:00",
-      "summary": "The policymaker said this week's good inflation news wasn't good enough.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5414,
-      "tags": [
-        "Interest Rates",
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Short sellers load up against SpaceX as stock drops below IPO price",
-      "url": "https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-16T18:12:21+00:00",
-      "summary": "About 185 million SpaceX shares are now sold short, representing roughly 29% of the company's publicly tradable float, according to S3.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.296,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "‘Bizarre choice’: business and Labour puzzle over Shabana Mahmood as future chancellor",
-      "url": "https://www.theguardian.com/politics/2026/jul/16/shabana-mahmood-future-chancellor",
-      "source": "The Guardian Economics",
-      "published_at": "2026-07-16T18:00:45+00:00",
-      "summary": "<p>The home secretary, favourite to take over at No 11, has minimal economic credentials and many MPs would prefer Ed Miliband</p><p>Andy Burnham last month promised the UK he would bring “good growth in every postcode and hope in every heart” when he is installed as prime minister. Britain’s industry leaders also have a hope in their hearts: that Burnham will install a pro-business chancellor.</p><p>The energy secretary, Ed Miliband, was for several weeks seen as the most likely candidate to succeed Rachel Reeves but, after a brutal briefing battle and a backlash from big business, the home secretary, <a href=\"https://www.theguardian.com/politics/2026/jul/15/shabana-mahmood-andy-burnham-chancellor\">Shabana Mahmood, appears to have emerged as the frontrunner</a>. Now businesses are scrambling to try to work out how she might run the economy if confirmed in the Treasury on Monday.</p> <a href=\"https://www.theguardian.com/politics/2026/jul/16/shabana-mahmood-future-chancellor\">Continue reading...</a>",
-      "sentiment": "neutral",
-      "sentiment_score": -0.128,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Warren Buffett calls Bill Gates' actions with Epstein 'distasteful' but says people make mistakes",
-      "url": "https://www.cnbc.com/2026/07/15/warren-buffett-calls-bill-gates-actions-with-epstein-distasteful-but-people-make-mistakes.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-16T17:07:36+00:00",
-      "summary": "The Berkshire Hathaway chairman left out the Gates Foundation from his annual charitable stock gifts for the first time in 20 years.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0772,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Sadiq Khan given seat in Lords, as Starmer creates 26 new peers days before he leaves No 10 – as it happened",
-      "url": "https://www.theguardian.com/politics/live/2026/jul/16/keir-starmer-andy-burnham-labour-farage-badenoch-widdecombe-latest-news-updates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-07-16T16:45:22+00:00",
-      "summary": "<p>This blog is now closed, you can read more on this story <a href=\"https://www.theguardian.com/politics/2026/jul/16/keir-starmer-makes-sadiq-khan-a-peer-in-the-house-of-lords\">here</a></p><p>Couples could legally marry in forests, on beaches, at sea or in their gardens under new proposals, the Press Association reports. PA says <a href=\"https://www.gov.uk/government/consultations/tying-the-knot-reforming-weddings-law-in-england-and-wales\">a government consultation announced today</a>, covering rules in England and Wales, could help cut the costs of <em>weddings</em> and mean two ceremonies are no longer required to cover different faiths. PA says:</p><p>The average <em>wedding</em> in England is estimated to cost more than £20,000, with venue hire alone typically accounting for around £6,000 without catering.</p><p>The system as it stands means some couples have two ceremonies – one where they feel their beliefs are best reflected and another making their marriage legal.</p> <a href=\"https://www.theguardian.com/politics/live/2026/jul/16/keir-starmer-andy-burnham-labour-farage-badenoch-widdecombe-latest-news-updates\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6908,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
       "source_repo": "financenews"
     }
   ]
