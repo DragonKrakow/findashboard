@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T16:20:06.187185+00:00",
+  "generated_at": "2026-07-25T20:20:47.413349+00:00",
   "articles": [
     {
       "id": "a2b8b62f1668",
@@ -170,30 +170,6 @@
       "tags": []
     },
     {
-      "id": "d7091dc87030",
-      "title": "Trump attacks journalists at awkward White House press dinner",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/ec1e3131-525e-4577-b981-e9b763928e9b?syn-25a6b1a6=1",
-      "published_at": "2026-07-25T03:54:28+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Many of the president’s jokes met stony silence at rescheduled event",
-      "tags": []
-    },
-    {
-      "id": "0499bb26ded5",
-      "title": "US immigration enforcement caught between Trump and public backlash",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/38a18d43-5b01-4c08-ab85-c1695f10c1e3?syn-25a6b1a6=1",
-      "published_at": "2026-07-25T10:00:09+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Killings by ICE agents undermine support of voters but White House doubles down on deportation policy",
-      "tags": []
-    },
-    {
       "id": "408c7ef8c936",
       "title": "Intern arrested on suspicion of spying at Nato military HQ",
       "source": "International homepage",
@@ -230,15 +206,39 @@
       "tags": []
     },
     {
+      "id": "dc01ce6bcd48",
+      "title": "Top Democrat says Trump administration is worsening chip shortage",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/5bd259ca-d278-498a-a03d-7b4556d9fa8f?syn-25a6b1a6=1",
+      "published_at": "2026-07-25T19:33:15+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Apple wants clearance to buy semiconductors from blacklisted Chinese company amid surging demand from AI",
+      "tags": []
+    },
+    {
+      "id": "c7fe8fa24c94",
+      "title": "Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/bitcoin-policy-institute-state-department-program?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-07-25T18:15:44+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program\" class=\"type:primaryImage\" src=\"https://s3-images",
+      "tags": []
+    },
+    {
       "id": "526d604ac274",
-      "title": "Wise expected to resubmit US charter application under GENIUS",
+      "title": "Wise to resubmit US charter application under GENIUS Act",
       "source": "Cointelegraph.com News",
       "url": "https://cointelegraph.com/news/wise-resubmit-occ-charter-application-genius-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published_at": "2026-07-25T16:05:31+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Wise expected to resubmit US charter application under GENIUS\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" Wise to resubmit US charter application under GENIUS Act\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/art",
       "tags": []
     },
     {
@@ -338,15 +338,15 @@
       "tags": []
     },
     {
-      "id": "92e3a43468f4",
-      "title": "Crypto advocacy groups support CLARITY passage as ethics rules face pushback",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/crypto-advocacy-groups-support-clarity-act-pushback-ethics-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-07-24T16:55:14+00:00",
+      "id": "284d3920daff",
+      "title": "Russia’s largest bank Sberbank plans crypto trading infrastructure by December",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/business/2026/07/25/russia-s-largest-bank-sberbank-plans-crypto-trading-infrastructure-by-december",
+      "published_at": "2026-07-25T16:59:36+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto advocacy groups support CLARITY passage as ethics rules face pushback\" class=\"type:primaryImage\" src=\"https://s3-images.c",
+      "summary": "Russia’s largest bank Sberbank plans crypto trading infrastructure by December",
       "tags": []
     },
     {
@@ -455,18 +455,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "EU hits Russia with massive 21st sanctions package targeting $120B crypto network",
-      "tags": []
-    },
-    {
-      "id": "e071e8d2ec78",
-      "title": "Crypto market maker B2C2 held sale talks with multiple potential buyers",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/06/29/crypto-market-maker-b2c2-held-sale-talks-with-multiple-potential-buyers",
-      "published_at": "2026-07-24T11:49:06+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Crypto market maker B2C2 held sale talks with multiple potential buyers",
       "tags": []
     },
     {
