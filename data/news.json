@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-26T05:09:03.369453+00:00",
+  "generated_at": "2026-07-26T08:49:48.303255+00:00",
   "articles": [
     {
       "id": "3de9d2186d8d",
-      "title": "Modi Punctured as Awakened India Students Force Swift Retreat",
+      "title": "Modi Punctured as Awakened India Students Force Retreat",
       "source": "Bloomberg Markets",
       "url": "https://www.bloomberg.com/news/articles/2026-07-26/modi-punctured-as-awakened-india-students-force-swift-retreat",
       "published_at": "2026-07-26T02:30:00+00:00",
@@ -146,6 +146,18 @@
       "tags": []
     },
     {
+      "id": "a46c13243538",
+      "title": "One dead and 16 injured after van drives into Berlin Pride crowd",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/6bd2290f-209d-4b30-9fac-dcfcd32bfb5d?syn-25a6b1a6=1",
+      "published_at": "2026-07-26T07:05:40+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Police seek suspect as city’s mayor condemns ‘attack on our free and open society’",
+      "tags": []
+    },
+    {
       "id": "0b7e282f239f",
       "title": "Defence giants provide record backing for military start-ups",
       "source": "International homepage",
@@ -155,6 +167,30 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "As drones and autonomous systems transform the battlefield, traditional defence companies start to act more like venture capitalists",
+      "tags": []
+    },
+    {
+      "id": "8fb6e1095332",
+      "title": "Investors use crypto exchanges to avoid Chinese controls on AI stocks",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/af333b9c-d59d-4e7c-b814-12cef578895d?syn-25a6b1a6=1",
+      "published_at": "2026-07-26T04:00:15+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Perpetual futures let investors circumvent restrictions on foreign access to China’s equity market",
+      "tags": []
+    },
+    {
+      "id": "03f4fdc26c80",
+      "title": "Why workers are nostalgic for life before AI",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/2ddef625-df80-4690-9475-f3ce86171593?syn-25a6b1a6=1",
+      "published_at": "2026-07-26T04:00:08+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Many white-collar professionals worry about the tech inhibiting creativity and making errors",
       "tags": []
     },
     {
@@ -182,39 +218,15 @@
       "tags": []
     },
     {
-      "id": "8fb6e1095332",
-      "title": "Investors use crypto exchanges to avoid Beijing’s controls on AI stocks",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/af333b9c-d59d-4e7c-b814-12cef578895d?syn-25a6b1a6=1",
-      "published_at": "2026-07-26T04:00:15+00:00",
+      "id": "fcd3058c930b",
+      "title": "BitMart to wind down exchange, end trading by Aug. 26",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/bitmart-wind-down-exchange-end-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-07-26T07:11:27+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Perpetual futures let investors circumvent restrictions on foreign access to China’s equity market",
-      "tags": []
-    },
-    {
-      "id": "03f4fdc26c80",
-      "title": "Why workers are nostalgic for life before AI",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/2ddef625-df80-4690-9475-f3ce86171593?syn-25a6b1a6=1",
-      "published_at": "2026-07-26T04:00:08+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Many white-collar professionals worry about the tech inhibiting creativity and making errors",
-      "tags": []
-    },
-    {
-      "id": "5db0619b89a3",
-      "title": "‘Divide and conquer’: China exploits EU divisions over trade",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/ccf8b73f-c798-46d8-a00b-47df2a6c6859?syn-25a6b1a6=1",
-      "published_at": "2026-07-26T04:00:08+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Individual member states and companies vulnerable to coercion from Beijing, say analysts",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitMart to wind down exchange, end trading by Aug. 26\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article",
       "tags": []
     },
     {
@@ -326,15 +338,27 @@
       "tags": []
     },
     {
-      "id": "1b45eb08b628",
-      "title": "EU authorities include HTX exchange in Russian sanctions",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-07-24T21:53:05+00:00",
+      "id": "03eed715ea3a",
+      "title": "Shiba Inu surges 36% as South Korean traders fuel mystery rally",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/markets/2026/07/26/shiba-inu-surges-36-as-south-korean-traders-fuel-mystery-rally",
+      "published_at": "2026-07-26T07:29:45+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EU authorities include HTX exchange in Russian sanctions\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti",
+      "summary": "Shiba Inu surges 36% as South Korean traders fuel mystery rally",
+      "tags": []
+    },
+    {
+      "id": "ab3237cbd611",
+      "title": "Crypto exchange BitMart to shut down after nine years, BMX token crashes 58%",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/markets/2026/07/26/crypto-exchange-bitmart-to-shut-down-after-nine-years-bmx-token-crashes-58",
+      "published_at": "2026-07-26T06:59:51+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Crypto exchange BitMart to shut down after nine years, BMX token crashes 58%",
       "tags": []
     },
     {
@@ -434,27 +458,99 @@
       "tags": []
     },
     {
-      "id": "3d0f137041ff",
-      "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank lending limits",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
-      "published_at": "2026-07-24T13:03:03+00:00",
+      "id": "34411557e446",
+      "title": "Rewriting The Portfolio Playbook With Covered Call ETFs",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4925660-rewriting-portfolio-playbook-with-covered-call-etfs?source=feed_all_articles",
+      "published_at": "2026-07-26T08:40:00+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank lending limits",
+      "summary": "Rewriting The Portfolio Playbook With Covered Call ETFs",
       "tags": []
     },
     {
-      "id": "001c5d07ba1e",
-      "title": "EU hits Russia with massive 21st sanctions package targeting $120B crypto network",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/policy/2026/07/24/eu-hits-russia-with-massive-21st-sanctions-package-targeting-usd120b-crypto-network",
-      "published_at": "2026-07-24T11:58:06+00:00",
+      "id": "792f4bf6ec8c",
+      "title": "Alphabet's Ride Is Far From Over",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4925654-alphabets-ride-is-far-from-over?source=feed_all_articles",
+      "published_at": "2026-07-26T08:15:00+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "EU hits Russia with massive 21st sanctions package targeting $120B crypto network",
+      "summary": "Alphabet's Ride Is Far From Over",
+      "tags": []
+    },
+    {
+      "id": "1584d02bf688",
+      "title": "Above The Noise: Look Beyond AI Pullback",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4925655-above-the-noise-look-beyond-ai-pullback?source=feed_all_articles",
+      "published_at": "2026-07-26T07:25:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Above The Noise: Look Beyond AI Pullback",
+      "tags": []
+    },
+    {
+      "id": "a749f0759740",
+      "title": "WisdomTree: Prospects Dimmed By Hormuz Crisis Reigniting",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4925651-wisdomtree-prospects-dimmed-by-hormuz-crisis-reigniting?source=feed_all_articles",
+      "published_at": "2026-07-26T06:42:10+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "WisdomTree: Prospects Dimmed By Hormuz Crisis Reigniting",
+      "tags": []
+    },
+    {
+      "id": "09d35455a3a9",
+      "title": "Eurozone Flash PMI Signals Renewed Growth In July As Price Pressures Cool",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4925653-eurozone-flash-pmi-signals-renewed-growth-in-july-as-price-pressures-cool?source=feed_all_articles",
+      "published_at": "2026-07-26T06:40:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Eurozone Flash PMI Signals Renewed Growth In July As Price Pressures Cool",
+      "tags": []
+    },
+    {
+      "id": "24bcafc4fa0d",
+      "title": "Flash PMIs Signal Faster Growth Across Major Developed Economies, But Supply Chain And Price Concerns Cloud Outlook",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4925652-flash-pmi-signal-faster-growth-across-major-developed-economies?source=feed_all_articles",
+      "published_at": "2026-07-26T06:20:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Flash PMIs Signal Faster Growth Across Major Developed Economies, But Supply Chain And Price Concerns Cloud Outlook",
+      "tags": []
+    },
+    {
+      "id": "d65f0c37bfd0",
+      "title": "The AI Capex Bill Comes Due",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4925649-ai-capex-bill-comes-due?source=feed_all_articles",
+      "published_at": "2026-07-26T05:35:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The AI Capex Bill Comes Due",
+      "tags": []
+    },
+    {
+      "id": "a456e454288a",
+      "title": "Microsoft: One Of The Best Buying Opportunities In Big Tech",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4925646-microsoft-stock-best-buying-opportunities-big-tech?source=feed_all_articles",
+      "published_at": "2026-07-26T05:15:09+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Microsoft: One Of The Best Buying Opportunities In Big Tech",
       "tags": []
     },
     {
@@ -479,102 +575,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Treasury Yields Snapshot: July 24, 2026",
-      "tags": []
-    },
-    {
-      "id": "554b2ddc80a2",
-      "title": "Figuring Out The Fed",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4925548-figuring-out-fed?source=feed_all_articles",
-      "published_at": "2026-07-26T04:30:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Figuring Out The Fed",
-      "tags": []
-    },
-    {
-      "id": "2a65b62bbed0",
-      "title": "Multi-Asset Midyear Outlook: Expanding The Toolkit",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4925647-multi-asset-midyear-outlook-expanding-toolkit?source=feed_all_articles",
-      "published_at": "2026-07-26T04:30:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Multi-Asset Midyear Outlook: Expanding The Toolkit",
-      "tags": []
-    },
-    {
-      "id": "1a2f34ee3d92",
-      "title": "Europe's New €100B Industrial Decarbonization Bank Faces Delivery Test",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4925645-europe-new-100b-industrial-decarbonization-bank-faces-delivery-test?source=feed_all_articles",
-      "published_at": "2026-07-26T04:20:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Europe's New €100B Industrial Decarbonization Bank Faces Delivery Test",
-      "tags": []
-    },
-    {
-      "id": "8841d23ae1cc",
-      "title": "Politics And The Markets 07/26/26",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4919427-politics-and-the-markets-072626?source=feed_all_articles",
-      "published_at": "2026-07-26T04:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Politics And The Markets 07/26/26",
-      "tags": []
-    },
-    {
-      "id": "2f7cb165d578",
-      "title": "NewAmsterdam Pharma: Obicetrapib Is More Than Another LDL-Lowering Pill",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4925643-newamsterdam-pharma-obicetrapib-is-more-than-another-ldl-lowering-pill?source=feed_all_articles",
-      "published_at": "2026-07-26T03:58:33+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "NewAmsterdam Pharma: Obicetrapib Is More Than Another LDL-Lowering Pill",
-      "tags": []
-    },
-    {
-      "id": "6d87413d83a6",
-      "title": "Ichor Holdings: Waiting For Proof, Not A Better Price",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4925642-ichor-holdings-stock-waiting-for-proof-not-a-better-price?source=feed_all_articles",
-      "published_at": "2026-07-26T03:55:41+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Ichor Holdings: Waiting For Proof, Not A Better Price",
-      "tags": []
-    },
-    {
-      "id": "6d70736a4ad0",
-      "title": "Noah Holdings - Strong Q2 Expected",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4925641-noah-holdings-stock-strong-2q-expected?source=feed_all_articles",
-      "published_at": "2026-07-26T03:53:59+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Noah Holdings - Strong Q2 Expected",
-      "tags": []
-    },
-    {
-      "id": "07b356019092",
-      "title": "JPMorgan Chase: Top Bank Choice For Its Earning Power And Fortress Balance Sheet",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4925640-jpmorgan-chase-top-bank-choice-for-its-earning-power-and-fortress-balance-sheet?source=feed_all_articles",
-      "published_at": "2026-07-26T03:47:42+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "JPMorgan Chase: Top Bank Choice For Its Earning Power And Fortress Balance Sheet",
       "tags": []
     }
   ]
