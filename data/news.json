@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T20:20:47.413349+00:00",
+  "generated_at": "2026-07-26T00:37:45.764086+00:00",
   "articles": [
     {
       "id": "a2b8b62f1668",
@@ -182,27 +182,27 @@
       "tags": []
     },
     {
-      "id": "639fff5efdbc",
-      "title": "India’s ‘cockroach’ movement halts protests after minister quits",
+      "id": "4b677e11fe89",
+      "title": "Iran says Ukrainian attack on vessel in Caspian Sea killed sailor",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/5f267b7d-9e57-40f6-9bb5-6fe5d6cf9d1d?syn-25a6b1a6=1",
-      "published_at": "2026-07-25T14:08:23+00:00",
+      "url": "https://www.ft.com/content/a352cb9c-8b29-4d3c-b672-1b6c65fd4a1d?syn-25a6b1a6=1",
+      "published_at": "2026-07-25T21:52:02+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Dharmendra Pradhan’s departure was a key demand of the burgeoning student movement",
+      "summary": "Foreign ministry urges EU to intervene to prevent Middle East conflict spreading beyond the region",
       "tags": []
     },
     {
-      "id": "178946ad032e",
-      "title": "India’s ‘Cockroach’ Gen Z has had enough",
+      "id": "0418e0415b1c",
+      "title": "Saudi Arabia strikes Houthis after Iran-backed rebels target energy sites",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/ac19e4f4-cf7b-4a75-b591-0ca79ef62d37",
-      "published_at": "2026-07-25T04:00:37+00:00",
+      "url": "https://www.ft.com/content/14ee6049-87bf-4aac-b684-c9937374fdcc?syn-25a6b1a6=1",
+      "published_at": "2026-07-25T13:02:40+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "The irreverence of the country’s youth brings to light the contrast between government promises and economic reality",
+      "summary": "Tit-for-tat attacks risk expanding the regional war in the Middle East",
       "tags": []
     },
     {
@@ -215,6 +215,18 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Apple wants clearance to buy semiconductors from blacklisted Chinese company amid surging demand from AI",
+      "tags": []
+    },
+    {
+      "id": "2b14ff8037d1",
+      "title": "Robinhood in talks with Crypto.com over prediction markets: WSJ",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/robinhood-cryptocom-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-07-25T21:01:44+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Robinhood in talks with Crypto.com over prediction markets: WSJ\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/med",
       "tags": []
     },
     {
@@ -323,18 +335,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strive’s SATA recovers most of June decline, trades within 3% of par \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.",
-      "tags": []
-    },
-    {
-      "id": "dfae2b595350",
-      "title": "House passes bill on lawmakers using insider information for stock trading",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/house-bill-lawmakers-insider-information-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-07-24T20:05:50+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"House passes bill on lawmakers using insider information for stock trading \" class=\"type:primaryImage\" src=\"https://s3-images.ct",
       "tags": []
     },
     {
@@ -458,6 +458,54 @@
       "tags": []
     },
     {
+      "id": "c20d06af88b3",
+      "title": "Quálitas Controladora, S.A.B. de C.V. 2026 Q2 - Results - Earnings Call Presentation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4925629-qualitas-controladora-s-a-b-de-c-v-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+      "published_at": "2026-07-25T23:03:48+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Quálitas Controladora, S.A.B. de C.V. 2026 Q2 - Results - Earnings Call Presentation",
+      "tags": []
+    },
+    {
+      "id": "ef623cde153c",
+      "title": "Galderma Group AG 2026 Q2 - Results - Earnings Call Presentation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4925628-galderma-group-ag-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+      "published_at": "2026-07-25T23:03:38+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Galderma Group AG 2026 Q2 - Results - Earnings Call Presentation",
+      "tags": []
+    },
+    {
+      "id": "313ca8bb8daf",
+      "title": "Edenred SE 2026 Q2 - Results - Earnings Call Presentation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4925627-edenred-se-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+      "published_at": "2026-07-25T23:02:49+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Edenred SE 2026 Q2 - Results - Earnings Call Presentation",
+      "tags": []
+    },
+    {
+      "id": "5c093f4de596",
+      "title": "Marsh & McLennan Companies, Inc. 2026 Q2 - Results - Earnings Call Presentation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4925626-marsh-and-mclennan-companies-inc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+      "published_at": "2026-07-25T23:02:22+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Marsh & McLennan Companies, Inc. 2026 Q2 - Results - Earnings Call Presentation",
+      "tags": []
+    },
+    {
       "id": "400918f30721",
       "title": "Blue-Chip 12% Yields: Why I Give Hercules Capital The Edge Over Trinity Capital",
       "source": "All Articles on Seeking Alpha",
@@ -527,54 +575,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Big Tech Earnings, Fed's Interest Rate Decision To Keep Next Week Busy",
-      "tags": []
-    },
-    {
-      "id": "a527ab51ad29",
-      "title": "Thinking About The Semiconductor Pullback And Positioning",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4925622-thinking-about-the-semiconductor-pullback-and-positioning?source=feed_all_articles",
-      "published_at": "2026-07-25T14:59:26+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Thinking About The Semiconductor Pullback And Positioning",
-      "tags": []
-    },
-    {
-      "id": "e44b5bca971f",
-      "title": "Kinder Morgan: A Record Second Quarter That Still Does Not Move My Rating",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4925597-kinder-morgan-a-record-second-quarter-that-still-does-not-move-my-rating?source=feed_all_articles",
-      "published_at": "2026-07-25T14:45:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Kinder Morgan: A Record Second Quarter That Still Does Not Move My Rating",
-      "tags": []
-    },
-    {
-      "id": "5ac717d27bd6",
-      "title": "Axon: Strong Growth, But The Cash Is Arriving Too Slowly",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4925620-axon-strong-growth-but-the-cash-is-arriving-too-slowly?source=feed_all_articles",
-      "published_at": "2026-07-25T14:42:41+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Axon: Strong Growth, But The Cash Is Arriving Too Slowly",
-      "tags": []
-    },
-    {
-      "id": "82d55ee4328d",
-      "title": "The 1-Minute Market Report, July 25, 2026",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4925619-the-1-minute-market-report-july-25-2026?source=feed_all_articles",
-      "published_at": "2026-07-25T14:41:33+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The 1-Minute Market Report, July 25, 2026",
       "tags": []
     }
   ]
