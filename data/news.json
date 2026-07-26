@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-26T16:22:11.133927+00:00",
+  "generated_at": "2026-07-26T20:22:42.675212+00:00",
   "articles": [
+    {
+      "id": "94323ecbfbaf",
+      "title": "Bond Traders on Edge as Risks of Fed Rate Hike This Week Mount",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/bond-traders-on-edge-as-risks-of-fed-rate-hike-this-week-mount",
+      "published_at": "2026-07-26T19:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Bond traders enter the week seeing a better than one-in-three chance that the Federal Reserve hikes interest rates on Wednesday after flaring Middle East tensions lifted oil prices, boosting inflation",
+      "tags": []
+    },
     {
       "id": "a29f0d4ac3f1",
       "title": "Traders Are Getting a New Tool to Wager on the Biggest US Stocks",
@@ -102,7 +114,7 @@
       "title": "US pauses Iran strikes as Oman pursues Hormuz transit deal",
       "source": "International homepage",
       "url": "https://www.ft.com/content/ffdeacf0-91b8-48fd-9ff8-d8d134ef5f11?syn-25a6b1a6=1",
-      "published_at": "2026-07-26T14:11:25+00:00",
+      "published_at": "2026-07-26T19:33:42+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
@@ -195,14 +207,26 @@
     },
     {
       "id": "a46c13243538",
-      "title": "One dead and 29 injured as vehicle drives into Berlin Pride crowd",
+      "title": "Police kill suspect after van-ramming attack on Berlin Pride event",
       "source": "International homepage",
       "url": "https://www.ft.com/content/6bd2290f-209d-4b30-9fac-dcfcd32bfb5d?syn-25a6b1a6=1",
-      "published_at": "2026-07-26T14:35:12+00:00",
+      "published_at": "2026-07-26T18:39:24+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Police seek suspect as city’s mayor condemns ‘attack on our free and open society’",
+      "summary": "Assailant in terror incident had been identified as Abdul Ballout, a German citizen with a Lebanese background",
+      "tags": []
+    },
+    {
+      "id": "552b46f28fd0",
+      "title": "CFTC issues second warning to prediction markets on cookie-cutter self-certifications",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/cftc-issues-second-warning-to-prediction-markets-on-cookie-cutter-self-certifications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-07-26T17:45:05+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC issues second warning to prediction markets on cookie-cutter self-certifications\" class=\"type:primaryImage\" src=\"https://s3",
       "tags": []
     },
     {
@@ -227,18 +251,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin OG selling eases as dormant BTC movement hits 4-year low: Galaxy\" class=\"type:primaryImage\" src=\"https://s3-images.ctmed",
-      "tags": []
-    },
-    {
-      "id": "78f7a83e386d",
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-07-26T12:04:52+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c",
       "tags": []
     },
     {
@@ -323,6 +335,18 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"North Korea arrests bank hacking ring tied to crypto laundering: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedi",
+      "tags": []
+    },
+    {
+      "id": "bc669d2fa95f",
+      "title": "2 weeks left for Clarity: State of Crypto",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/policy/2026/07/26/2-weeks-left-for-clarity-state-of-crypto",
+      "published_at": "2026-07-26T18:30:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "2 weeks left for Clarity: State of Crypto",
       "tags": []
     },
     {
@@ -434,15 +458,27 @@
       "tags": []
     },
     {
-      "id": "2a47cc5c449c",
-      "title": "Sam Altman-backed World Network secures $52.5 million in fresh funding to fight online AI deepfakes",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/07/24/sam-altman-backed-world-network-secures-fresh-funding-to-fight-online-ai-deepfakes",
-      "published_at": "2026-07-24T15:00:00+00:00",
+      "id": "65fe5ccd44dd",
+      "title": "S&P 500: Breaking In Slow Motion (Technical Analysis)",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4925665-s-and-p500-breaking-in-slow-motion-technical-analysis?source=feed_all_articles",
+      "published_at": "2026-07-26T20:00:00+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Sam Altman-backed World Network secures $52.5 million in fresh funding to fight online AI deepfakes",
+      "summary": "S&P 500: Breaking In Slow Motion (Technical Analysis)",
+      "tags": []
+    },
+    {
+      "id": "ccb9ceeff3be",
+      "title": "Tracking Ole Andreas Halvorsen's Viking Global Portfolio - Q1 2026 Update",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4925698-tracking-ole-andreas-halvorsens-viking-global-portfolio-q1-2026-update?source=feed_all_articles",
+      "published_at": "2026-07-26T18:59:31+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Tracking Ole Andreas Halvorsen's Viking Global Portfolio - Q1 2026 Update",
       "tags": []
     },
     {
@@ -539,30 +575,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "KORU: Why Bearish South Korea Is The Play Into The Fall",
-      "tags": []
-    },
-    {
-      "id": "3125948da981",
-      "title": "The Next Fed Rate Hike May Be Coming Soon",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4925650-next-fed-rate-hike-may-be-coming-soon?source=feed_all_articles",
-      "published_at": "2026-07-26T13:55:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The Next Fed Rate Hike May Be Coming Soon",
-      "tags": []
-    },
-    {
-      "id": "20525d035286",
-      "title": "International Petroleum: A Second Less Mentioned Story Is Every Bit As Important As Blackrod",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4925692-international-petroleum-a-second-less-mentioned-story-is-every-bit-as-important-as-blackrod?source=feed_all_articles",
-      "published_at": "2026-07-26T13:48:34+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "International Petroleum: A Second Less Mentioned Story Is Every Bit As Important As Blackrod",
       "tags": []
     }
   ]
