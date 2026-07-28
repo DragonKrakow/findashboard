@@ -1,19 +1,78 @@
 {
-  "generated_at": "2026-07-27T06:40:11Z",
-  "snapshot_date": "2026-07-27",
+  "generated_at": "2026-07-28T06:18:11Z",
+  "snapshot_date": "2026-07-28",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week",
-      "url": "https://www.marketwatch.com/story/oil-prices-sink-stock-futures-rally-as-u-s-and-iran-pause-attacks-wall-street-awaits-busy-week-75030e00?mod=mw_rss_topstories",
+      "title": "Nvidia’s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns",
+      "url": "https://www.marketwatch.com/story/nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-analyst-warns-ae34ed64?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-27T00:35:00+00:00",
-      "summary": "U.S. stock-index futures rallied and oil prices tumbled on Sunday as the U.S. and Iran took a pause from fighting, and as Wall Street gears up for the Fed’s meeting and key earnings reports from Big Tech companies.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.6249,
+      "published_at": "2026-07-27T21:46:00+00:00",
+      "summary": "Investors are fretting over a report that Nvidia could backstop an OpenAI data-center lease, in what would be the largest such arrangement yet.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.25,
       "tags": [
-        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "More cracks emerge in AI-related bonds as Meta, Microsoft earnings loom",
+      "url": "https://www.marketwatch.com/story/more-cracks-emerge-in-ai-related-bonds-as-meta-microsoft-earnings-loom-04275db2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-27T21:35:00+00:00",
+      "summary": "‘The money has to come from somewhere,’ says Bryce Doty at Sit, of pressure heavy AI-debt supply and the rest of the bond market",
+      "sentiment": "bearish",
+      "sentiment_score": -0.4767,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Big Tech is forcing consumers to pay for its AI boom. Voters are pushing back.",
+      "url": "https://www.marketwatch.com/story/is-your-ai-data-center-stock-vulnerable-to-voter-backlash-use-this-5-part-test-to-find-out-36f039fa?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-27T21:03:00+00:00",
+      "summary": "State regulators are making Big Tech pay for its own grid build-out — leaving traditional utility stocks exposed to a political reckoning.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.2732,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "He brought AI to Wall Street in 1994 — but won’t trust ChatGPT with his money",
+      "url": "https://www.marketwatch.com/story/he-brought-ai-to-wall-street-in-1994-but-wont-trust-chatgpt-with-his-money-b8abc031?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-27T21:02:00+00:00",
+      "summary": "Vasant Dhar built one of the first AI-driven hedge funds. Here’s what he wants investors to know about the technology.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6652,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Oil prices fall as US pauses strikes on Iran over strait of Hormuz",
+      "url": "https://www.theguardian.com/business/2026/jul/27/oil-prices-fall-us-strikes-iran-brent-crude-bp-shell-ftse-100",
+      "source": "The Guardian Economics",
+      "published_at": "2026-07-27T17:30:46+00:00",
+      "summary": "<p>Brent crude drops 9% to below $88 a barrel, prompting UK government bond yields to fall</p><p>Oil prices have dropped sharply as traders bet that a pause in US attacks on Iran could prevent an escalation in the conflict that would further restrict global supply.</p><p>Brent crude, the international benchmark for oil, initially fell 9% to below $88 a barrel on Monday after climbing to $100 last week, when the Iran-aligned Houthis attacked Saudi Arabian oil tankers in the Red Sea.</p> <a href=\"https://www.theguardian.com/business/2026/jul/27/oil-prices-fall-us-strikes-iran-brent-crude-bp-shell-ftse-100\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.9618,
+      "tags": [
         "Oil",
         "AI"
       ],
@@ -39,36 +98,6 @@
       "source_repo": "financenews"
     },
     {
-      "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
-      "url": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-26T20:00:00+00:00",
-      "summary": "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7964,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "There’s a technical ‘triple threat’ for stocks, but also places investors can hide",
-      "url": "https://www.marketwatch.com/story/theres-a-technical-triple-threat-for-stocks-but-also-places-investors-can-hide-59108c6b?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-26T19:15:00+00:00",
-      "summary": "Treasury yields and oil prices surged, and the dollar confirmed the breakout toward a longer-term uptrend, to push the S&amp;P 500 below key chart support.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5719,
-      "tags": [
-        "Oil"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
       "title": "Gary Stevenson to quit YouTube channel, citing health concerns",
       "url": "https://www.theguardian.com/business/2026/jul/26/gary-stevenson-to-quit-youtube-channel-garys-economics",
       "source": "The Guardian Economics",
@@ -77,22 +106,6 @@
       "sentiment": "neutral",
       "sentiment_score": 0.1154,
       "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "The Treasury market is sending Fed Chair Kevin Warsh a clear warning about rates",
-      "url": "https://www.marketwatch.com/story/the-treasury-market-is-sending-fed-chair-kevin-warsh-a-clear-warning-about-rates-d0026da9?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-26T12:30:00+00:00",
-      "summary": "Rising Treasury yields show how “enormously worried” the market is about inflation — and whether the Fed will back up its tough talk with action",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3182,
-      "tags": [
-        "Fed",
         "AI"
       ],
       "signal": "watch",
@@ -452,23 +465,6 @@
       "sentiment": "bullish",
       "sentiment_score": 0.9393,
       "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Why a modest US interest rate rise won’t change much for most businesses",
-      "url": "https://www.theguardian.com/business/2026/jul/19/us-interest-rates-businesses",
-      "source": "The Guardian Economics",
-      "published_at": "2026-07-19T14:00:28+00:00",
-      "summary": "<p>Rates may rise, but don’t be too concerned – a small increase is unlikely to change major decisions on investment or hiring</p><p>With the appointment of a new <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a> chair, the latest concern is that interest rates will go up in the next few months. That decision will depend on many factors, including <a href=\"https://www.theguardian.com/business/inflation\">inflation</a>, jobs and the economy’s overall growth. But when that happens, watch out! The media will go nuts and the president will go ballistic. Everyone treats every Fed meeting as an economic earthquake. But for most small businesses, it isn’t.</p><p>A 25-basis-point increase doesn’t meaningfully change borrowing costs for most established businesses. In fact, it changes nothing at all.</p> <a href=\"https://www.theguardian.com/business/2026/jul/19/us-interest-rates-businesses\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.9125,
-      "tags": [
-        "Interest Rates",
-        "Fed",
         "AI"
       ],
       "signal": "watch",
