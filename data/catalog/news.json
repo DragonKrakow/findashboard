@@ -1,17 +1,78 @@
 {
-  "generated_at": "2026-07-31T06:30:54Z",
-  "snapshot_date": "2026-07-31",
+  "generated_at": "2026-08-01T06:18:58Z",
+  "snapshot_date": "2026-08-01",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "‘Don’t get suckered like I did’: I paid $185 to the wrong passport website. Can I get my money back?",
-      "url": "https://www.marketwatch.com/story/dont-get-suckered-like-i-did-i-paid-185-to-the-wrong-passport-website-can-i-get-my-money-back-3a781412?mod=mw_rss_topstories",
+      "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
+      "url": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-07-31T21:49:40+00:00",
+      "summary": "Fintech brokerage Clear Street is launching a private markets platform, beginning with Databricks stakes, to give investors more access to late-stage startups.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6369,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Health savings accounts can be a great retirement tool – if you’re healthy or wealthy",
+      "url": "https://www.marketwatch.com/story/hsas-can-be-a-great-retirement-tool-if-youre-healthy-or-wealthy-5a3e2991?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-31T00:24:00+00:00",
-      "summary": "“I will file a complaint with the Better Business Bureau.”",
+      "published_at": "2026-07-31T21:28:00+00:00",
+      "summary": "HSAs can offset healthcare costs in your old age. But most people can’t afford to wait.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.631,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Did China build a top-tier AI model by itself? A new report suggests Nvidia chips played a role.",
+      "url": "https://www.marketwatch.com/story/did-china-build-a-top-tier-ai-model-by-itself-a-new-report-suggests-nvidia-chips-played-a-role-ad4644cd?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-31T20:23:00+00:00",
+      "summary": "Alibaba has an agreement for Moonshot to use its Nvidia H200s, according to Bloomberg — but the Chinese tech giant pushed back against the report.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.4215,
+      "tags": [
+        "Chips",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Job seekers can now spend thousands on AI certificates. Is it worth it?",
+      "url": "https://www.marketwatch.com/story/is-spending-thousands-of-dollars-on-an-ai-certification-worth-it-heres-how-to-decide-f73e49c6?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-07-31T20:20:00+00:00",
+      "summary": "Job hunters are pursuing AI certifications, badges and other credentials in hopes of standing out — and maybe getting paid more",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5719,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
+      "url": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-07-31T20:19:03+00:00",
+      "summary": "Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund, Situational Awareness.",
       "sentiment": "bearish",
-      "sentiment_score": -0.4404,
+      "sentiment_score": -0.3182,
       "tags": [
         "AI"
       ],
@@ -20,89 +81,61 @@
       "source_repo": "financenews"
     },
     {
-      "title": "My friend and her husband own real estate. How can her children from a previous marriage get their fair share?",
-      "url": "https://www.marketwatch.com/story/my-friend-and-her-husband-own-extensive-real-estate-how-can-her-children-from-a-previous-marriage-get-their-fair-share-3eb17c20?mod=mw_rss_topstories",
+      "title": "It’s getting easier for terminally ill people to end their own lives. What to know as laws change.",
+      "url": "https://www.marketwatch.com/story/its-getting-easier-for-terminally-ill-people-to-end-their-own-lives-what-to-know-as-laws-change-4fa04c54?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-31T00:16:00+00:00",
-      "summary": "“Her husband is open to a trust, but he wants to be the administrator.”",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6705,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Empty seats? Concert giant Live Nation says ticket sales are actually at record levels.",
-      "url": "https://www.marketwatch.com/story/empty-seats-concert-giant-live-nation-says-ticket-sales-are-actually-at-record-levels-461252db?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-31T00:14:00+00:00",
-      "summary": "In the wake of online chatter about high-profile tour cancellations, Ticketmaster’s parent company said artists aren’t ditching shows any more than usual.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.2023,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Jersey Mike’s spent almost ‘zero dollars’ on digital marketing. That’s now changing.",
-      "url": "https://www.marketwatch.com/story/jersey-mikes-spent-almost-zero-dollars-on-digital-marketing-thats-now-changing-9738485d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-30T22:24:00+00:00",
-      "summary": "The CEO of the newly public sandwich chain says the company needs to be more proactive about reaching younger customers.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6318,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Implosion of Situational Awareness hedge fund has Wall Street betting the bottom is in for the AI trade",
-      "url": "https://www.marketwatch.com/story/implosion-of-situational-awareness-has-wall-street-betting-the-bottom-is-in-for-the-ai-trade-05d9f346?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-30T22:09:00+00:00",
-      "summary": "One of the wildest months in recent memory for the U.S. stock market is ending on yet another remarkable note: A highflying hedge fund run by an AI wunderkind in his mid-20s has apparently just been carried out on a stretcher.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5574,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Can credit cards survive AI shopping? Why Mastercard’s CEO says they’ll ‘prevail’ in this new era.",
-      "url": "https://www.marketwatch.com/story/can-credit-cards-survive-ai-shopping-why-mastercards-ceo-says-theyll-prevail-in-this-new-era-8f8a660c?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-30T21:45:00+00:00",
-      "summary": "Mastercard is positioning itself for ‘agentic commerce’ as the payment-technology world evolves",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3818,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Meta’s stock falls hard. Here’s why the company is in Wall Street’s doghouse.",
-      "url": "https://www.marketwatch.com/story/metas-stock-is-falling-hard-heres-why-the-company-is-in-wall-streets-doghouse-afae2f55?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-07-30T20:31:00+00:00",
-      "summary": "Meta’s spending on AI is ramping, and investors want proof that the company can make serious money in areas other than advertising.",
+      "published_at": "2026-07-31T19:04:00+00:00",
+      "summary": "Patients must meet three conditions to qualify for Medical Aid in Dying.",
       "sentiment": "neutral",
-      "sentiment_score": -0.1027,
+      "sentiment_score": 0.0,
       "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Investors may want to focus on front end of yield curve — as Street anticipates next Fed meetings",
+      "url": "https://www.cnbc.com/2026/07/31/top-investment-ideas-as-interest-rate-uncertainty-grips-market-.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-07-31T18:46:45+00:00",
+      "summary": "Bond market investors may want to focus on the front of the yield curve, according to Allspring Global Investments’ Noah Wise.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5719,
+      "tags": [
+        "Fed"
+      ],
+      "signal": "watch",
+      "category": "macro",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "New York sues Kalshi, says prediction market is running 'illegal gambling operation'",
+      "url": "https://www.cnbc.com/2026/07/31/new-york-sues-kalshi-claims-it-is-illegal-gambling-operation.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-07-31T15:31:24+00:00",
+      "summary": "It comes after a federal judge earlier this month denied Kalshi's attempts to intervene against the state's Gaming Commission.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.7579,
+      "tags": [
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Fed officials who voted to hike rates say action is needed now against inflation",
+      "url": "https://www.cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-07-31T14:35:52+00:00",
+      "summary": "Kashkari and Hammack joined Dallas Fed President Lorie Logan in dissenting against holding the Fed's key overnight borrowing rate steady.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "Fed",
         "AI"
       ],
       "signal": "watch",
@@ -436,36 +469,6 @@
       "summary": "<p>UK’s inequalities expose splits in consumer economy, with spending suffering and a decline in savings among the poorest</p><p>A <a href=\"https://www.theguardian.com/business/2026/jul/24/burnham-bounce-and-world-cup-lift-mood-in-july-says-data-firm\">“Burnham bounce”</a>, sunshine and a strong World Cup run for the England men’s football team. Could this be a turnaround moment for Britain’s struggling consumer economy or yet another false start for the UK’s spluttering growth engine?</p><p>Last week the data company GfK credited Andy Burnham’s return to Westminster politics for lifting UK consumer confidence at its fastest monthly pace for almost three years in June.</p> <a href=\"https://www.theguardian.com/business/2026/jul/26/burnham-bounce-risks-deflating-unless-focus-remains-on-struggling-households\">Continue reading...</a>",
       "sentiment": "bullish",
       "sentiment_score": 0.5423,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Can Japan avoid a Liz Truss-style shock as its PM embarks on a giant spending spree?",
-      "url": "https://www.theguardian.com/world/2026/jul/25/japan-sanae-takaichi-investment-plan-liz-truss-economy",
-      "source": "The Guardian Economics",
-      "published_at": "2026-07-25T12:00:41+00:00",
-      "summary": "<p>Sanae Takaichi’s blueprint to inject £1.7tn and double economic growth leaves many investors fearful</p><p>International investors are asking where Japan’s prime minister will find the ¥370tn (£1.7tn) of extra cash that she wants to invest in 17 industrial sectors by 2040.</p><p>Such is the scale of spending by Sanae Takaichi’s coalition government that many in her own party fear she is about to blow up the Japanese economy, triggering a <a href=\"https://www.theguardian.com/business/2022/oct/20/the-mini-budget-that-broke-britain-and-liz-truss\">Liz Truss-style economic shock</a>.</p> <a href=\"https://www.theguardian.com/world/2026/jul/25/japan-sanae-takaichi-investment-plan-liz-truss-economy\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.4019,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
-      "url": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-24T22:43:56+00:00",
-      "summary": "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.2023,
       "tags": [
         "AI"
       ],
