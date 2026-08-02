@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-02T16:21:43.721166+00:00",
+  "generated_at": "2026-08-02T20:21:59.754655+00:00",
   "articles": [
+    {
+      "id": "5b1559606fef",
+      "title": "Yen Traders Brace for More Intervention With US at Japan’s Side",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-02/yen-traders-brace-for-more-intervention-with-us-at-japan-s-side",
+      "published_at": "2026-08-02T12:47:40+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The yen edged higher in thin trading with markets on high alert for more joint intervention by Japan and the US on Monday after coordinated operations in Tokyo and New York last week triggered a drama",
+      "tags": []
+    },
+    {
+      "id": "7a94765a91ad",
+      "title": "Prysmian Is Said Near Takeover of US Electrical Maker Atkore",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-02/prysmian-is-said-near-takeover-of-us-electrical-maker-atkore",
+      "published_at": "2026-08-02T18:58:48+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Italy’s Prysmian is in advanced talks to acquire electrical manufacturing company Atkore Inc., people familiar with the matter said.",
+      "tags": []
+    },
+    {
+      "id": "4384b0f411ba",
+      "title": "Governors Push State Solutions on Costs",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-02/governors-push-state-solutions-on-costs",
+      "published_at": "2026-08-02T16:20:06+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Governors from Oklahoma, Maryland and Delaware say states remain the nation's laboratories of democracy, sharing policy ideas on housing, education, child care and energy while arguing that affordabil",
+      "tags": []
+    },
+    {
+      "id": "e63cd6931fa7",
+      "title": "Office Dress Codes Face Shorts Debate",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-02/office-dress-codes-face-shorts-debate-video",
+      "published_at": "2026-08-02T16:18:01+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Bloomberg's Chris Rovzar says workplace dress codes are evolving as warmer weather, changing office culture and designer collections prompt more employees to consider wearing shorts to work. He says a",
+      "tags": []
+    },
     {
       "id": "7d46af4f77ad",
       "title": "Trump Pushes Major Dulles Makeover",
@@ -74,51 +122,15 @@
       "tags": []
     },
     {
-      "id": "3fbdf54c3098",
-      "title": "Nides Says Iran War Needs Negotiations",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-02/nides-says-iran-war-needs-negotiations-video",
-      "published_at": "2026-08-02T13:31:08+00:00",
+      "id": "92908fe7b0f5",
+      "title": "AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/e9027253-e13c-460a-a4b1-f9047e5a6ca7?syn-25a6b1a6=1",
+      "published_at": "2026-08-02T19:48:59+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Former US Ambassador to Israel Tom Nides says there is no lasting military solution to the conflict with Iran, arguing that renewed negotiations involving regional allies offer the only realistic path",
-      "tags": []
-    },
-    {
-      "id": "607e153031e0",
-      "title": "By The Way: Headlines You May Have Missed the Week of 8/02",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-02/by-the-way-headlines-you-may-have-missed-video",
-      "published_at": "2026-08-02T13:14:21+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Younger Chinese professionals moving away from the traditional baijiu drinking culture, premium bottled water gaining traction with wellness-focused consumers, and historic government buildings across",
-      "tags": []
-    },
-    {
-      "id": "633f18ee3fb9",
-      "title": "Wall Street’s Favorite Bet Comes Undone as Chips Whipsaw Market",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-02/wall-street-s-favorite-bet-comes-undone-as-chips-whipsaw-market",
-      "published_at": "2026-08-02T13:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The one-way trade in semiconductor stocks that has defined equity markets this year is coming unglued, triggering stomach-churning volatility as investors grow increasingly concerned that the fire-hos",
-      "tags": []
-    },
-    {
-      "id": "81d8f96c9abd",
-      "title": "SpaceX IPO Faces First Reality Check",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-02/spacex-ipo-faces-first-reality-check-video",
-      "published_at": "2026-08-02T12:53:41+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Bloomberg Space Reporter Loren Grush says investors will use SpaceX's first public earnings report to gauge progress on Starship, Starlink, AI infrastructure and the company's long-term growth strateg",
+      "summary": "Deal would create the world’s fourth-largest drugmaker by market value",
       "tags": []
     },
     {
@@ -131,30 +143,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Families search for children not seen since 60,000 people crossed into Spanish enclave, as death toll rises to 72",
-      "tags": []
-    },
-    {
-      "id": "e7a7eb4f4c44",
-      "title": "Europe’s weak reaction to Spain’s migrant crisis",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/8faf28df-bb76-49e6-a916-55faa8a5d4a8?syn-25a6b1a6=1",
-      "published_at": "2026-08-02T15:53:06+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Pedro Sánchez is being unfairly singled out for a liberal immigration policy",
-      "tags": []
-    },
-    {
-      "id": "b2212a9d82f4",
-      "title": "Spain pushes migrants home as Ceuta vents over ‘invasion’",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/a551d1be-80a1-4d3c-8498-b1f82fdb0e41?syn-25a6b1a6=1",
-      "published_at": "2026-08-01T22:43:08+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Soldiers round up Moroccans hoping to remain in the enclave in the face of local opposition",
       "tags": []
     },
     {
@@ -179,6 +167,18 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "iPhone maker has limited the number of vulnerabilities researchers can submit to manage wave of reports",
+      "tags": []
+    },
+    {
+      "id": "a731a046fd6a",
+      "title": "Monte dei Paschi explores Banco BPM takeover after ‘merger of equals’ talks collapse",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/4ce36d22-571d-4532-8a8f-078e8fba34ff?syn-25a6b1a6=1",
+      "published_at": "2026-08-02T17:32:45+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "MPS chief executive weighs approach to Banco BPM’s largest shareholder, Crédit Agricole",
       "tags": []
     },
     {
@@ -218,27 +218,27 @@
       "tags": []
     },
     {
-      "id": "48ce82acf929",
-      "title": "Strategy leaves preferred STRC dividend at 12% as price still below par",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/strategy-leaves-preferred-strc-dividend-at-12-price-still-below-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-08-02T15:23:33+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy leaves preferred STRC dividend at 12% as price still below par\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedi",
-      "tags": []
-    },
-    {
       "id": "78f7a83e386d",
       "title": "Here’s what happened in crypto today",
       "source": "Cointelegraph.com News",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-08-02T11:56:35+00:00",
+      "published_at": "2026-08-02T20:00:35+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c",
+      "tags": []
+    },
+    {
+      "id": "48ce82acf929",
+      "title": "Strategy leaves preferred STRC dividend at 12% as price still below par",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/strategy-leaves-preferred-strc-dividend-at-12-price-still-below-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-08-02T15:24:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy leaves preferred STRC dividend at 12% as price still below par\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedi",
       "tags": []
     },
     {
@@ -282,7 +282,7 @@
       "title": "Onchain, in court: What happened in crypto legal news this week",
       "source": "Cointelegraph.com News",
       "url": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-08-01T21:14:39+00:00",
+      "published_at": "2026-08-01T21:19:00+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
@@ -318,7 +318,7 @@
       "title": "Russia expands crypto mining ban to Moscow through 2032",
       "source": "Cointelegraph.com News",
       "url": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-08-01T10:23:41+00:00",
+      "published_at": "2026-08-01T10:30:00+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
@@ -335,6 +335,30 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/",
+      "tags": []
+    },
+    {
+      "id": "c13006a14f2b",
+      "title": "Counting down the days: State of Crypto",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/policy/2026/08/02/counting-down-the-days-state-of-crypto",
+      "published_at": "2026-08-02T18:30:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Counting down the days: State of Crypto",
+      "tags": []
+    },
+    {
+      "id": "b9df46c15142",
+      "title": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
+      "published_at": "2026-08-02T17:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
       "tags": []
     },
     {
@@ -434,27 +458,27 @@
       "tags": []
     },
     {
-      "id": "acf4537f5091",
-      "title": "SEC to review Nasdaq bitcoin options approval after CME challenge",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/policy/2026/08/01/sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge",
-      "published_at": "2026-08-01T15:48:27+00:00",
+      "id": "64a30b6cca4f",
+      "title": "SoFi: More Wall St. Games",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4929291-sofi-more-wall-st-games?source=feed_all_articles",
+      "published_at": "2026-08-02T18:00:00+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "SEC to review Nasdaq bitcoin options approval after CME challenge",
+      "summary": "SoFi: More Wall St. Games",
       "tags": []
     },
     {
-      "id": "179b01be1ab2",
-      "title": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/tech/2026/07/31/solana-foundation-s-new-ciso-warns-ai-is-making-crypto-scams-more-convincing",
-      "published_at": "2026-08-01T13:00:00+00:00",
+      "id": "6d49fcf7e91c",
+      "title": "Antero Midstream: Veolia Lawsuit Proceeds Help Reduce Its Leverage",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4929320-antero-midstream-veolia-lawsuit-proceeds-helps-reduce-its-leverage?source=feed_all_articles",
+      "published_at": "2026-08-02T16:23:55+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
+      "summary": "Antero Midstream: Veolia Lawsuit Proceeds Help Reduce Its Leverage",
       "tags": []
     },
     {
@@ -551,30 +575,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Capital Power: Picking Up Stock After A Dividend Hike",
-      "tags": []
-    },
-    {
-      "id": "ee8b3ee0d69f",
-      "title": "Advantage Energy: Strategic Direction Difference Becoming Apparent",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4929313-advantage-energy-strategic-direction-difference-becoming-apparent?source=feed_all_articles",
-      "published_at": "2026-08-02T14:32:33+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Advantage Energy: Strategic Direction Difference Becoming Apparent",
-      "tags": []
-    },
-    {
-      "id": "444df890337a",
-      "title": "SPYI: Stop Looking At The Yield, The Real Opportunity Is Volatility",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4929312-spyi-stop-looking-at-the-yield-the-real-opportunity-is-volatility?source=feed_all_articles",
-      "published_at": "2026-08-02T14:26:31+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "SPYI: Stop Looking At The Yield, The Real Opportunity Is Volatility",
       "tags": []
     }
   ]
