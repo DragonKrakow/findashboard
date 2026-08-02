@@ -1,16 +1,40 @@
 {
-  "generated_at": "2026-08-02T05:06:14.711134+00:00",
+  "generated_at": "2026-08-02T08:49:19.732772+00:00",
   "articles": [
     {
+      "id": "53bd17bad3b2",
+      "title": "Bomb Kills Three, Injures 21 at Restaurant on Moscow’s Kudrinskaya Square",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-02/bomb-kills-three-injures-21-at-restaurant-on-moscow-s-kudrinskaya-square",
+      "published_at": "2026-08-02T07:22:43+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Three people were killed and 21 injured after a bomb was detonated in an upscale restaurant in central Moscow on Saturday night, according to Russia’s National Anti-Terrorism Committee.",
+      "tags": []
+    },
+    {
       "id": "31a1e86ba37d",
-      "title": "Trump Says US to Cancel Iran Attack Subject to a Rapid Deal",
+      "title": "Trump Says US to Hold Off Iran Attack If Rapid Deal Gets Agreed",
       "source": "Bloomberg Markets",
       "url": "https://www.bloomberg.com/news/articles/2026-08-02/trump-says-us-to-cancel-iran-attack-subject-to-a-rapid-deal",
       "published_at": "2026-08-02T02:19:38+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "President Donald Trump said the US will hold off new strikes against Iran after the Islamic Republic and other Middle Eastern nations told him they are working toward a deal.",
+      "summary": "President Donald Trump said the US will hold off new strikes against Iran after the Islamic Republic and other Middle Eastern nations told him they’re working toward a deal.",
+      "tags": []
+    },
+    {
+      "id": "5810241efd89",
+      "title": "Modi Opposes Court Cases For Protesters, Urges Forgiveness",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-01/modi-opposes-court-proceedings-for-protesters-urges-forgiveness",
+      "published_at": "2026-08-01T05:32:29+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Indian Prime Minister Narendra Modi said he opposed punishment and court proceedings for the young protesters who marched in New Delhi and other Indian cities in recent weeks, saying “children make mi",
       "tags": []
     },
     {
@@ -98,39 +122,27 @@
       "tags": []
     },
     {
-      "id": "018b8c10b6a7",
-      "title": "Ukraine Gains Ground as Putin Faces Pressure",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-01/ukraine-gains-ground-as-putin-faces-pressure-video",
-      "published_at": "2026-08-01T14:13:24+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Former US Ambassador Bill Taylor joins Bloomberg This Weekend and says Ukraine maintains momentum on the battlefield despite intensified Russian missile attacks, while urging the US and its allies to ",
-      "tags": []
-    },
-    {
-      "id": "6aeb6ab13a21",
-      "title": "Can Mergers Close Europe’s Tech Gap?",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-01/can-mergers-close-europe-s-tech-gap-video",
-      "published_at": "2026-08-01T14:03:20+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The European Union is rewriting its merger rules for the first time in two decades, hoping to create business “champions” capable of competing with the US. Ingrid Vandenborre of Skadden and Yale’s Fio",
-      "tags": []
-    },
-    {
-      "id": "da0a68a6d9d0",
-      "title": "Trump cancels new strikes on Iran after Middle East allies’ request",
+      "id": "93c5c384e95d",
+      "title": "Trump says he cancelled Iran strikes after Middle East allies’ request",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4",
-      "published_at": "2026-08-02T03:01:25+00:00",
+      "url": "https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4?syn-25a6b1a6=1",
+      "published_at": "2026-08-02T06:46:37+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "‘Perimeters of a deal has been agreed to,’ US president claims",
+      "summary": "US president claims ‘perimeters of a deal’ to end conflict have been agreed days after he threatened to attack",
+      "tags": []
+    },
+    {
+      "id": "da4da1409ddb",
+      "title": "Iran sets the pace in war with Trump",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/a29819ef-ffb9-4d2a-9925-e3d6e6e6e797?syn-25a6b1a6=1",
+      "published_at": "2026-08-02T05:37:40+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Tehran’s military raised the stakes with Washington by further expanding the battle across the Middle East",
       "tags": []
     },
     {
@@ -170,15 +182,15 @@
       "tags": []
     },
     {
-      "id": "8b815a7d75bf",
-      "title": "Chinese VC firms rush to raise funds after 3-year drought",
+      "id": "690ab15ef483",
+      "title": "Apple struggles to keep pace with AI ‘bug’ hunters",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/e6e4d553-2474-43e4-bc25-0f1cb952f66d?syn-25a6b1a6=1",
-      "published_at": "2026-08-02T02:00:01+00:00",
+      "url": "https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2?syn-25a6b1a6=1",
+      "published_at": "2026-08-02T04:00:06+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Managers capitalise on investors’ desire to ‘hedge’ against US market bets",
+      "summary": "iPhone maker has limited the number of vulnerabilities researchers can submit to manage wave of reports",
       "tags": []
     },
     {
@@ -194,15 +206,27 @@
       "tags": []
     },
     {
-      "id": "690ab15ef483",
-      "title": "Apple struggles to keep pace with AI ‘bug’ hunters",
+      "id": "8b815a7d75bf",
+      "title": "Chinese VC firms rush to raise funds after 3-year drought",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2?syn-25a6b1a6=1",
-      "published_at": "2026-08-02T04:00:06+00:00",
+      "url": "https://www.ft.com/content/e6e4d553-2474-43e4-bc25-0f1cb952f66d?syn-25a6b1a6=1",
+      "published_at": "2026-08-02T02:00:01+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "iPhone maker has limited the number of vulnerabilities researchers can submit to manage wave of reports",
+      "summary": "Managers capitalise on investors’ desire to ‘hedge’ against US market bets",
+      "tags": []
+    },
+    {
+      "id": "13f9e6e96102",
+      "title": "Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/coldcard-biggest-sub-1-btc-transfer-ftx-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-08-02T08:04:56+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/",
       "tags": []
     },
     {
@@ -311,18 +335,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c",
-      "tags": []
-    },
-    {
-      "id": "031b8a949d3b",
-      "title": "Ex-FTX users report funds being released in $900M distribution round",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/ftx-users-funds-released-fifth-distribution-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-07-31T16:56:31+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ex-FTX users report funds being released in $900M distribution round\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i",
       "tags": []
     },
     {
@@ -446,6 +458,30 @@
       "tags": []
     },
     {
+      "id": "5cf7b03bbfab",
+      "title": "XPO: Big Gains From Small Improvements In Its Operating Ratio (Rating Upgrade)",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4929292-xpo-big-gains-from-small-improvements-in-its-operating-ratio?source=feed_all_articles",
+      "published_at": "2026-08-02T07:22:21+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "XPO: Big Gains From Small Improvements In Its Operating Ratio (Rating Upgrade)",
+      "tags": []
+    },
+    {
+      "id": "74dc889e7a25",
+      "title": "4 Hyperscalers, One Message: The AI Trade Isn't Over",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4929289-4-hyperscalers-one-message-the-ai-trade-isnt-over?source=feed_all_articles",
+      "published_at": "2026-08-02T07:05:35+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "4 Hyperscalers, One Message: The AI Trade Isn't Over",
+      "tags": []
+    },
+    {
       "id": "3b4699640441",
       "title": "August 2026 Monthly",
       "source": "All Articles on Seeking Alpha",
@@ -539,30 +575,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Climb Global Solutions: Focus Shifts From Earnings To AI (Rating Downgrade)",
-      "tags": []
-    },
-    {
-      "id": "58fb59d6dfb5",
-      "title": "Recent Quarterly Report Shows Improvement For NB Bancorp",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4929279-recent-quarterly-report-shows-improvement-for-nb-bancorp?source=feed_all_articles",
-      "published_at": "2026-08-02T03:15:17+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Recent Quarterly Report Shows Improvement For NB Bancorp",
-      "tags": []
-    },
-    {
-      "id": "27e11c9e2695",
-      "title": "Broadridge: Bears Have Gotten Ahead Of Themselves (Rating Upgrade)",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4929278-broadridge-bears-have-gotten-ahead-of-themselves-upgrade?source=feed_all_articles",
-      "published_at": "2026-08-02T03:04:04+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Broadridge: Bears Have Gotten Ahead Of Themselves (Rating Upgrade)",
       "tags": []
     }
   ]
