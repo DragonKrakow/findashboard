@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T05:04:48.123266+00:00",
+  "generated_at": "2026-08-04T08:58:51.942856+00:00",
   "portfolio_summary": {
     "total_assets": 10,
     "buy_count": 3,
@@ -117,8 +117,8 @@
       "name": "Bitcoin",
       "sector": "Crypto",
       "type": "crypto",
-      "price": 63938.9805,
-      "change_pct": 0.7199,
+      "price": 63521.1094,
+      "change_pct": 0.0616,
       "signal": "watch",
       "note": "Above $90k resistance; ETF inflows strong",
       "sparkline": [
@@ -135,7 +135,7 @@
         62813.7461,
         62763.3203,
         63482.0,
-        63938.9805
+        63521.1094
       ]
     },
     {
@@ -143,8 +143,8 @@
       "name": "Ethereum",
       "sector": "Crypto",
       "type": "crypto",
-      "price": 1866.0601,
-      "change_pct": -0.8745,
+      "price": 1855.72,
+      "change_pct": -1.4237,
       "signal": "hold",
       "note": "ETF decision in Q3; staking yield at 4.2%",
       "sparkline": [
@@ -161,7 +161,7 @@
         1860.3459,
         1843.4177,
         1882.522,
-        1866.0601
+        1855.72
       ]
     },
     {
@@ -195,25 +195,25 @@
       "name": "20yr+ Treasury ETF",
       "sector": "Fixed Income",
       "type": "etf",
-      "price": 82.25,
+      "price": 81.92,
       "change_pct": -0.6643,
       "signal": "watch",
       "note": "Rate cut expectations lifting long bonds",
       "sparkline": [
-        84.08,
-        84.24,
-        84.21,
-        84.52,
-        83.89,
-        83.66,
-        83.44,
-        83.17,
-        83.25,
-        83.75,
-        84.24,
-        82.85,
-        82.8,
-        82.25
+        83.7427,
+        83.902,
+        83.8721,
+        84.1809,
+        83.5534,
+        83.3243,
+        83.1052,
+        82.8363,
+        82.916,
+        83.414,
+        83.902,
+        82.5176,
+        82.4678,
+        81.92
       ]
     },
     {
