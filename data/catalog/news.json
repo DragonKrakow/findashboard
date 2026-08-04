@@ -1,30 +1,15 @@
 {
-  "generated_at": "2026-08-03T06:37:36Z",
-  "snapshot_date": "2026-08-03",
+  "generated_at": "2026-08-04T06:18:35Z",
+  "snapshot_date": "2026-08-04",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
-      "url": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
+      "title": "Palantir’s stock climbs after earnings, as AI drives turbocharged growth",
+      "url": "https://www.marketwatch.com/story/palantirs-stock-gains-as-ai-drives-turbocharged-growth-e006b70a?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-02T16:00:00+00:00",
-      "summary": "“Her husband passed away 10 years ago. They had been married for more than 20 years.”",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6597,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Here’s what’s worth streaming in August 2026 on Netflix, Hulu, HBO Max and more",
-      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-august-2026-on-netflix-hulu-hbo-max-and-more-21b78a08?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-02T15:19:00+00:00",
-      "summary": "Turn off your brain and enjoy new seasons of Apple’s ‘Ted Lasso,’ Amazon’s ‘Reacher,’ Netflix’s ‘Outer Banks’ and much more",
+      "published_at": "2026-08-03T21:59:00+00:00",
+      "summary": "Companies are turning to Palantir for greater autonomy over their AI models and data, according to CEO Alex Karp.",
       "sentiment": "bullish",
       "sentiment_score": 0.6249,
       "tags": [
@@ -35,14 +20,93 @@
       "source_repo": "financenews"
     },
     {
-      "title": "S&P 500 profit growth is getting even wilder as Amazon makes its mark",
-      "url": "https://www.marketwatch.com/story/s-p-500-profit-growth-is-getting-even-wilder-as-amazon-makes-its-mark-5ddf2082?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-02T14:00:00+00:00",
-      "summary": "Amazon is the latest Big Tech company to report abnormally large earnings growth, thanks to paper gains on Anthropic investments.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.93,
+      "title": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
+      "url": "https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-08-03T19:20:25+00:00",
+      "summary": "California has the highest gas prices in the country as well as the busiest containership port, meaning consumers across the country could feel the impact of higher diesel.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.4215,
       "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams",
+      "url": "https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-08-03T16:44:25+00:00",
+      "summary": "It is also the latest move by Visa to expand its value-added services business, which has become one of the company's fastest-growing divisions.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.3612,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Oil prices plunge and Europe’s markets rally after Trump calls off Iran strikes",
+      "url": "https://www.theguardian.com/business/2026/aug/03/oil-prices-fall-europe-stock-markets-donald-trump-iran-us-brent-crude",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-03T12:10:59+00:00",
+      "summary": "<p>Brent crude drops by 5% after US president claimed talks on Middle East peace deal would resume</p><p>Crude oil prices fell sharply while stocks and government bonds rallied on Monday after Donald Trump cancelled planned strikes on Iran and claimed peace talks were about to resume.</p><p>Brent crude was trading 5% lower at $83.47 a barrel by lunchtime, after falling as much as 7.3% to $81.55 a barrel. US West Texas Intermediate dropped more than 5% to $79.47 a barrel.</p> <a href=\"https://www.theguardian.com/business/2026/aug/03/oil-prices-fall-europe-stock-markets-donald-trump-iran-us-brent-crude\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.8481,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "UK manufacturing growth picks up as Trump tariff chaos eases",
+      "url": "https://www.theguardian.com/business/2026/aug/03/uk-manufacturing-growth-donald-trump-tariff-us-iran",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-03T10:29:26+00:00",
+      "summary": "<p>Factories in upbeat mood despite fears over economic impact of US war on Iran, poll finds</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/03/uk-economy-recession-strait-hormuz-closed-oil-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>UK manufacturers ramped up production last month for the fourth consecutive month and at the fastest pace in almost two years, according to a leading survey of the industry.</p><p>The S&amp;P Global poll of manufacturers found them in upbeat mood in July, though anxious about the prospect of a long war in the Middle East that would block supplies of oil and gas, and raise the cost of production.</p> <a href=\"https://www.theguardian.com/business/2026/aug/03/uk-manufacturing-growth-donald-trump-tariff-us-iran\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.8388,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Yen hits three-month high after Trump helps prop up currency",
+      "url": "https://www.theguardian.com/business/2026/aug/03/yen-trump-currency-us-japan",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-03T08:34:06+00:00",
+      "summary": "<p>US and Japanese governments confirm they carried out a rare joint intervention late last week</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/aug/03/trump-japan-currency-yen-explainer\">Why has Trump stepped in to prop up Japan’s currency?</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/03/uk-economy-recession-strait-hormuz-closed-oil-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The yen has hit its highest level in three months after <a href=\"https://www.theguardian.com/world/2026/aug/03/trump-japan-currency-yen-explainer\">Japan and the US</a> launched a combined operation to support the Japanese currency.</p><p>The yen strengthened to ¥155 to the US dollar on Monday, its highest level since early May, after Tokyo and Washington confirmed they had carried out a rare joint currency intervention late last week.</p> <a href=\"https://www.theguardian.com/business/2026/aug/03/yen-trump-currency-us-japan\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8225,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Trump’s hypocritical new tariffs are a chance for the world to fight back | Joseph Stiglitz",
+      "url": "https://www.theguardian.com/business/2026/aug/03/donald-trump-tariffs-us-eu-forced-labour",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-03T06:00:42+00:00",
+      "summary": "<p>The president’s pretext of stopping forced labour is only a ruse – he is trying to grab a share of global trade for the US</p><p>Here he goes again. The US President, Donald Trump, is increasing and decreasing tariffs willy-nilly, violating international agreements that he himself signed and almost surely violating federal law. The only difference this time is that he has a new pretext for abusing tariffs: stopping forced labour.</p><p>Of course, the administration is right that too little is being done about forced labour. But its stated concern is a ruse. With the new tariffs closely tracking the ones that Trump imposed on the basis of trade balances, are we supposed to believe that bilateral trade deficits just so happen to be highly correlated with the use of forced labour?</p> <a href=\"https://www.theguardian.com/business/2026/aug/03/donald-trump-tariffs-us-eu-forced-labour\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.9254,
+      "tags": [
+        "Fed",
         "AI"
       ],
       "signal": "watch",
@@ -62,21 +126,6 @@
       ],
       "signal": "watch",
       "category": "markets",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Investors are rotating into financial stocks. The Fed’s next move could determine how far the rally runs.",
-      "url": "https://www.marketwatch.com/story/investors-are-rotating-into-financial-stocks-the-feds-next-move-could-determine-how-far-the-rally-runs-662c63df?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-02T12:00:00+00:00",
-      "summary": "Financial stocks have been among the market’s best performers this month. The Fed’s next move, however, may determine how much further the rotation can run.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6369,
-      "tags": [
-        "Fed"
-      ],
-      "signal": "watch",
-      "category": "macro",
       "source_repo": "financenews"
     },
     {
@@ -421,54 +470,6 @@
       "sentiment": "neutral",
       "sentiment_score": -0.0258,
       "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Marmite and Dove owner Unilever warns of price rises due to growing costs",
-      "url": "https://www.theguardian.com/business/2026/jul/28/marmite-dove-unilever-price-rises-costs-world-cup",
-      "source": "The Guardian Economics",
-      "published_at": "2026-07-28T12:12:41+00:00",
-      "summary": "<p>Consumer goods group reports strong sales growth, owing in part to World Cup marketing campaigns</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jul/28/ai-sell-off-chip-stocks-slump-market-south-korea-japan-economy-latest-news\">Business live – latest updates</a></p></li></ul><p>Unilever has warned it will push through further price rises over the coming months, as the Marmite, Dove and Hellmann’s owner tries to recoup its own growing costs.</p><p>The Anglo-Dutch company said that while the pace of price rises slowed in the second quarter, owing in part to World Cup-related discounts and efforts to stay competitive in Brazil, these were “temporary factors” and would not shield consumers for long.</p> <a href=\"https://www.theguardian.com/business/2026/jul/28/marmite-dove-unilever-price-rises-costs-world-cup\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7579,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Oil prices fall as US pauses strikes on Iran over strait of Hormuz",
-      "url": "https://www.theguardian.com/business/2026/jul/27/oil-prices-fall-us-strikes-iran-brent-crude-bp-shell-ftse-100",
-      "source": "The Guardian Economics",
-      "published_at": "2026-07-27T17:30:46+00:00",
-      "summary": "<p>Brent crude drops 9% to below $88 a barrel, prompting UK government bond yields to fall</p><p>Oil prices have dropped sharply as traders bet that a pause in US attacks on Iran could prevent an escalation in the conflict that would further restrict global supply.</p><p>Brent crude, the international benchmark for oil, initially fell 9% to below $88 a barrel on Monday after climbing to $100 last week, when the Iran-aligned Houthis attacked Saudi Arabian oil tankers in the Red Sea.</p> <a href=\"https://www.theguardian.com/business/2026/jul/27/oil-prices-fall-us-strikes-iran-brent-crude-bp-shell-ftse-100\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9618,
-      "tags": [
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Rising oil prices could force up UK interest rates, say economists",
-      "url": "https://www.theguardian.com/business/2026/jul/27/rising-oil-prices-could-force-up-uk-interest-rates-say-economists",
-      "source": "The Guardian Economics",
-      "published_at": "2026-07-26T23:01:23+00:00",
-      "summary": "<p>Bank of England expected to keep rates on hold on Thursday but renewed Iran conflict casts shadow over energy costs</p><p><a href=\"https://www.theguardian.com/business/bankofenglandgovernor\">The Bank of England</a> could be forced to tear up its economic forecasts and raise interest rates later this year if oil prices return to above $100 a barrel, according to City economists.</p><p>Before a meeting of Bank officials on Thursday, economists said that while an interest rate hike would probably be avoided this week there could be some in the future because of conflict in the Middle East.</p> <a href=\"https://www.theguardian.com/business/2026/jul/27/rising-oil-prices-could-force-up-uk-interest-rates-say-economists\">Continue reading...</a>",
-      "sentiment": "neutral",
-      "sentiment_score": -0.09,
-      "tags": [
-        "Interest Rates",
-        "Oil",
         "AI"
       ],
       "signal": "watch",
