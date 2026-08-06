@@ -1,17 +1,32 @@
 {
-  "generated_at": "2026-08-05T06:18:19Z",
-  "snapshot_date": "2026-08-05",
+  "generated_at": "2026-08-06T06:18:57Z",
+  "snapshot_date": "2026-08-06",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Upstart’s AI upgrades pay off, as a pickup in loan growth helps send the stock higher",
-      "url": "https://www.marketwatch.com/story/upstarts-ai-upgrades-pay-off-as-a-pickup-in-loan-growth-helps-send-the-stock-higher-32e7ec9d?mod=mw_rss_topstories",
+      "title": "As Warsh and the Fed contemplate fewer meetings, markets brace for potential volatility ahead",
+      "url": "https://www.cnbc.com/2026/08/05/as-warsh-and-the-fed-contemplate-fewer-meetings-markets-brace-for-potential-volatility-ahead.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-08-05T22:35:26+00:00",
+      "summary": "Since taking office in May, Warsh has implemented several measures that reverse decades of Fed culture.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "Fed"
+      ],
+      "signal": "watch",
+      "category": "macro",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Block slashed 40% of its workforce for AI — and its earnings suggest that’s paying off",
+      "url": "https://www.marketwatch.com/story/block-slashed-40-of-its-workforce-for-ai-and-earnings-suggest-thats-paying-off-852b7c54?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-04T22:22:00+00:00",
-      "summary": "The AI lending company says it’s enhanced its model to better assess the risk of borrowers.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6808,
+      "published_at": "2026-08-05T22:19:00+00:00",
+      "summary": "“We can ship higher-quality products much, much more quickly,” an executive said in the wake of the company’s better-than-expected earnings report",
+      "sentiment": "bearish",
+      "sentiment_score": -0.5859,
       "tags": [
         "AI"
       ],
@@ -20,11 +35,26 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Chipotle pulls jalapenos from some locations after salmonella investigation. Here’s what to know.",
-      "url": "https://www.marketwatch.com/story/chipotle-pulls-jalapenos-from-some-locations-after-salmonella-investigation-heres-what-to-know-20d8c66f?mod=mw_rss_topstories",
+      "title": "Figma’s stock falls as the company’s AI push requires steep investments",
+      "url": "https://www.marketwatch.com/story/figmas-push-into-ai-agents-drives-an-earnings-beat-1f6e200a?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-04T21:54:00+00:00",
-      "summary": "While Chipotle’s stock slid on Tuesday, it said health investigators had “no ongoing concerns” with the chain after it removed the jalapenos.",
+      "published_at": "2026-08-05T22:12:00+00:00",
+      "summary": "While Figma’s consumption-based AI monetization strategy is showing promise, the company’s margins are taking a hit.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.3182,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "SpaceX’s stock falls as Wall Street gets spooked by the extent of AI spending",
+      "url": "https://www.marketwatch.com/story/spacexs-stock-falls-as-wall-street-gets-spooked-by-the-extent-of-ai-spending-9ce9ddb8?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-08-05T21:26:00+00:00",
+      "summary": "Morgan Stanley expects $64 billion in capital spending from SpaceX this year, as the company is dramatically ramping up AI investments.",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "tags": [
@@ -32,6 +62,113 @@
       ],
       "signal": "watch",
       "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Nvidia’s stock is basking in the glow of a high-profile endorsement",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-is-basking-in-the-glow-of-a-high-profile-endorsement-b7c48e7b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-08-05T21:22:00+00:00",
+      "summary": "SpaceX CEO Elon Musk said his company will only use Nvidia’s chips to build its AI.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.3182,
+      "tags": [
+        "Chips",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Alphabet’s stock drops as Google loses another key AI executive",
+      "url": "https://www.marketwatch.com/story/alphabets-stock-drops-as-google-loses-another-key-ai-executive-38de45a2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-08-05T21:20:00+00:00",
+      "summary": "Jeff Dean, Google’s chief scientist and one of its first employees, is leaving to launch his own company.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.3182,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Retail investors are buying the dip on SpaceX’s stock before more shares flood the market",
+      "url": "https://www.marketwatch.com/story/retail-investors-are-buying-the-dip-on-spacexs-stock-before-more-shares-flood-the-market-9f83e00f?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-08-05T21:17:00+00:00",
+      "summary": "Retail investors were doing what they do best on Wednesday: Buying the dip in SpaceX shares aggressively, even as the company’s stock sank after it released its first earnings report.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7645,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation",
+      "url": "https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-08-05T20:36:16+00:00",
+      "summary": "Cook was part of a 9-3 majority that voted last week to keep the central bank's benchmark borrowing rate in a range between 3.5%-3.75%.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.2263,
+      "tags": [
+        "Fed"
+      ],
+      "signal": "watch",
+      "category": "macro",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks",
+      "url": "https://www.cnbc.com/2026/08/05/ken-griffins-citadel-posts-best-month-in-years-after-scooping-up-situational-awareness-stocks.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-08-05T16:17:55+00:00",
+      "summary": "The July gains came after Citadel acquired the bulk of the public-stock portfolio formerly held by Situational Awareness late last month.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.765,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "US refunds $100bn of Donald Trump’s ‘liberation day’ tariffs",
+      "url": "https://www.theguardian.com/us-news/2026/aug/05/trump-administration-has-paid-back-100bn-of-165bn-tariff-refunds",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-05T10:43:44+00:00",
+      "summary": "<p>More than half of tariff income refunded after supreme court ruled Trump’s levies were illegal</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/05/asian-shares-jump-ai-trade-revival-despite-spacex-amd-setbacks-oil-prices-dip-live-updates\">Business live – latest updates</a></p></li></ul><p>The Trump administration has refunded about $100bn from the tariffs it collected before the US supreme court ruled them illegal, according to reports.</p><p>The $100bn (£74bn) figure, which represents 60% of the total $165bn collected from Donald Trump’s “liberation day” tariffs, was reported by customs officials to the US court of international trade (CIT) on Tuesday, according to the Financial Times.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/05/trump-administration-has-paid-back-100bn-of-165bn-tariff-refunds\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5574,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Bank battle: history suggests Burnham faces fight if he opts for windfall tax",
+      "url": "https://www.theguardian.com/business/2026/aug/05/bank-windfall-tax-history-andy-burnham-cost-of-living",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-05T05:00:11+00:00",
+      "summary": "<p>As lenders’ profits soar, calls grow for a levy to help new PM ease cost of living pressures on households</p><p>It has been a stellar week for UK banks. Fuelled by high interest rates and market turbulence rippling out from the US war on Iran, major lenders have revealed soaring half-year profits that allowed bosses to boost bonus pots and give billions of pounds to shareholders.</p><p>Collectively, the UK’s four largest lenders – HSBC, NatWest, Barclays and Lloyds – <a href=\"https://www.theguardian.com/business/2026/aug/04/uk-bank-tax-hsbc-profits-andy-burnham\">reported £29.2bn in profits</a> over the first six months of the year, with almost half, £13.7bn, pledged to investors through dividends and share buybacks.</p> <a href=\"https://www.theguardian.com/business/2026/aug/05/bank-windfall-tax-history-andy-burnham-cost-of-living\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.875,
+      "tags": [
+        "Interest Rates"
+      ],
+      "signal": "watch",
+      "category": "markets",
       "source_repo": "financenews"
     },
     {
@@ -43,37 +180,6 @@
       "sentiment": "bullish",
       "sentiment_score": 0.4915,
       "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "McDonald’s says its value meals have become too complicated",
-      "url": "https://www.marketwatch.com/story/mcdonalds-admits-its-value-meals-have-become-too-confusing-dc076468?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-04T21:13:00+00:00",
-      "summary": "The fast-food chain said too many promotions at once led to confusion for staff and customers alike.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0516,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "So what’s the plan to bring down inflation? The new Fed chair and his White House allies say you shouldn’t ask.",
-      "url": "https://www.marketwatch.com/story/bessent-defends-warsh-saying-markets-are-going-through-detox-from-too-much-fed-guidance-39dfc765?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-04T20:26:00+00:00",
-      "summary": "Critics say Kevin Warsh’s determination to cool prices gains isn’t sufficient.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6369,
-      "tags": [
-        "Fed",
         "AI"
       ],
       "signal": "watch",
@@ -358,119 +464,6 @@
         "Interest Rates",
         "Fed",
         "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Here's what changed in the second Fed statement under Warsh",
-      "url": "https://www.cnbc.com/2026/07/29/fed-decision-redline-heres-what-changed-in-the-second-statement-under-warsh.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-30T13:42:07+00:00",
-      "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in June.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "Fed"
-      ],
-      "signal": "watch",
-      "category": "macro",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Here are the last times the Dow dropped by 1,000 points and what happened next",
-      "url": "https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-30T13:39:36+00:00",
-      "summary": "After the Dow falls by 1,000 points, the index typically is weak in the week that follows. The average then posts gains in the next month and three months.",
-      "sentiment": "neutral",
-      "sentiment_score": -0.128,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "US economy grows sluggish 1.5% in second quarter as inflation tops Fed target",
-      "url": "https://www.theguardian.com/business/2026/jul/30/us-economy-growth-inflation-second-quarter",
-      "source": "The Guardian Economics",
-      "published_at": "2026-07-30T13:21:19+00:00",
-      "summary": "<p>Consumer spending remained resilient even as policymakers kept interest rates on hold</p><p>The <a href=\"https://www.theguardian.com/business/useconomy\">US economy</a> expanded at a sluggish 1.5% pace from April through June as rising imports weighed on growth. But consumer spending rose. And the <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a>’s favored measure of <a href=\"https://www.theguardian.com/business/inflation\">inflation</a> grew more slowly last month despite remaining above the central bank’s 2% target.</p><p>The commerce department reported on Thursday that growth in US gross domestic product (GDP) – the nation’s output of goods and services – decelerated from 2.1% in the first three months of 2026 and came in below economists’ expectations.</p> <a href=\"https://www.theguardian.com/business/2026/jul/30/us-economy-growth-inflation-second-quarter\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6369,
-      "tags": [
-        "Interest Rates",
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Only the Middle East crisis is preventing a drop in UK interest rates",
-      "url": "https://www.theguardian.com/business/2026/jul/30/middle-east-crisis-preventing-drop-in-uk-interest-rates-bank-of-england-inflation",
-      "source": "The Guardian Economics",
-      "published_at": "2026-07-30T12:44:47+00:00",
-      "summary": "<p>Bank’s wariness about inflationary pressures from the conflict lie behind decision to hold steady at 3.75%</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jul/30/ftse-100-record-federal-reserve-hold-kevin-warsh-iran-attacks-donald-trump-rolls-royce-shell-lloyds-bank-of-england-interest-rates-business-live-latest-updates\">Business live – latest updates</a></p></li></ul><p>There is a threat of high inflation coming to the UK but only from the conflict in the Middle East, which could keep oil prices high for much longer than was expected when Donald Trump first began attacking Iran.</p><p>It is the war that makes the difference between a benign outlook for inflation and one that puts it back on a rising trajectory, senior UK central bankers believe.</p> <a href=\"https://www.theguardian.com/business/2026/jul/30/middle-east-crisis-preventing-drop-in-uk-interest-rates-bank-of-england-inflation\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9432,
-      "tags": [
-        "Interest Rates",
-        "Fed",
-        "Oil"
-      ],
-      "signal": "watch",
-      "category": "energy",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "US borrowing costs hit 19-year high as Fed holds interest rates",
-      "url": "https://www.theguardian.com/business/2026/jul/30/us-borrowing-costs-19-year-high-fed-holds-interest-rates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-07-30T08:54:59+00:00",
-      "summary": "<p>Bank’s chair pledges to keep up fight against inflation but decision brings fears of a failure to keep pace</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jul/30/ftse-100-record-federal-reserve-hold-kevin-warsh-iran-attacks-donald-trump-rolls-royce-shell-lloyds-bank-of-england-interest-rates-business-live-latest-updates\">Business live – latest updates</a></p></li></ul><p>US government borrowing costs have hit their highest level since 2007 after the Federal Reserve voted to hold its key interest rate steady, feeding fears that the central bank may not move fast enough to tame a rise in inflation.</p><p>The yield – or interest rate – on the 30-year US Treasury bond rose 14 basis points to nearly 5.24%, a 19-year high, after the Fed announced its decision to <a href=\"https://www.theguardian.com/business/2026/jul/29/federal-reserve-interest-rates\">hold its main rate at between 3.5% and 3.75%</a> for the fifth meeting in a row.</p> <a href=\"https://www.theguardian.com/business/2026/jul/30/us-borrowing-costs-19-year-high-fed-holds-interest-rates\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.3506,
-      "tags": [
-        "Interest Rates",
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations",
-      "url": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-30T02:52:30+00:00",
-      "summary": "China's Commerce Ministry said Thursday the U.S. Federal Communications Commission has repeatedly ignored Beijing's restrained stance.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9246,
-      "tags": [
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "The U.S. wants Asia to use its AI — but China dominates cheaper models",
-      "url": "https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-29T23:10:46+00:00",
-      "summary": "The world's largest continent is becoming the center of the artificial intelligence race between the U.S. and China.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6652,
-      "tags": [
-        "AI",
-        "Artificial Intelligence"
       ],
       "signal": "watch",
       "category": "technology",
