@@ -1,68 +1,118 @@
 {
-  "generated_at": "2026-08-07T05:58:05Z",
-  "snapshot_date": "2026-08-07",
+  "generated_at": "2026-08-08T05:45:00Z",
+  "snapshot_date": "2026-08-08",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "As Alphabet burns through cash on AI, it’s turning back to the bond market",
-      "url": "https://www.marketwatch.com/story/as-alphabet-burns-through-cash-on-ai-its-turning-back-to-the-bond-market-04e85f31?mod=mw_rss_topstories",
+      "title": "Trump is trying to fire Lisa Cook again. He still wants to stack the Fed with his allies.",
+      "url": "https://www.marketwatch.com/story/trump-is-trying-to-fire-lisa-cook-again-he-still-wants-to-stack-the-fed-with-allies-e6f40aa5?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-06T23:14:00+00:00",
-      "summary": "Alphabet is utilizing its balance sheet with a fresh debt issuance as heavy AI investments eat into its free cash flow.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.4767,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Sweetgreen recalls jalapenos, details how cyclospora outbreak will weigh on sales",
-      "url": "https://www.marketwatch.com/story/sweetgreen-recalls-jalapenos-details-how-cyclospora-outbreak-will-weigh-on-sales-c52435bf?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-06T22:58:00+00:00",
-      "summary": "The salad chain’s shares tumbled after hours, but it said it doesn’t use iceberg lettuce and only uses jalapenos in two dressings.",
+      "published_at": "2026-08-07T22:05:00+00:00",
+      "summary": "Two months after he was blocked by the Supreme Court, President Donald Trump has resumed his effort to oust Federal Reserve governor Lisa Cook as part of an effort to stack the central bank’s board with more allies.",
       "sentiment": "neutral",
-      "sentiment_score": 0.1531,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Gold prices are breaking higher after a tough stretch. Could fresh records be within reach?",
-      "url": "https://www.marketwatch.com/story/gold-prices-are-breaking-higher-after-a-tough-stretch-could-fresh-records-be-within-reach-1e1a872f?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-06T20:57:00+00:00",
-      "summary": "Gold miners’ stocks can offer a high-quality play for investors worried about inflation and the Fed.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.2732,
+      "sentiment_score": 0.0258,
       "tags": [
         "Fed",
-        "Gold"
+        "AI"
       ],
       "signal": "watch",
-      "category": "macro",
+      "category": "technology",
       "source_repo": "financenews"
     },
     {
-      "title": "Honeywell Aerospace lands in Wall Street’s ‘penalty box’ after gloomy guidance triggers 23% stock selloff",
-      "url": "https://www.marketwatch.com/story/honeywell-aerospace-lands-in-wall-streets-penalty-box-after-gloomy-guidance-triggers-21-stock-selloff-ea8b032c?mod=mw_rss_topstories",
+      "title": "The smart way to invest in gold right now as the dollar slips",
+      "url": "https://www.marketwatch.com/story/the-smart-way-to-invest-in-gold-right-now-as-the-dollar-slips-22fdf3b2?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-06T20:41:00+00:00",
-      "summary": "The newly minted Honeywell Aerospace stunned Wall Street only weeks into its life as a standalone company.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.25,
+      "published_at": "2026-08-07T21:58:00+00:00",
+      "summary": "Also in Weekend Reads: Kevin O’Leary’s investing strategy, a 9% dividend paired with lower stock-market risk and advice from the Moneyist.",
+      "sentiment": "neutral",
+      "sentiment_score": -0.1531,
       "tags": [
-        "Aerospace"
+        "Gold",
+        "AI"
       ],
       "signal": "watch",
-      "category": "markets",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Palantir’s stock stages best week since 2024 — showing it’s no longer an AI loser",
+      "url": "https://www.marketwatch.com/story/palantirs-stock-stages-best-week-since-2024-showing-its-no-longer-an-ai-loser-2fc6c32b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-08-07T20:54:00+00:00",
+      "summary": "Booming demand for Palantir’s AI solutions is restoring confidence in the company.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6486,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?",
+      "url": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-08-07T20:15:00+00:00",
+      "summary": "“I was surprised — and flattered — to find myself on the guest list.”",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6908,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Odds the Fed will hike in September tumble following big July jobs miss",
+      "url": "https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-08-07T13:34:44+00:00",
+      "summary": "A weaker labor market would weaken the case for raising rates, which some members of the central bank have called for amid higher energy prices.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.6369,
+      "tags": [
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "US unexpectedly lost 23,000 jobs in July as slump in growth continues",
+      "url": "https://www.theguardian.com/business/2026/aug/07/july-jobs-report-middle-east-conflict",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-07T13:22:43+00:00",
+      "summary": "<p>Estimates for previous two months were revised down sharply but unemployment rate held steady at 4.1%</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/07/rail-passengers-disruption-power-outage-uk-house-prices-stagnate-us-jobs-unemployment-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>US employers unexpectedly lost 23,000 jobs in July and gains for the previous two months were revised down sharply by a combined 103,000 jobs, painting a weaker picture of the labor market than past data indicated.</p><p>The unemployment rate, however, held steady at 4.1%. Economists had <a href=\"https://www.wsj.com/economy/jobs/private-sector-hiring-missed-expectations-in-july-adp-report-says-31f26993\">projected</a> an unchanged unemployment rate and 83,000 new jobs for the month.</p> <a href=\"https://www.theguardian.com/business/2026/aug/07/july-jobs-report-middle-east-conflict\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.9442,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Trump orders new 15% tariff on key material for solar panels and microchips",
+      "url": "https://www.theguardian.com/us-news/2026/aug/07/trump-orders-tariff-solar-panels-microchips-manufacturing-ingredient",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-07T09:11:36+00:00",
+      "summary": "<p>Move to raise levy on goods made with polysilicon aims to protect domestic US supply chains from China, the major producer</p><p>Donald Trump has ordered a new 15% <a href=\"https://www.theguardian.com/business/tariffs\">tariff</a> on imported products made of polysilicon, an important ingredient in microchip manufacturing that is primarily produced by China.</p><p>The new tariff, which will take effect on 4 December, is aimed at supporting <a href=\"https://www.theguardian.com/technology/2026/jan/15/trump-tariff-nvidia-ai-chips\">US chip</a> and solar panel supply chains to compete with Beijing on artificial intelligence and energy.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/07/trump-orders-tariff-solar-panels-microchips-manufacturing-ingredient\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8555,
+      "tags": [
+        "Chips",
+        "AI",
+        "Artificial Intelligence",
+        "Supply Chain"
+      ],
+      "signal": "watch",
+      "category": "technology",
       "source_repo": "financenews"
     },
     {
@@ -411,57 +461,6 @@
       "sentiment": "bearish",
       "sentiment_score": -0.7579,
       "tags": [
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Fed officials who voted to hike rates say action is needed now against inflation",
-      "url": "https://www.cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-07-31T14:35:52+00:00",
-      "summary": "Kashkari and Hammack joined Dallas Fed President Lorie Logan in dissenting against holding the Fed's key overnight borrowing rate steady.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Bank of England holds interest rates at 3.75% as inflation fears mount",
-      "url": "https://www.theguardian.com/business/2026/jul/30/bank-of-england-holds-interest-rates-inflation-fears-mount",
-      "source": "The Guardian Economics",
-      "published_at": "2026-07-30T15:47:35+00:00",
-      "summary": "<p>Split vote comes as Iran war is rekindled and oil price climbs close to $90 a barrel</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/jul/30/ftse-100-record-federal-reserve-hold-kevin-warsh-iran-attacks-donald-trump-rolls-royce-shell-lloyds-bank-of-england-interest-rates-business-live-latest-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/jul/30/middle-east-crisis-preventing-drop-in-uk-interest-rates-bank-of-england-inflation\">Only Middle East crisis is preventing drop in UK interest rates</a></p></li></ul><p>The Bank of England has kept UK interest rates on hold as it warned that a further escalation in the Iran war could drive inflation above 4% next year, adding to cost of living pressures on households.</p><p>Against a volatile backdrop in the Middle East conflict, the Bank’s monetary policy committee (MPC) voted by six to three to keep its key base rate at 3.75%.</p> <a href=\"https://www.theguardian.com/business/2026/jul/30/bank-of-england-holds-interest-rates-inflation-fears-mount\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9274,
-      "tags": [
-        "Interest Rates",
-        "Fed",
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Bank of England holds interest rates despite Iran war inflation threat - as it happened",
-      "url": "https://www.theguardian.com/business/live/2026/jul/30/ftse-100-record-federal-reserve-hold-kevin-warsh-iran-attacks-donald-trump-rolls-royce-shell-lloyds-bank-of-england-interest-rates-business-live-latest-updates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-07-30T13:59:40+00:00",
-      "summary": "<p>Live, rolling coverage of business, economics and financial markets as three members of monetary policy committee vote to raise rates</p><p>That <a href=\"https://www.theguardian.com/business/live/2026/jul/30/ftse-100-record-federal-reserve-hold-kevin-warsh-iran-attacks-donald-trump-rolls-royce-shell-lloyds-bank-of-england-interest-rates-business-live-latest-updates?page=with%3Ablock-6a6b0d6b8f085a0ed6ef2afe#block-6a6b0d6b8f085a0ed6ef2afe\">German GDP reading</a> has indeed contributed to the wider eurozone hitting expectations – and then some.</p><p>The <strong>eurozone economy</strong> grew by 0.4% in the second quarter of 2026, according to the preliminary reading from Eurostat – defying the gloom caused by the US-Israeli war on Iran.</p> <a href=\"https://www.theguardian.com/business/live/2026/jul/30/ftse-100-record-federal-reserve-hold-kevin-warsh-iran-attacks-donald-trump-rolls-royce-shell-lloyds-bank-of-england-interest-rates-business-live-latest-updates\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.696,
-      "tags": [
-        "Interest Rates",
         "Fed",
         "AI"
       ],
