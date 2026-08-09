@@ -1,19 +1,18 @@
 {
-  "generated_at": "2026-08-08T05:45:00Z",
-  "snapshot_date": "2026-08-08",
+  "generated_at": "2026-08-09T05:46:20Z",
+  "snapshot_date": "2026-08-09",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Trump is trying to fire Lisa Cook again. He still wants to stack the Fed with his allies.",
-      "url": "https://www.marketwatch.com/story/trump-is-trying-to-fire-lisa-cook-again-he-still-wants-to-stack-the-fed-with-allies-e6f40aa5?mod=mw_rss_topstories",
+      "title": "I’m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?",
+      "url": "https://www.marketwatch.com/story/im-an-unemployed-software-developer-who-is-skeptical-of-ai-can-i-still-find-a-job-in-tech-4413875e?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-07T22:05:00+00:00",
-      "summary": "Two months after he was blocked by the Supreme Court, President Donald Trump has resumed his effort to oust Federal Reserve governor Lisa Cook as part of an effort to stack the central bank’s board with more allies.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0258,
+      "published_at": "2026-08-08T18:30:00+00:00",
+      "summary": "“I was approached by one company who wants to use AI to dispatch ambulances.”",
+      "sentiment": "bearish",
+      "sentiment_score": -0.3182,
       "tags": [
-        "Fed",
         "AI"
       ],
       "signal": "watch",
@@ -21,29 +20,13 @@
       "source_repo": "financenews"
     },
     {
-      "title": "The smart way to invest in gold right now as the dollar slips",
-      "url": "https://www.marketwatch.com/story/the-smart-way-to-invest-in-gold-right-now-as-the-dollar-slips-22fdf3b2?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-07T21:58:00+00:00",
-      "summary": "Also in Weekend Reads: Kevin O’Leary’s investing strategy, a 9% dividend paired with lower stock-market risk and advice from the Moneyist.",
-      "sentiment": "neutral",
-      "sentiment_score": -0.1531,
-      "tags": [
-        "Gold",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Palantir’s stock stages best week since 2024 — showing it’s no longer an AI loser",
-      "url": "https://www.marketwatch.com/story/palantirs-stock-stages-best-week-since-2024-showing-its-no-longer-an-ai-loser-2fc6c32b?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-07T20:54:00+00:00",
-      "summary": "Booming demand for Palantir’s AI solutions is restoring confidence in the company.",
+      "title": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
+      "url": "https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-08-08T15:00:01+00:00",
+      "summary": "Collateralized loan obligations may become the next big push in the exchange-traded fund industry.",
       "sentiment": "bullish",
-      "sentiment_score": 0.6486,
+      "sentiment_score": 0.4588,
       "tags": [
         "AI"
       ],
@@ -52,13 +35,28 @@
       "source_repo": "financenews"
     },
     {
-      "title": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?",
-      "url": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-07T20:15:00+00:00",
-      "summary": "“I was surprised — and flattered — to find myself on the guest list.”",
+      "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
+      "url": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-08-08T13:28:00+00:00",
+      "summary": "Strength across its energy, railroad and manufacturing businesses more than offset weaker insurance results.",
       "sentiment": "bullish",
-      "sentiment_score": 0.6908,
+      "sentiment_score": 0.2815,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Union calls for robust review of OBR over fears it holds back economic growth",
+      "url": "https://www.theguardian.com/business/2026/aug/08/tuc-review-obr-investment-economy-business",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-08T06:00:38+00:00",
+      "summary": "<p>TUC will urge John Healey to order ‘root and branch’ assessment of watchdog amid claims its forecasts downplay investment benefits</p><p>The TUC is urging the new chancellor, John Healey, to order a “root and branch” review of the Office for Budget Responsibility, claiming the forecaster’s approach holds back investment.</p><p>With Andy Burnham promising <a href=\"https://www.theguardian.com/business/2026/jul/19/andy-burnham-economy-defence-housing-and-living-costs\">“good growth in every postcode”</a>, the union umbrella body is calling on Healey to use <a href=\"https://www.theguardian.com/business/2026/jul/31/john-healey-budget-late-october\">his first budget on 28 October</a> to re-examine the assessments of the watchdog.</p> <a href=\"https://www.theguardian.com/business/2026/aug/08/tuc-review-obr-investment-economy-business\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7579,
       "tags": [
         "AI"
       ],
