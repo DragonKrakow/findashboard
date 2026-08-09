@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-09T16:08:51.113843+00:00",
+  "generated_at": "2026-08-09T20:08:24.983815+00:00",
   "articles": [
+    {
+      "id": "0a6870d170c8",
+      "title": "Hungarian Central Banker Touts Benefits of Joining Euro Area",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-09/hungarian-central-banker-touts-benefits-of-joining-euro-area",
+      "published_at": "2026-08-09T17:23:31+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Hungary’s central bank renewed its support for the government’s efforts to meet conditions for joining the euro area, saying it would benefit the economy.",
+      "tags": []
+    },
+    {
+      "id": "c10151f0f326",
+      "title": "Bloomberg This Weekend 08/09/2026",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-09/bloomberg-this-weekend-08-09-2026-video",
+      "published_at": "2026-08-09T15:57:13+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by",
+      "tags": []
+    },
     {
       "id": "f961ea9ab280",
       "title": "By The Way: Headline You May Have Missed",
@@ -98,39 +122,15 @@
       "tags": []
     },
     {
-      "id": "9e06659a7336",
-      "title": "Puerto Rico Rations Water as Drought Deepens",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-09/puerto-rico-rations-water-as-drought-deepens-video",
-      "published_at": "2026-08-09T12:23:27+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "More than 180,000 customers in Puerto Rico are facing rotating 48-hour water outages as severe drought compounds longstanding problems with the island’s water infrastructure. Resident Commissioner Rep",
-      "tags": []
-    },
-    {
-      "id": "51ba2c3d1a55",
-      "title": "Iran Talks Offer Little Relief for Hormuz Shipping",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-09/iran-talks-offer-little-relief-for-hormuz-shipping-video",
-      "published_at": "2026-08-09T12:08:57+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Iran and Oman are still discussing a temporary arrangement for shipping through the Strait of Hormuz, but attacks on regional energy infrastructure and major disagreements over transit rules are compl",
-      "tags": []
-    },
-    {
-      "id": "e9e7954ccd6a",
-      "title": "Investors return to European stocks as strong earnings lift Iran war gloom",
+      "id": "d6754ca02a9c",
+      "title": "Trump is dismantling US guardrails, warn former security officials",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/297a8bf7-ce8b-44fe-bc51-3e2ec2e47699?syn-25a6b1a6=1",
-      "published_at": "2026-08-09T04:00:09+00:00",
+      "url": "https://www.ft.com/content/4fc0fdda-0919-4584-9bdd-855e2aaa5c09?syn-25a6b1a6=1",
+      "published_at": "2026-08-09T16:00:01+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Companies in the Stoxx Europe 600 are on track to deliver a 22% increase in profits in the second quarter",
+      "summary": "Ex-CIA staffers step up efforts to publicise their deepening alarm about the state of American democracy",
       "tags": []
     },
     {
@@ -170,6 +170,18 @@
       "tags": []
     },
     {
+      "id": "e9e7954ccd6a",
+      "title": "Investors return to European stocks as strong earnings lift Iran war gloom",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/297a8bf7-ce8b-44fe-bc51-3e2ec2e47699?syn-25a6b1a6=1",
+      "published_at": "2026-08-09T04:00:09+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Companies in the Stoxx Europe 600 are on track to deliver a 22% increase in profits in the second quarter",
+      "tags": []
+    },
+    {
       "id": "4dc38c96e279",
       "title": "France faces budget showdown as presidential election looms",
       "source": "International homepage",
@@ -183,14 +195,14 @@
     },
     {
       "id": "bfca39fd40f1",
-      "title": "Organised crime suspect Daniel Kinahan extradited from Dubai",
+      "title": "Organised crime suspect Daniel Kinahan extradited from Dubai to Ireland",
       "source": "International homepage",
       "url": "https://www.ft.com/content/a6a000a4-3578-41d0-a898-aeef5f1dbaa0",
-      "published_at": "2026-08-09T12:01:48+00:00",
+      "published_at": "2026-08-09T18:44:21+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Irish government jet flies alleged drug trafficker back to Dublin to face charges",
+      "summary": "Irish government jet believed to be carrying alleged drug trafficker lands in Dublin",
       "tags": []
     },
     {
@@ -314,6 +326,18 @@
       "tags": []
     },
     {
+      "id": "cbc35a522a48",
+      "title": "Is Clarity's delay a blessing in disguise?: State of Crypto",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/policy/2026/08/09/is-clarity-s-delay-a-blessing-in-disguise-state-of-crypto",
+      "published_at": "2026-08-09T18:30:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Is Clarity's delay a blessing in disguise?: State of Crypto",
+      "tags": []
+    },
+    {
       "id": "bda1f2848bd7",
       "title": "Hyperliquid’s RWA perps boom is eating into the revenue that backs HYPE",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
@@ -422,15 +446,111 @@
       "tags": []
     },
     {
-      "id": "5be6ac1a051d",
-      "title": "U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month",
-      "published_at": "2026-08-08T09:07:24+00:00",
+      "id": "c92280e3ae3a",
+      "title": "Allspring International Equity Fund Q2 2026 Commentary",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4933907-allspring-international-equity-fund-q2-2026-commentary?source=feed_all_articles",
+      "published_at": "2026-08-09T19:19:00+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month",
+      "summary": "Allspring International Equity Fund Q2 2026 Commentary",
+      "tags": []
+    },
+    {
+      "id": "69b830fc9c19",
+      "title": "Banks: The Overlooked Beneficiary Of The AI Capital Cycle",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4933908-banks-the-overlooked-beneficiary-of-ai-capital-cycle?source=feed_all_articles",
+      "published_at": "2026-08-09T19:15:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Banks: The Overlooked Beneficiary Of The AI Capital Cycle",
+      "tags": []
+    },
+    {
+      "id": "9e455614e8a3",
+      "title": "Alger Dynamic Opportunities Fund Q2 2026 Portfolio Update",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4933906-alger-dynamic-opportunities-fund-q2-2026-portfolio-update?source=feed_all_articles",
+      "published_at": "2026-08-09T19:05:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Alger Dynamic Opportunities Fund Q2 2026 Portfolio Update",
+      "tags": []
+    },
+    {
+      "id": "ce7f7a7bef97",
+      "title": "Alger Dynamic Opportunities Fund Q2 2026 Commentary",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4933905-alger-dynamic-opportunities-fund-q2-2026-commentary?source=feed_all_articles",
+      "published_at": "2026-08-09T18:59:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Alger Dynamic Opportunities Fund Q2 2026 Commentary",
+      "tags": []
+    },
+    {
+      "id": "7ee1808d62dc",
+      "title": "Calamos Global Equity Fund Q2 2026 Commentary",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4933904-calamos-global-equity-fund-q2-2026-commentary?source=feed_all_articles",
+      "published_at": "2026-08-09T18:23:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Calamos Global Equity Fund Q2 2026 Commentary",
+      "tags": []
+    },
+    {
+      "id": "10c54b5dd738",
+      "title": "Davenport Value & Income Fund Q2 2026 Commentary",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4933903-davenport-value-and-income-fund-q2-2026-commentary?source=feed_all_articles",
+      "published_at": "2026-08-09T18:04:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Davenport Value & Income Fund Q2 2026 Commentary",
+      "tags": []
+    },
+    {
+      "id": "614d2c0a8427",
+      "title": "SpaceX: Paying The Piper First",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4933845-spacex-paying-the-piper-first?source=feed_all_articles",
+      "published_at": "2026-08-09T18:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "SpaceX: Paying The Piper First",
+      "tags": []
+    },
+    {
+      "id": "9894041d09ab",
+      "title": "Hartford Floating Rate Fund Q2 2026 Commentary",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4933902-hartford-floating-rate-fund-q2-2026-commentary?source=feed_all_articles",
+      "published_at": "2026-08-09T17:52:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Hartford Floating Rate Fund Q2 2026 Commentary",
+      "tags": []
+    },
+    {
+      "id": "91df3f4359fd",
+      "title": "Infrastructure Capital Small Cap Income ETF And The Case For Screening Small Caps By Dividend And Balance Sheet",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4933901-infrastructure-capital-small-cap-income-etf-and-case-for-screening-small-caps-by-dividend-and-balance-sheet?source=feed_all_articles",
+      "published_at": "2026-08-09T16:50:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Infrastructure Capital Small Cap Income ETF And The Case For Screening Small Caps By Dividend And Balance Sheet",
       "tags": []
     },
     {
@@ -443,114 +563,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Victory RS International Fund Q2 2026 Commentary",
-      "tags": []
-    },
-    {
-      "id": "0ba33edf06e5",
-      "title": "Dell Technologies: Significant Upside Remains, The Bull Case Still Holds",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4933899-dell-technologies-stock-upside-remains-bull-case-holds?source=feed_all_articles",
-      "published_at": "2026-08-09T14:55:12+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Dell Technologies: Significant Upside Remains, The Bull Case Still Holds",
-      "tags": []
-    },
-    {
-      "id": "565a85fee1e3",
-      "title": "Blackstone Secured Lending: Discount To NAV And A Dip In Non-Accruals",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4933898-blackstone-secured-lending-discount-to-nav-dip-in-non-accruals?source=feed_all_articles",
-      "published_at": "2026-08-09T14:52:18+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Blackstone Secured Lending: Discount To NAV And A Dip In Non-Accruals",
-      "tags": []
-    },
-    {
-      "id": "f09d12baa737",
-      "title": "Ralph Lauren Posts Another Earnings Beat, As Bull Case Is Reaffirmed On Durability",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4933896-ralph-lauren-stock-earnings-beat-bull-case-reaffirmed?source=feed_all_articles",
-      "published_at": "2026-08-09T14:23:59+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Ralph Lauren Posts Another Earnings Beat, As Bull Case Is Reaffirmed On Durability",
-      "tags": []
-    },
-    {
-      "id": "ccf32ed9fdd0",
-      "title": "First Busey: The Preferred Shares With A 7.5% Yield To Call Are A 'Buy'",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4933442-first-busey-the-preferred-shares-with-a-7-5-percent-yield-to-call-are-a-buy?source=feed_all_articles",
-      "published_at": "2026-08-09T14:20:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "First Busey: The Preferred Shares With A 7.5% Yield To Call Are A 'Buy'",
-      "tags": []
-    },
-    {
-      "id": "23f3a3357f15",
-      "title": "2 High-Yields Trading At Historic Lows",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4933291-2-high-yields-trading-at-historic-loss?source=feed_all_articles",
-      "published_at": "2026-08-09T14:15:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "2 High-Yields Trading At Historic Lows",
-      "tags": []
-    },
-    {
-      "id": "a14202f978e3",
-      "title": "SpaceX: Weathering Lockup Expirations",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4933895-spacex-weathering-lockup-expirations?source=feed_all_articles",
-      "published_at": "2026-08-09T14:07:20+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "SpaceX: Weathering Lockup Expirations",
-      "tags": []
-    },
-    {
-      "id": "1db2555fbfb6",
-      "title": "Vistra Has Progress, But Not Enough For A Buy",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4933897-vistra-stock-progress-not-enough-for-buy?source=feed_all_articles",
-      "published_at": "2026-08-09T14:00:49+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Vistra Has Progress, But Not Enough For A Buy",
-      "tags": []
-    },
-    {
-      "id": "78e5e5e523fd",
-      "title": "Pagaya: AI Is Turning Consumer Credit Into Infrastructure",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4933894-pagaya-stock-ai-turning-consumer-credit-infrastructure?source=feed_all_articles",
-      "published_at": "2026-08-09T14:00:21+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Pagaya: AI Is Turning Consumer Credit Into Infrastructure",
-      "tags": []
-    },
-    {
-      "id": "6b27e3c56149",
-      "title": "Celsius: Blowing The Alani Gift",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4933889-celsius-blowing-alani-gift?source=feed_all_articles",
-      "published_at": "2026-08-09T14:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Celsius: Blowing The Alani Gift",
       "tags": []
     }
   ]
