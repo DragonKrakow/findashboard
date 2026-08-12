@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-11T05:48:08Z",
-  "snapshot_date": "2026-08-11",
+  "generated_at": "2026-08-12T05:59:42Z",
+  "snapshot_date": "2026-08-12",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Archer strikes deal with Boeing in latest bid to transform aviation through AI",
-      "url": "https://www.marketwatch.com/story/archer-strikes-deal-with-boeing-in-latest-bid-to-transform-aviation-through-ai-dac15322?mod=mw_rss_topstories",
+      "title": "CoreWeave’s stock soars as earnings show major AI momentum",
+      "url": "https://www.marketwatch.com/story/coreweaves-stock-soars-as-earnings-show-major-ai-momentum-d3a5bede?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-10T22:52:00+00:00",
-      "summary": "Archer Aviation’s stock is flying higher after the company agreed to buy three business units from Boeing.",
-      "sentiment": "neutral",
-      "sentiment_score": -0.1027,
+      "published_at": "2026-08-12T00:17:00+00:00",
+      "summary": "The AI cloud provider topped revenue and earnings expectations, with its CEO cheering “an important inflection point.”",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6249,
       "tags": [
         "AI"
       ],
@@ -20,13 +20,58 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Intel plans to sell $15 billion worth of stock after it has risen 400% in a year",
-      "url": "https://www.marketwatch.com/story/intel-plans-to-sell-15-billion-worth-of-stock-after-it-has-risen-400-in-a-year-395effce?mod=mw_rss_topstories",
+      "title": "Lumentum sees sales more than double as AI demand swells",
+      "url": "https://www.marketwatch.com/story/lumentum-sees-sales-more-than-double-as-ai-demand-swells-6ebe6ef1?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-10T22:46:00+00:00",
-      "summary": "The company said it sees growth opportunities in physical AI, custom chips and advanced packaging.",
+      "published_at": "2026-08-12T00:15:00+00:00",
+      "summary": "Though Lumentum posted blowout earnings and an upbeat forecast, its stock was largely flat after hours.",
+      "sentiment": "neutral",
+      "sentiment_score": -0.128,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "‘I unexpectedly came into some money’: Is putting $20,000 into CDs a smart move?",
+      "url": "https://www.marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-08-11T22:30:00+00:00",
+      "summary": "“I want to make the process as straightforward as possible for my beneficiaries to access the funds.”",
       "sentiment": "bullish",
-      "sentiment_score": 0.7964,
+      "sentiment_score": 0.7003,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "I found a $100 bill in the communal washer at my Airbnb. What should I do?",
+      "url": "https://www.marketwatch.com/story/im-dreaming-of-cocktails-at-chateau-marmont-i-found-100-in-my-airbnbs-communal-washer-what-should-i-do-9694ecca?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-08-11T21:15:00+00:00",
+      "summary": "“The landlord has not been here in months, so I assume it was a previous tenant.”",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China",
+      "url": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-08-11T21:01:13+00:00",
+      "summary": "Nvidia CEO Jensen Huang is pitching GPUs as long-term collateral to unlock $500 billion in funding. The question is how fast will his chips depreciate?",
+      "sentiment": "bearish",
+      "sentiment_score": -0.2732,
       "tags": [
         "Chips",
         "AI"
@@ -36,13 +81,13 @@
       "source_repo": "financenews"
     },
     {
-      "title": "SpaceX’s stock moves above its IPO price for the first time in almost a month",
-      "url": "https://www.marketwatch.com/story/spacexs-stock-moves-above-its-ipo-price-for-the-first-time-in-almost-a-month-fc3f91b7?mod=mw_rss_topstories",
+      "title": "Cava’s sales surge as diners swap lettuce for grain bowls and pitas amid food-safety scare",
+      "url": "https://www.marketwatch.com/story/cava-reports-sales-growth-even-as-some-customers-steer-clear-of-lettuce-044b7f51?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-10T22:39:00+00:00",
-      "summary": "SpaceX shares have been clawing their way back in recent days but remain well off their highs.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5023,
+      "published_at": "2026-08-11T20:41:00+00:00",
+      "summary": "Cava Group says some diners have switched up their orders to avoid lettuce, but the fast-casual chain has still been able to sport sales growth despite a summer of food-safety scares impacting the restaurant industry writ large.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.34,
       "tags": [
         "AI"
       ],
@@ -51,13 +96,73 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Here’s who stands to gain the most from a Jeff Bezos-Liverpool FC deal",
-      "url": "https://www.marketwatch.com/story/heres-who-stands-to-gain-the-most-from-a-jeff-bezos-liverpool-fc-deal-24db9b94?mod=mw_rss_topstories",
+      "title": "Oracle’s stock has taken a hit as AI spending concerns resurface",
+      "url": "https://www.marketwatch.com/story/oracles-stock-has-taken-a-hit-as-ai-spending-concerns-resurface-bdb9bf09?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-10T22:33:00+00:00",
-      "summary": "LeBron James’s Liverpool stake would soar if Bezos completes deal to become part owner of English soccer club",
+      "published_at": "2026-08-11T20:32:00+00:00",
+      "summary": "A lack of clarity around Oracle’s future AI spending plans is keeping investors on the sidelines, one analyst believes.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.1027,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Is betting on elections using prediction markets illegal? Many states are unsure as midterms approach",
+      "url": "https://www.cnbc.com/2026/08/11/do-state-election-betting-bans-apply-to-prediction-markets.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-08-11T18:44:16+00:00",
+      "summary": "Twenty-three states have laws banning betting on elections, according to Pew Research. Not every state is sure these rules apply to prediction market trades.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.5106,
+      "tags": [
+        "Election"
+      ],
+      "signal": "watch",
+      "category": "markets",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
+      "url": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-08-11T18:09:08+00:00",
+      "summary": "The exchange is partnering with Silicon Data to introduce two compute futures contracts on Oct. 5, pending regulatory review.",
       "sentiment": "bullish",
-      "sentiment_score": 0.5267,
+      "sentiment_score": 0.3612,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
+      "url": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-08-11T14:11:05+00:00",
+      "summary": "The first three-plus years of the AI build-out have been funded by record amounts of equity and debt issued by leading tech companies. Nvidia has a new idea.",
+      "sentiment": "neutral",
+      "sentiment_score": -0.128,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Consumer confidence at near two-year high as World Cup and UK holidaying lift summer spending",
+      "url": "https://www.theguardian.com/business/2026/aug/11/consumer-confidence-world-cup-uk-holidaying-lift-summer-spending-barclays-survey",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-11T06:00:06+00:00",
+      "summary": "<p>Barclays says survey shows people feel more secure in jobs and have more leeway to spend on non-essentials</p><p>Consumer confidence hit its highest level in almost two years in July, according to research that indicated the closing stages of the men’s football World Cup and more people holidaying in the UK raised summer spending.</p><p>A truce in the Middle East conflict in June and the arrival of a new prime minister in No 10 also gave a lift to consumers after a long period of heightened uncertainty.</p> <a href=\"https://www.theguardian.com/business/2026/aug/11/consumer-confidence-world-cup-uk-holidaying-lift-summer-spending-barclays-survey\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6997,
       "tags": [
         "AI"
       ],
@@ -350,116 +455,6 @@
       "sentiment": "bullish",
       "sentiment_score": 0.2732,
       "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Trump Fed chair’s inflation strategy: leave it to the market | Eduardo Porter",
-      "url": "https://www.theguardian.com/business/2026/aug/04/trump-fed-kevin-warsh",
-      "source": "The Guardian Economics",
-      "published_at": "2026-08-04T11:00:48+00:00",
-      "summary": "<p>Kevin Warsh would rather stay out of the fray – and thus devalue the Fed’s credibility as an economic steward</p><p>It must feel strange to argue that government action is inevitably counter-productive – illegitimate even – when the government is you.</p><p>For the last half century, the Republican party has been comfortable with the contradiction. It’s framed in that clever quote from <a href=\"https://www.theguardian.com/us-news/ronald-reagan\">Ronald Reagan</a>’s 1981 inaugural speech: “Government is not the solution to our problem; government is the problem.” Solutions, in this view, are delivered by free, unencumbered markets.</p> <a href=\"https://www.theguardian.com/business/2026/aug/04/trump-fed-kevin-warsh\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6044,
-      "tags": [
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
-      "url": "https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-08-03T19:20:25+00:00",
-      "summary": "California has the highest gas prices in the country as well as the busiest containership port, meaning consumers across the country could feel the impact of higher diesel.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.4215,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams",
-      "url": "https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-08-03T16:44:25+00:00",
-      "summary": "It is also the latest move by Visa to expand its value-added services business, which has become one of the company's fastest-growing divisions.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.3612,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Oil prices plunge and Europe’s markets rally after Trump calls off Iran strikes",
-      "url": "https://www.theguardian.com/business/2026/aug/03/oil-prices-fall-europe-stock-markets-donald-trump-iran-us-brent-crude",
-      "source": "The Guardian Economics",
-      "published_at": "2026-08-03T12:10:59+00:00",
-      "summary": "<p>Brent crude drops by 5% after US president claimed talks on Middle East peace deal would resume</p><p>Crude oil prices fell sharply while stocks and government bonds rallied on Monday after Donald Trump cancelled planned strikes on Iran and claimed peace talks were about to resume.</p><p>Brent crude was trading 5% lower at $83.47 a barrel by lunchtime, after falling as much as 7.3% to $81.55 a barrel. US West Texas Intermediate dropped more than 5% to $79.47 a barrel.</p> <a href=\"https://www.theguardian.com/business/2026/aug/03/oil-prices-fall-europe-stock-markets-donald-trump-iran-us-brent-crude\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.8481,
-      "tags": [
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "UK manufacturing growth picks up as Trump tariff chaos eases",
-      "url": "https://www.theguardian.com/business/2026/aug/03/uk-manufacturing-growth-donald-trump-tariff-us-iran",
-      "source": "The Guardian Economics",
-      "published_at": "2026-08-03T10:29:26+00:00",
-      "summary": "<p>Factories in upbeat mood despite fears over economic impact of US war on Iran, poll finds</p><p>UK manufacturers ramped up production last month for the fourth consecutive month and at the fastest pace in almost two years, according to a leading survey of the industry.</p><p>The S&amp;P Global poll of manufacturers found them in upbeat mood in July, though anxious about the prospect of a long war in the Middle East that would block supplies of oil and gas, and raise the cost of production.</p> <a href=\"https://www.theguardian.com/business/2026/aug/03/uk-manufacturing-growth-donald-trump-tariff-us-iran\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.8388,
-      "tags": [
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Yen hits three-month high after Trump helps prop up currency",
-      "url": "https://www.theguardian.com/business/2026/aug/03/yen-trump-currency-us-japan",
-      "source": "The Guardian Economics",
-      "published_at": "2026-08-03T08:34:06+00:00",
-      "summary": "<p>US and Japanese governments confirm they carried out a rare joint intervention late last week</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/aug/03/trump-japan-currency-yen-explainer\">Why has Trump stepped in to prop up Japan’s currency?</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/03/uk-economy-recession-strait-hormuz-closed-oil-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The yen has hit its highest level in three months after <a href=\"https://www.theguardian.com/world/2026/aug/03/trump-japan-currency-yen-explainer\">Japan and the US</a> launched a combined operation to support the Japanese currency.</p><p>The yen strengthened to ¥155 to the US dollar on Monday, its highest level since early May, after Tokyo and Washington confirmed they had carried out a rare joint currency intervention late last week.</p> <a href=\"https://www.theguardian.com/business/2026/aug/03/yen-trump-currency-us-japan\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8225,
-      "tags": [
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Trump’s hypocritical new tariffs are a chance for the world to fight back | Joseph Stiglitz",
-      "url": "https://www.theguardian.com/business/2026/aug/03/donald-trump-tariffs-us-eu-forced-labour",
-      "source": "The Guardian Economics",
-      "published_at": "2026-08-03T06:00:42+00:00",
-      "summary": "<p>The president’s pretext of stopping forced labour is only a ruse – he is trying to grab a share of global trade for the US</p><p>Here he goes again. The US President, Donald Trump, is increasing and decreasing tariffs willy-nilly, violating international agreements that he himself signed and almost surely violating federal law. The only difference this time is that he has a new pretext for abusing tariffs: stopping forced labour.</p><p>Of course, the administration is right that too little is being done about forced labour. But its stated concern is a ruse. With the new tariffs closely tracking the ones that Trump imposed on the basis of trade balances, are we supposed to believe that bilateral trade deficits just so happen to be highly correlated with the use of forced labour?</p> <a href=\"https://www.theguardian.com/business/2026/aug/03/donald-trump-tariffs-us-eu-forced-labour\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9254,
-      "tags": [
-        "Fed",
         "AI"
       ],
       "signal": "watch",
