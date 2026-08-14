@@ -1,17 +1,62 @@
 {
-  "generated_at": "2026-08-13T05:59:55Z",
-  "snapshot_date": "2026-08-13",
+  "generated_at": "2026-08-14T05:59:39Z",
+  "snapshot_date": "2026-08-14",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Super Micro gives a big sales forecast, but analysts wonder how long the momentum can last",
-      "url": "https://www.marketwatch.com/story/super-micro-stock-is-rallying-after-results-heres-what-wall-street-is-saying-631e9253?mod=mw_rss_topstories",
+      "title": "Dell’s stock has beaten Micron and AMD this year — and now it’s adding to its gains",
+      "url": "https://www.marketwatch.com/story/dells-stock-has-beaten-micron-and-amd-this-year-and-now-its-adding-to-its-gains-11c00117?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-12T22:00:00+00:00",
-      "summary": "Super Micro Computer impressed Wall Street with its profitability trends and revenue projections, but some analysts aren’t sure that the momentum is sustainable.",
+      "published_at": "2026-08-13T22:09:00+00:00",
+      "summary": "Shares of Dell have roughly quadrupled in price this year, with Lenovo’s earnings report helping to drive the latest bout of momentum for the PC and server maker.",
       "sentiment": "bullish",
-      "sentiment_score": 0.9555,
+      "sentiment_score": 0.4588,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Salesforce’s stock gets a boost as J.P. Morgan says AI fears are overblown",
+      "url": "https://www.marketwatch.com/story/salesforces-stock-gets-a-boost-as-j-p-morgan-says-ai-fears-are-overblown-feebb221?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-08-13T22:07:00+00:00",
+      "summary": "An analyst predicts 29% upside for Salesforce shares, citing some promising AI features.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5859,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Sandisk’s stock is flying higher. Here are the new targets that are exciting Wall Street.",
+      "url": "https://www.marketwatch.com/story/sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall-street-4eaab99d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-08-13T22:05:00+00:00",
+      "summary": "The memory-chip company just offered revenue-growth forecasts stretching to the end of the decade, and Sandisk expects to maintain its high profitability as the years go on.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6486,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "I found a $100 bill in the communal washer at my Airbnb. What should I do?",
+      "url": "https://www.marketwatch.com/story/im-dreaming-of-cocktails-at-chateau-marmont-i-found-100-in-my-airbnbs-communal-washer-what-should-i-do-9694ecca?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-08-13T22:00:00+00:00",
+      "summary": "“The landlord has not been here in months, so I assume it was a previous tenant.”",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
       "tags": [
         "AI"
       ],
@@ -23,7 +68,7 @@
       "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
       "url": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-12T22:00:00+00:00",
+      "published_at": "2026-08-13T21:30:00+00:00",
       "summary": "“I would like to offer a piece of advice for women who are or have been married.”",
       "sentiment": "bullish",
       "sentiment_score": 0.7845,
@@ -35,13 +80,13 @@
       "source_repo": "financenews"
     },
     {
-      "title": "SpaceX’s stock is getting a Grok-fueled boost",
-      "url": "https://www.marketwatch.com/story/spacexs-stock-is-getting-a-grok-fueled-boost-e99497b4?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-12T21:59:00+00:00",
-      "summary": "The company is best known for rocket launches but has big revenue goals for its AI business.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5346,
+      "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
+      "url": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-08-13T16:38:06+00:00",
+      "summary": "Iran’s central bank chief said Thursday that the country is set to join the BRICS New Development Bank.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.5267,
       "tags": [
         "AI"
       ],
@@ -50,49 +95,97 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Alphabet’s stock slips as Nvidia’s $500 billion financing deal threatens custom chips",
-      "url": "https://www.marketwatch.com/story/alphabets-stock-slips-as-nvidias-500-billion-financing-deal-threatens-custom-chips-c4166a59?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-12T21:55:00+00:00",
-      "summary": "Investors are concerned that Alphabet faces a fresh threat from Nvidia’s plans to help fund the AI buildout alongside major Wall Street players.",
+      "title": "'Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom",
+      "url": "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-08-13T15:16:00+00:00",
+      "summary": "Steve Eisman is warning that the artificial intelligence boom has become increasingly dependent on the fortunes of just two companies: OpenAI and Anthropic.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.1779,
+      "tags": [
+        "AI",
+        "Artificial Intelligence"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Andy Burnham ‘angry’ over water company bill increases; Sports Direct owner buys Harvey Nichols – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/aug/13/uk-economy-gdp-growth-second-quarter-services-june-hot-weather-heatwave-world-cup-business-latest-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-13T13:58:42+00:00",
+      "summary": "<p>Live, rolling coverage of business, economics and financial markets as regulator says five companies can raise bills to pay for infrastructure for new housing and datacentres</p><p>The biggest factor for the <strong>FTSE 100</strong>’s underperformance on Thursday morning relative to other European markets is a big decline in the <strong>mining sector</strong>.</p><p>Chilean miner <strong>Antofagasta</strong> is the biggest faller on London’s benchmark index, down 4.9% after it cut its guidance for future output.</p><p>The London-listed miner cut its 2026 copper output estimate to between 625,000 and 655,000 metric tons, from a previous forecast of 650,000 to 700,000 tons, due to a shutdown at its Los Pelambres mine in July after extreme rains prompted Chile’s government to declare a “state of catastrophe” in the Coquimbo Region.</p><p>While there has been no material impact on key equipment and infrastructure, the miner said it will need to repair some pipeline platforms and water management systems.</p> <a href=\"https://www.theguardian.com/business/live/2026/aug/13/uk-economy-gdp-growth-second-quarter-services-june-hot-weather-heatwave-world-cup-business-latest-updates\">Continue reading...</a>",
       "sentiment": "bearish",
-      "sentiment_score": -0.25,
+      "sentiment_score": -0.7003,
+      "tags": [
+        "Mining",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "UK economy shows surprising resilience – but that might not last | Richard Partington",
+      "url": "https://www.theguardian.com/business/2026/aug/13/uk-economy-gdp-growth-energy-costs-inflation",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-13T10:26:46+00:00",
+      "summary": "<p>Weaker growth, rising energy costs and persistent inflation mean Britain could face tougher times in the autumn</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/aug/13/uk-economic-growth-slows-iran-war-energy-prices-gdp-ons\">UK economic growth slows down</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/13/uk-economy-gdp-growth-second-quarter-services-june-hot-weather-heatwave-world-cup-business-latest-updates\">Business live – latest updates</a></p></li></ul><p>In the spring the <a href=\"https://www.theguardian.com/business/2026/apr/14/iran-war-global-recession-imf-uk-growth-forecasts-oil-prices\">International Monetary Fund</a> warned Britain faced the heaviest economic blow from the Iran war among the world’s most advanced nations. Almost six months into the conflict, on the surface, the UK appears to be proving the forecasters wrong.</p><p>The latest official figures show the UK maintained its pole position as the fastest growing economy in the G7 in the first half of 2026. Despite the gloomy international backdrop and yet more domestic political uncertainty, consumers have largely continued spending and business investment has boomed.</p> <a href=\"https://www.theguardian.com/business/2026/aug/13/uk-economy-gdp-growth-energy-costs-inflation\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.3094,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "UK economic growth slows down as Iran war pushes up energy prices",
+      "url": "https://www.theguardian.com/business/2026/aug/13/uk-economic-growth-slows-iran-war-energy-prices-gdp-ons",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-13T06:59:58+00:00",
+      "summary": "<p>GDP expanded by 0.4% in three months to June, but analysts warn growth is ‘likely to fade’</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/aug/13/uk-economy-gdp-growth-energy-costs-inflation\">UK economy shows surprising resilience</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/13/uk-economy-gdp-growth-second-quarter-services-june-hot-weather-heatwave-world-cup-business-latest-updates\">Business live – latest updates</a></p></li></ul><p>Economic growth slowed in the second quarter of the year, as the disruption unleashed by the Iran war began to take its toll, official figures show.</p><p>The Office for National Statistics (ONS) said GDP expanded by 0.4% in the three months to June, <a href=\"https://www.theguardian.com/business/2026/jul/16/uk-economy-grew-gdp-despite-iran-war\">down from 0.6% in the first quarter</a>, in line with City economists’ expectations.</p> <a href=\"https://www.theguardian.com/business/2026/aug/13/uk-economic-growth-slows-iran-war-energy-prices-gdp-ons\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.2144,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips",
+      "url": "https://www.cnbc.com/2026/08/13/chinese-firm-tops-micron-kioxia-shipments-nand-memory-chips.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-08-13T02:59:50+00:00",
+      "summary": "Counterpoint Research looked at the NAND segment of memory chips, which is benefitting along with the larger DRAM segment from artificial intelligence demand.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6705,
       "tags": [
         "Chips",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Cisco sees record results from an AI ‘supercycle,’ but its stock pulls back",
-      "url": "https://www.marketwatch.com/story/cisco-sees-record-results-from-an-ai-supercycle-but-its-stock-pulls-back-2635b81a?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-12T21:19:00+00:00",
-      "summary": "An 18% revenue surge and blowout 2027 forecast weren’t enough to sustain Cisco’s stock momentum.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Goldman’s latest deal underscores how ‘boomer candy’ ETFs are now big business on Wall Street",
-      "url": "https://www.marketwatch.com/story/goldmans-latest-deal-underscores-how-boomer-candy-etfs-are-now-big-business-on-wall-street-5520109d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-12T21:12:00+00:00",
-      "summary": "Goldman Sachs announced Wednesday that it has agreed to buy Neos Investments, adding yet another ETF shop to its fast-growing asset-management business.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.2732,
-      "tags": [
-        "Gold"
+        "Artificial Intelligence"
       ],
       "signal": "watch",
       "category": "markets",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data",
+      "url": "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-08-13T01:31:12+00:00",
+      "summary": "The China Passenger Car Association released data Tuesday showing penetration of new energy vehicles rose in July. Tesla's Model Y remained popular.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5267,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
       "source_repo": "financenews"
     },
     {
@@ -233,21 +326,6 @@
       "source_repo": "financenews"
     },
     {
-      "title": "EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data",
-      "url": "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-08-12T01:20:13+00:00",
-      "summary": "The China Passenger Car Association released data Tuesday showing penetration of new energy vehicles rose in July. Tesla's Model Y remained popular.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5267,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
       "title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China",
       "url": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
       "source": "CNBC Finance",
@@ -376,85 +454,6 @@
       "summary": "<p>TUC will urge John Healey to order ‘root and branch’ assessment of watchdog amid claims its forecasts downplay investment benefits</p><p>The TUC is urging the new chancellor, John Healey, to order a “root and branch” review of the Office for Budget Responsibility, claiming the forecaster’s approach holds back investment.</p><p>With Andy Burnham promising <a href=\"https://www.theguardian.com/business/2026/jul/19/andy-burnham-economy-defence-housing-and-living-costs\">“good growth in every postcode”</a>, the union umbrella body is calling on Healey to use <a href=\"https://www.theguardian.com/business/2026/jul/31/john-healey-budget-late-october\">his first budget on 28 October</a> to re-examine the assessments of the watchdog.</p> <a href=\"https://www.theguardian.com/business/2026/aug/08/tuc-review-obr-investment-economy-business\">Continue reading...</a>",
       "sentiment": "bullish",
       "sentiment_score": 0.7579,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Odds the Fed will hike in September tumble following big July jobs miss",
-      "url": "https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-08-07T13:34:44+00:00",
-      "summary": "A weaker labor market would weaken the case for raising rates, which some members of the central bank have called for amid higher energy prices.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.6369,
-      "tags": [
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "US unexpectedly lost 23,000 jobs in July as slump in growth continues",
-      "url": "https://www.theguardian.com/business/2026/aug/07/july-jobs-report-middle-east-conflict",
-      "source": "The Guardian Economics",
-      "published_at": "2026-08-07T13:22:43+00:00",
-      "summary": "<p>Estimates for previous two months were revised down sharply but unemployment rate held steady at 4.1%</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/07/rail-passengers-disruption-power-outage-uk-house-prices-stagnate-us-jobs-unemployment-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>US employers unexpectedly lost 23,000 jobs in July and gains for the previous two months were revised down sharply by a combined 103,000 jobs, painting a weaker picture of the labor market than past data indicated.</p><p>The unemployment rate, however, held steady at 4.1%. Economists had <a href=\"https://www.wsj.com/economy/jobs/private-sector-hiring-missed-expectations-in-july-adp-report-says-31f26993\">projected</a> an unchanged unemployment rate and 83,000 new jobs for the month.</p> <a href=\"https://www.theguardian.com/business/2026/aug/07/july-jobs-report-middle-east-conflict\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9442,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Trump orders new 15% tariff on key material for solar panels and microchips",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/trump-orders-tariff-solar-panels-microchips-manufacturing-ingredient",
-      "source": "The Guardian Economics",
-      "published_at": "2026-08-07T09:11:36+00:00",
-      "summary": "<p>Move to raise levy on goods made with polysilicon aims to protect domestic US supply chains from China, the major producer</p><p>Donald Trump has ordered a new 15% <a href=\"https://www.theguardian.com/business/tariffs\">tariff</a> on imported products made of polysilicon, an important ingredient in microchip manufacturing that is primarily produced by China.</p><p>The new tariff, which will take effect on 4 December, is aimed at supporting <a href=\"https://www.theguardian.com/technology/2026/jan/15/trump-tariff-nvidia-ai-chips\">US chip</a> and solar panel supply chains to compete with Beijing on artificial intelligence and energy.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/07/trump-orders-tariff-solar-panels-microchips-manufacturing-ingredient\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8555,
-      "tags": [
-        "Chips",
-        "AI",
-        "Artificial Intelligence",
-        "Supply Chain"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "United Wholesale Mortgage plunges 35% after suspending dividend and raising capital",
-      "url": "https://www.cnbc.com/2026/08/06/united-wholesale-mortgage-plunges-40percent-suspends-dividend-raises-capital-.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-08-06T20:37:51+00:00",
-      "summary": "\"We're taking decisive action to make UWM stronger, more liquid and better positioned to win for years to come,\" CEO Mat Ishbia said in a statement.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.9226,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Most Americans view rising living costs as biggest barrier to a better life, survey finds",
-      "url": "https://www.theguardian.com/business/2026/aug/06/americans-rising-cost-of-living-survey",
-      "source": "The Guardian Economics",
-      "published_at": "2026-08-06T11:00:50+00:00",
-      "summary": "<p>When asked to detail what would make a better life in three to five years, 60% of US adults said greater financial security</p><p>Americans may seem increasingly divided on beliefs and values, but in a new survey of more than 30,000 adults from across the country spanning generations and economic classes, a majority of Americans agree there’s a significant barrier to achieving a better life: the rising cost of living.</p><p>When asked to describe what a better life in three to five years would look like, 60% of Americans said they wanted greater financial security, according to a survey that was conducted by the McKinsey Institute for Economic Mobility and the WK Kellogg Foundation in mid-April.</p> <a href=\"https://www.theguardian.com/business/2026/aug/06/americans-rising-cost-of-living-survey\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.9782,
       "tags": [
         "AI"
       ],
