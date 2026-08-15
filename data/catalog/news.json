@@ -1,30 +1,15 @@
 {
-  "generated_at": "2026-08-14T05:59:39Z",
-  "snapshot_date": "2026-08-14",
+  "generated_at": "2026-08-15T05:39:39Z",
+  "snapshot_date": "2026-08-15",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Dell’s stock has beaten Micron and AMD this year — and now it’s adding to its gains",
-      "url": "https://www.marketwatch.com/story/dells-stock-has-beaten-micron-and-amd-this-year-and-now-its-adding-to-its-gains-11c00117?mod=mw_rss_topstories",
+      "title": "Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock",
+      "url": "https://www.marketwatch.com/story/berkshire-hathaway-doubles-down-on-the-u-s-housing-market-with-a-fresh-bet-on-this-stock-e5c8484a?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-13T22:09:00+00:00",
-      "summary": "Shares of Dell have roughly quadrupled in price this year, with Lenovo’s earnings report helping to drive the latest bout of momentum for the PC and server maker.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.4588,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Salesforce’s stock gets a boost as J.P. Morgan says AI fears are overblown",
-      "url": "https://www.marketwatch.com/story/salesforces-stock-gets-a-boost-as-j-p-morgan-says-ai-fears-are-overblown-feebb221?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-13T22:07:00+00:00",
-      "summary": "An analyst predicts 29% upside for Salesforce shares, citing some promising AI features.",
+      "published_at": "2026-08-14T21:34:00+00:00",
+      "summary": "Berkshire Hathaway has upped its bet on the U.S. housing market, and also boosted its stakes in Alphabet and Delta Air Lines.",
       "sentiment": "bullish",
       "sentiment_score": 0.5859,
       "tags": [
@@ -35,13 +20,29 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Sandisk’s stock is flying higher. Here are the new targets that are exciting Wall Street.",
-      "url": "https://www.marketwatch.com/story/sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall-street-4eaab99d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-13T22:05:00+00:00",
-      "summary": "The memory-chip company just offered revenue-growth forecasts stretching to the end of the decade, and Sandisk expects to maintain its high profitability as the years go on.",
+      "title": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
+      "url": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-08-14T20:05:57+00:00",
+      "summary": "Nvidia and Intel recently tapped the bank to help them meeting soaring demand for compute.",
       "sentiment": "bullish",
-      "sentiment_score": 0.6486,
+      "sentiment_score": 0.296,
+      "tags": [
+        "Gold",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "16 beaten-down AI stocks that are beloved by BofA analysts",
+      "url": "https://www.marketwatch.com/story/16-beaten-down-ai-stocks-that-are-beloved-by-bofa-analysts-3423dab2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-08-14T19:09:00+00:00",
+      "summary": "A recent selloff in AI-linked stocks offers opportunities for investors across the hardware, internet and energy sectors, according to analysts.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7906,
       "tags": [
         "AI"
       ],
@@ -50,13 +51,43 @@
       "source_repo": "financenews"
     },
     {
-      "title": "I found a $100 bill in the communal washer at my Airbnb. What should I do?",
-      "url": "https://www.marketwatch.com/story/im-dreaming-of-cocktails-at-chateau-marmont-i-found-100-in-my-airbnbs-communal-washer-what-should-i-do-9694ecca?mod=mw_rss_topstories",
+      "title": "Think interest rates are high now? These charts offers a different perspective.",
+      "url": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-13T22:00:00+00:00",
-      "summary": "“The landlord has not been here in months, so I assume it was a previous tenant.”",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
+      "published_at": "2026-08-14T17:51:00+00:00",
+      "summary": "Also in Weekend Reads: 10 remarkable housing markets, stock picks, and health-insurance battles.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6124,
+      "tags": [
+        "Interest Rates"
+      ],
+      "signal": "watch",
+      "category": "macro",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Luigi Mangione pleads guilty in federal court to stalking health-insurance CEO",
+      "url": "https://www.marketwatch.com/story/luigi-mangione-pleads-guilty-to-stalking-health-insurance-ceo-in-federal-court-d941ce3f?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-08-14T17:40:00+00:00",
+      "summary": "Luigi Mangione, who is accused of killing a UnitedHealthcare executive, pled guilty to federal stalking charges ahead of a high-profile state murder trial in New York set to begin next month.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.9584,
+      "tags": [
+        "Fed"
+      ],
+      "signal": "watch",
+      "category": "macro",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "US long-term borrowing costs hit 25-year high; weakening of UK’s EV sales targets criticised – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/aug/14/us-long-term-borrowing-25-year-high-trump-aviva-eurozone-economy-stock-markets-live-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-14T15:41:04+00:00",
+      "summary": "<p>Rolling coverage of the latest and economic news, as US sells 30-year bonds at highest borrowing costs since 2001</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2026/aug/14/andy-burnham-new-ev-sales-targets\">Andy Burnham looks to cut new EV sales targets</a></p></li></ul><p><br /></p><p><strong>Insurer Aviva said it is helping customers affected by the <a href=\"https://www.theguardian.com/uk-news/2026/aug/13/several-homes-ablaze-as-firefighters-try-to-contain-west-midlands-grassfire\">wildfires near Stourbridge</a> in the West Midlands, but said the fires were “not material” for the company, </strong><em><strong>my colleague Joanna Partridge reports.</strong></em></p><p>Aviva’s chief executive, <strong>Amanda</strong> <strong>Blanc</strong>, told reporters the company had been in contact with its customers “to make sure they’re in alternative accommodation”, adding: “It must be absolutely horrendous for those customers that have had their homes destroyed by fire.”</p><p>“In the longer term, we’re always obviously looking at the pricing models around exposure management, about what more we could do, about how we can actually help customers to prevent some of these events. Are there things that you can build into properties that will actually mitigate some of these events, I’m thinking particularly of flooding. That is an area where we are working on resilience, so we can help our customers be better prepared for when these events happen.”</p> <a href=\"https://www.theguardian.com/business/live/2026/aug/14/us-long-term-borrowing-25-year-high-trump-aviva-eurozone-economy-stock-markets-live-news-updates\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.4689,
       "tags": [
         "AI"
       ],
@@ -65,13 +96,13 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
-      "url": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-13T21:30:00+00:00",
-      "summary": "“I would like to offer a piece of advice for women who are or have been married.”",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7845,
+      "title": "Uber partners with China's Pony.ai for 2,000 robotaxis in Europe",
+      "url": "https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-08-14T01:02:39+00:00",
+      "summary": "The rollout comes as robotaxi fleet sizes become increasingly critical for commercialization.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.3182,
       "tags": [
         "AI"
       ],
@@ -424,36 +455,6 @@
       "summary": "Collateralized loan obligations may become the next big push in the exchange-traded fund industry.",
       "sentiment": "bullish",
       "sentiment_score": 0.4588,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
-      "url": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-08-08T13:28:00+00:00",
-      "summary": "Strength across its energy, railroad and manufacturing businesses more than offset weaker insurance results.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.2815,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Union calls for robust review of OBR over fears it holds back economic growth",
-      "url": "https://www.theguardian.com/business/2026/aug/08/tuc-review-obr-investment-economy-business",
-      "source": "The Guardian Economics",
-      "published_at": "2026-08-08T06:00:38+00:00",
-      "summary": "<p>TUC will urge John Healey to order ‘root and branch’ assessment of watchdog amid claims its forecasts downplay investment benefits</p><p>The TUC is urging the new chancellor, John Healey, to order a “root and branch” review of the Office for Budget Responsibility, claiming the forecaster’s approach holds back investment.</p><p>With Andy Burnham promising <a href=\"https://www.theguardian.com/business/2026/jul/19/andy-burnham-economy-defence-housing-and-living-costs\">“good growth in every postcode”</a>, the union umbrella body is calling on Healey to use <a href=\"https://www.theguardian.com/business/2026/jul/31/john-healey-budget-late-october\">his first budget on 28 October</a> to re-examine the assessments of the watchdog.</p> <a href=\"https://www.theguardian.com/business/2026/aug/08/tuc-review-obr-investment-economy-business\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7579,
       "tags": [
         "AI"
       ],
