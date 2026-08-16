@@ -1,18 +1,49 @@
 {
-  "generated_at": "2026-08-15T05:39:39Z",
-  "snapshot_date": "2026-08-15",
+  "generated_at": "2026-08-16T05:40:27Z",
+  "snapshot_date": "2026-08-16",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock",
-      "url": "https://www.marketwatch.com/story/berkshire-hathaway-doubles-down-on-the-u-s-housing-market-with-a-fresh-bet-on-this-stock-e5c8484a?mod=mw_rss_topstories",
+      "title": "Think interest rates are high now? These charts offer a different perspective.",
+      "url": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-14T21:34:00+00:00",
-      "summary": "Berkshire Hathaway has upped its bet on the U.S. housing market, and also boosted its stakes in Alphabet and Delta Air Lines.",
+      "published_at": "2026-08-15T19:01:00+00:00",
+      "summary": "Also in Weekend Reads: 10 remarkable housing markets, stock picks, and health-insurance battles.",
       "sentiment": "bullish",
-      "sentiment_score": 0.5859,
+      "sentiment_score": 0.6124,
       "tags": [
+        "Interest Rates"
+      ],
+      "signal": "watch",
+      "category": "macro",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend",
+      "url": "https://www.marketwatch.com/story/ballet-flats-are-so-popular-that-even-brands-like-birkenstock-and-crocs-are-cashing-in-on-the-trend-3d44997c?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-08-15T17:08:00+00:00",
+      "summary": "Ballerina shoes are back in style thanks in part to nostalgia. Gen Z shoppers are even pairing them with running shorts.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8408,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Donald Trump doesn’t just love billionaires, he loves multimillionaires too",
+      "url": "https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-15T10:00:54+00:00",
+      "summary": "<p>US tax policy deprives the government of revenue and overwhelmingly serves the interests of the rich</p><p>After the House passed its version of <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s One Big Beautiful Bill Act (OBBBA) last year – <a href=\"https://www.brookings.edu/wp-content/uploads/2026/03/OBBBA_Preliminary_Assessment_2026-03-23-1.pdf\">the one that</a> paired a $5tn-plus tax cut with $1tn-plus of cuts from food stamps and <a href=\"https://www.theguardian.com/us-news/medicaid\">Medicaid</a> – the House speaker, <a href=\"https://www.theguardian.com/us-news/mike-johnson\">Mike Johnson</a>, explained that “this is not giving tax cuts to the millionaires”. The beneficiaries, he said, were “small business owners” that “provide the jobs in every community in America”.</p><p>Johnson was playing to the myth of the modest, sturdy Main Street job creator. It is an appealing story. It’s also the most consequential piece of BS distorting American policy that deprives the government of tax revenue, stunts American capitalism, twists regulations, thwarts competition and overwhelmingly serves millionaires’ interests.</p> <a href=\"https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7229,
+      "tags": [
+        "Regulation",
         "AI"
       ],
       "signal": "watch",
@@ -33,51 +64,6 @@
       ],
       "signal": "watch",
       "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "16 beaten-down AI stocks that are beloved by BofA analysts",
-      "url": "https://www.marketwatch.com/story/16-beaten-down-ai-stocks-that-are-beloved-by-bofa-analysts-3423dab2?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-14T19:09:00+00:00",
-      "summary": "A recent selloff in AI-linked stocks offers opportunities for investors across the hardware, internet and energy sectors, according to analysts.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7906,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Think interest rates are high now? These charts offers a different perspective.",
-      "url": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-14T17:51:00+00:00",
-      "summary": "Also in Weekend Reads: 10 remarkable housing markets, stock picks, and health-insurance battles.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6124,
-      "tags": [
-        "Interest Rates"
-      ],
-      "signal": "watch",
-      "category": "macro",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Luigi Mangione pleads guilty in federal court to stalking health-insurance CEO",
-      "url": "https://www.marketwatch.com/story/luigi-mangione-pleads-guilty-to-stalking-health-insurance-ceo-in-federal-court-d941ce3f?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-14T17:40:00+00:00",
-      "summary": "Luigi Mangione, who is accused of killing a UnitedHealthcare executive, pled guilty to federal stalking charges ahead of a high-profile state murder trial in New York set to begin next month.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9584,
-      "tags": [
-        "Fed"
-      ],
-      "signal": "watch",
-      "category": "macro",
       "source_repo": "financenews"
     },
     {
@@ -455,6 +441,21 @@
       "summary": "Collateralized loan obligations may become the next big push in the exchange-traded fund industry.",
       "sentiment": "bullish",
       "sentiment_score": 0.4588,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
+      "url": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-08-08T13:28:00+00:00",
+      "summary": "Strength across its energy, railroad and manufacturing businesses more than offset weaker insurance results.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.2815,
       "tags": [
         "AI"
       ],
