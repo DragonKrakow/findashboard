@@ -1,9 +1,165 @@
 {
-  "generated_at": "2026-08-16T05:40:27Z",
-  "snapshot_date": "2026-08-16",
+  "generated_at": "2026-08-17T05:43:26Z",
+  "snapshot_date": "2026-08-17",
   "source": "financenews",
   "count": 30,
   "articles": [
+    {
+      "title": "Summer jobs bounce back in UK thanks to busy calendar of sport and music",
+      "url": "https://www.theguardian.com/business/2026/aug/17/summer-jobs-bounce-back-in-uk-thanks-to-busy-calendar-of-sport-and-music",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-16T23:01:38+00:00",
+      "summary": "<p>Industry tracker finds ‘exceptionally warm weather’ has helped boost job listings in hospitality and tourism sector</p><p>The summer job has staged a comeback this year thanks to the hot weather and a packed calendar of events such as the men’s football World Cup, new UK figures show.</p><p>Recent months have seen a significant increase in seasonal hiring in sectors such as hospitality and tourism compared with summer 2025, said the Recruitment and Employment Confederation (REC), which runs a monthly labour market tracker.</p> <a href=\"https://www.theguardian.com/business/2026/aug/17/summer-jobs-bounce-back-in-uk-thanks-to-busy-calendar-of-sport-and-music\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.91,
+      "tags": [
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "U.S. stock futures little changed as investors ponder the Fed’s next move",
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-ponder-the-feds-next-move-27bcbea4?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-08-16T22:52:00+00:00",
+      "summary": "U.S. stock-index futures were little changed on Sunday after a quiet week on Wall Street, as investors await hints from the Fed concerning the outlook for interest rates.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5267,
+      "tags": [
+        "Interest Rates",
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
+      "url": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-08-16T18:15:00+00:00",
+      "summary": "“I would like to offer a piece of advice for women who are or have been married.”",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7845,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "My friend’s mother died. Can she stop Medicaid from taking the family home?",
+      "url": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-08-16T17:30:00+00:00",
+      "summary": "“She has contacted the mortgage company, but they will not discuss the mortgage.”",
+      "sentiment": "bearish",
+      "sentiment_score": -0.4404,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Interest rate dilemma for central banks as inflation rises but growth slows",
+      "url": "https://www.theguardian.com/business/2026/aug/16/interest-rate-dilemma-for-central-banks-as-inflation-rises-but-growth-slows",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-16T14:00:27+00:00",
+      "summary": "<p>The Federal Reserve, the ECB and the Bank of England appear unclear on how to tackle inflation amid the Iran war</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/aug/16/new-uk-cost-of-living-crisis-looms-rising-energy-bills-inflation\">New UK cost of living crisis looms as rising energy bills lift inflation</a></p></li></ul><p>Inflation rates have been falling across the industrialised world, but fears that the Middle East war will raise oil prices means central banks are sitting on their hands when they should be raising interest rates to subdue inflationary pressures.</p><p>The US Federal Reserve, the Bank of England and the European Central Bank are still smarting from the criticism of their inaction in 2022 when inflation soared above 10% in the UK and eurozone, and over 9% in the US.</p> <a href=\"https://www.theguardian.com/business/2026/aug/16/interest-rate-dilemma-for-central-banks-as-inflation-rises-but-growth-slows\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.9565,
+      "tags": [
+        "Interest Rates",
+        "Fed",
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Here’s the real reason oil prices aren’t moving higher",
+      "url": "https://www.marketwatch.com/story/heres-the-real-reason-oil-prices-arent-moving-higher-256afdbc?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-08-16T13:00:00+00:00",
+      "summary": "Oil prices are not higher largely because the world does not want as much oil as it used to — and that’s arguably the more troubling story.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.7197,
+      "tags": [
+        "Oil"
+      ],
+      "signal": "watch",
+      "category": "energy",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Walmart and Target are about to reveal the health of the U.S. consumer",
+      "url": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-reveal-the-health-of-the-u-s-consumer-d5b89491?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-08-16T11:00:00+00:00",
+      "summary": "Earnings reports from the two major retailers will show how shoppers are holding up in an era of persistent inflation.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "A positive new report raises the question: was Reeves undermined by dodgy data? | Heather Stewart",
+      "url": "https://www.theguardian.com/business/2026/aug/16/uk-productivity-data-rachel-reeves-national-statistician",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-16T09:30:05+00:00",
+      "summary": "<p>Assessment’s finding of a jump in UK productivity emphasises urgent need to appoint a national statistician</p><p>The keen new chancellor, John Healey, responded to last week’s better-than-expected economic news by claiming the government was “bringing hope back”. Growth did not plunge as feared after Donald Trump unleashed war on Iran – with GDP <a href=\"https://www.theguardian.com/business/2026/aug/13/uk-economic-growth-slows-iran-war-energy-prices-gdp-ons\">expanding at a pretty decent 0.4%</a> in the second quarter.</p><p>But what if we should have held on to a bit more hope all along? A <a href=\"https://cep.lse.ac.uk/pubs/download/occasional/op074.pdf\">new assessment of the UK’s recent productivity</a> suggests this critical measure of the country’s economic strength may have been systematically underestimated.</p> <a href=\"https://www.theguardian.com/business/2026/aug/16/uk-productivity-data-rachel-reeves-national-statistician\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.9332,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "New UK cost of living crisis looms with soaring energy bills forecast to lift inflation",
+      "url": "https://www.theguardian.com/business/2026/aug/16/new-uk-cost-of-living-crisis-looms-rising-energy-bills-inflation",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-16T08:42:16+00:00",
+      "summary": "<p>Latest reading on Wednesday likely to frame scale of challenge for new PM to ease pressures on households amid Iran war fallout </p><p>British households are facing a renewed cost of living squeeze, with official figures expected to show this week that soaring energy bills drove up inflation in July to close to 3%.</p><p>As the Iran war continues to send shock waves through global energy markets, economists predict the surge in UK gas and electricity bills last month will push Britain’s headline inflation rate to 2.9%.</p> <a href=\"https://www.theguardian.com/business/2026/aug/16/new-uk-cost-of-living-crisis-looms-rising-energy-bills-inflation\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.8834,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "From tourism to power generation and productivity, Europe feels economic cost of heatwaves",
+      "url": "https://www.theguardian.com/business/2026/aug/16/tourism-power-generation-productivity-europe-economic-cost-heatwaves",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-16T08:00:19+00:00",
+      "summary": "<p>Low river levels have stalled German freight traffic and forced closure of nuclear plants in France</p><p>Across Europe this scorching summer, workers have struggled in the heat as wildfires raged and critical infrastructure was shut down.</p><p>Here we look at the impact of the heatwaves on several major economies across mainland Europe – with the help of <a href=\"https://www.triodos.com/en/articles/2026/hot-summer-economics\">analysis from economists at the Dutch bank Triodos</a>, who estimate a total of €180bn could be wiped off EU GDP by the heatwaves. In the UK, the green thinktank Verdant said this week that the heat had already <a href=\"https://www.theguardian.com/business/2026/aug/12/heatwaves-uk-cost-economy-lost-output-thinktank\">cost the economy £4.4bn</a> by the end of July.</p> <a href=\"https://www.theguardian.com/business/2026/aug/16/tourism-power-generation-productivity-europe-economic-cost-heatwaves\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.8316,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
     {
       "title": "Think interest rates are high now? These charts offer a different perspective.",
       "url": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
@@ -17,21 +173,6 @@
       ],
       "signal": "watch",
       "category": "macro",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend",
-      "url": "https://www.marketwatch.com/story/ballet-flats-are-so-popular-that-even-brands-like-birkenstock-and-crocs-are-cashing-in-on-the-trend-3d44997c?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-15T17:08:00+00:00",
-      "summary": "Ballerina shoes are back in style thanks in part to nostalgia. Gen Z shoppers are even pairing them with running shorts.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8408,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
       "source_repo": "financenews"
     },
     {
@@ -320,142 +461,6 @@
       "summary": "<p>Exclusive: England ‘desperately unprepared’ for effects of crisis including water shortages and heatwaves</p><ul><li><p><a href=\"https://www.theguardian.com/environment/live/2026/aug/12/heatwave-extreme-heat-cobra-uk-wildfires-drought-latest-news-updates\">UK heatwave live – latest updates</a></p></li></ul><p>Just 20 staff are working on climate adaptation within a key government department tasked with protecting the environment and maintaining food security, a freedom of information request has revealed.</p><p>The officials make up 0.3% of staff within the Department for Environment, Food and Rural Affairs.</p> <a href=\"https://www.theguardian.com/environment/2026/aug/12/just-20-of-6600-defra-staff-working-on-climate-adaptation-amid-drought-and-wildfires\">Continue reading...</a>",
       "sentiment": "bullish",
       "sentiment_score": 0.2263,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "UK heatwaves may have cost economy £4.4bn in lost output so far this year, analysis finds",
-      "url": "https://www.theguardian.com/business/2026/aug/12/heatwaves-uk-cost-economy-lost-output-thinktank",
-      "source": "The Guardian Economics",
-      "published_at": "2026-08-12T04:00:20+00:00",
-      "summary": "<p>Verdant thinktank says cost could top £25bn a year by 2030 and calls for maximum temperature for working and urban redesign to cool down cities</p><p>Repeated debilitating heatwaves this summer are likely to have cost the UK economy more than £4bn in lost economic output by the end of July, new analysis shows.</p><p>Green thinktank Verdant had suggested June’s unseasonally hot weather <a href=\"https://www.theguardian.com/environment/2026/jul/16/how-green-andy-burnham-britain-next-pm-tough-climate-decisions\">had an economic cost of £2.36bn</a>. Updating its assessment to include last month’s high temperatures, it finds a £4.4bn hit to output.</p> <a href=\"https://www.theguardian.com/business/2026/aug/12/heatwaves-uk-cost-economy-lost-output-thinktank\">Continue reading...</a>",
-      "sentiment": "neutral",
-      "sentiment_score": -0.128,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China",
-      "url": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-08-11T21:01:13+00:00",
-      "summary": "Nvidia CEO Jensen Huang is pitching GPUs as long-term collateral to unlock $500 billion in funding. The question is how fast will his chips depreciate?",
-      "sentiment": "bearish",
-      "sentiment_score": -0.2732,
-      "tags": [
-        "Chips",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Is betting on elections using prediction markets illegal? Many states are unsure as midterms approach",
-      "url": "https://www.cnbc.com/2026/08/11/do-state-election-betting-bans-apply-to-prediction-markets.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-08-11T18:44:16+00:00",
-      "summary": "Twenty-three states have laws banning betting on elections, according to Pew Research. Not every state is sure these rules apply to prediction market trades.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.5106,
-      "tags": [
-        "Election"
-      ],
-      "signal": "watch",
-      "category": "markets",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
-      "url": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-08-11T14:11:05+00:00",
-      "summary": "The first three-plus years of the AI build-out have been funded by record amounts of equity and debt issued by leading tech companies. Nvidia has a new idea.",
-      "sentiment": "neutral",
-      "sentiment_score": -0.128,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Consumer confidence at near two-year high as World Cup and UK holidaying lift summer spending",
-      "url": "https://www.theguardian.com/business/2026/aug/11/consumer-confidence-world-cup-uk-holidaying-lift-summer-spending-barclays-survey",
-      "source": "The Guardian Economics",
-      "published_at": "2026-08-11T06:00:06+00:00",
-      "summary": "<p>Barclays says survey shows people feel more secure in jobs and have more leeway to spend on non-essentials</p><p>Consumer confidence hit its highest level in almost two years in July, according to research that indicated the closing stages of the men’s football World Cup and more people holidaying in the UK raised summer spending.</p><p>A truce in the Middle East conflict in June and the arrival of a new prime minister in No 10 also gave a lift to consumers after a long period of heightened uncertainty.</p> <a href=\"https://www.theguardian.com/business/2026/aug/11/consumer-confidence-world-cup-uk-holidaying-lift-summer-spending-barclays-survey\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6997,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’",
-      "url": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-08-10T22:09:00+00:00",
-      "summary": "Nvidia CEO Jensen Huang argued that because its hardware is broadly adopted, flexible and transferable, lenders can underwrite compute as revenue-generating.",
-      "sentiment": "neutral",
-      "sentiment_score": -0.1531,
-      "tags": [
-        "Chips"
-      ],
-      "signal": "watch",
-      "category": "markets",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Three reasons Goldman's co-head of global banking and markets says to stay invested",
-      "url": "https://www.cnbc.com/2026/08/10/three-reasons-goldmans-co-head-of-global-banking-and-markets-says-to-stay-invested.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-08-10T18:36:26+00:00",
-      "summary": "Goldman Sachs' Ashok Varadhan pointed to three reasons for his constructive outlook.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "Gold"
-      ],
-      "signal": "watch",
-      "category": "markets",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
-      "url": "https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-08-08T15:00:01+00:00",
-      "summary": "Collateralized loan obligations may become the next big push in the exchange-traded fund industry.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.4588,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
-      "url": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-08-08T13:28:00+00:00",
-      "summary": "Strength across its energy, railroad and manufacturing businesses more than offset weaker insurance results.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.2815,
       "tags": [
         "AI"
       ],
