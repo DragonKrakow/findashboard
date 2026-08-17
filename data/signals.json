@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T16:06:23.692310+00:00",
+  "generated_at": "2026-08-17T20:06:38.984873+00:00",
   "portfolio_summary": {
     "total_assets": 10,
     "buy_count": 3,
@@ -13,8 +13,8 @@
       "name": "NVIDIA Corporation",
       "sector": "Technology",
       "type": "stock",
-      "price": 227.61,
-      "change_pct": 1.0881,
+      "price": 225.01,
+      "change_pct": -0.0666,
       "signal": "buy",
       "note": "Record earnings beat; data-centre momentum intact",
       "sparkline": [
@@ -31,7 +31,7 @@
         224.09,
         225.3,
         225.16,
-        227.61
+        225.01
       ]
     },
     {
@@ -39,8 +39,8 @@
       "name": "Apple Inc.",
       "sector": "Technology",
       "type": "stock",
-      "price": 303.17,
-      "change_pct": -0.9022,
+      "price": 305.59,
+      "change_pct": -0.1111,
       "signal": "hold",
       "note": "WWDC catalyst expected in June; AI Siri could re-rate",
       "sparkline": [
@@ -57,7 +57,7 @@
         302.25,
         305.26,
         305.93,
-        303.17
+        305.59
       ]
     },
     {
@@ -91,8 +91,8 @@
       "name": "S&P 500 ETF",
       "sector": "Broad Market",
       "type": "etf",
-      "price": 775.165,
-      "change_pct": -0.1514,
+      "price": 772.66,
+      "change_pct": -0.474,
       "signal": "hold",
       "note": "Breadth improving; watch 530 resistance",
       "sparkline": [
@@ -109,7 +109,7 @@
         772.49,
         777.88,
         776.34,
-        775.165
+        772.66
       ]
     },
     {
@@ -117,8 +117,8 @@
       "name": "Bitcoin",
       "sector": "Crypto",
       "type": "crypto",
-      "price": 64086.1484,
-      "change_pct": 2.0177,
+      "price": 64227.8984,
+      "change_pct": 2.2434,
       "signal": "watch",
       "note": "Above $90k resistance; ETF inflows strong",
       "sparkline": [
@@ -135,7 +135,7 @@
         62975.5938,
         63024.3203,
         62818.6523,
-        64086.1484
+        64227.8984
       ]
     },
     {
@@ -143,8 +143,8 @@
       "name": "Ethereum",
       "sector": "Crypto",
       "type": "crypto",
-      "price": 1909.3199,
-      "change_pct": 1.8878,
+      "price": 1904.49,
+      "change_pct": 1.6301,
       "signal": "hold",
       "note": "ETF decision in Q3; staking yield at 4.2%",
       "sparkline": [
@@ -161,7 +161,7 @@
         1880.65,
         1880.9083,
         1873.943,
-        1909.3199
+        1904.49
       ]
     },
     {
@@ -169,8 +169,8 @@
       "name": "Gold ETF",
       "sector": "Commodities",
       "type": "etf",
-      "price": 405.925,
-      "change_pct": 1.1071,
+      "price": 405.47,
+      "change_pct": 0.9938,
       "signal": "buy",
       "note": "Safe-haven demand rising on macro uncertainty",
       "sparkline": [
@@ -187,7 +187,7 @@
         404.92,
         398.96,
         401.48,
-        405.925
+        405.47
       ]
     },
     {
@@ -195,8 +195,8 @@
       "name": "20yr+ Treasury ETF",
       "sector": "Fixed Income",
       "type": "etf",
-      "price": 81.635,
-      "change_pct": -0.4937,
+      "price": 81.35,
+      "change_pct": -0.8411,
       "signal": "watch",
       "note": "Rate cut expectations lifting long bonds",
       "sparkline": [
@@ -213,7 +213,7 @@
         82.11,
         82.59,
         82.04,
-        81.635
+        81.35
       ]
     },
     {
@@ -221,8 +221,8 @@
       "name": "Exxon Mobil",
       "sector": "Energy",
       "type": "stock",
-      "price": 160.78,
-      "change_pct": 0.4247,
+      "price": 161.51,
+      "change_pct": 0.8807,
       "signal": "sell",
       "note": "OPEC+ supply boost pressures energy names",
       "sparkline": [
@@ -239,7 +239,7 @@
         159.75,
         158.61,
         160.1,
-        160.78
+        161.51
       ]
     },
     {
@@ -247,8 +247,8 @@
       "name": "ASML Holding",
       "sector": "Technology",
       "type": "stock",
-      "price": 1883.34,
-      "change_pct": 2.129,
+      "price": 1883.12,
+      "change_pct": 2.117,
       "signal": "watch",
       "note": "EUV lithography demand strong; export-control risk from US policy",
       "sparkline": [
@@ -265,7 +265,7 @@
         1810.0699,
         1847.9,
         1844.08,
-        1883.34
+        1883.12
       ]
     }
   ]
