@@ -1,9 +1,129 @@
 {
-  "generated_at": "2026-08-17T05:43:26Z",
-  "snapshot_date": "2026-08-17",
+  "generated_at": "2026-08-18T05:41:26Z",
+  "snapshot_date": "2026-08-18",
   "source": "financenews",
   "count": 30,
   "articles": [
+    {
+      "title": "There’s a 49% chance the Dow will finish this year up double digits. Here’s why.",
+      "url": "https://www.marketwatch.com/story/theres-a-49-chance-the-dow-will-finish-this-year-up-double-digits-heres-why-6871e569?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-08-17T21:22:00+00:00",
+      "summary": "We’ve seen three years in a row of double-digit gains. Will there be a fourth?",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5267,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "The number of ‘negative-beta’ stocks in the S&P 500 just hit a new record high. What that means for investors.",
+      "url": "https://www.marketwatch.com/story/the-number-of-negative-beta-stocks-in-the-s-p-500-just-hit-a-new-record-high-what-that-means-for-investors-992ca307?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-08-17T21:15:00+00:00",
+      "summary": "Here’s another factoid that should get the AI bears excited: Stocks in the S&amp;P 500 are increasingly trading in opposite directions on a given day. That means higher volatility than the performance of the index would lead one to believe.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.4019,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Micron, Sandisk and other chip stocks climb as investors get more confident about AI spending",
+      "url": "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-climb-as-investors-are-more-confident-about-ai-spending-128374fa?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-08-17T20:43:00+00:00",
+      "summary": "AI companies are seeing improved financial performance, according to reports, and memory-chip companies may be able to better fend off Chinese competition with the help of U.S. officials.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.9041,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "SpaceX’s stock is rising, and that’s a good sign for Nvidia and Google",
+      "url": "https://www.marketwatch.com/story/spacexs-stock-is-rising-and-thats-a-good-sign-for-nvidia-and-google-913ce9de?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-08-17T20:18:00+00:00",
+      "summary": "Some big names saw sizable paper gains on their SpaceX stakes when the stock went public, but trading has been volatile since then.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.3919,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping",
+      "url": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-08-17T18:32:54+00:00",
+      "summary": "Maran Nalluswami, Synchrony's chief strategy officer, told CNBC it will probably take six to 12 months to get payments fully integrated into ChatGPT.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5106,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails",
+      "url": "https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-08-17T17:43:40+00:00",
+      "summary": "The odds are higher than they were before 12 states sued to block the merger, but lower than after Paramount delayed the acquisition in late July.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.7269,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "China’s economy showing signs that slowdown may be extending",
+      "url": "https://www.theguardian.com/business/2026/aug/17/china-economy-slowdown-signs-extending",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-17T15:36:25+00:00",
+      "summary": "<p>Industrial output and retail sales slump in July after one of the country’s weakest quarterly growth rates ever</p><p>China’s economy is showing signs of extending a slowdown with a slump in industrial output and retail sales in July, adding to pressure on Beijing to intervene with measures to support activity.</p><p>After the world’s second largest economy posted one of its <a href=\"https://www.theguardian.com/business/2026/jul/15/china-economy-low-quarterly-growth-economic-concerns\">lowest quarterly growth readings on record</a> in the three months to June, the latest figures suggest it continued to falter in July.</p> <a href=\"https://www.theguardian.com/business/2026/aug/17/china-economy-slowdown-signs-extending\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.34,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Leading economies’ borrowing costs hit highest since 2008 crisis",
+      "url": "https://www.theguardian.com/business/2026/aug/17/government-borrowing-costs-highs-inflation-france-germany-us-japan-uk-bond-yields",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-17T15:13:40+00:00",
+      "summary": "<p>Concern over impact of Iran war pushes up government bond yields in US, UK, France, Germany and Japan</p><p>Government borrowing costs in several advanced economies hit their highest level since the 2008 financial crisis, or even earlier, on Monday as investors feared the Middle East crisis would keep inflation persistently high.</p><p>Concerns over rising prices and government spending pushed up the cost of debt issued by Paris, Berlin, Washington DC, Tokyo and London as investors fretted that rising prices would push up interest rates.</p> <a href=\"https://www.theguardian.com/business/2026/aug/17/government-borrowing-costs-highs-inflation-france-germany-us-japan-uk-bond-yields\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.9578,
+      "tags": [
+        "Interest Rates"
+      ],
+      "signal": "watch",
+      "category": "markets",
+      "source_repo": "financenews"
+    },
     {
       "title": "Summer jobs bounce back in UK thanks to busy calendar of sport and music",
       "url": "https://www.theguardian.com/business/2026/aug/17/summer-jobs-bounce-back-in-uk-thanks-to-busy-calendar-of-sport-and-music",
@@ -21,94 +141,16 @@
       "source_repo": "financenews"
     },
     {
-      "title": "U.S. stock futures little changed as investors ponder the Fed’s next move",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-ponder-the-feds-next-move-27bcbea4?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-16T22:52:00+00:00",
-      "summary": "U.S. stock-index futures were little changed on Sunday after a quiet week on Wall Street, as investors await hints from the Fed concerning the outlook for interest rates.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5267,
-      "tags": [
-        "Interest Rates",
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
-      "url": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-16T18:15:00+00:00",
-      "summary": "“I would like to offer a piece of advice for women who are or have been married.”",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7845,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "My friend’s mother died. Can she stop Medicaid from taking the family home?",
-      "url": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-16T17:30:00+00:00",
-      "summary": "“She has contacted the mortgage company, but they will not discuss the mortgage.”",
-      "sentiment": "bearish",
-      "sentiment_score": -0.4404,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
       "title": "Interest rate dilemma for central banks as inflation rises but growth slows",
       "url": "https://www.theguardian.com/business/2026/aug/16/interest-rate-dilemma-for-central-banks-as-inflation-rises-but-growth-slows",
       "source": "The Guardian Economics",
       "published_at": "2026-08-16T14:00:27+00:00",
-      "summary": "<p>The Federal Reserve, the ECB and the Bank of England appear unclear on how to tackle inflation amid the Iran war</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/aug/16/new-uk-cost-of-living-crisis-looms-rising-energy-bills-inflation\">New UK cost of living crisis looms as rising energy bills lift inflation</a></p></li></ul><p>Inflation rates have been falling across the industrialised world, but fears that the Middle East war will raise oil prices means central banks are sitting on their hands when they should be raising interest rates to subdue inflationary pressures.</p><p>The US Federal Reserve, the Bank of England and the European Central Bank are still smarting from the criticism of their inaction in 2022 when inflation soared above 10% in the UK and eurozone, and over 9% in the US.</p> <a href=\"https://www.theguardian.com/business/2026/aug/16/interest-rate-dilemma-for-central-banks-as-inflation-rises-but-growth-slows\">Continue reading...</a>",
+      "summary": "<p>The Federal Reserve, the ECB and the Bank of England appear unclear on how to tackle inflation amid the Iran war</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/aug/16/new-uk-cost-of-living-crisis-looms-rising-energy-bills-inflation\">New UK cost of living crisis looms as rising energy bills lift inflation</a></p></li></ul><p>As the Middle East crisis drags on into its sixth month, central banks sit in a tricky position. Oil prices remain at elevated levels, stoking inflationary pressures while also threatening to weigh on growth.</p><p>The US Federal Reserve, the Bank of England and the European Central Bank are still smarting from the criticism of their inaction in 2022, when inflation soared above 10% in the UK and eurozone and over 9% in the US.</p> <a href=\"https://www.theguardian.com/business/2026/aug/16/interest-rate-dilemma-for-central-banks-as-inflation-rises-but-growth-slows\">Continue reading...</a>",
       "sentiment": "bearish",
-      "sentiment_score": -0.9565,
+      "sentiment_score": -0.9816,
       "tags": [
-        "Interest Rates",
         "Fed",
         "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Here’s the real reason oil prices aren’t moving higher",
-      "url": "https://www.marketwatch.com/story/heres-the-real-reason-oil-prices-arent-moving-higher-256afdbc?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-16T13:00:00+00:00",
-      "summary": "Oil prices are not higher largely because the world does not want as much oil as it used to — and that’s arguably the more troubling story.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.7197,
-      "tags": [
-        "Oil"
-      ],
-      "signal": "watch",
-      "category": "energy",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Walmart and Target are about to reveal the health of the U.S. consumer",
-      "url": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-reveal-the-health-of-the-u-s-consumer-d5b89491?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-16T11:00:00+00:00",
-      "summary": "Earnings reports from the two major retailers will show how shoppers are holding up in an era of persistent inflation.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
         "AI"
       ],
       "signal": "watch",
@@ -158,21 +200,6 @@
       ],
       "signal": "watch",
       "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Think interest rates are high now? These charts offer a different perspective.",
-      "url": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-15T19:01:00+00:00",
-      "summary": "Also in Weekend Reads: 10 remarkable housing markets, stock picks, and health-insurance battles.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6124,
-      "tags": [
-        "Interest Rates"
-      ],
-      "signal": "watch",
-      "category": "macro",
       "source_repo": "financenews"
     },
     {
@@ -433,36 +460,6 @@
       "tags": [
         "AI",
         "Shipping"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "New York City Council announces probe into prediction market platforms’ marketing strategies",
-      "url": "https://www.cnbc.com/2026/08/12/new-york-city-council-probes-prediction-markets-marketing-strategies.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-08-12T12:08:39+00:00",
-      "summary": "In letters to four prediction market platforms, City Council Speaker Julie Menin said the council was also actively considering legislation to address concerns.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3182,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Just 20 of 6,600 Defra staff working on climate adaptation amid drought and wildfires",
-      "url": "https://www.theguardian.com/environment/2026/aug/12/just-20-of-6600-defra-staff-working-on-climate-adaptation-amid-drought-and-wildfires",
-      "source": "The Guardian Economics",
-      "published_at": "2026-08-12T09:36:34+00:00",
-      "summary": "<p>Exclusive: England ‘desperately unprepared’ for effects of crisis including water shortages and heatwaves</p><ul><li><p><a href=\"https://www.theguardian.com/environment/live/2026/aug/12/heatwave-extreme-heat-cobra-uk-wildfires-drought-latest-news-updates\">UK heatwave live – latest updates</a></p></li></ul><p>Just 20 staff are working on climate adaptation within a key government department tasked with protecting the environment and maintaining food security, a freedom of information request has revealed.</p><p>The officials make up 0.3% of staff within the Department for Environment, Food and Rural Affairs.</p> <a href=\"https://www.theguardian.com/environment/2026/aug/12/just-20-of-6600-defra-staff-working-on-climate-adaptation-amid-drought-and-wildfires\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.2263,
-      "tags": [
-        "AI"
       ],
       "signal": "watch",
       "category": "technology",
