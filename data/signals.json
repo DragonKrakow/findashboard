@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T20:06:38.319721+00:00",
+  "generated_at": "2026-08-20T00:13:00.740060+00:00",
   "portfolio_summary": {
     "total_assets": 10,
     "buy_count": 3,
@@ -91,8 +91,8 @@
       "name": "S&P 500 ETF",
       "sector": "Broad Market",
       "type": "etf",
-      "price": 769.1,
-      "change_pct": 0.215,
+      "price": 769.06,
+      "change_pct": 0.2098,
       "signal": "hold",
       "note": "Breadth improving; watch 530 resistance",
       "sparkline": [
@@ -109,7 +109,7 @@
         776.34,
         772.67,
         767.45,
-        769.1
+        769.06
       ]
     },
     {
@@ -117,8 +117,8 @@
       "name": "Bitcoin",
       "sector": "Crypto",
       "type": "crypto",
-      "price": 68486.1719,
-      "change_pct": 5.8835,
+      "price": 69539.1328,
+      "change_pct": 7.5114,
       "signal": "watch",
       "note": "Above $90k resistance; ETF inflows strong",
       "sparkline": [
@@ -135,7 +135,7 @@
         62818.6523,
         64506.2539,
         64680.7109,
-        68486.1719
+        69539.1328
       ]
     },
     {
@@ -143,8 +143,8 @@
       "name": "Ethereum",
       "sector": "Crypto",
       "type": "crypto",
-      "price": 2107.2,
-      "change_pct": 9.9527,
+      "price": 2256.54,
+      "change_pct": 17.7452,
       "signal": "hold",
       "note": "ETF decision in Q3; staking yield at 4.2%",
       "sparkline": [
@@ -161,7 +161,7 @@
         1873.943,
         1912.2021,
         1916.4596,
-        2107.2
+        2256.54
       ]
     },
     {
@@ -169,8 +169,8 @@
       "name": "Gold ETF",
       "sector": "Commodities",
       "type": "etf",
-      "price": 413.83,
-      "change_pct": 3.8339,
+      "price": 413.84,
+      "change_pct": 3.8364,
       "signal": "buy",
       "note": "Safe-haven demand rising on macro uncertainty",
       "sparkline": [
@@ -187,7 +187,7 @@
         401.48,
         405.49,
         398.55,
-        413.83
+        413.84
       ]
     },
     {
@@ -221,8 +221,8 @@
       "name": "Exxon Mobil",
       "sector": "Energy",
       "type": "stock",
-      "price": 164.82,
-      "change_pct": -0.447,
+      "price": 164.77,
+      "change_pct": -0.4772,
       "signal": "sell",
       "note": "OPEC+ supply boost pressures energy names",
       "sparkline": [
@@ -239,7 +239,7 @@
         159.07,
         161.46,
         165.56,
-        164.82
+        164.77
       ]
     },
     {
