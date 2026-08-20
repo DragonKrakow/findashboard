@@ -1,19 +1,173 @@
 {
-  "generated_at": "2026-08-19T05:41:59Z",
-  "snapshot_date": "2026-08-19",
+  "generated_at": "2026-08-20T05:41:48Z",
+  "snapshot_date": "2026-08-20",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Cerebras’s stock has been a post-IPO bust. Its comeback hinges on this new chip.",
-      "url": "https://www.marketwatch.com/story/cerebrass-stock-has-been-a-post-ipo-bust-its-comeback-hinges-on-this-new-chip-a25a7ca4?mod=mw_rss_topstories",
+      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "url": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-19T00:00:00+00:00",
-      "summary": "Cerebras is betting that its specialized chips will outpace traditional graphics processing units as AI agents become more widespread.",
+      "published_at": "2026-08-19T23:30:00+00:00",
+      "summary": "“I see people who have a lot of money but little or no taxable income who still qualify for ACA Marketplace subsidies.”",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0945,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "ServiceNow’s stock leads a software rally. Here’s what’s energizing investors.",
+      "url": "https://www.marketwatch.com/story/servicenows-stock-leads-a-software-rally-heres-whats-energizing-investors-0ad74dd1?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-08-19T21:50:00+00:00",
+      "summary": "There’s growing confidence in the idea that traditional software companies will be able to withstand AI disruption.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6705,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters",
+      "url": "https://www.cnbc.com/2026/08/19/carvana-shares-on-pace-for-10percent-weekly-loss-as-mark-walter-probe-fuels-investor-jitters.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-08-19T21:05:31+00:00",
+      "summary": "The scrutiny raised questions about what could happen to Walter's Carvana position if fallout from the investigation pressures him to raise cash.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.3182,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
+      "url": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-08-19T18:54:50+00:00",
+      "summary": "The Federal Reserve on Wednesday released minutes from its July 28-29 policy meeting.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.2411,
+      "tags": [
+        "Fed"
+      ],
+      "signal": "watch",
+      "category": "macro",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Can Andy Burnham rewire the ‘Treasury brain’ to boost growth?",
+      "url": "https://www.theguardian.com/politics/2026/aug/19/can-andy-burnham-tame-the-power-of-the-treasury-to-boost-growth",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-19T18:46:22+00:00",
+      "summary": "<p>PM wants to reduce department’s stranglehold on public purse and bring long-term thinking to economic policy</p><p>Andy Burnham is far from the first prime minister to dream of taming the power of the mighty Treasury.</p><p>Boris Johnson <a href=\"https://www.theguardian.com/politics/2020/feb/13/sajid-javid-resigns-as-chancellor-amid-boris-johnson-reshuffle\">all but forced the resignation of Sajid Javid</a> by handpicking his team; Margaret Thatcher favoured her economic adviser Alan Walters over Nigel Lawson, prompting the latter’s furious resignation; and Tony Blair and Gordon Brown’s power struggle was the stuff of Whitehall legend.</p> <a href=\"https://www.theguardian.com/politics/2026/aug/19/can-andy-burnham-tame-the-power-of-the-treasury-to-boost-growth\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.8945,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Is the US actually too chicken to take on China for trade?",
+      "url": "https://www.theguardian.com/us-news/2026/aug/19/china-trump-trade-weak-yuan",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-19T16:42:08+00:00",
+      "summary": "<p>A weak yuan guarantees Beijing massive trade surplus even as the White House tries tamp down on Chinese imports</p><p>Since <a href=\"https://www.theguardian.com/world/china\">China</a> offered a truce in the trade war last October following its threat to deprive the United States of rare-earth magnets, the <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a> has been happy to stop escalating. After all, imports from China have been falling, down by 40% in the year to June, compared with the same period in 2024. Best to declare victory and call it a day.</p><p>But the US hasn’t won this battle – and there’s strong evidence to show it’s too chicken to really try.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/19/china-trump-trade-weak-yuan\">Continue reading...</a>",
+      "sentiment": "neutral",
+      "sentiment_score": -0.1027,
+      "tags": [
+        "Trade War"
+      ],
+      "signal": "watch",
+      "category": "markets",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "US treasury doubles debt buyback to steady bond market amid inflation fears",
+      "url": "https://www.theguardian.com/business/2026/aug/19/us-treasury-doubles-debt-buyback-bond-market",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-19T14:57:21+00:00",
+      "summary": "<p>Interest rates, now sitting at about 3.5-3.7%, expected to go up if inflation doesn’t come down to Fed’s 2% target</p><p>The US treasury is doubling its buyback of government debt in an effort to balance out the bond market as officials at the US <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a> remain divided over how to deal with high inflation.</p><p>The yield rate on 10-year, 20-year and 30-year treasury notes all hit 20-year highs this week, with the 30-year treasury yield <a href=\"https://www.theguardian.com/business/2026/aug/18/governments-borrowing-costs-us-iran-bond-yields-trump\">rising</a> to its highest rate since 2007. The rapid rise was concerning news for borrowers as major loans, including mortgages, are backed by treasuries.</p> <a href=\"https://www.theguardian.com/business/2026/aug/19/us-treasury-doubles-debt-buyback-bond-market\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.3612,
+      "tags": [
+        "Interest Rates",
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Rising inflation underlines scale of Andy Burnham’s cost of living challenge",
+      "url": "https://www.theguardian.com/business/2026/aug/19/rising-inflation-underlines-scale-of-andy-burnham-cost-of-living-challenge",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-19T12:27:00+00:00",
+      "summary": "<p>PM’s plan to shield households from more pressure risks being overwhelmed by wider price rises</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/aug/19/uk-inflation-rise-iran-war-energy-consumer-prices-index-interest-rates\">UK inflation rises to 2.9%</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/19/uk-inflation-increases-in-july-driven-by-a-surge-in-gas-costs-oil-prices-rise-again-business-live\">Business live – latest updates</a></p></li></ul><p>July’s increase in inflation, <a href=\"https://www.theguardian.com/business/2026/aug/19/uk-inflation-rise-iran-war-energy-consumer-prices-index-interest-rates\">to 2.9%</a>, is likely to be the first of several, underlining the challenge facing Andy Burnham in shielding consumers from a fresh cost of living squeeze this autumn.</p><p>Rising energy bills, as an increase in Ofgem’s quarterly price cap came into force, were the main driver of the jump in inflation, from 2.6% in June. That was partly offset by cheaper fuel prices – the knock-on effect of hostilities easing in the Middle East, after Donald Trump hailed his “memorandum of understanding” with Iran in June.</p> <a href=\"https://www.theguardian.com/business/2026/aug/19/rising-inflation-underlines-scale-of-andy-burnham-cost-of-living-challenge\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5759,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Retail investors aren't entirely giving up on AI trade, but they appear more cautious",
+      "url": "https://www.cnbc.com/2026/08/19/retail-investors-stick-with-ai-trade-but-appear-more-cautious.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-08-19T11:09:33+00:00",
+      "summary": "Mom-and-Pop investors remain bullish on AI and tech, but some are adding downside protection.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.6329,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "UK inflation rises to 2.9% as Iran war drives up energy bills",
+      "url": "https://www.theguardian.com/business/2026/aug/19/uk-inflation-rise-iran-war-energy-consumer-prices-index-interest-rates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-19T07:25:26+00:00",
+      "summary": "<p>Accelerating price increases in July add to pressure on households, with chancellor saying ‘there is more to do to restore hope’</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/aug/19/rising-inflation-underlines-scale-of-andy-burnham-cost-of-living-challenge\">Analysis: Rising inflation underlines scale of Burnham’s cost of living challenge</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/19/uk-inflation-increases-in-july-driven-by-a-surge-in-gas-costs-oil-prices-rise-again-business-live\">Business live – latest updates</a></p></li></ul><p>UK inflation rose to 2.9% in July as the impact of the Iran war on energy prices triggered a renewed cost of living squeeze for British households.</p><p>The <a href=\"https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/july2026\">Office for National Statistics</a> said inflation rose from a 15-month low of 2.6% in June, driven by the rising price of gas and electricity. Matching City economists’ forecasts, it was the first rise in the annual rate as measured by the consumer prices index since March.</p> <a href=\"https://www.theguardian.com/business/2026/aug/19/uk-inflation-rise-iran-war-energy-consumer-prices-index-interest-rates\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.7717,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Goldman studied where AI is squeezing labor markets. Here's what it found",
+      "url": "https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-08-19T06:55:57+00:00",
+      "summary": "Goldman Sachs found that AI is starting to weigh on employment across developed economies.",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "tags": [
-        "Chips",
+        "Gold",
         "AI"
       ],
       "signal": "watch",
@@ -28,36 +182,6 @@
       "summary": "Kweichow Moutai's half-year report showed a rare drop in net profit, following the first annual drop on record.",
       "sentiment": "neutral",
       "sentiment_score": -0.0772,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
-      "url": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-18T23:15:00+00:00",
-      "summary": "“I see people who have a lot of money but little or no taxable income who still qualify for ACA Marketplace subsidies.”",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0945,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "AI chip stocks were riding high. Here’s why Micron and others are now pulling back.",
-      "url": "https://www.marketwatch.com/story/ai-chip-stocks-were-riding-high-heres-why-micron-and-others-are-now-pulling-back-cb4fd5af?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-18T21:08:00+00:00",
-      "summary": "Analysts note high expectations, concerns about elevated Treasury yields and a potential letdown surrounding Anthropic’s financial progress,",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5574,
       "tags": [
         "AI"
       ],
@@ -336,130 +460,6 @@
       "summary": "The rollout comes as robotaxi fleet sizes become increasingly critical for commercialization.",
       "sentiment": "bearish",
       "sentiment_score": -0.3182,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
-      "url": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-08-13T16:38:06+00:00",
-      "summary": "Iran’s central bank chief said Thursday that the country is set to join the BRICS New Development Bank.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.5267,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "'Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom",
-      "url": "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-08-13T15:16:00+00:00",
-      "summary": "Steve Eisman is warning that the artificial intelligence boom has become increasingly dependent on the fortunes of just two companies: OpenAI and Anthropic.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.1779,
-      "tags": [
-        "AI",
-        "Artificial Intelligence"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Andy Burnham ‘angry’ over water company bill increases; Sports Direct owner buys Harvey Nichols – as it happened",
-      "url": "https://www.theguardian.com/business/live/2026/aug/13/uk-economy-gdp-growth-second-quarter-services-june-hot-weather-heatwave-world-cup-business-latest-updates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-08-13T13:58:42+00:00",
-      "summary": "<p>Live, rolling coverage of business, economics and financial markets as regulator says five companies can raise bills to pay for infrastructure for new housing and datacentres</p><p>The biggest factor for the <strong>FTSE 100</strong>’s underperformance on Thursday morning relative to other European markets is a big decline in the <strong>mining sector</strong>.</p><p>Chilean miner <strong>Antofagasta</strong> is the biggest faller on London’s benchmark index, down 4.9% after it cut its guidance for future output.</p><p>The London-listed miner cut its 2026 copper output estimate to between 625,000 and 655,000 metric tons, from a previous forecast of 650,000 to 700,000 tons, due to a shutdown at its Los Pelambres mine in July after extreme rains prompted Chile’s government to declare a “state of catastrophe” in the Coquimbo Region.</p><p>While there has been no material impact on key equipment and infrastructure, the miner said it will need to repair some pipeline platforms and water management systems.</p> <a href=\"https://www.theguardian.com/business/live/2026/aug/13/uk-economy-gdp-growth-second-quarter-services-june-hot-weather-heatwave-world-cup-business-latest-updates\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.7003,
-      "tags": [
-        "Mining",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "UK economy shows surprising resilience – but that might not last | Richard Partington",
-      "url": "https://www.theguardian.com/business/2026/aug/13/uk-economy-gdp-growth-energy-costs-inflation",
-      "source": "The Guardian Economics",
-      "published_at": "2026-08-13T10:26:46+00:00",
-      "summary": "<p>Weaker growth, rising energy costs and persistent inflation mean Britain could face tougher times in the autumn</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/aug/13/uk-economic-growth-slows-iran-war-energy-prices-gdp-ons\">UK economic growth slows down</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/13/uk-economy-gdp-growth-second-quarter-services-june-hot-weather-heatwave-world-cup-business-latest-updates\">Business live – latest updates</a></p></li></ul><p>In the spring the <a href=\"https://www.theguardian.com/business/2026/apr/14/iran-war-global-recession-imf-uk-growth-forecasts-oil-prices\">International Monetary Fund</a> warned Britain faced the heaviest economic blow from the Iran war among the world’s most advanced nations. Almost six months into the conflict, on the surface, the UK appears to be proving the forecasters wrong.</p><p>The latest official figures show the UK maintained its pole position as the fastest growing economy in the G7 in the first half of 2026. Despite the gloomy international backdrop and yet more domestic political uncertainty, consumers have largely continued spending and business investment has boomed.</p> <a href=\"https://www.theguardian.com/business/2026/aug/13/uk-economy-gdp-growth-energy-costs-inflation\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3094,
-      "tags": [
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "UK economic growth slows down as Iran war pushes up energy prices",
-      "url": "https://www.theguardian.com/business/2026/aug/13/uk-economic-growth-slows-iran-war-energy-prices-gdp-ons",
-      "source": "The Guardian Economics",
-      "published_at": "2026-08-13T06:59:58+00:00",
-      "summary": "<p>GDP expanded by 0.4% in three months to June, but analysts warn growth is ‘likely to fade’</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/aug/13/uk-economy-gdp-growth-energy-costs-inflation\">UK economy shows surprising resilience</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/13/uk-economy-gdp-growth-second-quarter-services-june-hot-weather-heatwave-world-cup-business-latest-updates\">Business live – latest updates</a></p></li></ul><p>Economic growth slowed in the second quarter of the year, as the disruption unleashed by the Iran war began to take its toll, official figures show.</p><p>The Office for National Statistics (ONS) said GDP expanded by 0.4% in the three months to June, <a href=\"https://www.theguardian.com/business/2026/jul/16/uk-economy-grew-gdp-despite-iran-war\">down from 0.6% in the first quarter</a>, in line with City economists’ expectations.</p> <a href=\"https://www.theguardian.com/business/2026/aug/13/uk-economic-growth-slows-iran-war-energy-prices-gdp-ons\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.2144,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips",
-      "url": "https://www.cnbc.com/2026/08/13/chinese-firm-tops-micron-kioxia-shipments-nand-memory-chips.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-08-13T02:59:50+00:00",
-      "summary": "Counterpoint Research looked at the NAND segment of memory chips, which is benefitting along with the larger DRAM segment from artificial intelligence demand.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6705,
-      "tags": [
-        "Chips",
-        "Artificial Intelligence"
-      ],
-      "signal": "watch",
-      "category": "markets",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data",
-      "url": "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-08-13T01:31:12+00:00",
-      "summary": "The China Passenger Car Association released data Tuesday showing penetration of new energy vehicles rose in July. Tesla's Model Y remained popular.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5267,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "The Guardian view on Japan’s yen: Trump wants to keep the easy-money machine running | Editorial",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/12/the-guardian-view-on-japans-yen-trump-wants-to-keep-the-easy-money-machine-running",
-      "source": "The Guardian Economics",
-      "published_at": "2026-08-12T17:39:46+00:00",
-      "summary": "<p>A cheap currency helps finance the US tech boom. Washington is intervening because allies matter only when they are useful</p><p>Japan’s yen has slid back towards 160 to the dollar, despite last month’s <a href=\"https://www.axios.com/2026/08/11/yen-treasury-intervention-yields\">extraordinary</a> US-Japanese intervention. Traders are betting that its role as a cheap&nbsp;funding pipeline for global finance will continue.&nbsp;Earlier this month the Trump administration&nbsp;stepped in to help Tokyo stabilise its currency. “Japan’s been very good to us, with the exception, of course, of Pearl Harbor,” Donald Trump <a href=\"https://www.theguardian.com/world/2026/aug/03/trump-japan-currency-yen-explainer\">explained</a>. More help is likely to be on its way.</p><p>But this is less a rescue of the yen than an attempt by Scott Bessent, the US treasury secretary, to preserve a cash spigot that benefits the US. Japan’s ultra-cheap money has become a global funding utility: bankers borrow yen, sell them for dollars and buy higher-returning US assets, notably tech shares. Rising American stock markets support collateral and&nbsp;investment. Japan’s “carry trade” is one of the reasons Wall Street can lever hundreds of billions into AI. Research <a href=\"https://arxiv.org/abs/2607.12156\">suggests</a> AI sucks up more than 1% of US GDP.</p><p><em><strong>Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our<a href=\"https://www.theguardian.com/tone/letters\"> letters</a> section, please <a href=\"mailto:guardian.letters@theguardian.com?body=Please%20include%20your%20name,%20full%20postal%20address%20and%20phone%20number%20with%20your%20letter%20below.%20Letters%20are%20usually%20published%20with%20the%20author%27s%20name%20and%20city/town/village.%20The%20rest%20of%20the%20information%20is%20for%20verification%20only%20and%20to%20contact%20you%20where%20necessary.\">click here</a>.</strong></em></p> <a href=\"https://www.theguardian.com/commentisfree/2026/aug/12/the-guardian-view-on-japans-yen-trump-wants-to-keep-the-easy-money-machine-running\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.9758,
       "tags": [
         "AI"
       ],
