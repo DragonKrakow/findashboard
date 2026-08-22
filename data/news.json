@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-22T16:04:45.563992+00:00",
+  "generated_at": "2026-08-22T20:04:51.654841+00:00",
   "articles": [
+    {
+      "id": "ee8bfea352ff",
+      "title": "Bloomberg Previews Jackson Hole Symposium",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-22/bloomberg-previews-jackson-hole-symposium-video",
+      "published_at": "2026-08-22T19:40:52+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Bloomberg's Joe Weisenthal, Lisa Abramowicz, Tracy Alloway and Tom Keene preview the Jackson Hole Symposium as all eyes will be on Fed Chairman Kevin Marsh and his first annual symposium address. (Sou",
+      "tags": []
+    },
+    {
+      "id": "1ed49ed2bce0",
+      "title": "Juicy Yields Draw Junk Bond Buyers to Investment-Grade AI Debt",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-22/juicy-yields-draw-junk-bond-buyers-to-investment-grade-ai-debt",
+      "published_at": "2026-08-22T19:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Companies looking to finance data center projects are increasingly turning to junk bond investors to help them raise billions of dollars, even for debt that is investment-grade.",
+      "tags": []
+    },
+    {
+      "id": "dee8ddab517b",
+      "title": "Bloomberg This Weekend 8/22/2026",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-22/bloomberg-this-weekend-8-22-2026-video",
+      "published_at": "2026-08-22T16:07:46+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Alexis Christoforous bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York.",
+      "tags": []
+    },
     {
       "id": "3a4eb2058872",
       "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
@@ -86,63 +122,15 @@
       "tags": []
     },
     {
-      "id": "8a4128cbdef2",
-      "title": "MI6 Veteran Warns Against Politicizing Intelligence",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-22/mi6-veteran-warns-against-politicizing-intelligence-video",
-      "published_at": "2026-08-22T13:37:16+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Former Head of MI6 Sir Richard Dearlove joins Christina Ruffini on Bloomberg This Weekend to discuss the current state of the international intelligence community.  Dearlove says that UK-US intelligen",
-      "tags": []
-    },
-    {
-      "id": "32d1342f1d77",
-      "title": "Canada Pushes Back as US Trade Talks Collapse",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-22/canada-pushes-back-as-us-trade-talks-collapse-video",
-      "published_at": "2026-08-22T13:22:41+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Bloomberg News Executive Editor for Canada Derek Decloet joins David Gura and Christina Ruffini on Bloomberg This Weekend and explains that Canadians are frustrated but not necessarily surprised after",
-      "tags": []
-    },
-    {
-      "id": "f5d72b6968f6",
-      "title": "Russia’s Rosatom Returns Workers to Iran’s Bushehr Nuclear Plant",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-22/russia-s-rosatom-returns-workers-to-iran-s-bushehr-nuclear-plant",
-      "published_at": "2026-08-22T13:15:26+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Russia state-owned atomic energy company Rosatom is continuing to return employees to Iran’s Bushehr nuclear power plant, Interfax reported, citing the company’s Chief Executive Officer Alexey Likhach",
-      "tags": []
-    },
-    {
-      "id": "5916e91be8e6",
-      "title": "Trump’s challenge: $40tn debt, 6.7% mortgages and $5 diesel",
+      "id": "58c35e18abfb",
+      "title": "Mark Carney says Canada is now ‘at war’ with US over trade",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/6cb399fa-9fba-4806-98a3-9572fe319622?syn-25a6b1a6=1",
-      "published_at": "2026-08-22T04:00:38+00:00",
+      "url": "https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f?syn-25a6b1a6=1",
+      "published_at": "2026-08-22T17:22:54+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "The president’s agenda is under strain as the Iran war pushes up prices and America’s finances worsen",
-      "tags": []
-    },
-    {
-      "id": "2c3bce21a4f0",
-      "title": "Bossing the bond market around never works",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/b9e7a620-1018-4004-a3b0-3c85d494d21d?syn-25a6b1a6=1",
-      "published_at": "2026-08-22T04:00:38+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Despite Scott Bessent’s efforts, investors worry something is up",
+      "summary": "Prime Minister says Donald Trump miscalculated by escalating his tariffs attack on the country",
       "tags": []
     },
     {
@@ -170,27 +158,39 @@
       "tags": []
     },
     {
-      "id": "470cef8fe621",
-      "title": "Greenwich moon time? The high-stakes race to set lunar clocks",
+      "id": "5916e91be8e6",
+      "title": "Trump’s challenge: $40tn debt, 6.7% mortgages and $5 diesel",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/d09e9c05-60c8-4c8a-8230-a5476a049b88?syn-25a6b1a6=1",
-      "published_at": "2026-08-21T20:00:02+00:00",
+      "url": "https://www.ft.com/content/6cb399fa-9fba-4806-98a3-9572fe319622?syn-25a6b1a6=1",
+      "published_at": "2026-08-22T04:00:38+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "World powers gather to decide how to deal with potential threat to colonising Earth’s nearest celestial neighbour",
+      "summary": "The president’s agenda is under strain as the Iran war pushes up prices and America’s finances worsen",
       "tags": []
     },
     {
-      "id": "875108a376c8",
-      "title": "Lula turns to Trump as unlikely ally in Brazil’s clash with Marco Rubio",
+      "id": "2c3bce21a4f0",
+      "title": "Bossing the bond market around never works",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/da43f854-8083-4ec1-86da-76b47c84e64a?syn-25a6b1a6=1",
-      "published_at": "2026-08-22T11:00:09+00:00",
+      "url": "https://www.ft.com/content/b9e7a620-1018-4004-a3b0-3c85d494d21d?syn-25a6b1a6=1",
+      "published_at": "2026-08-22T04:00:38+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Brazil’s president and US secretary of state exchange barbs ahead of the South American country’s election",
+      "summary": "Despite Scott Bessent’s efforts, investors worry something is up",
+      "tags": []
+    },
+    {
+      "id": "89ca16191f15",
+      "title": "Israel’s Syria strike may have been bid to provoke Turkey conflict, US envoy says",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/d770cdbf-46b1-4928-9ec7-e1155db679d2",
+      "published_at": "2026-08-22T18:17:56+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Washington’s ambassador to Ankara says attack on air base could have been ‘aggressive . . . pre-election concept’ ahead of October polls",
       "tags": []
     },
     {
@@ -198,7 +198,7 @@
       "title": "Russian ‘double-tap’ attack on Ukrainian shopping mall kills at least 16",
       "source": "International homepage",
       "url": "https://www.ft.com/content/a7837e1c-6865-42bd-9902-3d4c4b7f37ef?syn-25a6b1a6=1",
-      "published_at": "2026-08-22T13:31:30+00:00",
+      "published_at": "2026-08-22T19:29:26+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
@@ -215,6 +215,18 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Critics are calling for legislation to be tightened two years after the drug was partially liberalised",
+      "tags": []
+    },
+    {
+      "id": "3d87382a0f8c",
+      "title": "How Germany’s doctors, lawyers and dentists got burnt by private markets bets",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/00342102-98ee-47a7-b2cf-7878b9131afd?syn-25a6b1a6=1",
+      "published_at": "2026-08-22T04:00:09+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Questions mount over management of mandatory pension schemes for professionals worth €300bn",
       "tags": []
     },
     {
@@ -458,6 +470,30 @@
       "tags": []
     },
     {
+      "id": "11451c18bfe0",
+      "title": "Energy Fuels: The Largest Combined Uranium And Rare Earth Company In North America",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4939368-energy-fuels-largest-combined-uranium-rare-earth-company-in-north-america?source=feed_all_articles",
+      "published_at": "2026-08-22T17:49:48+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Energy Fuels: The Largest Combined Uranium And Rare Earth Company In North America",
+      "tags": []
+    },
+    {
+      "id": "7b8bea1575cf",
+      "title": "Buy 4 Barron's Better Bets (Than T-Bills) Out Of 11 'Safer' August DiviDogs",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4939366-buy-4-barrons-better-bets-than-t-bills-out-of-11-safer-august-dividogs?source=feed_all_articles",
+      "published_at": "2026-08-22T16:13:54+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Buy 4 Barron's Better Bets (Than T-Bills) Out Of 11 'Safer' August DiviDogs",
+      "tags": []
+    },
+    {
       "id": "276107850195",
       "title": "Principal Well-Being Index: More AI Optimism Amid Existing Labor Pressures",
       "source": "All Articles on Seeking Alpha",
@@ -551,30 +587,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Opportunity To Catch 2 Income Picks Before Their Yield Goes Higher",
-      "tags": []
-    },
-    {
-      "id": "88c995d3899f",
-      "title": "HYDB: Systematic High-Yield Bond ETF, Solid Strategy, Track Record, Dividend Yield",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4939362-hydb-systematic-high-yield-bond-etf-solid-strategy-track-record-dividend-yield?source=feed_all_articles",
-      "published_at": "2026-08-22T14:08:44+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "HYDB: Systematic High-Yield Bond ETF, Solid Strategy, Track Record, Dividend Yield",
-      "tags": []
-    },
-    {
-      "id": "860017ac6eee",
-      "title": "StubHub: Still A Buy, Still Strong, Still Underrated",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4939361-stubhub-still-a-buy-still-strong-still-underrated?source=feed_all_articles",
-      "published_at": "2026-08-22T14:03:48+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "StubHub: Still A Buy, Still Strong, Still Underrated",
       "tags": []
     }
   ]
