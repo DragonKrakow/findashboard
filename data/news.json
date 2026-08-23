@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-22T20:04:51.654841+00:00",
+  "generated_at": "2026-08-23T00:13:33.585820+00:00",
   "articles": [
+    {
+      "id": "a50fdafd7d15",
+      "title": "Korean Traders Chase 40% Coupons as Risk Appetite Survives Rout",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/korean-traders-chase-40-coupons-as-risk-appetite-survives-rout",
+      "published_at": "2026-08-23T00:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "A historic stock selloff has driven South Korea’s retail investors toward complex structured products as the risk-loving cohort continues to look for ways to boost returns.",
+      "tags": []
+    },
     {
       "id": "ee8bfea352ff",
       "title": "Bloomberg Previews Jackson Hole Symposium",
@@ -107,18 +119,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "The new mission for casino operators: Look less like casinos.",
-      "tags": []
-    },
-    {
-      "id": "014b0295cf39",
-      "title": "American Whiskey Pays Price for Canada Trade Rift",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-22/american-whiskey-pays-price-for-canada-trade-rift-video",
-      "published_at": "2026-08-22T13:53:30+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "US spirits exports to Canada fell 70% from March through December 2025 after most provinces removed American alcohol from their shelves, while exports elsewhere rose 2.5%. American Whiskey Association",
       "tags": []
     },
     {
@@ -470,6 +470,78 @@
       "tags": []
     },
     {
+      "id": "c75f32787d8d",
+      "title": "Pan Pacific International Holdings Corporation 2026 Q4 - Results - Earnings Call Presentation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4939375-pan-pacific-international-holdings-corporation-2026-q4-results-earnings-call-presentation?source=feed_all_articles",
+      "published_at": "2026-08-22T23:13:34+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Pan Pacific International Holdings Corporation 2026 Q4 - Results - Earnings Call Presentation",
+      "tags": []
+    },
+    {
+      "id": "6db585ec55d2",
+      "title": "Phoenix Mecano AG 2026 Q2 - Results - Earnings Call Presentation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4939374-phoenix-mecano-ag-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+      "published_at": "2026-08-22T23:12:33+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Phoenix Mecano AG 2026 Q2 - Results - Earnings Call Presentation",
+      "tags": []
+    },
+    {
+      "id": "021a2d20596d",
+      "title": "Nippon Building Fund Inc. 2026 Q2 - Results - Earnings Call Presentation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4939373-nippon-building-fund-inc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+      "published_at": "2026-08-22T23:12:24+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Nippon Building Fund Inc. 2026 Q2 - Results - Earnings Call Presentation",
+      "tags": []
+    },
+    {
+      "id": "33a267a88feb",
+      "title": "SHO-BOND Holdings Co.,Ltd. 2026 Q4 - Results - Earnings Call Presentation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4939372-sho-bond-holdings-co-ltd-2026-q4-results-earnings-call-presentation?source=feed_all_articles",
+      "published_at": "2026-08-22T23:10:12+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "SHO-BOND Holdings Co.,Ltd. 2026 Q4 - Results - Earnings Call Presentation",
+      "tags": []
+    },
+    {
+      "id": "c651b009bed5",
+      "title": "Vicinity Centres Stapled Securities 2026 Q4 - Results - Earnings Call Presentation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4939370-vicinity-centres-stapled-securities-2026-q4-results-earnings-call-presentation?source=feed_all_articles",
+      "published_at": "2026-08-22T23:09:46+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Vicinity Centres Stapled Securities 2026 Q4 - Results - Earnings Call Presentation",
+      "tags": []
+    },
+    {
+      "id": "e9e8449851cc",
+      "title": "Sparebanken Norge (SPIZF) Analyst/Investor Day - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4939369-sparebanken-norge-spizf-analyst-investor-day-slideshow?source=feed_all_articles",
+      "published_at": "2026-08-22T23:06:51+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Sparebanken Norge (SPIZF) Analyst/Investor Day - Slideshow",
+      "tags": []
+    },
+    {
       "id": "11451c18bfe0",
       "title": "Energy Fuels: The Largest Combined Uranium And Rare Earth Company In North America",
       "source": "All Articles on Seeking Alpha",
@@ -515,78 +587,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "JPMorgan Chase: Getting Paid 6.4% While Waiting For Lower Interest Rates",
-      "tags": []
-    },
-    {
-      "id": "fbfd28fd3dad",
-      "title": "BCV: Deep Discount And Another Payout Lift",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4939365-bcv-deep-discount-another-payout-lift?source=feed_all_articles",
-      "published_at": "2026-08-22T15:01:45+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "BCV: Deep Discount And Another Payout Lift",
-      "tags": []
-    },
-    {
-      "id": "246a28ddb364",
-      "title": "Nvidia Earnings Report To Keep Next Week Busy",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4939210-nvidia-earnings-report-to-keep-next-week-busy?source=feed_all_articles",
-      "published_at": "2026-08-22T15:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Nvidia Earnings Report To Keep Next Week Busy",
-      "tags": []
-    },
-    {
-      "id": "4884906f6888",
-      "title": "Eli Lilly: Shaking Off Competition From The Dethroned Novo Nordisk",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4939364-eli-lilly-shaking-off-competition-from-dethroned-novo-nordisk?source=feed_all_articles",
-      "published_at": "2026-08-22T14:51:30+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Eli Lilly: Shaking Off Competition From The Dethroned Novo Nordisk",
-      "tags": []
-    },
-    {
-      "id": "a6d38e982a63",
-      "title": "Nvidia's Real Test Comes After Earnings",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4939363-nvidia-real-test-comes-after-earnings?source=feed_all_articles",
-      "published_at": "2026-08-22T14:47:15+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Nvidia's Real Test Comes After Earnings",
-      "tags": []
-    },
-    {
-      "id": "a8bf57fca487",
-      "title": "Rocket Lab: Mars Ambition & Growing Backlog Outweighs Delayed Neutron Timing (Rating Upgrade)",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4939297-rocket-lab-mars-ambition-and-growing-backlog-outweighs-delayed-neutron-timing?source=feed_all_articles",
-      "published_at": "2026-08-22T14:30:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Rocket Lab: Mars Ambition & Growing Backlog Outweighs Delayed Neutron Timing (Rating Upgrade)",
-      "tags": []
-    },
-    {
-      "id": "d127c26bc153",
-      "title": "Opportunity To Catch 2 Income Picks Before Their Yield Goes Higher",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4939136-opportunity-to-catch-2-income-picks-before-their-yield-goes-higher?source=feed_all_articles",
-      "published_at": "2026-08-22T14:30:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Opportunity To Catch 2 Income Picks Before Their Yield Goes Higher",
       "tags": []
     }
   ]
