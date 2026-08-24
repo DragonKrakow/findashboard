@@ -1,6 +1,114 @@
 {
-  "generated_at": "2026-08-23T20:04:22.252988+00:00",
+  "generated_at": "2026-08-24T00:13:14.907972+00:00",
   "articles": [
+    {
+      "id": "a0bed6b3dbee",
+      "title": "Asian Stocks Dip With AI in Focus, Oil Declines: Markets Wrap",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates",
+      "published_at": "2026-08-23T22:10:35+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Asian stocks edged lower, with the artificial intelligence theme in early focus during a week set to be shaped by earnings from chip bellwether Nvidia Corp. and the Federal Reserve’s annual gathering.",
+      "tags": []
+    },
+    {
+      "id": "a2dacfff8bf8",
+      "title": "Malaysia Rules Out $1.9 Billion Buyout of Passport Supplier",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/malaysia-rules-out-1-9-billion-takeover-of-passport-supplier",
+      "published_at": "2026-08-23T01:51:38+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Malaysia’s government has ruled out a potential acquisition of Datasonic Technologies Sdn., which supplies the country’s passports and national identity cards.",
+      "tags": []
+    },
+    {
+      "id": "ae679d13d45a",
+      "title": "Gold Holds Near Three-Month High as Debasement Trade Returns",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/gold-holds-near-three-month-high-as-debasement-trade-returns",
+      "published_at": "2026-08-23T23:29:29+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Gold traded near a three-month high after the US Treasury’s bold intervention in the bond market revived concerns about a weaker dollar and pushed investors toward alternatives.",
+      "tags": []
+    },
+    {
+      "id": "bf3d44c592a9",
+      "title": "Hedge Fund Manager Phil King to Retire From Regal Partners",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/hedge-fund-manager-phil-king-to-retire-from-regal-partners",
+      "published_at": "2026-08-23T22:55:46+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Regal Partners said Phil King will start a transition to retirement, marking the exit of one of Australia’s most high-profile hedge fund managers.",
+      "tags": []
+    },
+    {
+      "id": "59c946171f09",
+      "title": "Shein Seeks Up to $1.8 Billion in Long-Awaited Hong Kong IPO",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/shein-seeks-up-to-1-8-billion-in-long-awaited-hong-kong-ipo",
+      "published_at": "2026-08-23T22:17:43+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Shein Global Holdings Ltd. is seeking to raise as much as HK$13.9 billion ($1.8 billion) in its Hong Kong initial public offering, as it enters the final stretch of an arduous journey to go public.",
+      "tags": []
+    },
+    {
+      "id": "d3ff5e7028fc",
+      "title": "Burnham Enters World Stage With Debut Foreign Trip to Ukraine",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/burnham-enters-world-stage-with-debut-foreign-trip-to-ukraine",
+      "published_at": "2026-08-23T23:01:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Andy Burnham is traveling to Ukraine on Monday for his first international trip as British prime minister, in an attempt to show he’ll maintain diplomatic and military support for Kyiv as Russia’s war",
+      "tags": []
+    },
+    {
+      "id": "fccff28a01ef",
+      "title": "Hong Kong Homebuyers Left Cold by Prices in Far-Flung Tech Hub",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/hong-kong-homebuyers-left-cold-by-prices-in-far-flung-tech-hub",
+      "published_at": "2026-08-23T23:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Hong Kong’s ambitious plan to create a technology hub near the mainland Chinese border faces an early test after the first residential sales in its Northern Metropolis got off to a middling start, hig",
+      "tags": []
+    },
+    {
+      "id": "2285f70523ab",
+      "title": "Taiwan Dollar’s August Rebound Is Looking Fragile, Analysts Say",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/taiwan-dollar-s-august-rebound-is-looking-fragile-analysts-say",
+      "published_at": "2026-08-23T23:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The Taiwan dollar’s strongest monthly rise in over a year is running into a wall of headwinds, sowing doubts among analysts on the sustainability of its rebound.",
+      "tags": []
+    },
+    {
+      "id": "75d36c8975d8",
+      "title": "Bessent Has No Easy Fix for What’s Really Driving Yields Up",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/bessent-has-no-easy-fix-for-what-s-really-driving-bond-yields-up",
+      "published_at": "2026-08-23T13:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Treasury Secretary Scott Bessent came to office blasting his predecessor for trying to re-engineer the world’s largest bond market. Last week he took a stab at it himself.",
+      "tags": []
+    },
     {
       "id": "ca3091050c0f",
       "title": "US Long Bonds Risk Deeper Selloff Without Clear Warsh Guidance",
@@ -11,114 +119,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Bond investors will zero in on Kevin Warsh’s Jackson Hole speech this week, with a further selloff in long-dated Treasuries at stake as markets look for clues on the Federal Reserve chairman’s respons",
-      "tags": []
-    },
-    {
-      "id": "d9cf38748ddc",
-      "title": "Bloomberg This Weekend 8/23/2026",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-23/bloomberg-this-weekend-8-23-2026-video",
-      "published_at": "2026-08-23T16:19:56+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Alexis Christoforous bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York.",
-      "tags": []
-    },
-    {
-      "id": "c0aa30ae8067",
-      "title": "BTW: Headlines You May Have Missed",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-23/btw-headlines-you-may-have-missed-video",
-      "published_at": "2026-08-23T15:14:22+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Cat lady Taylor Swift gets a dog, gap years get expensive, and the new and improved Burger King Whopper: Join Alexis Christoforous, David Gura and Christina Ruffini for this weeks headline roundup. (S",
-      "tags": []
-    },
-    {
-      "id": "52bb07d63b1e",
-      "title": "AI Takes Center Court at the US Open",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-23/ai-takes-center-court-at-the-us-open-video",
-      "published_at": "2026-08-23T14:57:31+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "IBM and the US Open are expanding their use of AI to give fans real-time match insights, including personalized updates, an AI assistant and win probabilities that change after every point. IBM Senior",
-      "tags": []
-    },
-    {
-      "id": "3e5b965f7a52",
-      "title": "Fed Faces High Stakes Test at Jackson Hole",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-23/fed-faces-high-stakes-test-at-jackson-hole-video",
-      "published_at": "2026-08-23T14:47:34+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Fed Chair Kevin Warsh heads into Jackson Hole under heightened scrutiny after the Treasury’s intervention in the bond market raised questions about the traditional boundaries between fiscal and moneta",
-      "tags": []
-    },
-    {
-      "id": "432fdda51599",
-      "title": "Rep. McCormick Warns Against Slowing AI Buildout",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-23/rep-mccormick-warns-against-slowing-ai-buildout-video",
-      "published_at": "2026-08-23T14:29:34+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Representative Rich McCormick is on Bloomberg This Weekend with David Gura and Christina Ruffini and says the US should continue expanding data centers to support its leadership in artificial intellig",
-      "tags": []
-    },
-    {
-      "id": "c9112473d928",
-      "title": "Data Center Expansion Tests Voter Patience",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-23/data-center-expansion-tests-voter-patience-video",
-      "published_at": "2026-08-23T14:14:06+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The rapid expansion of AI data centers is becoming a political issue in Ohio as residents raise concerns about higher electricity bills, tax incentives and secrecy around local development deals. Repr",
-      "tags": []
-    },
-    {
-      "id": "a124126bfe30",
-      "title": "How Water Scarcity Is Changing the Economics of the Southwest",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-23/the-water-crisis-reshaping-the-american-west-video",
-      "published_at": "2026-08-23T14:02:57+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The Colorado River provides water to seven states, contributing to an estimated $1.4 trillion in annual economic activity. But decades of decline, record-low snowpack and shrinking reservoirs have pus",
-      "tags": []
-    },
-    {
-      "id": "9f4932311601",
-      "title": "Canada Digs In as US Trade Fight Escalates",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-23/canada-digs-in-as-us-trade-fight-escalates-video",
-      "published_at": "2026-08-23T14:01:31+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Joining Bloomberg This Weekend, Former Canadian Finance Minister Chrystia Freeland says Canada was right to walk away from a trade deal she argues would have harmed both countries, urging Ottawa not t",
-      "tags": []
-    },
-    {
-      "id": "4152994b1abc",
-      "title": "A Teen’s Double Life Reveals London’s Wealth Obsession",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-23/a-teen-s-double-life-reveals-london-s-wealth-obsession-video",
-      "published_at": "2026-08-23T13:59:09+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Joining Bloomberg This Weekend is Best Selling Author Patrick Radden Keefe to discuss his new book 'London Falling,' which explores the mysterious 2019 death of 19-year-old Zac Brettler, whose parents",
       "tags": []
     },
     {
@@ -146,6 +146,18 @@
       "tags": []
     },
     {
+      "id": "0390fcac8e36",
+      "title": "An economic D-Day is coming for Iran",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/cb865200-1a06-40be-86a3-10ee2bb05804",
+      "published_at": "2026-08-23T21:30:01+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Countries that calculate appeasement of the regime to be a safer choice should reconsider",
+      "tags": []
+    },
+    {
       "id": "2d790f3cc460",
       "title": "Yahoo, the internet’s ‘OG’, wants to win over Gen Z",
       "source": "International homepage",
@@ -155,18 +167,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Group’s chief says vintage web name can help draw younger users",
-      "tags": []
-    },
-    {
-      "id": "45d0ba3e86b6",
-      "title": "Trump’s South Korea snub raises questions in the Asia-Pacific",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/22530c4a-65b7-49f7-890d-1c8900f63853?syn-25a6b1a6=1",
-      "published_at": "2026-08-23T11:00:07+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Scaling back military exercises has undermined faith in America’s reliability",
       "tags": []
     },
     {
@@ -182,15 +182,15 @@
       "tags": []
     },
     {
-      "id": "4c543a924dec",
-      "title": "Government can bring robotics to life",
+      "id": "ae6e2b001951",
+      "title": "Alibaba announces $10.2bn share placement as Chinese companies expand AI investment",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/a4147c6b-5634-4035-b1a8-ac7bf1eb497d?syn-25a6b1a6=1",
-      "published_at": "2026-08-23T11:15:07+00:00",
+      "url": "https://www.ft.com/content/e4ab027e-ed41-48b7-89ac-8250d3054ae6?syn-25a6b1a6=1",
+      "published_at": "2026-08-23T08:33:27+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Without policy, there are few incentives to automate business functions where labour costs are low",
+      "summary": "Equity issuance follows a strong reception for its latest Qwen 3.8-Max model",
       "tags": []
     },
     {
@@ -206,27 +206,15 @@
       "tags": []
     },
     {
-      "id": "9a2e1ff7c3b6",
-      "title": "US buyers snap up Europe’s asset managers at fastest rate in decades",
+      "id": "0b36a434e0b8",
+      "title": "Burnham to pledge support for long-range missile construction in Ukraine",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/dd605c6f-8a6e-4664-970b-f4c07ea7a4d2?syn-25a6b1a6=1",
-      "published_at": "2026-08-23T04:30:05+00:00",
+      "url": "https://www.ft.com/content/4e3c99fe-1a8d-4fb2-b99a-da1c1da4db8e?syn-25a6b1a6=1",
+      "published_at": "2026-08-23T23:01:01+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "European fund groups struggle as firms race to bulk up and expand globally",
-      "tags": []
-    },
-    {
-      "id": "63ebfbbe733e",
-      "title": "Investors try to catch ‘falling knife’ with bets on risky funds during chip rout",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/5e8072a7-cb99-47a6-9478-e46e7de3b4a2?syn-25a6b1a6=1",
-      "published_at": "2026-08-23T04:00:08+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Leveraged single-stock ETFs attracted billions of dollars of net inflows even as they plunged during market sell-off",
+      "summary": "UK prime minister will shrug off warnings from Russia in first overseas visit",
       "tags": []
     },
     {
@@ -239,6 +227,30 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "President says wartime vote would ‘split Ukraine apart’ as he seeks to reassert authority",
+      "tags": []
+    },
+    {
+      "id": "9a2e1ff7c3b6",
+      "title": "US buyers snap up Europe’s asset managers at fastest rate in decades",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/dd605c6f-8a6e-4664-970b-f4c07ea7a4d2?syn-25a6b1a6=1",
+      "published_at": "2026-08-23T04:30:05+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "European fund groups struggle as firms race to bulk up and expand globally",
+      "tags": []
+    },
+    {
+      "id": "77749751dcd6",
+      "title": "We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-08-23T23:56:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia",
       "tags": []
     },
     {
@@ -347,18 +359,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump\" class=\"type:primaryImage\" src=\"https://s3-images.c",
-      "tags": []
-    },
-    {
-      "id": "71e148aa5015",
-      "title": "Crypto Biz: Treasury’s ‘Not-QE’ playbook sends Bitcoin higher",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/crypto-biz-treasurys-not-qe-playbook-sends-bitcoin-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-08-21T15:50:08+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: Treasury’s ‘Not-QE’ playbook sends Bitcoin higher\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media",
       "tags": []
     },
     {
@@ -482,6 +482,66 @@
       "tags": []
     },
     {
+      "id": "4a23eb77aa28",
+      "title": "Champion Real Estate Investment Trust 2026 Q2 - Results - Earnings Call Presentation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4939461-champion-real-estate-investment-trust-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+      "published_at": "2026-08-23T23:07:52+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Champion Real Estate Investment Trust 2026 Q2 - Results - Earnings Call Presentation",
+      "tags": []
+    },
+    {
+      "id": "ef827020e00f",
+      "title": "Flughafen Wien Aktiengesellschaft 2026 Q2 - Results - Earnings Call Presentation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4939460-flughafen-wien-aktiengesellschaft-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+      "published_at": "2026-08-23T23:07:33+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Flughafen Wien Aktiengesellschaft 2026 Q2 - Results - Earnings Call Presentation",
+      "tags": []
+    },
+    {
+      "id": "b6885ac113b0",
+      "title": "Mcdermott International Ltd. 2026 Q2 - Results - Earnings Call Presentation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4939459-mcdermott-international-ltd-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+      "published_at": "2026-08-23T23:07:13+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Mcdermott International Ltd. 2026 Q2 - Results - Earnings Call Presentation",
+      "tags": []
+    },
+    {
+      "id": "7ff77c92e09b",
+      "title": "Skellerup Holdings Limited 2026 Q4 - Results - Earnings Call Presentation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4939458-skellerup-holdings-limited-2026-q4-results-earnings-call-presentation?source=feed_all_articles",
+      "published_at": "2026-08-23T23:05:08+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Skellerup Holdings Limited 2026 Q4 - Results - Earnings Call Presentation",
+      "tags": []
+    },
+    {
+      "id": "fa74f4f74d5c",
+      "title": "Tongdao Liepin Group (TGDLF) Q2 2026 Earnings Call Transcript",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4939456-tongdao-liepin-group-tgdlf-q2-2026-earnings-call-transcript?source=feed_all_articles",
+      "published_at": "2026-08-23T22:41:48+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Tongdao Liepin Group (TGDLF) Q2 2026 Earnings Call Transcript",
+      "tags": []
+    },
+    {
       "id": "e73df2a612da",
       "title": "PGIM Jennison Global Equity Income Fund Q2 2026 Commentary",
       "source": "All Articles on Seeking Alpha",
@@ -539,66 +599,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Wall Street Brunch: Nvidia And Jackson Hole Vie For Market Sway",
-      "tags": []
-    },
-    {
-      "id": "3e89df78d478",
-      "title": "Allspring Special Mid Cap Value Fund Q2 2026 Commentary",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4939443-allspring-special-mid-cap-value-fund-q2-2026-commentary?source=feed_all_articles",
-      "published_at": "2026-08-23T17:04:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Allspring Special Mid Cap Value Fund Q2 2026 Commentary",
-      "tags": []
-    },
-    {
-      "id": "0f9c46fb4f82",
-      "title": "Alger Concentrated Equity ETF Q2 2026 Portfolio Update",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4939442-alger-concentrated-equity-etf-q2-2026-portfolio-update?source=feed_all_articles",
-      "published_at": "2026-08-23T16:47:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Alger Concentrated Equity ETF Q2 2026 Portfolio Update",
-      "tags": []
-    },
-    {
-      "id": "f1cdceec93ea",
-      "title": "Alger Concentrated Equity ETF Q2 2026 Commentary",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4939441-alger-concentrated-equity-etf-q2-2026-commentary?source=feed_all_articles",
-      "published_at": "2026-08-23T16:43:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Alger Concentrated Equity ETF Q2 2026 Commentary",
-      "tags": []
-    },
-    {
-      "id": "07b602d12f6d",
-      "title": "Calamos U.S. Convertible Strategy Q2 2026 Commentary",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4939440-calamos-us-convertible-strategy-q2-2026-commentary?source=feed_all_articles",
-      "published_at": "2026-08-23T16:36:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Calamos U.S. Convertible Strategy Q2 2026 Commentary",
-      "tags": []
-    },
-    {
-      "id": "0cdaaf524924",
-      "title": "Hartford Large Cap Growth ETF Q2 2026 Commentary",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4939439-hartford-large-cap-growth-etf-q2-2026-commentary?source=feed_all_articles",
-      "published_at": "2026-08-23T16:28:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Hartford Large Cap Growth ETF Q2 2026 Commentary",
       "tags": []
     }
   ]
