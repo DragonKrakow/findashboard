@@ -1,14 +1,60 @@
 {
-  "generated_at": "2026-08-23T05:41:11Z",
-  "snapshot_date": "2026-08-23",
+  "generated_at": "2026-08-24T05:44:55Z",
+  "snapshot_date": "2026-08-24",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
+      "title": "Stock futures inch higher as U.S. and Canada appear headed for trade war",
+      "url": "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-08-24T00:00:00+00:00",
+      "summary": "U.S. stock-index futures were little changed on Sunday, as it appeared the U.S. was on the verge of an all-out trade war with Canada, one of its biggest trade partners.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.8316,
+      "tags": [
+        "Trade War"
+      ],
+      "signal": "watch",
+      "category": "geopolitical",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "url": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-08-23T19:30:00+00:00",
+      "summary": "“I see people who have a lot of money but little or no taxable income who still qualify for ACA Marketplace subsidies.”",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0945,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-23T17:24:46+00:00",
+      "summary": "<p>Breakdown shows Washington now prioritises its own interests over any semblance of shared economic ground</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war\">‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war</a></p></li></ul><p>The calamitous collapse of trade negotiations between Canada and the United States is a warning to nations worldwide that pursuing any kind of dialogue with the current US administration is doomed at the outset, according to observers who say this recent episode indicates seeking a fair deal is futile.</p><p>Andrea Lawlor, an associate professor of political science at McMaster University in Ontario, said: “No matter the closeness of the historical relationship, the American administration has signalled that it now prioritises its interests above those of some sort of global economic coordination or harmony.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.7249,
+      "tags": [
+        "Trade War",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
       "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
       "url": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-22T20:15:00+00:00",
+      "published_at": "2026-08-23T16:45:00+00:00",
       "summary": "“The cost is absolutely ridiculous.”",
       "sentiment": "bullish",
       "sentiment_score": 0.2263,
@@ -20,13 +66,13 @@
       "source_repo": "financenews"
     },
     {
-      "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?",
-      "url": "https://www.marketwatch.com/story/im-my-mother-in-laws-power-of-attorney-executor-and-trustee-do-i-hold-all-the-power-a11968a2?mod=mw_rss_topstories",
+      "title": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test",
+      "url": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-22T17:00:00+00:00",
-      "summary": "“There is a lot of legal and financial power in my hands.”",
+      "published_at": "2026-08-23T13:00:00+00:00",
+      "summary": "Nvidia is due to report earnings on Wednesday, and “a very broad universe of companies” is tied to the themes that the chip giant represents.",
       "sentiment": "bullish",
-      "sentiment_score": 0.3612,
+      "sentiment_score": 0.875,
       "tags": [
         "AI"
       ],
@@ -35,16 +81,29 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Why an announcement from the Treasury sparked a rally in gold and bitcoin this week",
-      "url": "https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-22T13:00:00+00:00",
-      "summary": "Cryptocurrencies and precious metals shot higher, while the U.S. dollar weakened, after the Treasury Department said it planned to double its bond buybacks.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6124,
+      "title": "Jumpy bond markets make it clear: Trump risks driving US into debt crisis | Heather Stewart",
+      "url": "https://www.theguardian.com/business/2026/aug/23/jumpy-bond-markets-make-it-clear-trump-risks-driving-us-into-debt-crisis",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-23T10:53:53+00:00",
+      "summary": "<p>Treasury secretary Scott Bessent’s attempt to calm bond markets is a sign of weakness not strength</p><p>“Look, there’s nothing magic about that $40tn number,” the US Treasury secretary, Scott Bessent, told CNBC insouciantly last week, as the country’s debt mountain surpassed another bleak record.</p><p>Yet Bessent’s decision to intervene in government bond markets in an effort to combat soaring yields belied his studied calm in TV interviews – and reignited fears the US may be on the road to a debt crisis.</p> <a href=\"https://www.theguardian.com/business/2026/aug/23/jumpy-bond-markets-make-it-clear-trump-risks-driving-us-into-debt-crisis\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.9287,
       "tags": [
-        "Gold",
-        "Metals",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "‘The line’s running half-empty’: Llanwern steelworks feels the heat from cheap steel imports",
+      "url": "https://www.theguardian.com/business/2026/aug/23/llanwern-steelworks-cheap-steel-imports",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-23T09:00:28+00:00",
+      "summary": "<p>New quotas to protect UK firms and jobs appear to be having opposite effect in products such as galvanised steel</p><p>At Tata Steel’s factory in Llanwern, south Wales, production lines that should be running full-time are now falling quiet for parts of the day, with workers being put on to maintenance and cleaning work while machines sit idle.</p><p>There aren’t enough orders to keep them running all the time, the company says, because of a surge of <a href=\"https://www.theguardian.com/business/2026/jun/25/uk-to-halve-tariff-free-steel-imports-to-counter-glut-of-cheap-chinese-metal\">cheap steel coming from Asian countries</a> that is threatening the viability of several UK sites that make similar products, and risk hundreds of jobs.</p> <a href=\"https://www.theguardian.com/business/2026/aug/23/llanwern-steelworks-cheap-steel-imports\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.5423,
+      "tags": [
         "AI"
       ],
       "signal": "watch",
@@ -408,66 +467,6 @@
       ],
       "signal": "watch",
       "category": "energy",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Credit card issuer Synchrony announces partnership with OpenAI",
-      "url": "https://www.cnbc.com/2026/08/17/synchrony-openai.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-08-18T02:48:33+00:00",
-      "summary": "The collaboration, which is in its early stages, is a step toward enabling Synchrony customers to have smoother online shopping experiences.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3818,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails",
-      "url": "https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-08-17T17:43:40+00:00",
-      "summary": "The odds are higher than they were before 12 states sued to block the merger, but lower than after Paramount delayed the acquisition in late July.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.7269,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "China’s economy showing signs that slowdown may be extending",
-      "url": "https://www.theguardian.com/business/2026/aug/17/china-economy-slowdown-signs-extending",
-      "source": "The Guardian Economics",
-      "published_at": "2026-08-17T15:36:25+00:00",
-      "summary": "<p>Industrial output and retail sales slump in July after one of the country’s weakest quarterly growth rates ever</p><p>China’s economy is showing signs of extending a slowdown with a slump in industrial output and retail sales in July, adding to pressure on Beijing to intervene with measures to support activity.</p><p>After the world’s second largest economy posted one of its <a href=\"https://www.theguardian.com/business/2026/jul/15/china-economy-low-quarterly-growth-economic-concerns\">lowest quarterly growth readings on record</a> in the three months to June, the latest figures suggest it continued to falter in July.</p> <a href=\"https://www.theguardian.com/business/2026/aug/17/china-economy-slowdown-signs-extending\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.34,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Leading economies’ borrowing costs hit highest since 2008 crisis",
-      "url": "https://www.theguardian.com/business/2026/aug/17/government-borrowing-costs-highs-inflation-france-germany-us-japan-uk-bond-yields",
-      "source": "The Guardian Economics",
-      "published_at": "2026-08-17T15:13:40+00:00",
-      "summary": "<p>Concern over impact of Iran war pushes up government bond yields in US, UK, France, Germany and Japan</p><p>Government borrowing costs in several advanced economies hit their highest level since the 2008 financial crisis, or even earlier, on Monday as investors feared the Middle East crisis would keep inflation persistently high.</p><p>Concerns over rising prices and government spending pushed up the cost of debt issued by Paris, Berlin, Washington DC, Tokyo and London as investors fretted that rising prices would push up interest rates.</p> <a href=\"https://www.theguardian.com/business/2026/aug/17/government-borrowing-costs-highs-inflation-france-germany-us-japan-uk-bond-yields\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9578,
-      "tags": [
-        "Interest Rates"
-      ],
-      "signal": "watch",
-      "category": "markets",
       "source_repo": "financenews"
     }
   ]
