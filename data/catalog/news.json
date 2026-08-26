@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T05:42:04Z",
-  "snapshot_date": "2026-08-25",
+  "generated_at": "2026-08-26T05:43:13Z",
+  "snapshot_date": "2026-08-26",
   "source": "financenews",
   "count": 30,
   "articles": [
@@ -8,7 +8,7 @@
       "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
       "url": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-24T23:45:00+00:00",
+      "published_at": "2026-08-26T00:01:00+00:00",
       "summary": "“I also own my home and an SUV outright, with no outstanding debt.”",
       "sentiment": "neutral",
       "sentiment_score": -0.1331,
@@ -20,11 +20,71 @@
       "source_repo": "financenews"
     },
     {
-      "title": "SpaceX plans to put Nvidia-powered AI satellites in orbit next year",
-      "url": "https://www.marketwatch.com/story/spacex-plans-to-put-nvidia-powered-ai-satellites-in-orbit-next-year-ab57083c?mod=mw_rss_topstories",
+      "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
+      "url": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-24T21:26:00+00:00",
-      "summary": "Elon Musk’s company now plans to launch orbital data centers by the end of next year.",
+      "published_at": "2026-08-25T23:01:00+00:00",
+      "summary": "“The property is very old and requires significant ongoing maintenance.”",
+      "sentiment": "bullish",
+      "sentiment_score": 0.4939,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Dick’s Sporting Goods’ epic drop hits other footwear giants, as shoppers sour on retro sneakers",
+      "url": "https://www.marketwatch.com/story/dicks-sporting-goods-stock-is-having-its-worst-day-ever-as-sneakers-arent-selling-without-deeper-discounts-5a868358?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-08-25T22:57:00+00:00",
+      "summary": "Shares of the sporting-goods retailer suffering a record selloff as profit and sales missed expectations and the full-year outlook was slashed.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.4939,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Why Meta’s stock could see a 50% rally, thanks to an overlooked AI wild card",
+      "url": "https://www.marketwatch.com/story/why-metas-stock-could-see-a-50-rally-thanks-to-an-overlooked-ai-wild-card-28cea54b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-08-25T21:01:00+00:00",
+      "summary": "An ongoing shortage of compute could provide Meta with the opportunity to sell its capacity for a big premium.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5574,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Why AMD can beat rivals Intel and Nvidia in the market for data-center CPUs",
+      "url": "https://www.marketwatch.com/story/why-amd-can-beat-rivals-intel-and-nvidia-in-the-market-for-data-center-cpus-e49a53f1?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-08-25T20:59:00+00:00",
+      "summary": "The chip maker is strongly positioned to gain share in the market for data-center CPUs and to see profit from revenue, a Raymond James analyst says.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8625,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "This driverless-truck company could be a ‘long-term winner’ in a market Tesla plans to enter soon",
+      "url": "https://www.marketwatch.com/story/this-driverless-truck-company-could-be-a-long-term-winner-in-a-market-tesla-plans-to-enter-soon-193bc8fe?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-08-25T20:56:00+00:00",
+      "summary": "Kodiak AI logged more than 40,000 paid driverless hours through the second quarter and is pushing to offer driverless highway operations by the end of 2026.",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "tags": [
@@ -35,28 +95,43 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Bitcoin has beaten stocks and gold over six months. Now it’s closing in on $80,000.",
-      "url": "https://www.marketwatch.com/story/bitcoin-has-beaten-stocks-and-gold-over-six-months-now-its-closing-in-on-80-000-b8aa48f9?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-24T20:53:00+00:00",
-      "summary": "Bitcoin was rising Monday near the $80,000 level that it last touched in May, after the cryptocurrency surged last week on the Treasury Department’s plans to buy back longer-dated Treasurys.",
+      "title": "Canada announces 50% retaliatory tariffs on hundreds of US imports as trade war escalates – video",
+      "url": "https://www.theguardian.com/world/video/2026/aug/25/canada-tariffs-us-goods-mark-carney",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-25T16:39:26+00:00",
+      "summary": "<p>Announcement of tariffs on $20bn worth of US goods follows through on Mark Carney's vow to match US tariffs 'dollar for dollar'</p> <a href=\"https://www.theguardian.com/world/video/2026/aug/25/canada-tariffs-us-goods-mark-carney\">Continue reading...</a>",
       "sentiment": "bearish",
-      "sentiment_score": -0.25,
+      "sentiment_score": -0.4588,
       "tags": [
-        "Gold"
+        "Trade War"
       ],
       "signal": "watch",
-      "category": "crypto",
+      "category": "geopolitical",
       "source_repo": "financenews"
     },
     {
-      "title": "Ford’s $3 billion Canadian bet is getting caught in trade-war crosshairs",
-      "url": "https://www.marketwatch.com/story/u-s-automakers-and-home-builders-are-among-the-big-losers-as-trump-launches-a-trade-war-against-canada-063c1d4c?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-24T20:22:00+00:00",
-      "summary": "While certain U.S. sectors are facing headwinds from the new tariffs on Canadian goods, analysts have said the broad economic effects of the new 50% U.S. levies could be modest for the U.S. overall.",
+      "title": "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
+      "url": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-08-25T16:00:40+00:00",
+      "summary": "The U.S. can pressure Chinese banks over Iran through access to its financial system, while Beijing is building alternatives such as CIPS.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.4215,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "US consumer confidence falls in August as gas prices remain above $4 per gallon",
+      "url": "https://www.theguardian.com/business/2026/aug/25/us-consumer-confidence-falls",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-25T15:56:15+00:00",
+      "summary": "<p>Confidence index drops to 89.4 in August from 90.2 in July amid frustration after five years of elevated inflation</p><p>Americans’ confidence in the economy declined again this month as <a href=\"https://www.theguardian.com/world/us-israel-war-on-iran\">the ongoing conflict in Iran</a> continued to push US gasoline prices above $4 per gallon.</p><p>The Conference Board said on Tuesday that its consumer confidence index dipped to 89.4 in August from 90.2 in July. That was the lowest level in seven months but was essentially within the same lukewarm range it has been in since the beginning of the year. In late 2024 and early 2025, readings were consistently above 100.</p> <a href=\"https://www.theguardian.com/business/2026/aug/25/us-consumer-confidence-falls\">Continue reading...</a>",
       "sentiment": "bullish",
-      "sentiment_score": 0.2732,
+      "sentiment_score": 0.2382,
       "tags": [
         "AI"
       ],
@@ -68,7 +143,7 @@
       "title": "Crypto extends gains after biggest 3-day rally since 2023",
       "url": "https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html",
       "source": "CNBC Finance",
-      "published_at": "2026-08-24T20:02:22+00:00",
+      "published_at": "2026-08-25T13:53:13+00:00",
       "summary": "Bitcoin and crypto stocks extended their rally after the flagship cryptocurrency broke out of its trading range.",
       "sentiment": "neutral",
       "sentiment_score": 0.128,
@@ -80,35 +155,18 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Bessent’s sweeping sanctions against Iran send oil prices to their biggest drop in 3 weeks, while fueling hopes of de-escalation",
-      "url": "https://www.marketwatch.com/story/oil-trades-lower-even-as-bessent-promises-economic-d-day-announcement-on-iran-a90d862e?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-24T19:40:00+00:00",
-      "summary": "What matters more for oil prices is how hard U.S. sanctions hit China, Iran’s biggest oil buyer, and whether Beijing pushes back.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.1027,
+      "title": "US Treasury’s Scott Bessent ‘will lose’ battle with bond markets, former mentor warns",
+      "url": "https://www.theguardian.com/business/2026/aug/25/us-treasury-scott-bessent-bond-buying-donald-trump-stanley-druckenmiller",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-25T09:59:16+00:00",
+      "summary": "<p>Trump ally should cut budget deficit rather than try to suppress bond yields, says billionaire Stanley Druckenmiller</p><p>Scott Bessent’s attempt to calm the bond markets and push down America’s cost of borrowing have attracted a rebuke from the US Treasury secretary’s former mentor.</p><p>The billionaire investor Stanley Druckenmiller, who worked with Bessent at George Soros’s fund management firm in the 1990s, has warned that his former pupil is courting danger by trying to suppress US bond yields.</p> <a href=\"https://www.theguardian.com/business/2026/aug/25/us-treasury-scott-bessent-bond-buying-donald-trump-stanley-druckenmiller\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.7506,
       "tags": [
-        "Oil",
         "AI"
       ],
       "signal": "watch",
       "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Trump’s trade war with Canada could lead the U.S. back to quantitative easing",
-      "url": "https://www.marketwatch.com/story/trumps-canada-trade-war-could-lead-the-u-s-back-to-quantitative-easing-eef9be8b?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-24T19:03:00+00:00",
-      "summary": "That’s good for gold, stocks and long bonds. Eventually.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "Trade War",
-        "Gold"
-      ],
-      "signal": "watch",
-      "category": "geopolitical",
       "source_repo": "financenews"
     },
     {
@@ -403,66 +461,6 @@
       ],
       "signal": "watch",
       "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters",
-      "url": "https://www.cnbc.com/2026/08/19/carvana-shares-on-pace-for-10percent-weekly-loss-as-mark-walter-probe-fuels-investor-jitters.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-08-19T21:05:31+00:00",
-      "summary": "The scrutiny raised questions about what could happen to Walter's Carvana position if fallout from the investigation pressures him to raise cash.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.3182,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
-      "url": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-08-19T18:54:50+00:00",
-      "summary": "The Federal Reserve on Wednesday released minutes from its July 28-29 policy meeting.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.2411,
-      "tags": [
-        "Fed"
-      ],
-      "signal": "watch",
-      "category": "macro",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Can Andy Burnham rewire the ‘Treasury brain’ to boost growth?",
-      "url": "https://www.theguardian.com/politics/2026/aug/19/can-andy-burnham-tame-the-power-of-the-treasury-to-boost-growth",
-      "source": "The Guardian Economics",
-      "published_at": "2026-08-19T18:46:22+00:00",
-      "summary": "<p>PM wants to reduce department’s stranglehold on public purse and bring long-term thinking to economic policy</p><p>Andy Burnham is far from the first prime minister to dream of taming the power of the mighty Treasury.</p><p>Boris Johnson <a href=\"https://www.theguardian.com/politics/2020/feb/13/sajid-javid-resigns-as-chancellor-amid-boris-johnson-reshuffle\">all but forced the resignation of Sajid Javid</a> by handpicking his team; Margaret Thatcher favoured her economic adviser Alan Walters over Nigel Lawson, prompting the latter’s furious resignation; and Tony Blair and Gordon Brown’s power struggle was the stuff of Whitehall legend.</p> <a href=\"https://www.theguardian.com/politics/2026/aug/19/can-andy-burnham-tame-the-power-of-the-treasury-to-boost-growth\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.8945,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Is the US actually too chicken to take on China for trade?",
-      "url": "https://www.theguardian.com/us-news/2026/aug/19/china-trump-trade-weak-yuan",
-      "source": "The Guardian Economics",
-      "published_at": "2026-08-19T16:42:08+00:00",
-      "summary": "<p>A weak yuan guarantees Beijing massive trade surplus even as the White House tries tamp down on Chinese imports</p><p>Since <a href=\"https://www.theguardian.com/world/china\">China</a> offered a truce in the trade war last October following its threat to deprive the United States of rare-earth magnets, the <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a> has been happy to stop escalating. After all, imports from China have been falling, down by 40% in the year to June, compared with the same period in 2024. Best to declare victory and call it a day.</p><p>But the US hasn’t won this battle – and there’s strong evidence to show it’s too chicken to really try.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/19/china-trump-trade-weak-yuan\">Continue reading...</a>",
-      "sentiment": "neutral",
-      "sentiment_score": -0.1027,
-      "tags": [
-        "Trade War"
-      ],
-      "signal": "watch",
-      "category": "markets",
       "source_repo": "financenews"
     }
   ]
