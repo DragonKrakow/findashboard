@@ -1,62 +1,48 @@
 {
-  "generated_at": "2026-08-26T05:43:13Z",
-  "snapshot_date": "2026-08-26",
+  "generated_at": "2026-08-27T08:15:12Z",
+  "snapshot_date": "2026-08-27",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
-      "url": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+      "title": "CrowdStrike’s stock soars after AI fuels the cybersecurity company’s ‘best quarter in history’",
+      "url": "https://www.marketwatch.com/story/crowdstrikes-stock-soars-after-ai-fuels-the-cybersecurity-companys-best-quarter-ever-6aeae1d5?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-26T00:01:00+00:00",
-      "summary": "“I also own my home and an SUV outright, with no outstanding debt.”",
-      "sentiment": "neutral",
-      "sentiment_score": -0.1331,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
-      "url": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-25T23:01:00+00:00",
-      "summary": "“The property is very old and requires significant ongoing maintenance.”",
+      "published_at": "2026-08-27T00:43:00+00:00",
+      "summary": "Shares of CrowdStrike Holdings were roaring after the cybersecurity company revealed a record-breaking quarter, one partially boosted by fears about the power of artificial intelligence.",
       "sentiment": "bullish",
-      "sentiment_score": 0.4939,
+      "sentiment_score": 0.6124,
       "tags": [
-        "AI"
+        "AI",
+        "Artificial Intelligence"
       ],
       "signal": "watch",
       "category": "technology",
       "source_repo": "financenews"
     },
     {
-      "title": "Dick’s Sporting Goods’ epic drop hits other footwear giants, as shoppers sour on retro sneakers",
-      "url": "https://www.marketwatch.com/story/dicks-sporting-goods-stock-is-having-its-worst-day-ever-as-sneakers-arent-selling-without-deeper-discounts-5a868358?mod=mw_rss_topstories",
+      "title": "Fed’s Lisa Cook denies committing mortgage fraud, says Trump has no grounds to remove her from office",
+      "url": "https://www.marketwatch.com/story/feds-lisa-cook-denies-committing-mortgage-fraud-says-trump-has-no-grounds-to-remove-her-from-office-4ea60c9d?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-25T22:57:00+00:00",
-      "summary": "Shares of the sporting-goods retailer suffering a record selloff as profit and sales missed expectations and the full-year outlook was slashed.",
+      "published_at": "2026-08-27T00:14:00+00:00",
+      "summary": "Cook’s lawyer says she made an inadvertent error listing her apartment in Atlanta as a primary residence",
       "sentiment": "bearish",
-      "sentiment_score": -0.4939,
+      "sentiment_score": -0.8807,
       "tags": [
-        "AI"
+        "Fed"
       ],
       "signal": "watch",
-      "category": "technology",
+      "category": "macro",
       "source_repo": "financenews"
     },
     {
-      "title": "Why Meta’s stock could see a 50% rally, thanks to an overlooked AI wild card",
-      "url": "https://www.marketwatch.com/story/why-metas-stock-could-see-a-50-rally-thanks-to-an-overlooked-ai-wild-card-28cea54b?mod=mw_rss_topstories",
+      "title": "Salesforce’s stock gets an Anthropic boost — and more highlights from earnings",
+      "url": "https://www.marketwatch.com/story/salesforces-stock-surges-as-ai-momentums-fuel-revenue-growth-8c96eef3?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-25T21:01:00+00:00",
-      "summary": "An ongoing shortage of compute could provide Meta with the opportunity to sell its capacity for a big premium.",
+      "published_at": "2026-08-26T22:50:00+00:00",
+      "summary": "Salesforce cleared Wall Street’s second-quarter expectations and deepened its ties with AI lab Anthropic.",
       "sentiment": "bullish",
-      "sentiment_score": 0.5574,
+      "sentiment_score": 0.4767,
       "tags": [
         "AI"
       ],
@@ -65,13 +51,28 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Why AMD can beat rivals Intel and Nvidia in the market for data-center CPUs",
-      "url": "https://www.marketwatch.com/story/why-amd-can-beat-rivals-intel-and-nvidia-in-the-market-for-data-center-cpus-e49a53f1?mod=mw_rss_topstories",
+      "title": "‘The relationship quickly deteriorated’: My friend’s lawyer settled his injury case without his consent. What can he do?",
+      "url": "https://www.marketwatch.com/story/the-relationship-quickly-deteriorated-my-friends-lawyer-settled-his-injury-case-without-his-consent-what-can-he-do-a289fee9?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-25T20:59:00+00:00",
-      "summary": "The chip maker is strongly positioned to gain share in the market for data-center CPUs and to see profit from revenue, a Raymond James analyst says.",
+      "published_at": "2026-08-26T20:15:00+00:00",
+      "summary": "“His former lawyer is now holding the settlement funds, maintaining that he is entitled to attorney’s fees.”",
+      "sentiment": "bearish",
+      "sentiment_score": -0.3326,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "China's short-drama producers flood the market with cheap bets — and let audiences pick the winners",
+      "url": "https://www.cnbc.com/2026/08/26/short-drama-china-production-ai-entertainment-economics.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-08-26T13:20:34+00:00",
+      "summary": "The short-drama model offers an alternative to traditional entertainment, but rising distribution costs and audience-retention challenges remain.",
       "sentiment": "bullish",
-      "sentiment_score": 0.8625,
+      "sentiment_score": 0.5267,
       "tags": [
         "AI"
       ],
@@ -80,14 +81,31 @@
       "source_repo": "financenews"
     },
     {
-      "title": "This driverless-truck company could be a ‘long-term winner’ in a market Tesla plans to enter soon",
-      "url": "https://www.marketwatch.com/story/this-driverless-truck-company-could-be-a-long-term-winner-in-a-market-tesla-plans-to-enter-soon-193bc8fe?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-25T20:56:00+00:00",
-      "summary": "Kodiak AI logged more than 40,000 paid driverless hours through the second quarter and is pushing to offer driverless highway operations by the end of 2026.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
+      "title": "Fears grow for fourth rate hike after Australia sees higher-than-expected July inflation",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/26/fears-grow-for-fourth-rate-hike-after-higher-than-expected-july-inflation-rate",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-26T06:44:23+00:00",
+      "summary": "<p>Bureau of Statistics says CPI was 3.5% in July, casting doubt on Reserve Bank meeting its 2.5% inflation target without further hike</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Fears are growing that the Reserve Bank will hit millions of mortgage holders with a fourth rate hike this year, after inflation eased in July but by far less than expected.</p><p>Consumer prices climbed by 3.5% through the year, down from 3.8% in the previous month, according to the Australian Bureau of Statistics.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/26/fears-grow-for-fourth-rate-hike-after-higher-than-expected-july-inflation-rate\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.264,
       "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Is the Trump Treasury panicking over the level of US debt?",
+      "url": "https://www.theguardian.com/business/2026/aug/26/is-the-trump-treasury-panicking-over-the-level-of-us-debt",
+      "source": "The Guardian Economics",
+      "published_at": "2026-08-26T05:00:34+00:00",
+      "summary": "<p>With the federal deficit near 6% of GDP and the national debt over $40tn, America’s fiscal position looks increasingly precarious</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/aug/25/us-treasury-scott-bessent-bond-buying-donald-trump-stanley-druckenmiller\">Bessent ‘will lose’ battle with bond markets, ex-mentor warns</a></p></li></ul><p>Are we seeing the first signs of panic in Donald Trump’s Treasury? The US is by far the world’s biggest debtor, and the steady rise in global long-term interest rates – which I have <a href=\"https://www.aeaweb.org/articles?id=10.1257/aer.20221352\">long argued</a> was inevitable – is starting to cause real pain.</p><p>Until now, the Treasury secretary, Scott Bessent, has dismissed concerns about US debt, which recently <a href=\"https://www.reuters.com/world/us-debt-crosses-40-trillion-threshold-after-doubling-under-trump-biden-2026-08-19/\">surpassed $40tn</a>, as a big nothingburger. Growth, in his telling, will be so spectacular the US will easily be able to meet its interest obligations without any significant tax rises or spending cuts, while the rest of the world will happily keep feeding it money. But if Bessent really believes that, why is he trying to strong-arm the bond market by <a href=\"https://www.nytimes.com/2026/08/20/business/treasury-bond-market-interventionist-tactics.html\">fiddling with the maturity structure</a> of government debt?</p> <a href=\"https://www.theguardian.com/business/2026/aug/26/is-the-trump-treasury-panicking-over-the-level-of-us-debt\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.4322,
+      "tags": [
+        "Interest Rates",
+        "Fed",
         "AI"
       ],
       "signal": "watch",
@@ -441,21 +459,6 @@
       "summary": "<p>Inflation fuelled by Iran conflict deterring shoppers, especially in the US, says high street chain</p><ul><li><p><a href=\"https://www.theguardian.com/business/nils-pratley-on-finance/2026/aug/20/jd-sports-boss-is-still-struggling-to-turn-up-the-heat-amid-tepid-trainer-market\">JD Sports boss is still struggling to turn up the heat</a></p></li></ul><p>The sports fashion retailer JD has cut £50m from its profit forecast as cost of living pressures, fuelled by the US war on Iran, weighed on sales of trainers.</p><p>JD Sports, which sells brands including Nike and Adidas, said widespread <a href=\"https://www.theguardian.com/business/2026/may/07/jd-sports-warns-iran-war-could-hit-consumer-spending-and-raise-prices\">inflation had hit shoppers’ wallets,</a> particularly its core young shoppers, resulting in a drop in sales across important markets such as the US, where it struggled to shift trainers and other footwear.</p> <a href=\"https://www.theguardian.com/business/2026/aug/20/trainers-sales-dive-cost-of-living-inflation-jd-sports\">Continue reading...</a>",
       "sentiment": "bearish",
       "sentiment_score": -0.9153,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "China is defying the global bond yield surge, boosting its diversification appeal",
-      "url": "https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-08-20T02:39:14+00:00",
-      "summary": "Chinese government bond yields have remained low amid a global surge.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0772,
       "tags": [
         "AI"
       ],
