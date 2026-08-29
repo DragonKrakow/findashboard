@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-29T16:09:48.243189+00:00",
+  "generated_at": "2026-08-29T20:09:09.954187+00:00",
   "articles": [
+    {
+      "id": "76668325ef5b",
+      "title": "Guggenheim Ties Weigh on Acrisure Debt, Dragging High-Yield Credit Markets",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-29/guggenheim-stain-piles-onto-biggest-junk-laggard-credit-weekly",
+      "published_at": "2026-08-29T19:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "It had already been a tough 2026 for Acrisure. Part fintech, part insurance broker, the firm said in late May it would cut 11% of its workforce, or some 2,250 people, as part of a sweeping overhaul to",
+      "tags": []
+    },
+    {
+      "id": "620f014e7fe8",
+      "title": "Warsh Says Inflation Isn’t Slowing, Vows to Reach 2% Target",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-29/warsh-says-inflation-isn-t-slowing-vows-to-reach-2-video",
+      "published_at": "2026-08-29T16:16:51+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Warsh reiterated that policymakers have a \"firm, fixed target\" of 2% inflation at the 2026 Jackson Hole Economic Policy Symposium. Bloomberg's Maria Eloisa Capurro explains.  (Source: Bloomberg)",
+      "tags": []
+    },
     {
       "id": "159fd469040d",
       "title": "Supercars Fuel a New Hybrid Boom",
@@ -98,30 +122,6 @@
       "tags": []
     },
     {
-      "id": "691b0bba09c0",
-      "title": "Iran War Exposes Limits of US Military Endurance",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-29/iran-war-exposes-limits-of-us-military-endurance-video",
-      "published_at": "2026-08-29T12:22:14+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Six months into the US conflict with Iran, oil flows from the Persian Gulf have recovered to about 40% of prewar levels, but risks remain as the Strait of Hormuz stays constrained and the Navy faces m",
-      "tags": []
-    },
-    {
-      "id": "ddab80c99818",
-      "title": "Three Finance Ministers on Avoiding Debt Crises",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-29/three-finance-ministers-on-avoiding-debt-crises-video",
-      "published_at": "2026-08-29T12:12:46+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "US public debt just crossed $40 trillion, but the country is hardly the only one facing fiscal troubles. Nations around the world took on record debt during Covid, and many have struggled to bring spe",
-      "tags": []
-    },
-    {
       "id": "ccb87c2d2272",
       "title": "Warsh puts Fed on collision course with Trump ahead of midterms",
       "source": "International homepage",
@@ -131,6 +131,18 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "US central bank chair’s Jackson Hole hint that rates may rise runs counter to the reduction in borrowing costs the US president desires",
+      "tags": []
+    },
+    {
+      "id": "8f24aea0dbd6",
+      "title": "Warsh charts a forward-looking path for the Fed at Jackson Hole",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/4319c6b7-5a25-41a7-836f-ca068ac4fe60?syn-25a6b1a6=1",
+      "published_at": "2026-08-29T16:28:50+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "This might be remembered as a moment when the central bank switched approach",
       "tags": []
     },
     {
@@ -230,15 +242,27 @@
       "tags": []
     },
     {
-      "id": "0c3a827f1c90",
-      "title": "Airbus seeks US space unit sale as it shifts to European-built satellites",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/130a5c43-f7cd-4317-95b8-fe7bc446ec51?syn-25a6b1a6=1",
-      "published_at": "2026-08-29T04:00:32+00:00",
+      "id": "944293ddd4df",
+      "title": "Stellar tokenized RWA market more than quadruples to nearly $4B",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-08-29T19:12:42+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Potential disposal comes after company announced deal with Leonardo and Thales",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stellar tokenized RWA market more than quadruples to nearly $4B\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/med",
+      "tags": []
+    },
+    {
+      "id": "1477a1edd862",
+      "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-08-29T16:27:28+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tokenized stock transfer volume jumps 415% in 30 days to $29.5B\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/med",
       "tags": []
     },
     {
@@ -335,30 +359,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin dips to $78.4K as Fed’s Warsh downplays softer inflation prints\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedi",
-      "tags": []
-    },
-    {
-      "id": "c201112ab728",
-      "title": "Crypto Biz: Bitcoin pumps, Wall Street does the paperwork",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-rally-crypto-stocks-circle-strategy-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-08-28T14:53:40+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: Bitcoin pumps, Wall Street does the paperwork\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/art",
-      "tags": []
-    },
-    {
-      "id": "f98724c48a8b",
-      "title": "Who is legally liable when an AI agent goes rogue?",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/magazine/who-is-legally-liable-when-an-ai-agent-goes-rogue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-08-28T13:30:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Who is legally liable when an AI agent goes rogue? \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-c",
       "tags": []
     },
     {
@@ -482,6 +482,42 @@
       "tags": []
     },
     {
+      "id": "8b5e03ce22e8",
+      "title": "PWV: Value Begins To Struggle, Momentum Is Shifting Towards Growth",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4941511-pwv-value-begins-to-struggle-momentum-is-shifting-towards-growth?source=feed_all_articles",
+      "published_at": "2026-08-29T16:44:53+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "PWV: Value Begins To Struggle, Momentum Is Shifting Towards Growth",
+      "tags": []
+    },
+    {
+      "id": "2d3ea7e4ad3b",
+      "title": "Narrow Credit Spreads Make USHY A Hold (Rating Downgrade)",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4941510-narrow-credit-spreads-make-ushy-a-hold?source=feed_all_articles",
+      "published_at": "2026-08-29T16:33:03+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Narrow Credit Spreads Make USHY A Hold (Rating Downgrade)",
+      "tags": []
+    },
+    {
+      "id": "2fae1bf740a2",
+      "title": "GDX: Gold Stung By A Hawkish Warsh, But Gold Miners Remain A Compelling Buy",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4941491-gdx-gold-stung-by-a-hawkish-warsh-but-gold-miners-remain-a-compelling-buy?source=feed_all_articles",
+      "published_at": "2026-08-29T16:17:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "GDX: Gold Stung By A Hawkish Warsh, But Gold Miners Remain A Compelling Buy",
+      "tags": []
+    },
+    {
       "id": "8bfee9744483",
       "title": "Clarus Corporation's Turnaround Is In Progress (Upgrade)",
       "source": "All Articles on Seeking Alpha",
@@ -563,42 +599,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Vår Energi: Hub Density Is Turning Production Growth Into A Durable Cash Flow Platform",
-      "tags": []
-    },
-    {
-      "id": "d129877403d8",
-      "title": "Insulet Corporation: Strong Growth Meets A New Execution Problem",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4941475-insulet-corporation-strong-growth-meets-a-new-execution-problem?source=feed_all_articles",
-      "published_at": "2026-08-29T15:30:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Insulet Corporation: Strong Growth Meets A New Execution Problem",
-      "tags": []
-    },
-    {
-      "id": "d7abdbc38dcb",
-      "title": "What Warsh Didn't Say Matters More",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4941503-what-warsh-didnt-say-matters-more?source=feed_all_articles",
-      "published_at": "2026-08-29T15:21:24+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "What Warsh Didn't Say Matters More",
-      "tags": []
-    },
-    {
-      "id": "e4d8d9a54565",
-      "title": "MarketWise: Limited Downside With 8% Yield",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4941502-marketwise-limited-downside-with-8-percent-yield?source=feed_all_articles",
-      "published_at": "2026-08-29T15:17:02+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "MarketWise: Limited Downside With 8% Yield",
       "tags": []
     }
   ]
