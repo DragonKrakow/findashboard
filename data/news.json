@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-30T16:09:31.138237+00:00",
+  "generated_at": "2026-08-30T20:09:03.923767+00:00",
   "articles": [
+    {
+      "id": "4d345e2186ab",
+      "title": "Bond Investors Wary After Warsh Fans Wagers Fed Poised to Hike",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-30/bond-investors-wary-after-warsh-fans-wagers-fed-poised-to-hike",
+      "published_at": "2026-08-30T19:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Bond investors at firms including ABN AMRO Investment Solutions and Brandywine Global Investment Management are voicing skepticism about mounting speculation that Federal Reserve Chairman Kevin Warsh ",
+      "tags": []
+    },
+    {
+      "id": "27b4e45d63d2",
+      "title": "Bloomberg This Weekend 08/30/2026",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-30/bloomberg-this-weekend-08-30-2026-video",
+      "published_at": "2026-08-30T16:13:19+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by",
+      "tags": []
+    },
     {
       "id": "ca735133deb4",
       "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
@@ -98,51 +122,15 @@
       "tags": []
     },
     {
-      "id": "81c413802d2e",
-      "title": "Iceland Rejects Restarting EU Membership Talks",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-30/iceland-rejects-restarting-eu-membership-talks-video",
-      "published_at": "2026-08-30T12:44:27+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Icelandic voters rejected restarting EU accession talks, with opposition particularly strong outside Reykjavik as concerns over sovereignty, fisheries and agriculture outweighed arguments for closer E",
-      "tags": []
-    },
-    {
-      "id": "93e2d8cc81df",
-      "title": "Dollar Debasement Backs Bull Case for Emerging Bonds, Funds Say",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-30/dollar-debasement-backs-bull-case-for-emerging-bonds-funds-say",
-      "published_at": "2026-08-30T12:30:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "A stellar year for emerging-market bonds is set to get even better as the return of the “dollar debasement trade” amplifies inflows into the asset class, fund managers say.",
-      "tags": []
-    },
-    {
-      "id": "51580af7a29d",
-      "title": "Rising bond yields add tens of billions to G7 countries’ debt costs",
+      "id": "f7c0e2bd3f81",
+      "title": "Big Tech profits get $160bn boost from gains on stakes in other AI companies",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/bbe90db5-64ac-441d-87e4-e984c5ef8629?syn-25a6b1a6=1",
-      "published_at": "2026-08-30T04:00:19+00:00",
+      "url": "https://www.ft.com/content/a5a0081f-e998-4c80-b967-cc535cbc4933?syn-25a6b1a6=1",
+      "published_at": "2026-08-30T19:00:05+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "World’s biggest developed economies face higher financing costs since start of US-Iran war, weighing on public finances",
-      "tags": []
-    },
-    {
-      "id": "c48304824134",
-      "title": "What’s the fiscal hit from higher yields?",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/63311687-676b-4548-9bd8-3d7ad96d7ce5",
-      "published_at": "2026-08-30T04:12:14+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "A long answer to a simple question",
+      "summary": "Analysts say large paper windfalls on investments in OpenAI, Anthropic and SpaceX have muddied the tech sector’s earnings metrics",
       "tags": []
     },
     {
@@ -170,6 +158,42 @@
       "tags": []
     },
     {
+      "id": "f3952577d077",
+      "title": "Ukraine’s ex-defence minister touts ‘new history’ in war against Russia with planned tech fund",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/c9d10aeb-163e-46a3-b7ca-376ce6be9f8e?syn-25a6b1a6=1",
+      "published_at": "2026-08-30T17:57:32+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Mykhailo Fedorov seeks western capital to build and manage weapons development companies he says will help Kyiv resist Moscow",
+      "tags": []
+    },
+    {
+      "id": "51580af7a29d",
+      "title": "Rising bond yields add tens of billions to G7 countries’ debt costs",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/bbe90db5-64ac-441d-87e4-e984c5ef8629?syn-25a6b1a6=1",
+      "published_at": "2026-08-30T04:00:19+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "World’s biggest developed economies face higher financing costs since start of US-Iran war, weighing on public finances",
+      "tags": []
+    },
+    {
+      "id": "c48304824134",
+      "title": "What’s the fiscal hit from higher yields?",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/63311687-676b-4548-9bd8-3d7ad96d7ce5",
+      "published_at": "2026-08-30T04:12:14+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "A long answer to a simple question",
+      "tags": []
+    },
+    {
       "id": "457494f2cb29",
       "title": "Controversial Venezuelan executive courts investors after Trump oil deal",
       "source": "International homepage",
@@ -178,7 +202,7 @@
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Alejandro Betancourt is US’s minority partner in company that will control more than 65bn barrels of oil reserves",
+      "summary": "Alejandro Betancourt is the US’s primary partner in a company that will control more than 65bn barrels of oil reserves",
       "tags": []
     },
     {
@@ -206,39 +230,15 @@
       "tags": []
     },
     {
-      "id": "c07086c5a3a7",
-      "title": "‘New York loves Canada’: US cities want their Canadian tourists back",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/25f48fea-ada2-41e1-ba33-07a864a8674a",
-      "published_at": "2026-08-30T10:00:02+00:00",
+      "id": "7d6e342f496a",
+      "title": "Saylor signals Strategy is ‘Back’ to Bitcoin buying",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-08-30T17:59:00+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "American tourism businesses try to overcome cross-border travel boycott over Trump administration’s hostility to its northern neighbour",
-      "tags": []
-    },
-    {
-      "id": "46d58be4ec59",
-      "title": "EU to help tourism hotspots crack down on Airbnb-style holiday rentals",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/c4c13303-bc80-41de-81fc-65e9a70791c9?syn-25a6b1a6=1",
-      "published_at": "2026-08-30T04:00:11+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Measures imposed on short-term lets by cities such as Florence often result in drawn-out legal battles",
-      "tags": []
-    },
-    {
-      "id": "dc7cdc4b3ffe",
-      "title": "Nepal rescue effort intensifies as death toll passes 700",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/32978145-d33e-4ee3-957b-39fcc722d2be?syn-25a6b1a6=1",
-      "published_at": "2026-08-30T09:25:45+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Authorities warn rising water could complicate recoveries with more than 3,000 still missing",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Saylor signals Strategy is ‘Back’ to Bitcoin buying\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-c",
       "tags": []
     },
     {
@@ -347,18 +347,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/a",
-      "tags": []
-    },
-    {
-      "id": "a939cfa30d65",
-      "title": "Solana validators approve proposal to accelerate SOL disinflation",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/solana-validators-approve-proposal-to-accelerate-sol-disinflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-08-28T19:53:12+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana validators approve proposal to accelerate SOL disinflation\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m",
       "tags": []
     },
     {
@@ -482,6 +470,78 @@
       "tags": []
     },
     {
+      "id": "68ed811a7812",
+      "title": "S&P 500: Don't Believe Everything You Read About September",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4941509-s-and-p500-dont-believe-everything-you-read-about-september?source=feed_all_articles",
+      "published_at": "2026-08-30T20:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "S&P 500: Don't Believe Everything You Read About September",
+      "tags": []
+    },
+    {
+      "id": "e0781fa09cfa",
+      "title": "Virtus Seix Total Return Bond Fund Q2 2026 Commentary",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4941591-virtus-seix-total-return-bond-fund-q2-2026-commentary?source=feed_all_articles",
+      "published_at": "2026-08-30T18:14:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Virtus Seix Total Return Bond Fund Q2 2026 Commentary",
+      "tags": []
+    },
+    {
+      "id": "1b3bf379f27e",
+      "title": "Touchstone Dividend Equity Fund Q2 2026 Commentary",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4941590-touchstone-dividend-equity-fund-q2-2026-commentary?source=feed_all_articles",
+      "published_at": "2026-08-30T18:07:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Touchstone Dividend Equity Fund Q2 2026 Commentary",
+      "tags": []
+    },
+    {
+      "id": "b8ed3d6e33ea",
+      "title": "Nomura Strategic Income Fund Q2 2026 Commentary",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4941589-nomura-strategic-income-fund-q2-2026-commentary?source=feed_all_articles",
+      "published_at": "2026-08-30T17:58:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Nomura Strategic Income Fund Q2 2026 Commentary",
+      "tags": []
+    },
+    {
+      "id": "6c29c48445ec",
+      "title": "Microsoft Among 14 Dividend Growth Companies To Announce Annual Dividend Increases In September",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4941588-microsoft-among-14-dividend-growth-companies-to-announce-annual-dividend-increases-in-september?source=feed_all_articles",
+      "published_at": "2026-08-30T17:27:18+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Microsoft Among 14 Dividend Growth Companies To Announce Annual Dividend Increases In September",
+      "tags": []
+    },
+    {
+      "id": "e4a5171a2a14",
+      "title": "Gabelli OEF Growth Portfolio Managers Q2 2026 Insights",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4941586-gabelli-oef-growth-portfolio-managers-q2-2026-insights?source=feed_all_articles",
+      "published_at": "2026-08-30T17:25:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Gabelli OEF Growth Portfolio Managers Q2 2026 Insights",
+      "tags": []
+    },
+    {
       "id": "3518217e9516",
       "title": "HMAX:CA: Core Holding Pumping Out 11%+ With Low Risk",
       "source": "All Articles on Seeking Alpha",
@@ -527,78 +587,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Midterms, September Volatility And The Value Trade",
-      "tags": []
-    },
-    {
-      "id": "9ec82ec945aa",
-      "title": "Dell Q2: $51.3 Billion In Backlog; Now Show Me The Profits",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4941575-dell-q2-51_3-billion-in-backlog-now-show-me-profits?source=feed_all_articles",
-      "published_at": "2026-08-30T15:30:26+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Dell Q2: $51.3 Billion In Backlog; Now Show Me The Profits",
-      "tags": []
-    },
-    {
-      "id": "f893f3551e78",
-      "title": "Fortrea Holdings: The Turnaround Is Showing Up In Earnings Before Revenue",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4941573-fortrea-holdings-stock-turnaround-earnings-before-revenue?source=feed_all_articles",
-      "published_at": "2026-08-30T15:14:35+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Fortrea Holdings: The Turnaround Is Showing Up In Earnings Before Revenue",
-      "tags": []
-    },
-    {
-      "id": "2b9e24493df4",
-      "title": "Perpetua: Strong Governmental And Market Support Indicate Considerable Future Upside",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4941572-perpetua-strong-governmental-and-market-support-indicate-considerable-future-upside?source=feed_all_articles",
-      "published_at": "2026-08-30T15:06:33+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Perpetua: Strong Governmental And Market Support Indicate Considerable Future Upside",
-      "tags": []
-    },
-    {
-      "id": "24d48c4c2240",
-      "title": "CEF Weekly Review: Allspring CEF Distributions Inline With MDPs",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4941571-cef-weekly-review-allspring-cef-distributions-inline-with-mdps?source=feed_all_articles",
-      "published_at": "2026-08-30T14:56:35+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "CEF Weekly Review: Allspring CEF Distributions Inline With MDPs",
-      "tags": []
-    },
-    {
-      "id": "b90572794e5f",
-      "title": "Hoegh LNG Partners: A Well Covered 10.7% Preferred Dividend Yield",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4941046-hoegh-lng-partners-a-well-covered-10-7-percent-preferred-dividend-yield?source=feed_all_articles",
-      "published_at": "2026-08-30T14:40:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Hoegh LNG Partners: A Well Covered 10.7% Preferred Dividend Yield",
-      "tags": []
-    },
-    {
-      "id": "cd5bd66b5003",
-      "title": "NVDW: Collect High-Yield Income From Nvidia Swaps",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4941570-nvdw-collect-high-yield-income-from-nvidia-swaps?source=feed_all_articles",
-      "published_at": "2026-08-30T14:39:13+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "NVDW: Collect High-Yield Income From Nvidia Swaps",
       "tags": []
     }
   ]
