@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-29T20:09:09.954187+00:00",
+  "generated_at": "2026-08-30T00:30:33.690123+00:00",
   "articles": [
+    {
+      "id": "6ada39d60f40",
+      "title": "Day Traders Are Abandoning Korean Chip Leveraged ETFs in Droves",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-30/day-traders-are-abandoning-korean-chip-leveraged-etfs-in-droves",
+      "published_at": "2026-08-30T00:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "An onerous mock trading course is becoming an effective tool for South Korea to cool investor fervor over risky products that have turned the country’s $4.3 trillion stock market extremely volatile.",
+      "tags": []
+    },
     {
       "id": "76668325ef5b",
       "title": "Guggenheim Ties Weigh on Acrisure Debt, Dragging High-Yield Credit Markets",
@@ -110,18 +122,6 @@
       "tags": []
     },
     {
-      "id": "7ebc4929ede3",
-      "title": "By The Way: Headlines You Should See",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-29/by-the-way-headlines-you-should-see-video",
-      "published_at": "2026-08-29T12:34:28+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Competitive subway speedrunning, fewer novels in schools, and an AI themed Bar: Nathan Hager, Christina Ruffini, and Bailey Lipschultz go over eye catching headlines from this week on Bloomberg This W",
-      "tags": []
-    },
-    {
       "id": "ccb87c2d2272",
       "title": "Warsh puts Fed on collision course with Trump ahead of midterms",
       "source": "International homepage",
@@ -194,27 +194,15 @@
       "tags": []
     },
     {
-      "id": "23adc71dfafa",
-      "title": "Trump says US to take control of 65bn barrels of Venezuelan oil",
+      "id": "0bf5ae290e87",
+      "title": "Oil deal with US is denounced by both sides of Venezuelan politics",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/2f88581f-4fbc-46a2-8127-830bb630c2f2?syn-25a6b1a6=1",
-      "published_at": "2026-08-29T14:20:58+00:00",
+      "url": "https://www.ft.com/content/b3c98ca2-fe67-459d-89ff-4728993110b7?syn-25a6b1a6=1",
+      "published_at": "2026-08-29T22:38:56+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "The president says the countries’ joint venture will lower petrol prices for Americans",
-      "tags": []
-    },
-    {
-      "id": "1caf21616811",
-      "title": "US campaign to isolate Iran closes in on Dubai",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/930386eb-b5d4-4a62-a258-f7ab46401655?syn-25a6b1a6=1",
-      "published_at": "2026-08-29T08:55:44+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Gulf city has for decades served as an offshore hub for Iranian financial services, trade and access to global markets that the regime needs",
+      "summary": "Opposition said agreement with Trump administration was potentially illegal while government hardliners cast it as a betrayal",
       "tags": []
     },
     {
@@ -239,6 +227,30 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Bankers also raised cyber security concerns over list of ultimate owners of more than 500,000 companies and other entities",
+      "tags": []
+    },
+    {
+      "id": "0c3a827f1c90",
+      "title": "Airbus seeks US space unit sale as it shifts to European-built satellites",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/130a5c43-f7cd-4317-95b8-fe7bc446ec51?syn-25a6b1a6=1",
+      "published_at": "2026-08-29T04:00:32+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Potential disposal comes after company announced deal with Leonardo and Thales",
+      "tags": []
+    },
+    {
+      "id": "c5431a4ab73c",
+      "title": "Polygon discloses security flaws fixed in recent hard forks",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-08-29T20:28:51+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Polygon discloses security flaws fixed in recent hard forks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/a",
       "tags": []
     },
     {
@@ -350,15 +362,15 @@
       "tags": []
     },
     {
-      "id": "470888c9482e",
-      "title": "Bitcoin dips to $78.4K as Fed’s Warsh downplays softer inflation prints",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/markets/bitcoin-dips-fed-warsh-dismisses-recent-low-inflation-prints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-08-28T15:31:25+00:00",
+      "id": "b72546ba4441",
+      "title": "A $1.1 million crypto card hack crashed a neobank's token 49%",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49",
+      "published_at": "2026-08-29T23:49:17+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin dips to $78.4K as Fed’s Warsh downplays softer inflation prints\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedi",
+      "summary": "A $1.1 million crypto card hack crashed a neobank's token 49%",
       "tags": []
     },
     {
@@ -375,14 +387,14 @@
     },
     {
       "id": "2ed11bc5a475",
-      "title": "Swift’s $1.5 quadrillion network faces a blockchain test",
+      "title": "Inside the high-stakes battle between digital dollars and Swift's massive money engine",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "url": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
       "published_at": "2026-08-29T15:00:00+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Swift’s $1.5 quadrillion network faces a blockchain test",
+      "summary": "Inside the high-stakes battle between digital dollars and Swift's massive money engine",
       "tags": []
     },
     {
@@ -411,14 +423,14 @@
     },
     {
       "id": "b3b1aa905acb",
-      "title": "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges",
+      "title": "Bitcoin wallets untouched for 10 years moved $40 million worth of coins",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
       "published_at": "2026-08-29T04:30:00+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges",
+      "summary": "Bitcoin wallets untouched for 10 years moved $40 million worth of coins",
       "tags": []
     },
     {
@@ -470,15 +482,111 @@
       "tags": []
     },
     {
-      "id": "a80b5b2caaef",
-      "title": "Fed Chair Kevin Warsh at Jackson Hole: 'We have work to do' on inflation",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/08/28/warsh-at-jackson-hole-we-have-work-to-do-on-inflaiton",
-      "published_at": "2026-08-28T14:05:12+00:00",
+      "id": "bb7cb261140b",
+      "title": "Integrated Research Limited 2026 Q4 - Results - Earnings Call Presentation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4941520-integrated-research-limited-2026-q4-results-earnings-call-presentation?source=feed_all_articles",
+      "published_at": "2026-08-29T23:10:19+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Fed Chair Kevin Warsh at Jackson Hole: 'We have work to do' on inflation",
+      "summary": "Integrated Research Limited 2026 Q4 - Results - Earnings Call Presentation",
+      "tags": []
+    },
+    {
+      "id": "c32e54b90651",
+      "title": "Bajaj Mobility AG 2026 Q2 - Results - Earnings Call Presentation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4941519-bajaj-mobility-ag-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+      "published_at": "2026-08-29T23:09:49+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Bajaj Mobility AG 2026 Q2 - Results - Earnings Call Presentation",
+      "tags": []
+    },
+    {
+      "id": "e6c84f8ec9ef",
+      "title": "Security Bank Corporation (SYBJF) Analyst/Investor Day - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4941518-security-bank-corporation-sybjf-analyst-investor-day-slideshow?source=feed_all_articles",
+      "published_at": "2026-08-29T23:09:16+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Security Bank Corporation (SYBJF) Analyst/Investor Day - Slideshow",
+      "tags": []
+    },
+    {
+      "id": "afe5c21bee07",
+      "title": "L.B. Foster Company (FSTR) Presents at 17th Annual Midwest IDEAS Conference - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4941517-l-b-foster-company-fstr-presents-at-17th-annual-midwest-ideas-conference-slideshow?source=feed_all_articles",
+      "published_at": "2026-08-29T23:08:23+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "L.B. Foster Company (FSTR) Presents at 17th Annual Midwest IDEAS Conference - Slideshow",
+      "tags": []
+    },
+    {
+      "id": "0adc528229b5",
+      "title": "PagerDuty, Inc. 2027 Q2 - Results - Earnings Call Presentation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4941516-pagerduty-inc-2027-q2-results-earnings-call-presentation?source=feed_all_articles",
+      "published_at": "2026-08-29T23:06:27+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "PagerDuty, Inc. 2027 Q2 - Results - Earnings Call Presentation",
+      "tags": []
+    },
+    {
+      "id": "10fb9190f570",
+      "title": "Lotus Technology Inc. 2026 Q2 - Results - Earnings Call Presentation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4941515-lotus-technology-inc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+      "published_at": "2026-08-29T23:06:03+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Lotus Technology Inc. 2026 Q2 - Results - Earnings Call Presentation",
+      "tags": []
+    },
+    {
+      "id": "9f50f82d2347",
+      "title": "Affirm Holdings, Inc. 2026 Q4 - Results - Earnings Call Presentation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4941514-affirm-holdings-inc-2026-q4-results-earnings-call-presentation?source=feed_all_articles",
+      "published_at": "2026-08-29T23:05:16+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Affirm Holdings, Inc. 2026 Q4 - Results - Earnings Call Presentation",
+      "tags": []
+    },
+    {
+      "id": "dbe1dcd7e999",
+      "title": "Workday, Inc. 2027 Q2 - Results - Earnings Call Presentation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4941513-workday-inc-2027-q2-results-earnings-call-presentation?source=feed_all_articles",
+      "published_at": "2026-08-29T23:04:41+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Workday, Inc. 2027 Q2 - Results - Earnings Call Presentation",
+      "tags": []
+    },
+    {
+      "id": "5f0a44e378ed",
+      "title": "Ion Beam Applications SA 2026 Q2 - Results - Earnings Call Presentation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4941512-ion-beam-applications-sa-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+      "published_at": "2026-08-29T23:04:21+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Ion Beam Applications SA 2026 Q2 - Results - Earnings Call Presentation",
       "tags": []
     },
     {
@@ -491,114 +599,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "PWV: Value Begins To Struggle, Momentum Is Shifting Towards Growth",
-      "tags": []
-    },
-    {
-      "id": "2d3ea7e4ad3b",
-      "title": "Narrow Credit Spreads Make USHY A Hold (Rating Downgrade)",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4941510-narrow-credit-spreads-make-ushy-a-hold?source=feed_all_articles",
-      "published_at": "2026-08-29T16:33:03+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Narrow Credit Spreads Make USHY A Hold (Rating Downgrade)",
-      "tags": []
-    },
-    {
-      "id": "2fae1bf740a2",
-      "title": "GDX: Gold Stung By A Hawkish Warsh, But Gold Miners Remain A Compelling Buy",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4941491-gdx-gold-stung-by-a-hawkish-warsh-but-gold-miners-remain-a-compelling-buy?source=feed_all_articles",
-      "published_at": "2026-08-29T16:17:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "GDX: Gold Stung By A Hawkish Warsh, But Gold Miners Remain A Compelling Buy",
-      "tags": []
-    },
-    {
-      "id": "8bfee9744483",
-      "title": "Clarus Corporation's Turnaround Is In Progress (Upgrade)",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4941391-clarus-corporation-turnaround-is-in-progress-upgrade?source=feed_all_articles",
-      "published_at": "2026-08-29T16:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Clarus Corporation's Turnaround Is In Progress (Upgrade)",
-      "tags": []
-    },
-    {
-      "id": "dc1487a4b737",
-      "title": "Standard Nuclear: The Business Is Working, The Stock Is Too Expensive",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4941508-standard-nuclear-the-business-is-working-the-stock-is-too-expensive?source=feed_all_articles",
-      "published_at": "2026-08-29T15:54:41+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Standard Nuclear: The Business Is Working, The Stock Is Too Expensive",
-      "tags": []
-    },
-    {
-      "id": "bea58ecbc797",
-      "title": "The August Labor Market Report To Cement The September Fed Hike",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4941507-the-august-labor-market-report-to-cement-the-september-fed-hike?source=feed_all_articles",
-      "published_at": "2026-08-29T15:51:53+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The August Labor Market Report To Cement The September Fed Hike",
-      "tags": []
-    },
-    {
-      "id": "bbcebb6c1300",
-      "title": "Kevin Warsh: Almost Like Powell From 2022",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4941506-kevin-warsh-almost-like-powell-from-2022?source=feed_all_articles",
-      "published_at": "2026-08-29T15:43:52+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Kevin Warsh: Almost Like Powell From 2022",
-      "tags": []
-    },
-    {
-      "id": "d4b050138da2",
-      "title": "Why The Fed Might Raise Rates Despite August Job Declines",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4941505-why-fed-might-raise-rates-despite-august-job-declines?source=feed_all_articles",
-      "published_at": "2026-08-29T15:42:30+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Why The Fed Might Raise Rates Despite August Job Declines",
-      "tags": []
-    },
-    {
-      "id": "e24bf941dabf",
-      "title": "Duke Energy: Newly Issued Equity Units Are An Interesting Option",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4940554-duke-energy-newly-issued-equity-units-are-an-interesting-option?source=feed_all_articles",
-      "published_at": "2026-08-29T15:40:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Duke Energy: Newly Issued Equity Units Are An Interesting Option",
-      "tags": []
-    },
-    {
-      "id": "63923a9c076a",
-      "title": "Vår Energi: Hub Density Is Turning Production Growth Into A Durable Cash Flow Platform",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4941504-vr-energi-hub-density-is-turning-production-growth-into-a-durable-cash-flow-platform?source=feed_all_articles",
-      "published_at": "2026-08-29T15:30:06+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Vår Energi: Hub Density Is Turning Production Growth Into A Durable Cash Flow Platform",
       "tags": []
     }
   ]
