@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-24T05:14:58Z",
+  "generated_at": "2026-08-31T05:06:19Z",
   "totals": {
-    "instruments": 13156,
-    "stocks": 7510,
-    "etfs": 5646
+    "instruments": 13161,
+    "stocks": 7506,
+    "etfs": 5655
   },
   "completeness": {
     "with_isin": 20,
-    "missing_isin": 13136
+    "missing_isin": 13141
   },
   "markets": [
     {
@@ -42,9 +42,9 @@
     },
     {
       "market": "New York",
-      "stocks": 7501,
-      "etfs": 5637,
-      "total": 13138
+      "stocks": 7497,
+      "etfs": 5646,
+      "total": 13143
     },
     {
       "market": "Paris",
@@ -76,8 +76,8 @@
       "exchange": "BATS",
       "market": "New York",
       "stocks": 4,
-      "etfs": 1605,
-      "total": 1609
+      "etfs": 1610,
+      "total": 1614
     },
     {
       "exchange": "BME",
@@ -117,30 +117,30 @@
     {
       "exchange": "NASDAQ",
       "market": "New York",
-      "stocks": 4328,
-      "etfs": 1266,
-      "total": 5594
+      "stocks": 4326,
+      "etfs": 1256,
+      "total": 5582
     },
     {
       "exchange": "NYSE",
       "market": "New York",
       "stocks": 2843,
-      "etfs": 76,
-      "total": 2919
+      "etfs": 77,
+      "total": 2920
     },
     {
       "exchange": "NYSEARCA",
       "market": "New York",
       "stocks": 17,
-      "etfs": 2690,
-      "total": 2707
+      "etfs": 2703,
+      "total": 2720
     },
     {
       "exchange": "NYSEMKT",
       "market": "New York",
-      "stocks": 309,
+      "stocks": 307,
       "etfs": 0,
-      "total": 309
+      "total": 307
     },
     {
       "exchange": "SSE",
