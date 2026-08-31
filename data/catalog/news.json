@@ -1,17 +1,47 @@
 {
-  "generated_at": "2026-08-30T05:33:44Z",
-  "snapshot_date": "2026-08-30",
+  "generated_at": "2026-08-31T05:35:56Z",
+  "snapshot_date": "2026-08-31",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Tim Cook wasn’t a ‘product guy’ — so he re-engineered Apple instead",
-      "url": "https://www.marketwatch.com/story/tim-cook-wasnt-a-product-guy-so-he-re-engineered-apple-instead-03ca53f4?mod=mw_rss_topstories",
+      "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
+      "url": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-29T12:30:00+00:00",
-      "summary": "Dismissed as “not a product guy,” the outgoing CEO proved that supply-chain mastery could take Apple to new heights.",
+      "published_at": "2026-08-30T22:31:00+00:00",
+      "summary": "“The property is very old and requires significant ongoing maintenance.”",
       "sentiment": "bullish",
-      "sentiment_score": 0.296,
+      "sentiment_score": 0.4939,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+      "url": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-08-30T22:15:00+00:00",
+      "summary": "“I also own my home and an SUV outright, with no outstanding debt.”",
+      "sentiment": "neutral",
+      "sentiment_score": -0.1331,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "These charts show how leverage-happy investors are transforming the stock market",
+      "url": "https://www.marketwatch.com/story/these-charts-show-how-leverage-happy-investors-are-transforming-the-stock-market-d4e350c3?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-08-30T13:00:00+00:00",
+      "summary": "A rush of retail investors and quant funds has caused a shift toward more borrowed money and more short-term trading.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
       "tags": [
         "AI"
       ],
@@ -42,36 +72,6 @@
       "summary": "<p>There’s little optimism about treasury secretary’s ability to handle Trump’s tariffs, Iran sanctions and colossal US debt</p><p>History remembers <a href=\"https://www.archives.gov/education/lessons/d-day\">Gen Dwight Eisenhower</a>, the supreme commander of the allied forces in Europe during the second world war, for his role in the D-day invasion of Normandy. Whether Scott Bessent will achieve similar posterity as the face of the “economic D-day” in <a href=\"https://www.theguardian.com/world/iran\">Iran</a> remains to be seen.</p><p>The US treasury secretary, already trying to manage a $40tn national debt pile, this week took charge of <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s effort to <a href=\"https://www.nytimes.com/2026/08/24/us/politics/trump-bessent-iran-economic-d-day.html\">reverse-engineer</a> his war of choice. Whereas the US would typically take on an adversary with diplomacy, sanctions and military force, in that order, the US president started with a six-month bombing campaign and now hopes that economic isolation can finish the job.</p> <a href=\"https://www.theguardian.com/business/2026/aug/29/scott-bessant-us-economy-donald-trump\">Continue reading...</a>",
       "sentiment": "bearish",
       "sentiment_score": -0.7146,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Where are all the new jobs? Hiring slows again — and it probably won’t speed up soon.",
-      "url": "https://www.marketwatch.com/story/where-are-all-the-new-jobs-hiring-slows-again-and-it-probably-wont-speed-up-soon-66920f1d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-29T12:00:00+00:00",
-      "summary": "The U.S. labor market seemed to be on upswing after a surge in new employment early this year — but a summer slowdown in hiring and fewer help-wanted ads suggest it won’t get any easier to find a job.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5719,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Corporate earnings have been growing at a blistering pace. Here’s why that’s not likely to last.",
-      "url": "https://www.marketwatch.com/story/corporate-earnings-have-been-growing-at-a-blistering-pace-heres-why-thats-not-likely-to-last-28810eac?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-29T11:30:00+00:00",
-      "summary": "The recent blistering pace of earnings growth is unsustainable.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5106,
       "tags": [
         "AI"
       ],
