@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-01T05:36:40Z",
-  "snapshot_date": "2026-09-01",
+  "generated_at": "2026-09-02T05:37:47Z",
+  "snapshot_date": "2026-09-02",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Amazon’s stock slips as the FTC alleges billions of dollars in hidden ad fees",
-      "url": "https://www.marketwatch.com/story/amazons-stock-slips-as-the-ftc-alleges-billions-of-dollars-in-hidden-ad-fees-4ae44ee4?mod=mw_rss_topstories",
+      "title": "Dell’s AI servers drive a stellar earnings performance, and a raised outlook",
+      "url": "https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-31T22:24:00+00:00",
-      "summary": "Regulators claim Amazon artificially bumped up floor prices during peak shopping periods, adding surcharges to merchants’ ad spending.",
+      "published_at": "2026-09-02T00:19:00+00:00",
+      "summary": "The company’s backlog has reached $95 billion as demand accelerates for its AI servers",
       "sentiment": "neutral",
-      "sentiment_score": 0.1779,
+      "sentiment_score": -0.0258,
       "tags": [
         "AI"
       ],
@@ -20,10 +20,40 @@
       "source_repo": "financenews"
     },
     {
+      "title": "Palo Alto Networks’ stock falls despite strong AI cybersecurity demand",
+      "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-02T00:18:00+00:00",
+      "summary": "Enterprise cyber threats and AI adoption are giving Palo Alto Networks ‘durable tailwinds,’ according to CEO Nikesh Arora, but the stock retreated after an earnings beat",
+      "sentiment": "bearish",
+      "sentiment_score": -0.3184,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
+      "url": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-02T00:11:14+00:00",
+      "summary": "The colorful \"Microduck\" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.4215,
+      "tags": [
+        "Robotics"
+      ],
+      "signal": "watch",
+      "category": "markets",
+      "source_repo": "financenews"
+    },
+    {
       "title": "‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
       "url": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-31T22:00:00+00:00",
+      "published_at": "2026-09-02T00:00:00+00:00",
       "summary": "“I paid a significant amount into Social Security.”",
       "sentiment": "bullish",
       "sentiment_score": 0.5267,
@@ -35,13 +65,13 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Tesla’s stock among S&P 500’s top gainers as investors prepare for a Cybercab launch",
-      "url": "https://www.marketwatch.com/story/teslas-stock-is-leading-s-p-500-gainers-as-investors-prepare-for-a-cybercab-launch-f23a0d52?mod=mw_rss_topstories",
+      "title": "‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
+      "url": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-31T21:01:00+00:00",
-      "summary": "The company is seemingly getting closer to rolling out a vehicle that comes without a steering wheel or pedals.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.2023,
+      "published_at": "2026-09-01T23:15:00+00:00",
+      "summary": "“I am frustrated and financially exhausted from continuing to invest my own money into  these properties.”",
+      "sentiment": "bearish",
+      "sentiment_score": -0.6249,
       "tags": [
         "AI"
       ],
@@ -50,13 +80,29 @@
       "source_repo": "financenews"
     },
     {
-      "title": "This maneuver is boosting oil shipments through the Strait of Hormuz",
-      "url": "https://www.marketwatch.com/story/this-maneuver-is-boosting-oil-shipments-through-the-strait-of-hormuz-070d8fa3?mod=mw_rss_topstories",
+      "title": "Which workers are using AI surprisingly often? Dry cleaners and construction workers.",
+      "url": "https://www.marketwatch.com/story/which-workers-are-using-ai-surprisingly-often-dry-cleaners-and-construction-workers-b0ea5655?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-31T20:56:00+00:00",
-      "summary": "Middle East oil producers are finding more ways to evade Iranian threats and push more of their product to market.",
-      "sentiment": "neutral",
-      "sentiment_score": -0.1027,
+      "published_at": "2026-09-01T21:02:00+00:00",
+      "summary": "The adoption of artificial intelligence at work has been widespread, but more “shallow” than expected — for now.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.3919,
+      "tags": [
+        "AI",
+        "Artificial Intelligence"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Global oil prices surge to a 6-week high after the U.S. strikes Iran in Hormuz",
+      "url": "https://www.marketwatch.com/story/global-oil-prices-extend-move-over-90-after-report-of-two-tankers-struck-in-hormuz-0effd708?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-01T20:13:00+00:00",
+      "summary": "Oil prices on Tuesday settled at their highest levels in nearly six weeks, after the U.S. military said it struck Iranian targets in the Strait of Hormuz in response to Tehran’s overnight attacks on ships transiting the vital waterway.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.6369,
       "tags": [
         "Oil",
         "AI"
@@ -66,18 +112,98 @@
       "source_repo": "financenews"
     },
     {
-      "title": "With Warsh running the Fed, should bond investors be worried?",
-      "url": "https://www.marketwatch.com/story/should-bond-investors-worry-with-warsh-running-the-fed-0a99c5ac?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-08-31T20:55:00+00:00",
-      "summary": "The usually drama-free investment vehicle, U.S. government debt, is now causing some concern.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.5719,
+      "title": "The Guardian view on the global bond shock: Andy Burnham should take note | Editorial",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/01/the-guardian-view-on-the-global-bond-shock-andy-burnham-should-take-note",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-01T18:15:24+00:00",
+      "summary": "<p>Japan’s collision with Donald Trump reveals the dilemma facing Britain: economic independence is becoming more necessary – and more tricky to achieve</p><p>“In the midst of every crisis lies great opportunity” is an aphorism attributed to <a href=\"https://www.goodreads.com/quotes/10196552-in-the-midst-of-every-crisis-lies-great-opportunity\">Albert Einstein</a>. It seems to be taken to heart by this White House. A <a href=\"https://www.reuters.com/world/asia-pacific/global-bond-rout-deepens-japan-yield-hits-key-threshold-2026-09-01/\">global bond sell-off</a> sparked by an inflationary shock emanating from the Gulf sees Donald Trump seeking to restrict plans by Japan – a longtime ally – to reduce dependence on an international system America dominates.</p><p>Japan, a successful exporter, has long done things its own way. For years Tokyo saw off the bond vigilantes despite running enormous deficits and a huge national debt. It demonstrated how a central bank could fund public spending and keep interest rates low if it wanted to. This economic model was refined by Shinzo Abe, Japan’s longest-serving prime minister. However, this week the US treasury secretary, <a href=\"https://www.reuters.com/world/asia-pacific/japan-faces-day-policy-reckoning-bessent-calls-time-big-stimulus-2026-09-01/\">Scott Bessent</a>, called time on <a href=\"https://en.wikipedia.org/wiki/Abenomics\">Abenomics</a> as his price for US help in stabilising Japan’s currency. Japan’s Sanae Takaichi, he indicated, should shrink her $2tn <a href=\"https://www.reuters.com/world/asia-pacific/japan-aims-cap-fy27-new-bond-issuance-40-trillion-yen-pm-says-yomiuri-interview-2026-08-28/\">spending</a> plans and raise rates. Abenomics did not suddenly become financially impossible. It became inconvenient to the issuer of the world’s reserve currency.</p><p><em><strong>Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our<a href=\"https://www.theguardian.com/tone/letters\"> letters</a> section, please <a href=\"mailto:guardian.letters@theguardian.com?body=Please%20include%20your%20name,%20full%20postal%20address%20and%20phone%20number%20with%20your%20letter%20below.%20Letters%20are%20usually%20published%20with%20the%20author%27s%20name%20and%20city/town/village.%20The%20rest%20of%20the%20information%20is%20for%20verification%20only%20and%20to%20contact%20you%20where%20necessary.\">click here</a>.</strong></em></p> <a href=\"https://www.theguardian.com/commentisfree/2026/sep/01/the-guardian-view-on-the-global-bond-shock-andy-burnham-should-take-note\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.3109,
       "tags": [
-        "Fed"
+        "Interest Rates",
+        "AI"
       ],
       "signal": "watch",
-      "category": "macro",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Mark Carney tells US to ‘start being serious’ amid escalating trade war",
+      "url": "https://www.theguardian.com/us-news/2026/sep/01/trump-mark-carney-trade-war-canada",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-01T15:48:27+00:00",
+      "summary": "<p>Canadian PM is set to retaliate against tariffs levied by Donald Trump and criticized US officials over insults</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/aug/31/donald-trump-lake-america-ontario-canada-trade-war-tariffs-jd-vance-g20-latest-news-updates\">US politics live – latest updates</a></p></li></ul><p>Mark Carney has rebuked Donald Trump’s administration and urged officials in Washington to “start being serious” amid escalating trade tensions between the US and Canada.</p><p>Days before Canada is due to retaliate against Trump’s sweeping tariffs with its own duties on US goods, the Canadian prime minister criticized US officials for insulting his country. “It is beneath their office,” he said.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/01/trump-mark-carney-trade-war-canada\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.93,
+      "tags": [
+        "Trade War",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "UK long-term borrowing costs could halve chancellor’s budget headroom",
+      "url": "https://www.theguardian.com/business/2026/sep/01/uk-gilt-yield-long-term-borrowing-costs-28-year-high",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-01T14:25:53+00:00",
+      "summary": "<p>Yield on 30-year gilts highest since 1998 as rout triggered by global factors underlines tricky backdrop John Healey faces</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/01/bond-sell-off-oil-prices-inflation-fears-shein-shares-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The chancellor’s headroom against Labour’s fiscal rules could be almost halved at his first budget if the current global bond sell-off persists into the autumn, economists say.</p><p>The UK’s long-term borrowing costs jumped to their highest level since early 1998 on Tuesday as investors dumped government bonds, betting on higher inflation.</p> <a href=\"https://www.theguardian.com/business/2026/sep/01/uk-gilt-yield-long-term-borrowing-costs-28-year-high\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.5106,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
+      "url": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-01T14:01:27+00:00",
+      "summary": "The policymaker said he's concerned about \"broader price pressures taking hold\" as inflation has prevailed above the Fed's 2% target.",
+      "sentiment": "neutral",
+      "sentiment_score": -0.1803,
+      "tags": [
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Price rises gather pace in UK shops amid higher energy costs",
+      "url": "https://www.theguardian.com/business/2026/sep/01/price-rises-gather-pace-in-uk-shops-higher-energy-costs",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-01T05:00:46+00:00",
+      "summary": "<p>In-store inflation rises to an annual 1.5% in August, according to a survey for the British Retail Consortium</p><p>The pace of price rises in UK shops rose to its highest level in two years in August, a trade body index shows, with higher energy costs pushing up the price of food and AI chip demand <a href=\"https://www.theguardian.com/business/2026/may/06/ramageddon-cheap-phones-laptops-macbooks-ps5s-ai-chips\">making technology more expensive</a>.</p><p>In-store inflation stepped up to 1.5% year on year in August, up from 0.9% in July, led by prices for tinned and packaged food which increased by 2.5% against 1.1% in the prior month, according to data from the research company NIQ for the British Retail Consortium.</p> <a href=\"https://www.theguardian.com/business/2026/sep/01/price-rises-gather-pace-in-uk-shops-higher-energy-costs\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5859,
+      "tags": [
+        "Chips",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "‘A huge learning curve’: apprentices on the benefits and pitfalls of vocational training",
+      "url": "https://www.theguardian.com/education/2026/sep/01/apprenticeships-apprentices-young-people-vocational-training",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-01T04:00:46+00:00",
+      "summary": "<p>While many young people have found jobs and built careers, some have struggled to complete their courses</p><p></p><p>The crisis in the youth employment market, with <a href=\"https://www.theguardian.com/society/2026/aug/27/neets-figures-youth-unemployment-april-june\">almost a million young people not in education, employment or training (Neet)</a> across the UK, has placed fresh emphasis on ways of getting employees into the workforce.</p><p>The government hopes to increase focus on technical and vocational learning in England from the age of 14. In parallel, there is an ambition to create thousands more apprenticeships.</p> <a href=\"https://www.theguardian.com/education/2026/sep/01/apprenticeships-apprentices-young-people-vocational-training\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7096,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
       "source_repo": "financenews"
     },
     {
@@ -336,129 +462,6 @@
       "summary": "<p>It’s been a month since Andy Burnham became prime minister. And while polls have shown a ‘Burnham bounce’, the coming months will force the new PM into making some tough – and potentially unpopular – decisions that will reveal how serious he is about delivering the changes he believes the country needs. Kiran Stacey and Peter Walker look at the choices facing Burnham</p><p>Please keep sending your comments and questions to Pippa and Kiran at <a href=\"mailto:politicsweeklyuk@theguardian.com\">politicsweeklyuk@theguardian.com</a>.</p><p>Listen back to Kiran’s interview with Bridget Phillipson <a href=\"https://www.theguardian.com/politics/audio/2026/aug/20/i-worry-about-our-daughters-bridget-phillipson-on-online-misogyny-podcast\">here</a></p><p>And, read Kiran’s article about possible changes to Insolvency Law <a href=\"https://www.theguardian.com/business/2026/aug/25/burnham-mulls-insolvency-law-shake-up-to-help-bring-utilities-under-public-control\">here</a></p> <a href=\"https://www.theguardian.com/politics/audio/2026/aug/27/andy-burnhams-autumn-of-pain-podcast\">Continue reading...</a>",
       "sentiment": "bearish",
       "sentiment_score": -0.2023,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Kansas City Fed's Schmid says inflation 'stubborn' and 'sticky,' policy rate not restrictive",
-      "url": "https://www.cnbc.com/2026/08/27/kansas-city-feds-schmid-says-inflation-stubborn-and-sticky-policy-rate-not-restrictive.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-08-27T14:11:29+00:00",
-      "summary": "The policymaker stopped just short of calling for an interest rate hike.",
-      "sentiment": "neutral",
-      "sentiment_score": -0.1531,
-      "tags": [
-        "Fed"
-      ],
-      "signal": "watch",
-      "category": "macro",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Z.ai shares surge 8% after releasing new AI model running only on Chinese chips",
-      "url": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-08-27T05:34:13+00:00",
-      "summary": "The Chinese AI company said it had already launched the model globally in stealth mode for a week.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.34,
-      "tags": [
-        "Chips",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "China's short-drama producers flood the market with cheap bets — and let audiences pick the winners",
-      "url": "https://www.cnbc.com/2026/08/26/short-drama-china-production-ai-entertainment-economics.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-08-26T13:20:34+00:00",
-      "summary": "The short-drama model offers an alternative to traditional entertainment, but rising distribution costs and audience-retention challenges remain.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5267,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Fears grow for fourth rate hike after Australia sees higher-than-expected July inflation",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/26/fears-grow-for-fourth-rate-hike-after-higher-than-expected-july-inflation-rate",
-      "source": "The Guardian Economics",
-      "published_at": "2026-08-26T06:44:23+00:00",
-      "summary": "<p>Bureau of Statistics says CPI was 3.5% in July, casting doubt on Reserve Bank meeting its 2.5% inflation target without further hike</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Fears are growing that the Reserve Bank will hit millions of mortgage holders with a fourth rate hike this year, after inflation eased in July but by far less than expected.</p><p>Consumer prices climbed by 3.5% through the year, down from 3.8% in the previous month, according to the Australian Bureau of Statistics.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/26/fears-grow-for-fourth-rate-hike-after-higher-than-expected-july-inflation-rate\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.264,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Is the Trump Treasury panicking over the level of US debt?",
-      "url": "https://www.theguardian.com/business/2026/aug/26/is-the-trump-treasury-panicking-over-the-level-of-us-debt",
-      "source": "The Guardian Economics",
-      "published_at": "2026-08-26T05:00:34+00:00",
-      "summary": "<p>With the federal deficit near 6% of GDP and the national debt over $40tn, America’s fiscal position looks increasingly precarious</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/aug/25/us-treasury-scott-bessent-bond-buying-donald-trump-stanley-druckenmiller\">Bessent ‘will lose’ battle with bond markets, ex-mentor warns</a></p></li></ul><p>Are we seeing the first signs of panic in Donald Trump’s Treasury? The US is by far the world’s biggest debtor, and the steady rise in global long-term interest rates – which I have <a href=\"https://www.aeaweb.org/articles?id=10.1257/aer.20221352\">long argued</a> was inevitable – is starting to cause real pain.</p><p>Until now, the Treasury secretary, Scott Bessent, has dismissed concerns about US debt, which recently <a href=\"https://www.reuters.com/world/us-debt-crosses-40-trillion-threshold-after-doubling-under-trump-biden-2026-08-19/\">surpassed $40tn</a>, as a big nothingburger. Growth, in his telling, will be so spectacular the US will easily be able to meet its interest obligations without any significant tax rises or spending cuts, while the rest of the world will happily keep feeding it money. But if Bessent really believes that, why is he trying to strong-arm the bond market by <a href=\"https://www.nytimes.com/2026/08/20/business/treasury-bond-market-interventionist-tactics.html\">fiddling with the maturity structure</a> of government debt?</p> <a href=\"https://www.theguardian.com/business/2026/aug/26/is-the-trump-treasury-panicking-over-the-level-of-us-debt\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.4322,
-      "tags": [
-        "Interest Rates",
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Canada announces 50% retaliatory tariffs on hundreds of US imports as trade war escalates – video",
-      "url": "https://www.theguardian.com/world/video/2026/aug/25/canada-tariffs-us-goods-mark-carney",
-      "source": "The Guardian Economics",
-      "published_at": "2026-08-25T16:39:26+00:00",
-      "summary": "<p>Announcement of tariffs on $20bn worth of US goods follows through on Mark Carney's vow to match US tariffs 'dollar for dollar'</p> <a href=\"https://www.theguardian.com/world/video/2026/aug/25/canada-tariffs-us-goods-mark-carney\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.4588,
-      "tags": [
-        "Trade War"
-      ],
-      "signal": "watch",
-      "category": "geopolitical",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
-      "url": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-08-25T16:00:40+00:00",
-      "summary": "The U.S. can pressure Chinese banks over Iran through access to its financial system, while Beijing is building alternatives such as CIPS.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.4215,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "US consumer confidence falls in August as gas prices remain above $4 per gallon",
-      "url": "https://www.theguardian.com/business/2026/aug/25/us-consumer-confidence-falls",
-      "source": "The Guardian Economics",
-      "published_at": "2026-08-25T15:56:15+00:00",
-      "summary": "<p>Confidence index drops to 89.4 in August from 90.2 in July amid frustration after five years of elevated inflation</p><p>Americans’ confidence in the economy declined again this month as <a href=\"https://www.theguardian.com/world/us-israel-war-on-iran\">the ongoing conflict in Iran</a> continued to push US gasoline prices above $4 per gallon.</p><p>The Conference Board said on Tuesday that its consumer confidence index dipped to 89.4 in August from 90.2 in July. That was the lowest level in seven months but was essentially within the same lukewarm range it has been in since the beginning of the year. In late 2024 and early 2025, readings were consistently above 100.</p> <a href=\"https://www.theguardian.com/business/2026/aug/25/us-consumer-confidence-falls\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.2382,
       "tags": [
         "AI"
       ],
