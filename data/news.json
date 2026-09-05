@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-09-05T16:09:21.399930+00:00",
+  "generated_at": "2026-09-05T20:09:19.519571+00:00",
   "articles": [
+    {
+      "id": "2aa8227fa9f3",
+      "title": "Trump Renames Lake Ontario, Canada Responds",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-05/trump-renames-lake-ontario-canada-responds-video",
+      "published_at": "2026-09-05T18:42:52+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "President Trump’s decision to rename Lake Ontario to Lake America is making waves on both sides of the border.\nBloomberg News Shaquille Omari looks at how Canada and tech companies are responding. (So",
+      "tags": []
+    },
+    {
+      "id": "8a91fb322281",
+      "title": "Lutnick to Review Pentagon Deals Involving Cerberus Firms",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/lutnick-to-review-pentagon-deals-involving-cerberus-companies",
+      "published_at": "2026-09-04T20:27:13+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Commerce Secretary Howard Lutnick has been chosen by the Department of Defense to review any transactions between the Pentagon and companies associated with Cerberus Capital Management, according to a",
+      "tags": []
+    },
+    {
+      "id": "d544b5d05f5c",
+      "title": "Bloomberg This Weekend 09/05/2026",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-05/bloomberg-this-weekend-09-05-2026-video",
+      "published_at": "2026-09-05T16:17:08+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. (Source: ",
+      "tags": []
+    },
     {
       "id": "d1e7523d27d8",
       "title": "Jobs Surge Raises Odds of September Fed Hike",
@@ -86,63 +122,39 @@
       "tags": []
     },
     {
-      "id": "0e089d4c7187",
-      "title": "Singapore Government Won’t Interfere in Decisions on Air India",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-05/singapore-government-won-t-interfere-in-decisions-on-air-india",
-      "published_at": "2026-09-05T12:45:15+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The Singapore government said it will not interfere in any decision that Singapore Airlines Ltd. makes in Air India Ltd., which is said to be seeking financial aid from its shareholders.",
-      "tags": []
-    },
-    {
-      "id": "5a8b001b523a",
-      "title": "Energy Markets Strained by Iran, Ukraine Wars",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-05/energy-markets-strained-by-iran-ukraine-wars-video",
-      "published_at": "2026-09-05T11:54:03+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Renewed US-Iran fighting and uncertainty over shipping through the Strait of Hormuz are adding pressure to global energy markets, while the threat of mines continues to deter some traffic. Ukraine’s a",
-      "tags": []
-    },
-    {
-      "id": "91f7378429f3",
-      "title": "How Women Are Shaping Drag Racing",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-05/opinion-how-women-are-shaping-drag-racing-video",
-      "published_at": "2026-09-05T11:31:53+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Drag racing has outpaced Formula 1, NASCAR and IndyCar on inclusivity, offering a model for sports that still treat women competing at the highest level as a novelty, Bloomberg Opinion columnist Adam ",
-      "tags": []
-    },
-    {
-      "id": "b9eb573e8776",
-      "title": "Treasury sell-off piles pressure on weakest US borrowers",
+      "id": "140822c9ad60",
+      "title": "Trump and Musk Super Pacs boost spending on midterm elections",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/6e096712-5abe-48c5-8e4d-c0042f947639?syn-25a6b1a6=1",
+      "url": "https://www.ft.com/content/d8fa06e5-5929-47c9-815c-47d2221fc9e9?syn-25a6b1a6=1",
+      "published_at": "2026-09-05T17:37:49+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Maga Inc and America Pac drop millions on US House and Senate candidates to keep Republicans in control of Congress",
+      "tags": []
+    },
+    {
+      "id": "a781953fa986",
+      "title": "Pro-Israel groups fight to help Republicans keep control of Congress",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/c98f4d9b-ec17-4bc0-a137-dbd12a23cba6?syn-25a6b1a6=1",
       "published_at": "2026-09-05T11:00:04+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Spreads on riskiest junk debt have climbed to their highest level since the market meltdown that followed last year’s ‘liberation day’ tariff blitz",
+      "summary": "Supporters of Israel’s far-right government fear November’s midterm elections could mark major shift in country’s relationship with US",
       "tags": []
     },
     {
-      "id": "7eed923e81fa",
-      "title": "The gloves are starting to come off in markets",
+      "id": "90ec4c4db6e9",
+      "title": "‘Sowing doubt’: Trump’s attempt to overhaul voting causes headaches for state officials",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/d3f7a1a1-7fc1-4349-a202-a6fee6ef4a5b?syn-25a6b1a6=1",
-      "published_at": "2026-09-05T04:00:33+00:00",
+      "url": "https://www.ft.com/content/47ac914f-ab0e-441b-9152-9ef06dc17741?syn-25a6b1a6=1",
+      "published_at": "2026-09-05T13:00:05+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Wall Street analysts and investors are more willing to directly criticise Trump, particularly since a Treasury intervention on bonds",
+      "summary": "The US president has tried to impose new rules just weeks before election day",
       "tags": []
     },
     {
@@ -183,10 +195,10 @@
     },
     {
       "id": "491a5e24d4dc",
-      "title": "Trump envoys arrive in Moscow with Ukraine peace proposal",
+      "title": "Trump envoys take Ukraine peace proposal to meeting with Putin",
       "source": "International homepage",
       "url": "https://www.ft.com/content/9ae2c655-bcf7-4ef2-9a9b-0855248d06a0?syn-25a6b1a6=1",
-      "published_at": "2026-09-05T14:32:35+00:00",
+      "published_at": "2026-09-05T18:23:47+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
@@ -218,27 +230,15 @@
       "tags": []
     },
     {
-      "id": "4c81036dc88c",
-      "title": "EU counterterror envoy urges pressure on social platforms over youth extremism",
+      "id": "b9eb573e8776",
+      "title": "Treasury sell-off piles pressure on weakest US borrowers",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/18900164-fa33-4d6d-a39e-6898043cd62f?syn-25a6b1a6=1",
-      "published_at": "2026-09-05T04:00:13+00:00",
+      "url": "https://www.ft.com/content/6e096712-5abe-48c5-8e4d-c0042f947639?syn-25a6b1a6=1",
+      "published_at": "2026-09-05T11:00:04+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Large-scale terrorism has receded but smaller attacks by individuals recruited online are on the rise",
-      "tags": []
-    },
-    {
-      "id": "8aeef7f1806e",
-      "title": "Masked protesters block Dover port roads",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/53751b68-5af6-42ec-9d93-bf3daee6acdd?syn-25a6b1a6=1",
-      "published_at": "2026-09-05T15:30:29+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Port operator says services back to normal after ‘public order incident’ affected ‘all routes in and out’",
+      "summary": "Spreads on riskiest junk debt have climbed to their highest level since the market meltdown that followed last year’s ‘liberation day’ tariff blitz",
       "tags": []
     },
     {
@@ -362,6 +362,30 @@
       "tags": []
     },
     {
+      "id": "4049251f1acb",
+      "title": "Why crypto experts say buying and holding bitcoin easily beats trying to time the market",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
+      "published_at": "2026-09-05T18:05:11+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Why crypto experts say buying and holding bitcoin easily beats trying to time the market",
+      "tags": []
+    },
+    {
+      "id": "b09db50be37b",
+      "title": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds",
+      "published_at": "2026-09-05T16:43:13+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
+      "tags": []
+    },
+    {
       "id": "be6579d36ac4",
       "title": "British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
@@ -458,27 +482,39 @@
       "tags": []
     },
     {
-      "id": "58b11b3737cc",
-      "title": "Zcash jumps 20% to landmark $1,000 level as short sellers lose $34 million",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/09/04/zcash-jumps-20-to-landmark-usd1-000-level-as-short-sellers-lose-usd34-million",
-      "published_at": "2026-09-04T10:40:14+00:00",
+      "id": "885e39c4e211",
+      "title": "Lululemon: Even As A Bear I Am Surprised How Fast Fundamentals Are Collapsing",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4943373-lululemon-stock-even-as-bear-surprised-how-fast-fundamentals-collapsing?source=feed_all_articles",
+      "published_at": "2026-09-05T17:11:51+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Zcash jumps 20% to landmark $1,000 level as short sellers lose $34 million",
+      "summary": "Lululemon: Even As A Bear I Am Surprised How Fast Fundamentals Are Collapsing",
       "tags": []
     },
     {
-      "id": "0b383d97ce79",
-      "title": "Bitcoin clears $81,000 as privacy coins lead a broad crypto rally",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/09/04/bitcoin-clears-usd81-000-as-privacy-coins-lead-a-broad-crypto-rally",
-      "published_at": "2026-09-04T09:57:01+00:00",
+      "id": "01d3bb0496f4",
+      "title": "The 1-Minute Market Report, September 5, 2026",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4943372-the-1-minute-market-report-september-5-2026?source=feed_all_articles",
+      "published_at": "2026-09-05T16:53:48+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Bitcoin clears $81,000 as privacy coins lead a broad crypto rally",
+      "summary": "The 1-Minute Market Report, September 5, 2026",
+      "tags": []
+    },
+    {
+      "id": "36c11cd202a0",
+      "title": "The \"Warsh Vs. The White House\" Trade",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4943371-the-warsh-vs-the-white-house-trade?source=feed_all_articles",
+      "published_at": "2026-09-05T16:47:05+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The \"Warsh Vs. The White House\" Trade",
       "tags": []
     },
     {
@@ -563,42 +599,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Everspin Technologies: The Teledyne Deal Is Validation, Not Revenue",
-      "tags": []
-    },
-    {
-      "id": "8a16c308baac",
-      "title": "ESCO Technologies: A More Constructive Set-Up",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4943365-esco-technologies-more-constructive-set-up?source=feed_all_articles",
-      "published_at": "2026-09-05T14:05:18+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "ESCO Technologies: A More Constructive Set-Up",
-      "tags": []
-    },
-    {
-      "id": "f59f8e10f9e2",
-      "title": "Stereotaxis: A Real Product Story, But The Stock Already Prices In Success",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4943364-stereotaxis-a-real-product-story-but-the-stock-already-prices-in-success?source=feed_all_articles",
-      "published_at": "2026-09-05T14:05:15+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Stereotaxis: A Real Product Story, But The Stock Already Prices In Success",
-      "tags": []
-    },
-    {
-      "id": "f4831a5c4f6a",
-      "title": "Buy 3 Ideal September Dividend Dogs Out Of Barron's 58 August Picks",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4943363-buy-3-ideal-september-dividend-dogs-out-of-barrons-58-august-picks?source=feed_all_articles",
-      "published_at": "2026-09-05T13:59:26+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Buy 3 Ideal September Dividend Dogs Out Of Barron's 58 August Picks",
       "tags": []
     }
   ]
