@@ -1,35 +1,19 @@
 {
-  "generated_at": "2026-09-04T05:35:50Z",
-  "snapshot_date": "2026-09-04",
+  "generated_at": "2026-09-05T05:33:46Z",
+  "snapshot_date": "2026-09-05",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Tesla investors await updates on Cybercab robotaxi touted as the ‘future of transport’",
-      "url": "https://www.marketwatch.com/story/teslas-stock-is-rallying-as-investors-prepare-for-a-storm-of-cybercabs-c738ac98?mod=mw_rss_topstories",
+      "title": "Micron is doubling down on AI memory chips. That could pay off big time for investors.",
+      "url": "https://www.marketwatch.com/story/micron-is-doubling-down-on-ai-memory-chips-that-could-pay-off-big-time-for-investors-da9e7f5e?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-03T23:45:00+00:00",
-      "summary": "Elon Musk’s electric-vehicle company is holding a launch event for the Cybercab autonomous vehicle on Thursday, but details have been sparse.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0258,
+      "published_at": "2026-09-04T20:12:00+00:00",
+      "summary": "Micron is reportedly increasing production capacity of a more profitable memory offering that’s in high demand due to AI.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.3167,
       "tags": [
-        "AI",
-        "Transport"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Goldfish crackers are getting a makeover as new health trends reshape the snack aisle",
-      "url": "https://www.marketwatch.com/story/goldfish-crackers-are-getting-a-makeover-as-new-health-trends-reshape-the-snack-aisle-32e89644?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-03T21:54:00+00:00",
-      "summary": "Campbell’s plans to introduce gluten-free, whole-grain and protein-packed versions of Goldfish to meet growing demand for healthy alternatives and combat rising competition.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.128,
-      "tags": [
-        "Gold",
+        "Chips",
         "AI"
       ],
       "signal": "watch",
@@ -37,13 +21,13 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Oura files for IPO amid Americans’ obsession with tracking their sleep, steps and heart rates",
-      "url": "https://www.marketwatch.com/story/oura-files-for-ipo-amid-americans-obsession-with-tracking-their-sleep-steps-and-heart-rates-093f85c4?mod=mw_rss_topstories",
+      "title": "Here’s what’s worth streaming in September 2026 on Netflix, Hulu, HBO Max and more",
+      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-september-2026-on-netflix-hulu-hbo-max-and-more-a702e7dd?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-03T21:49:00+00:00",
-      "summary": "The offering is part of a trend that pairs wearable technology with ‘preventative healthcare’",
-      "sentiment": "bullish",
-      "sentiment_score": 0.4215,
+      "published_at": "2026-09-04T20:00:00+00:00",
+      "summary": "Prices are rising again, but a slew of fan-favorite shows — including Apple’s ‘Slow Horses,’ Netflix’s ‘The Gentlemen’ and Paramount’s ‘MobLand’ — are returning for new seasons",
+      "sentiment": "neutral",
+      "sentiment_score": 0.1154,
       "tags": [
         "AI"
       ],
@@ -52,13 +36,90 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Here’s what Nvidia’s $13 billion Hugging Face deal means for the world of AI",
-      "url": "https://www.marketwatch.com/story/heres-what-nvidias-13-billion-hugging-face-deal-means-for-the-world-of-ai-360e9fd1?mod=mw_rss_topstories",
+      "title": "There’s a new record number of 401(k) millionaires as retirement savings hold at all-time highs",
+      "url": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-03T21:34:00+00:00",
-      "summary": "The acquisition will give Nvidia access to “one of the most important parcels of real estate in the AI market” and promote open-source technology.",
+      "published_at": "2026-09-04T19:52:00+00:00",
+      "summary": "Retirement savings hovered at record highs in the second quarter, pushing the number of 401(k) millionaires to a record as investors focused on their long-term goals despite persistent anxiety about the broader economy, Fidelity Investments said Thursday.",
       "sentiment": "bullish",
-      "sentiment_score": 0.7574,
+      "sentiment_score": 0.5744,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "‘There’s no plan’: as instability in global bond markets rises, what are the knock-on effects?",
+      "url": "https://www.theguardian.com/business/2026/sep/04/instability-in-global-bond-markets-rising-knock-on-effects",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-04T16:49:28+00:00",
+      "summary": "<p>From mortgages to inflation, concerns about the public finances of major economies have wide-reaching consequences</p><p>When Donald Trump was asked recently about the threat of rising interest rates on US government debt, he told baffled reporters: “The ultimate intervention is our military. And if we have to use that, we will.”</p><p>Perhaps not surprisingly, his bellicose words did not soothe fractious bond markets, and his resumption of the bombing campaign against Iran only made matters worse.</p> <a href=\"https://www.theguardian.com/business/2026/sep/04/instability-in-global-bond-markets-rising-knock-on-effects\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.7905,
+      "tags": [
+        "Interest Rates",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "US jobs report smashes forecasts; shares in Falklands oil explorers plunge as Argentina threatens sanctions – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/sep/04/uk-car-sales-rise-food-prices-bank-of-england-us-jobs-repost-latest-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-04T15:48:30+00:00",
+      "summary": "<p>Rolling coverage of the latest economic and financial news, as US economy adds 162,000 new jobs in August</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/04/august-economy-jobs-report\">US added 162,000 jobs in August, with unemployment rate holding steady</a></p></li></ul><p><br /></p><p><strong>It’s official, UK car sales jumped last month.</strong></p><p>New car registrations rose by 13.7% to 94,236 units in August, the Society of Motor Manufacturers and Traders has reported.</p><p>Plug-in hybrid electric vehicles (PHEVs) posted the strongest growth, up 39.8% to account for 14.5% of registrations, while hybrid electric vehicles (HEVs) rose 26.3% with 12.7% of the market. Battery electric vehicles (BEVs) increased 27.7% to claim 29.8% of overall uptake.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/04/uk-car-sales-rise-food-prices-bank-of-england-us-jobs-repost-latest-news-updates\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5106,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Bitcoin heads for third winning week in a row as macro pressures mount",
+      "url": "https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-04T14:36:48+00:00",
+      "summary": "Bitcoin headed for its third straight winning week, as traders searched for refuge amid volatile moves in equities, currencies and bond markets.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7506,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Populism poses serious challenge to independent central banks, Bailey says",
+      "url": "https://www.theguardian.com/business/2026/sep/04/populism-serious-challenge-independence-central-banks-andrew-bailey",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-04T13:44:00+00:00",
+      "summary": "<p>Bank of England governor says central bankers must explain decisions or risk being seen as ‘unrepresentative elite’</p><p>The governor of the Bank of England has said the rise of populist politicians presents a serious challenge to independent central banks.</p><p>As Nigel Farage’s Reform UK <a href=\"https://www.theguardian.com/politics/brexit-party\">gathered for its annual conference</a> in Birmingham, Andrew Bailey said central bankers must be prepared to explain their decisions to the public or risk being attacked as an “unrepresentative elite”.</p> <a href=\"https://www.theguardian.com/business/2026/sep/04/populism-serious-challenge-independence-central-banks-andrew-bailey\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.6486,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "US added 162,000 jobs in August, with unemployment rate holding steady",
+      "url": "https://www.theguardian.com/business/2026/sep/04/august-economy-jobs-report",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-04T12:40:44+00:00",
+      "summary": "<p>Number of new jobs being added has been fluctuating, with private companies adding 38,000 jobs in August</p><p>The US economy added 162,000 jobs in August, an uptick after a sluggish summer for the labor market.</p><p>The unemployment rate held steady at 4.1%, still down from its most recent peak of 4.5% last November, according to new data from the Bureau of Labor Statistics (BLS). Despite the relative stability of the unemployment rate, the number of new jobs added to the economy has been fluctuating, going from 214,000 in March down to a 21,000 gain in July and then back up in August.</p> <a href=\"https://www.theguardian.com/business/2026/sep/04/august-economy-jobs-report\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.7717,
       "tags": [
         "AI"
       ],
@@ -345,22 +406,6 @@
       "source_repo": "financenews"
     },
     {
-      "title": "UK long-term borrowing costs could halve chancellor’s budget headroom",
-      "url": "https://www.theguardian.com/business/2026/sep/01/uk-gilt-yield-long-term-borrowing-costs-28-year-high",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-01T14:25:53+00:00",
-      "summary": "<p>Yield on 30-year gilts highest since 1998 as rout triggered by global factors underlines tricky backdrop John Healey faces</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/01/bond-sell-off-oil-prices-inflation-fears-shein-shares-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The chancellor’s headroom against Labour’s fiscal rules could be almost halved at his first budget if the current global bond sell-off persists into the autumn, economists say.</p><p>The UK’s long-term borrowing costs jumped to their highest level since early 1998 on Tuesday as investors dumped government bonds, betting on higher inflation.</p> <a href=\"https://www.theguardian.com/business/2026/sep/01/uk-gilt-yield-long-term-borrowing-costs-28-year-high\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.5106,
-      "tags": [
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
       "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
       "url": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
       "source": "CNBC Finance",
@@ -370,37 +415,6 @@
       "sentiment_score": -0.1803,
       "tags": [
         "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Price rises gather pace in UK shops amid higher energy costs",
-      "url": "https://www.theguardian.com/business/2026/sep/01/price-rises-gather-pace-in-uk-shops-higher-energy-costs",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-01T05:00:46+00:00",
-      "summary": "<p>In-store inflation rises to an annual 1.5% in August, according to a survey for the British Retail Consortium</p><p>The pace of price rises in UK shops rose to its highest level in two years in August, a trade body index shows, with higher energy costs pushing up the price of food and AI chip demand <a href=\"https://www.theguardian.com/business/2026/may/06/ramageddon-cheap-phones-laptops-macbooks-ps5s-ai-chips\">making technology more expensive</a>.</p><p>In-store inflation stepped up to 1.5% year on year in August, up from 0.9% in July, led by prices for tinned and packaged food which increased by 2.5% against 1.1% in the prior month, according to data from the research company NIQ for the British Retail Consortium.</p> <a href=\"https://www.theguardian.com/business/2026/sep/01/price-rises-gather-pace-in-uk-shops-higher-energy-costs\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5859,
-      "tags": [
-        "Chips",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "‘A huge learning curve’: apprentices on the benefits and pitfalls of vocational training",
-      "url": "https://www.theguardian.com/education/2026/sep/01/apprenticeships-apprentices-young-people-vocational-training",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-01T04:00:46+00:00",
-      "summary": "<p>While many young people have found jobs and built careers, some have struggled to complete their courses</p><p></p><p>The crisis in the youth employment market, with <a href=\"https://www.theguardian.com/society/2026/aug/27/neets-figures-youth-unemployment-april-june\">almost a million young people not in education, employment or training (Neet)</a> across the UK, has placed fresh emphasis on ways of getting employees into the workforce.</p><p>The government hopes to increase focus on technical and vocational learning in England from the age of 14. In parallel, there is an ambition to create thousands more apprenticeships.</p> <a href=\"https://www.theguardian.com/education/2026/sep/01/apprenticeships-apprentices-young-people-vocational-training\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7096,
-      "tags": [
         "AI"
       ],
       "signal": "watch",
@@ -430,21 +444,6 @@
       "summary": "The insurance broker said the merger will create the premiere U.S. middle-market platform.",
       "sentiment": "bullish",
       "sentiment_score": 0.2732,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Iran’s economy in crisis as US launches new sanctions campaign",
-      "url": "https://www.theguardian.com/world/2026/aug/31/iran-economy-crisis-usa-launches-sanctions-inflation-trump",
-      "source": "The Guardian Economics",
-      "published_at": "2026-08-31T13:00:26+00:00",
-      "summary": "<p>Trump’s Operation Economic Outcast is expected to push many Iranians into deeper poverty as food inflation soars</p><p>For many Iranians, the new US sanctions campaign, called Operation Economic Outcast, seems superfluous given the grim economic situation in their country.</p><p>Iranians are facing runaway food inflation, closed petrol stations and a seemingly never-ending depreciation of the nation’s currency caused by a lack of foreign exchange reserves.</p> <a href=\"https://www.theguardian.com/world/2026/aug/31/iran-economy-crisis-usa-launches-sanctions-inflation-trump\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9246,
       "tags": [
         "AI"
       ],
