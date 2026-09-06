@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-05T20:09:19.519571+00:00",
+  "generated_at": "2026-09-06T00:31:03.006563+00:00",
   "articles": [
+    {
+      "id": "93ac17a43212",
+      "title": "Brazilian Court Suspends Permits, Halts Sigma Lithium’s Mine",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-05/brazilian-court-suspends-permits-halts-sigma-lithium-s-mine",
+      "published_at": "2026-09-05T23:26:30+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "A Brazilian court ordered the suspension of all environmental permits for Sigma Mineração SA, an operating subsidiary of Sigma Lithium Corp., and the complete halt of mining activities for the company",
+      "tags": []
+    },
     {
       "id": "2aa8227fa9f3",
       "title": "Trump Renames Lake Ontario, Canada Responds",
@@ -110,18 +122,6 @@
       "tags": []
     },
     {
-      "id": "5a724f69b882",
-      "title": "AI May Transform How Humans Understand Animals",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-05/ai-may-transform-how-humans-understand-animals-video",
-      "published_at": "2026-09-05T12:46:10+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Researchers are using AI to analyze vast collections of animal vocalizations, looking for patterns that could help humans better understand how species such as crows communicate. Bloomberg Weekend Sen",
-      "tags": []
-    },
-    {
       "id": "140822c9ad60",
       "title": "Trump and Musk Super Pacs boost spending on midterm elections",
       "source": "International homepage",
@@ -198,7 +198,7 @@
       "title": "Trump envoys take Ukraine peace proposal to meeting with Putin",
       "source": "International homepage",
       "url": "https://www.ft.com/content/9ae2c655-bcf7-4ef2-9a9b-0855248d06a0?syn-25a6b1a6=1",
-      "published_at": "2026-09-05T18:23:47+00:00",
+      "published_at": "2026-09-05T22:22:12+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
@@ -222,7 +222,7 @@
       "title": "US strikes three Iranian oil tankers in response to attacks on warships",
       "source": "International homepage",
       "url": "https://www.ft.com/content/7c7c07db-cde5-474d-9a20-8e2c2f273d4e?syn-25a6b1a6=1",
-      "published_at": "2026-09-05T15:07:06+00:00",
+      "published_at": "2026-09-05T20:05:42+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
@@ -482,6 +482,30 @@
       "tags": []
     },
     {
+      "id": "a522c1f57728",
+      "title": "Ecora Royalties PLC 2026 Q2 - Results - Earnings Call Presentation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4943375-ecora-royalties-plc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+      "published_at": "2026-09-05T23:05:54+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Ecora Royalties PLC 2026 Q2 - Results - Earnings Call Presentation",
+      "tags": []
+    },
+    {
+      "id": "d71b3307131c",
+      "title": "The Toro Company 2026 Q3 - Results - Earnings Call Presentation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4943374-the-toro-company-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+      "published_at": "2026-09-05T23:04:08+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The Toro Company 2026 Q3 - Results - Earnings Call Presentation",
+      "tags": []
+    },
+    {
       "id": "885e39c4e211",
       "title": "Lululemon: Even As A Bear I Am Surprised How Fast Fundamentals Are Collapsing",
       "source": "All Articles on Seeking Alpha",
@@ -575,30 +599,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Innodata: Expensive Today But The Growth Story Is Getting Stronger (Rating Upgrade)",
-      "tags": []
-    },
-    {
-      "id": "1b07f4ded96f",
-      "title": "Why I Would Invest In QVOL Instead Of JEPQ",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4943319-why-i-would-invest-in-qvol-instead-of-jepq?source=feed_all_articles",
-      "published_at": "2026-09-05T14:30:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Why I Would Invest In QVOL Instead Of JEPQ",
-      "tags": []
-    },
-    {
-      "id": "93c90cbfb711",
-      "title": "Everspin Technologies: The Teledyne Deal Is Validation, Not Revenue",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4943366-everspin-technologies-the-teledyne-deal-is-validation-not-revenue?source=feed_all_articles",
-      "published_at": "2026-09-05T14:08:20+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Everspin Technologies: The Teledyne Deal Is Validation, Not Revenue",
       "tags": []
     }
   ]
