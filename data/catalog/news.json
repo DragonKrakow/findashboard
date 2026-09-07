@@ -1,17 +1,108 @@
 {
-  "generated_at": "2026-09-06T05:33:45Z",
-  "snapshot_date": "2026-09-06",
+  "generated_at": "2026-09-07T05:37:01Z",
+  "snapshot_date": "2026-09-07",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "There’s a new record number of 401(k) millionaires as retirement savings hold at all-time highs",
-      "url": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
+      "title": "‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
+      "url": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-05T17:01:00+00:00",
-      "summary": "Retirement savings hovered at record highs in the second quarter, pushing the number of 401(k) millionaires to a record as investors focused on their long-term goals despite persistent anxiety about the broader economy, Fidelity Investments said Thursday.",
+      "published_at": "2026-09-06T21:00:00+00:00",
+      "summary": "“I am frustrated and financially exhausted from continuing to invest my own money into  these properties.”",
+      "sentiment": "bearish",
+      "sentiment_score": -0.6249,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "China prepares £40bn stimulus for financial sector amid fears over sluggish growth",
+      "url": "https://www.theguardian.com/world/2026/sep/06/china-prepares-40bn-stimulus-for-financial-sector-amid-fears-over-sluggish-growth",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-06T15:16:43+00:00",
+      "summary": "<p>Beijing wants banks and insurers to bolster investment in stock market as it helps to replenish cash reserves</p><p>China will inject $54bn (£40bn) into its financial sector as Beijing attempts to shore up banks and insurers in the face of faltering economic growth.</p><p>A host of financial institutions said they were due to receive billions of yuan in capital from state institutions including the ministry of finance and even the company that runs the country’s tobacco monopoly.</p> <a href=\"https://www.theguardian.com/world/2026/sep/06/china-prepares-40bn-stimulus-for-financial-sector-amid-fears-over-sluggish-growth\">Continue reading...</a>",
+      "sentiment": "neutral",
+      "sentiment_score": -0.0772,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "That sound you hear is not the world ending – it’s liberalism being monstered | Waleed Aly",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/07/waleed-aly-time-of-monsters-future-liberalism-essay",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-06T15:00:08+00:00",
+      "summary": "<p>It turns out most of us no longer believe in progress. And when that happens, it quickly becomes a crisis for societies like ours</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Depending on your politics, the monsters are everywhere. Perhaps you see them in the form of tech billionaires and the <a href=\"https://www.theguardian.com/technology/artificialintelligenceai\">artificial intelligence</a> they’re developing. Perhaps you see them in the bin fire of <a href=\"https://www.theguardian.com/media/social-media\">social media</a> they bequeathed us before that, or the legacy media that refuse to tell you “the truth”. You might see them in the manosphere, or the institutions teaching our kids gender fluidity. Maybe you see them in the migrant youth wielding machetes in the suburbs, or the refugee attempting to behead someone on a Belfast street. Or perhaps you see them in the violent anti-immigrant mobs that torched houses in response. If so, you’ll likely see them in the March for Australia or the Unite the Kingdom rallies, organised by far-right groups but attended by many more besides. You’ll almost certainly see them in at least one of Hamas, Israel or those local advocates at each other’s throats over the Middle East. I suspect you’ll see them in Russia but that can no longer be assumed. And I’d guess that you’d see them in at least one political party with a significant share of the vote.</p><p>Something in that paragraph probably outraged you. In which case, you’re probably seeing monsters in whoever sees different monsters from you. It would be easy here to make a point about polarisation. But I want to look at the deep disquiet that lies underneath.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/sep/07/waleed-aly-time-of-monsters-future-liberalism-essay\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.8037,
+      "tags": [
+        "AI",
+        "Artificial Intelligence"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
+      "url": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-06T13:15:00+00:00",
+      "summary": "“I paid a significant amount into Social Security.”",
       "sentiment": "bullish",
-      "sentiment_score": 0.5744,
+      "sentiment_score": 0.5267,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Is the U.S. losing its safe-haven status? Why global central banks are pulling gold out of New York.",
+      "url": "https://www.marketwatch.com/story/is-the-u-s-losing-its-safe-haven-status-why-global-central-banks-are-pulling-gold-out-of-new-york-3e24d510?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-06T13:00:00+00:00",
+      "summary": "What to know about safe havens and the U.S., as the Netherlands’ central bank follows France in pulling gold out of New York.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0772,
+      "tags": [
+        "Gold"
+      ],
+      "signal": "watch",
+      "category": "macro",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Air conditioners are our best bet in the fight against extreme heat – whether we like it or not",
+      "url": "https://www.theguardian.com/environment/2026/sep/06/climate-crisis-air-conditioning-access",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-06T11:00:03+00:00",
+      "summary": "<p>Global AC demand will inevitably accelerate as the world continues to warm amid the climate crisis</p><p>The greenest campaigners against climate change have long suffered from a crippling shortcoming: they too often frame the challenge as a problem of excess consumption. This motivates calls to <a href=\"https://degrowth.info/international-degrowth-network\">“degrow”</a> the economy and to <a href=\"https://www.biologicaldiversity.org/programs/population_and_sustainability/population/\">curb the population</a>. The claim is that humans consume too many resources, which in the context of climate change means too much energy.</p><p>Nowhere has the tension between this proposition and reality become more palpable during this sweltering summer than in the conversation over <a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC5854721/\">air conditioning.</a></p> <a href=\"https://www.theguardian.com/environment/2026/sep/06/climate-crisis-air-conditioning-access\">Continue reading...</a>",
+      "sentiment": "neutral",
+      "sentiment_score": -0.1356,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Burnham talks of radical change, but Treasury mood music says otherwise",
+      "url": "https://www.theguardian.com/business/2026/sep/06/burnham-talks-of-radical-change-but-treasury-mood-music-says-otherwise",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-06T09:48:54+00:00",
+      "summary": "<p>Bond market volatility means John Healey will have to take tough decisions, soon, if he wants to meet spending pledges</p><p>In John Healey’s bright Treasury office, overlooking St James’s Park, the artwork has not changed since his predecessor, Rachel Reeves, selected a row of Bridget Riley prints <a href=\"https://www.theguardian.com/politics/2024/sep/18/rachel-reeves-to-replace-no-11-paintings-with-art-by-women\">in her feminist rehang</a>. Judging by the signals emerging from No 11 about the chancellor’s 28 October budget, not much else has changed either.</p><p>Voters listening to <a href=\"https://www.theguardian.com/politics/2026/sep/01/burnham-promises-to-bring-optimism-and-substantial-change-in-first-commons-speech-as-pm\">Andy Burnham’s promises to overthrow 40 years of neoliberalism</a> and vanquish the ghost of Margaret Thatcher would be excused for expecting a radical policy reset. Early signs suggest they may be disappointed.</p> <a href=\"https://www.theguardian.com/business/2026/sep/06/burnham-talks-of-radical-change-but-treasury-mood-music-says-otherwise\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.631,
       "tags": [
         "AI"
       ],
@@ -297,52 +388,6 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Australians are buying EVs instead of holidaying in Europe – and other things we learned from the national accounts",
-      "url": "https://www.theguardian.com/business/2026/sep/03/australia-national-accounts-abs-economic-growth-evs-europe-holidays",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-02T15:00:27+00:00",
-      "summary": "<p>ABS’s snapshot of Australia’s accounts shows economic growth – albeit low – in the face ‘challenging international circumstances’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/03/anthony-albanese-one-nation-jim-chalmers-labor-liberal-angus-taylor-tobacco-plan-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Australian Bureau of Statistics released its latest set of national accounts, which give us a snapshot of how the economy is performing in the quarter and what’s happening under the hood.</p><p>Here are the three things you need to know.</p> <a href=\"https://www.theguardian.com/business/2026/sep/03/australia-national-accounts-abs-economic-growth-evs-europe-holidays\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.2168,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Bond market sell-off calms as oil price drops, and Burnham pledges ‘fiscal responsibility’ – as it happened",
-      "url": "https://www.theguardian.com/business/live/2026/sep/02/bond-market-sell-off-shares-slide-oil-inflation-fears-latest-news-updates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-02T14:47:13+00:00",
-      "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/02/global-bond-sell-off-us-iran-tensions-inflation-fears\"><strong>Global bond sell-off intensifies as US-Iran tensions stoke inflation fears</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/politics/live/2026/sep/02/pmqs-andy-burnham-kemi-badenoch-labour-uk-politics-latest-news\"><strong>Politics Live: Andy Burnham pressed on borrowing costs and spending at first PMQs</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/commentisfree/2026/sep/01/the-guardian-view-on-the-global-bond-shock-andy-burnham-should-take-note\">The Guardian view on the global bond shock: Andy Burnham should take note</a></p></li></ul><p><strong>Newsflash: UK government borrowing costs have jumped at the start of trading, as the bond market sell-off continues.</strong></p><p>The yield, or interest rate, on UK 10-year bonds jumped by 4 basis points (0.04 of a percentage point) to 5.268%. That’s the highest since June 2008 (<em>Reuters reports</em>).</p><p>“The dominant theme as markets open is the renewed escalation between the US and Iran, with attacks on Iranian military and tanker targets raising concerns over further disruption in the Strait of Hormuz.</p><p>Oil has extended to a six-week high, amplifying inflation concerns and driving another sharp rise in global bond yields</p><p>“The market rout stepped up a year yesterday and shows no sign of stopping.</p><p>Governments around the world are feeling the pressure from bond markets, but the situation is particularly acute for the UK, where Andy Burnham’s grand promises about reforming the economy are about to meet the cold reality of high debt levels and rocketing borrowing costs.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/02/bond-market-sell-off-shares-slide-oil-inflation-fears-latest-news-updates\">Continue reading...</a>",
-      "sentiment": "neutral",
-      "sentiment_score": 0.128,
-      "tags": [
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Taxing the banks: what Europe’s windfall levies brought in as Burnham eyes his next move",
-      "url": "https://www.theguardian.com/business/2026/sep/02/british-banks-pressure-burnham-tax-profits-john-healey",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-02T12:38:28+00:00",
-      "summary": "<p>Ahead of a crucial budget, four countries’ experiments offer a mixed verdict on how to tax bumper profits </p><p></p><p>The countdown is on. Two months out from Andy Burnham’s inaugural autumn budget, bank executives are wringing their hands over whether the government will target their bumper profits with fresh taxes.</p><p>The chancellor, John Healey, is reportedly considering a windfall tax on both banks and oil companies in the late October Westminster setpiece.</p> <a href=\"https://www.theguardian.com/business/2026/sep/02/british-banks-pressure-burnham-tax-profits-john-healey\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8271,
-      "tags": [
-        "Oil"
-      ],
-      "signal": "watch",
-      "category": "energy",
-      "source_repo": "financenews"
-    },
-    {
       "title": "Berkshire CEO Greg Abel says Japanese bond yields not a challenge for trading houses right now",
       "url": "https://www.cnbc.com/2026/09/02/berkshire-ceo-says-japanese-bond-yields-not-a-challenge-for-trading-houses.html",
       "source": "CNBC Finance",
@@ -411,52 +456,6 @@
       "summary": "An arbitrator earlier this month said Gemini Space Station did not mislead users of its Earn program.",
       "sentiment": "bearish",
       "sentiment_score": -0.2363,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Aon CEO says insurance broker seeks to build 'premiere middle market platform' with purchase of rival USI",
-      "url": "https://www.cnbc.com/2026/08/31/aon-ceo-says-usi-deal-seeks-to-build-premiere-middle-market-insurance-platform.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-08-31T15:15:22+00:00",
-      "summary": "The insurance broker said the merger will create the premiere U.S. middle-market platform.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.2732,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed 'at odds' with Treasury",
-      "url": "https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-08-31T11:28:03+00:00",
-      "summary": "Fed Chair Kevin Warsh's hawkish stance reinforced expectations of a relatively tighter stance at the Federal Open Market Committee meeting in September.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3818,
-      "tags": [
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
-      "url": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-08-29T02:23:52+00:00",
-      "summary": "The 9th U.S. Circuit Court of Appeals ruled that sports-related event contracts are not swaps, contradicting a 3rd Circuit ruling from April.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.4519,
       "tags": [
         "AI"
       ],
