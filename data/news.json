@@ -1,6 +1,90 @@
 {
-  "generated_at": "2026-09-06T20:09:30.960935+00:00",
+  "generated_at": "2026-09-07T00:30:27.409803+00:00",
   "articles": [
+    {
+      "id": "cfd439024b8e",
+      "title": "Japan Likely Sold Treasuries to Fund Record Yen Intervention",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-06/japan-likely-sold-treasuries-to-fund-record-yen-intervention",
+      "published_at": "2026-09-06T23:56:48+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Japan likely sold a portion of its holdings of foreign securities, including US Treasuries, to finance its record currency intervention over the past month.",
+      "tags": []
+    },
+    {
+      "id": "eba7a9fa3755",
+      "title": "Latest Oil Market News and Analysis for September 7",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-06/latest-oil-market-news-and-analysis-for-september-7",
+      "published_at": "2026-09-06T22:04:41+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Oil climbed after the US attacked Iranian tankers and Tehran declared a new restricted zone outside the Strait of Hormuz, raising concerns about prolonged disruptions to energy flows through the water",
+      "tags": []
+    },
+    {
+      "id": "8debba77b961",
+      "title": "Asian Stocks Open Higher, Oil Rises After Attacks: Markets Wrap",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-06/stock-market-today-dow-s-p-live-updates",
+      "published_at": "2026-09-06T22:15:34+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Asian stocks rose after US technology shares advanced on Friday. Oil climbed after the US and Iran traded tanker attacks in the Strait of Hormuz.",
+      "tags": []
+    },
+    {
+      "id": "a248a038bb23",
+      "title": "Japan's Go President Eyes Expansion in Asia, Robotaxis",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-07/japan-s-go-president-eyes-expansion-in-asia-robotaxis-video",
+      "published_at": "2026-09-07T00:02:52+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Go, the taxi booking app operator that pulled off Japan’s biggest initial public offering this year, is eyeing ways to expand domestically and across Asia, and doesn't see competitors like Uber as a t",
+      "tags": []
+    },
+    {
+      "id": "5eefc3cc00e5",
+      "title": "China Injects Billions of Capital Into Banks, Insurers",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-06/china-injects-billions-of-capital-into-banks-insurers-video",
+      "published_at": "2026-09-06T23:33:01+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "China is injecting billions into its largest banks and insurers to shore up balance sheets and sustain growth in a slowing economy. Bloomberg's Sunny Bangia explains. (Source: Bloomberg)",
+      "tags": []
+    },
+    {
+      "id": "c07333e4a1fd",
+      "title": "Goldman’s Moe Sees 80% Upside for Korean Stocks on Memory Boom",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-06/goldman-s-moe-sees-80-upside-for-korean-stocks-on-memory-boom",
+      "published_at": "2026-09-06T23:30:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "A Goldman Sachs Group Inc. strategist is standing by his bullish target for South Korean stocks, saying investors underestimate how long the AI boost for the nation’s memory chipmakers will last.",
+      "tags": []
+    },
+    {
+      "id": "ed014611c99b",
+      "title": "Gold Holds Decline as Traders Weigh Prospects for Fed Rate Hike",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-06/gold-holds-decline-as-traders-weigh-prospects-for-fed-rate-hike",
+      "published_at": "2026-09-06T23:28:46+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Gold held a decline, after stronger-than-expected US payrolls data raised the prospects for an interest-rate hike as early as next week.",
+      "tags": []
+    },
     {
       "id": "15e4f97dd4b4",
       "title": "Bond Traders Brace for More Swings at Both Ends of US Yield Curve",
@@ -38,99 +122,15 @@
       "tags": []
     },
     {
-      "id": "617b29f797f8",
-      "title": "NBA Hits Clippers With Historic Penalties",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-06/nba-hits-clippers-with-historic-penalties-video",
-      "published_at": "2026-09-06T15:09:13+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The NBA fined the Los Angeles Clippers $30 million and stripped the franchise of five first-round draft picks after an independent investigation found the team circumvented salary-cap rules by facilit",
-      "tags": []
-    },
-    {
-      "id": "25116dbcae03",
-      "title": "Rep. Stevens Says Canadian Tariffs Are Squeezing Michigan",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-06/rep-stevens-says-tariffs-are-squeezing-michigan-video",
-      "published_at": "2026-09-06T14:44:06+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "On Bloomberg This Weekend, Michigan Representative Haley Stevens (D) says escalating US tariffs on Canadian goods are raising costs and creating uncertainty for manufacturers in her district, with the",
-      "tags": []
-    },
-    {
-      "id": "932399cc1d46",
-      "title": "British Food Is Having a US Moment",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-06/british-food-is-having-a-us-moment-video",
-      "published_at": "2026-09-06T14:35:31+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "British food is enjoying new popularity in the US, with a wave of pub-inspired restaurants drawing crowds with traditional dishes served in more modern settings. Bloomberg Pursuits Contributing Restau",
-      "tags": []
-    },
-    {
-      "id": "d6c7e4a64abe",
-      "title": "USS Lincoln Sailors Describe Toll of Deployment",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-06/uss-lincoln-sailors-describe-toll-of-deployment-video",
-      "published_at": "2026-09-06T13:52:11+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The USS Abraham Lincoln’s crew received a long-awaited port visit in Thailand after a 286-day deployment that included a modern-era record of 264 consecutive days at sea and months of combat operation",
-      "tags": []
-    },
-    {
-      "id": "1f4d6667e1cd",
-      "title": "US Races to Boost Missile Interceptor Output",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-06/us-races-to-boost-missile-interceptor-output-video",
-      "published_at": "2026-09-06T13:25:01+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The US retains significant munitions capacity for operations against Iran, but stocks of sophisticated interceptors missiles have come under greater pressure. Bloomberg Intelligence Senior Defense Ana",
-      "tags": []
-    },
-    {
-      "id": "910dd3dd1ae1",
-      "title": "Trump Says Canada’s Dollar ‘Imbalance’ With US Is Unacceptable",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-06/trump-says-canada-s-dollar-imbalance-with-us-is-unacceptable",
-      "published_at": "2026-09-06T13:22:20+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "“Canada’s (currency) Dollar imbalance with the U.S. is unacceptable,” President Donald Trump says in a Truth Social post.",
-      "tags": []
-    },
-    {
-      "id": "ee341e0c2653",
-      "title": "By The Way: Headlines You May Have Missed",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-06/by-the-way-headlines-you-may-have-missed-video",
-      "published_at": "2026-09-06T13:09:36+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Taylor Swift and Travis Kelce settling in Ohio, parents teaching teens to invest, what happened to yoga classes, and baseball dogs: Watch Lisa Mateo, Christina Ruffini and Jeff Mason talk about headli",
-      "tags": []
-    },
-    {
       "id": "6815d254b4ad",
-      "title": "Far-right AfD surges in German state elections, partial results show",
+      "title": "Far-right AfD surges to first place in German state elections",
       "source": "International homepage",
       "url": "https://www.ft.com/content/a0229455-1822-4de8-ad2f-7453577d95cd?syn-25a6b1a6=1",
-      "published_at": "2026-09-06T18:10:48+00:00",
+      "published_at": "2026-09-06T22:06:25+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Alternative for Germany is projected to become the largest party in Saxony-Anhalt while falling short of a parliamentary majority",
+      "summary": "Alternative for Germany is projected to become the largest party in Saxony-Anhalt but fall short of a parliamentary majority",
       "tags": []
     },
     {
@@ -138,7 +138,7 @@
       "title": "Germany’s Merz on the ropes after far right delivers devastating blow",
       "source": "International homepage",
       "url": "https://www.ft.com/content/48e7b92b-affc-4fd0-8de1-ae8765e5c799?syn-25a6b1a6=1",
-      "published_at": "2026-09-06T19:51:52+00:00",
+      "published_at": "2026-09-06T21:53:22+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
@@ -146,15 +146,15 @@
       "tags": []
     },
     {
-      "id": "dac8153d9f82",
-      "title": "The risky mission to de-mine the Strait of Hormuz",
+      "id": "b074d3151ba8",
+      "title": "Europe failing to deter Russia’s ‘hybrid’ war, warn defence officials",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/04031dbe-7412-441e-8aaa-89a9ee6c7439?syn-25a6b1a6=1",
-      "published_at": "2026-09-06T18:33:07+00:00",
+      "url": "https://www.ft.com/content/83e08169-69b5-4997-9bf0-e0622e752eda?syn-25a6b1a6=1",
+      "published_at": "2026-09-06T20:00:05+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "US Navy divers, boats and robots made covert night-time trips to dispose of explosives in the crucial channel",
+      "summary": "Foiled drone attack at German airport seen as sign of Nato’s weak response and Moscow’s impunity",
       "tags": []
     },
     {
@@ -194,6 +194,18 @@
       "tags": []
     },
     {
+      "id": "c28c029e005a",
+      "title": "Starting gun fired on autumn election campaign season",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/a69af29e-b2c1-48cf-a6f7-c1f68c141785?syn-25a6b1a6=1",
+      "published_at": "2026-09-06T17:15:05+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Republicans gather in Dallas, 25th anniversary of 9/11, ECB interest rate decision",
+      "tags": []
+    },
+    {
       "id": "6f818a26dbbf",
       "title": "European SpaceX rival launches rocket into orbit",
       "source": "International homepage",
@@ -218,27 +230,27 @@
       "tags": []
     },
     {
-      "id": "a9197371a283",
-      "title": "Russian gold floods through Hong Kong in wake of western sanctions",
+      "id": "afcfa06038b9",
+      "title": "Five killed as Amazon cargo plane overshoots runway in Miami",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/39b0c966-b153-4706-9325-2f6176ba3752?syn-25a6b1a6=1",
-      "published_at": "2026-09-06T04:00:12+00:00",
+      "url": "https://www.ft.com/content/8077447c-b7db-4854-ba42-d2fb0dc65c76?syn-25a6b1a6=1",
+      "published_at": "2026-09-06T23:05:00+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Shipments hit record high with almost 100 tonnes imported from Russia in first seven months of this year",
+      "summary": "Crash of Prime Air 767-300 is latest in a string of recent US aviation accidents",
       "tags": []
     },
     {
-      "id": "cbf41602320e",
-      "title": "UBS demands new junior bankers show AI proficiency",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/76b370ff-b5f6-4e22-aa30-da08b1abb8f8?syn-25a6b1a6=1",
-      "published_at": "2026-09-06T04:00:12+00:00",
+      "id": "82e24845535b",
+      "title": "‘White hats’ take 4000 BTC from Liquid, ETFs see best week of 2026: Hodler’s Digest",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/magazine/white-hats-take-4000-btc-from-liquid-btc-etfs-best-week-of-2026-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-09-07T00:05:02+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Graduates and interns hoping to join Swiss bank must show they can use the technology to improve outcomes and efficiency",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"‘White hats’ take 4000 BTC from Liquid, ETFs see best week of 2026: Hodler’s Digest\" class=\"type:primaryImage\" src=\"https://s3-i",
       "tags": []
     },
     {
@@ -347,18 +359,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: AI took a back seat when Bitcoin started climbing\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media",
-      "tags": []
-    },
-    {
-      "id": "14efbca5e817",
-      "title": "QuFi launches post-quantum verification platform with Bitcoin testnet proof",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/qufi-launches-post-quantum-verification-platform-with-bitcoin-testnet-proof?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-09-04T17:09:25+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"QuFi launches post-quantum verification platform with Bitcoin testnet proof\" class=\"type:primaryImage\" src=\"https://s3-images.ct",
       "tags": []
     },
     {
@@ -482,6 +482,66 @@
       "tags": []
     },
     {
+      "id": "5a04dc1e4096",
+      "title": "SMHX: Top Holdings Are Expanding The Market, Not Competing",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4943446-smhx-top-holdings-are-expanding-the-market-not-competing?source=feed_all_articles",
+      "published_at": "2026-09-06T23:46:45+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "SMHX: Top Holdings Are Expanding The Market, Not Competing",
+      "tags": []
+    },
+    {
+      "id": "310557de0e38",
+      "title": "VGP SA (VGPBF) Analyst/Investor Day - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4943447-vgp-sa-vgpbf-analyst-investor-day-slideshow?source=feed_all_articles",
+      "published_at": "2026-09-06T23:04:27+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "VGP SA (VGPBF) Analyst/Investor Day - Slideshow",
+      "tags": []
+    },
+    {
+      "id": "efd31eda72f4",
+      "title": "SCHV: Schwab's Large-Cap Value ETF Is Having A Moment",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4943445-schv-schwabs-large-cap-value-etf-is-having-a-moment?source=feed_all_articles",
+      "published_at": "2026-09-06T22:34:31+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "SCHV: Schwab's Large-Cap Value ETF Is Having A Moment",
+      "tags": []
+    },
+    {
+      "id": "251cfc1df7fe",
+      "title": "First Solar: Noise Down, Stock Up",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4943444-first-solar-noise-down-stock-up?source=feed_all_articles",
+      "published_at": "2026-09-06T22:12:52+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "First Solar: Noise Down, Stock Up",
+      "tags": []
+    },
+    {
+      "id": "cda348224c93",
+      "title": "Wall Street Brunch: Make Or Break Inflation For The Fed",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4943443-wall-street-brunch-make-or-break-inflation-for-the-fed?source=feed_all_articles",
+      "published_at": "2026-09-06T20:41:17+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Wall Street Brunch: Make Or Break Inflation For The Fed",
+      "tags": []
+    },
+    {
       "id": "e7f4e7a7bd44",
       "title": "TCW Private Asset Income Fund Q2 2026 Commentary",
       "source": "All Articles on Seeking Alpha",
@@ -539,66 +599,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "John Hancock Emerging Markets Debt Fund Q2 2026 Commentary",
-      "tags": []
-    },
-    {
-      "id": "cacc84f49857",
-      "title": "Virtus Westchester Event-Driven Fund Q2 2026 Commentary",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4943437-virtus-westchester-event-driven-fund-q2-2026-commentary?source=feed_all_articles",
-      "published_at": "2026-09-06T18:41:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Virtus Westchester Event-Driven Fund Q2 2026 Commentary",
-      "tags": []
-    },
-    {
-      "id": "de5059881578",
-      "title": "Touchstone Large Cap Focused Fund Q2 2026 Commentary",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4943436-touchstone-large-cap-focused-fund-q2-2026-commentary?source=feed_all_articles",
-      "published_at": "2026-09-06T18:30:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Touchstone Large Cap Focused Fund Q2 2026 Commentary",
-      "tags": []
-    },
-    {
-      "id": "87f6878752de",
-      "title": "Nomura Climate Solutions Fund Q2 2026 Commentary",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4943435-nomura-climate-solutions-fund-q2-2026-commentary?source=feed_all_articles",
-      "published_at": "2026-09-06T18:16:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Nomura Climate Solutions Fund Q2 2026 Commentary",
-      "tags": []
-    },
-    {
-      "id": "7dece536156f",
-      "title": "Emergent BioSolutions - Tough 2026 Outlook Warrant Rating Downgrade",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4943434-emergent-biosolutions-stock-tough-2026-outlook-warrant-rating-downgrade?source=feed_all_articles",
-      "published_at": "2026-09-06T17:25:47+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Emergent BioSolutions - Tough 2026 Outlook Warrant Rating Downgrade",
-      "tags": []
-    },
-    {
-      "id": "a96ba73b1d85",
-      "title": "RDVI: Beating The S&P 500 While Paying Monthly Dividends",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4943432-rdvi-beating-the-s-and-p-500-while-paying-monthly-dividends?source=feed_all_articles",
-      "published_at": "2026-09-06T16:49:23+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "RDVI: Beating The S&P 500 While Paying Monthly Dividends",
       "tags": []
     }
   ]
