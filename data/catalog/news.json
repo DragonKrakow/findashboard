@@ -1,17 +1,95 @@
 {
-  "generated_at": "2026-09-07T05:37:01Z",
-  "snapshot_date": "2026-09-07",
+  "generated_at": "2026-09-08T05:36:43Z",
+  "snapshot_date": "2026-09-08",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
-      "url": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
+      "title": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels",
+      "url": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-06T21:00:00+00:00",
-      "summary": "“I am frustrated and financially exhausted from continuing to invest my own money into  these properties.”",
+      "published_at": "2026-09-08T00:23:00+00:00",
+      "summary": "The West Texas Intermediate and Brent crude contracts previously rose to near-seven-week highs.",
       "sentiment": "bearish",
-      "sentiment_score": -0.6249,
+      "sentiment_score": -0.6705,
+      "tags": [
+        "Oil"
+      ],
+      "signal": "watch",
+      "category": "energy",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Policing minister makes statement on ‘intimidating and thuggish’ anti-migrant protests – as it happened",
+      "url": "https://www.theguardian.com/politics/live/2026/sep/07/uk-politics-live-john-healey-economy-portsmouth-immigration-protests-latest-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-07T18:49:04+00:00",
+      "summary": "<p>Sarah Jones tells MPs ‘those responsible should expect to face the consequences’</p><p><strong>Healey</strong> says Andy Burnham set out in his statement to MPs last week what he thought had gone wrong</p><p>The fundamentals of our economy [were] hollowed out through a series of past policy decisions, political power was centralised, weakening the relationships between the people, the businesses and the institutions who can make things happen beyond Whitehall. The economic enablers were privatised and outsourced, leaving accountability to a thicket of arm’s length bodies and regulators, too often without the predictability or the pace that underpins a thriving market economy. And our country was deindustrialised as the cost to make anything, to build anything here soared, and our dependence on unreliable sources grew, including in areas critical to our national security and sovereignty.</p><p>Let me be clear, I recognise that the costs of business, its energy bills, regulation, burdens, planning constraints, labour costs, have grown since Covid and I want to draw the line.</p><p>And whether it is the cost of business or the cost of living, the only way we deal with these in the long term is growth.</p> <a href=\"https://www.theguardian.com/politics/live/2026/sep/07/uk-politics-live-john-healey-economy-portsmouth-immigration-protests-latest-news-updates\">Continue reading...</a>",
+      "sentiment": "neutral",
+      "sentiment_score": 0.1779,
+      "tags": [
+        "Regulation",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Jaguar Land Rover job cuts: £500,000 package to help workers facing threat of redundancy – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/sep/07/uk-house-prices-fall-subdued-market-jlr-job-cuts-shares-oil-latest-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-07T14:14:30+00:00",
+      "summary": "<p>Rolling coverage of the latest economic and financial news, as JLR plans to cut almost one in 10 workers</p><ul><li><p><a href=\"https://www.theguardian.com/money/2026/sep/07/uk-house-prices-fall-august-interest-rates-lloyds\">UK house prices fall for first time in nearly three years, says Lloyds</a></p></li></ul><p><strong>The rise in mortgage rates could cool demand in the UK housing market, where (<a href=\"https://www.theguardian.com/business/live/2026/sep/07/uk-house-prices-fall-subdued-market-jlr-job-cuts-shares-oil-latest-news-updates?page=with%3Ablock-6a9e50518f0834a1091e0d45#block-6a9e50518f0834a1091e0d45\">as reported earlier)</a> prices fell last month.</strong></p><p><strong>Tom Bill, </strong>head of UK residential research at <strong>Knight</strong> <strong>Frank, </strong>says:</p><p>“We have seen a spring slump rather than a seasonal bounce this year as prices and transactions came under pressure from higher mortgage costs and an ever-present concern around which taxes the government may raise next.</p><p>Falling house prices are a natural consequence of that and whether we see a seasonal autumn bounce will depend on the level of any pre-Budget speculation and how the unpredictable conflict in the Middle East unfolds and impacts on UK inflation expectations.”</p><p>The average 2-year fixed residential mortgage rate today is 5.63%. This is up from 5.60% the previous working day.</p><p>The average 5-year fixed residential mortgage rate today is 5.68%. This is up from 5.64% the previous working day.</p><p>“The pricing margins among major lenders are under pressure due to renewed volatility in the swap rate market, so it is somewhat inevitable for them to adjust rates. Major lenders, which include HSBC and NatWest, have increased rates since the start of September. The recent uplift in swap rates has started to filter into the pricing of fixed rate mortgages, with more moves expected in the coming days. Swap rates are much higher than they were a month ago and are a key influence on how lenders price their fixed-rate mortgages. Lenders look at margins very carefully, so it would be unwise to price their deals too low, if the expectations are for interest rates to rise, even if over the short-term.</p><p>“Mortgage rates are rising due to the escalating military conflict between the US and Iran, reigniting inflationary fears. The UK 10-year gilt yield has also risen further above 5% to an 18-year high recently due to a global bond sell-off, adding further pressure to the wholesale funding costs that underpin fixed mortgage pricing. However, the hit to the mortgage market over recent days pales in comparison to when the conflict in the Middle East began around six months ago, when many lenders pulled fixed rate deals. While this alone might still not reassure some borrowers, it is worth noting that the pressure on swap rates over the past six months has not been caused by UK fiscal policy, which is why withdrawals and rate hikes are nowhere near the scale experienced in the aftermath of the ‘mini-Budget’ in 2022.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/07/uk-house-prices-fall-subdued-market-jlr-job-cuts-shares-oil-latest-news-updates\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.9299,
+      "tags": [
+        "Interest Rates",
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "John Healey backs growth but says Labour must be honest on spending",
+      "url": "https://www.theguardian.com/business/2026/sep/07/john-healey-growth-labour-spending-raise-taxes",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-07T12:54:05+00:00",
+      "summary": "<p>Chancellor ducks questions on whether he will have to raise taxes but says he will stick firmly to fiscal rules</p><p>John Healey has said boosting economic growth will be his defining mission as chancellor as he warned Labour had to “be honest” about the need to control public spending at next month’s budget.</p><p>In his first big speech since taking the job in July, Healey said the top priority for his 28 October budget would be to support stronger growth across the UK while sticking firmly to the government’s fiscal rules.</p> <a href=\"https://www.theguardian.com/business/2026/sep/07/john-healey-growth-labour-spending-raise-taxes\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.9672,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Why the launch of OpenAI’s latest Astra model reignited the memory-chip trade",
+      "url": "https://www.marketwatch.com/story/why-the-launch-of-openais-latest-astra-model-reignited-the-memory-chip-trade-809e2edb?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-07T11:36:00+00:00",
+      "summary": "Since troughing on July 29, the semiconductor sector has been recovering steadily with the OpenAI ChatGPT-6 Astra release bolstering sentiment further",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Is the stock market open today for Labor Day? What about bond trading and mail delivery?",
+      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-labor-day-does-the-post-office-deliver-mail-6d58fd77?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-07T11:16:00+00:00",
+      "summary": "Here’s how trading hours and other services are affected by the Labor Day holiday on Monday, Sept. 7.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.3527,
       "tags": [
         "AI"
       ],
@@ -48,36 +126,6 @@
       ],
       "signal": "watch",
       "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
-      "url": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-06T13:15:00+00:00",
-      "summary": "“I paid a significant amount into Social Security.”",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5267,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Is the U.S. losing its safe-haven status? Why global central banks are pulling gold out of New York.",
-      "url": "https://www.marketwatch.com/story/is-the-u-s-losing-its-safe-haven-status-why-global-central-banks-are-pulling-gold-out-of-new-york-3e24d510?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-06T13:00:00+00:00",
-      "summary": "What to know about safe havens and the U.S., as the Netherlands’ central bank follows France in pulling gold out of New York.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0772,
-      "tags": [
-        "Gold"
-      ],
-      "signal": "watch",
-      "category": "macro",
       "source_repo": "financenews"
     },
     {
@@ -325,22 +373,6 @@
       "source_repo": "financenews"
     },
     {
-      "title": "The Guardian view on Kemi Badenoch and the economy: a plan stuck in the Tory comfort zone | Editorial",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/02/the-guardian-view-on-kemi-badenoch-and-the-economy-a-plan-stuck-in-the-tory-comfort-zone",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-02T17:29:43+00:00",
-      "summary": "<p>The Conservative leader’s choice of a new shadow chancellor shows a lack of insight into the reasons why the party was defeated at the last election</p><p>To outlast a prime minister always counts as some kind of achievement for an opposition leader, although Kemi&nbsp;Badenoch cannot claim credit for Sir Keir Starmer’s <a href=\"https://www.theguardian.com/politics/2026/jun/22/keir-starmer-resigns-as-prime-minister\">downfall</a>. Sir Keir’s wounds were mostly self-inflicted. To the extent that opposition pressure was involved, it was <a href=\"https://www.theguardian.com/politics/2026/may/08/labour-reform-uk-england-local-elections-2026-scotland-wales\">electoral threats </a>from Reform UK and the Green party that stoked Labour party frustration to a regicidal pitch. The Tory leader’s role was largely as a spectator.</p><p>Mrs Badenoch still hopes to use regime change to her advantage. She thinks the economy, and fiscal discipline in particular, will be her most fruitful line of attack. In their first confrontation at <a href=\"https://www.theguardian.com/politics/2026/sep/02/andy-burnham-blames-tory-legacy-uk-economy-vulnerable\">prime minister’s questions</a> on Wednesday, the Conservative leader called Mr Burnham a “spendthrift” and “people pleaser” who will dodge the tough decisions required to prove Britain’s creditworthiness on international markets. She expects him to yield to Labour MPs’ demands for budget increases, which will then have to be financed&nbsp;with tax rises.</p><p><em><strong>Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our<a href=\"https://www.theguardian.com/tone/letters\"> letters</a> section, please <a href=\"mailto:guardian.letters@theguardian.com?body=Please%20include%20your%20name,%20full%20postal%20address%20and%20phone%20number%20with%20your%20letter%20below.%20Letters%20are%20usually%20published%20with%20the%20author%27s%20name%20and%20city/town/village.%20The%20rest%20of%20the%20information%20is%20for%20verification%20only%20and%20to%20contact%20you%20where%20necessary.\">click here</a>.</strong></em></p> <a href=\"https://www.theguardian.com/commentisfree/2026/sep/02/the-guardian-view-on-kemi-badenoch-and-the-economy-a-plan-stuck-in-the-tory-comfort-zone\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.2129,
-      "tags": [
-        "Election",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
       "title": "New York Fed's Williams says yield surge due to strong economic prospects",
       "url": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
       "source": "CNBC Finance",
@@ -354,37 +386,6 @@
       ],
       "signal": "watch",
       "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Burnham beware, the bond markets will demand proper answers in the budget | Nils Pratley",
-      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/sep/02/burnham-beware-bond-markets-demand-answers-budget",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-02T17:14:31+00:00",
-      "summary": "<p>Fair to say the current sell-off is international, but the PM has said little yet to make investors rethink the UK’s status</p><p>It’s too soon to say the bond markets have turned on Andy Burnham. Tuesday’s spike in gilt yields, taking the UK’s 30-year borrowing costs <a href=\"https://www.theguardian.com/business/2026/sep/01/uk-gilt-yield-long-term-borrowing-costs-28-year-high\">to their highest level since 1998</a>, was part of <a href=\"https://www.theguardian.com/business/2026/sep/02/global-bond-sell-off-us-iran-tensions-inflation-fears\">an international sell-off of government debt</a>.</p><p>The main contributors are well known. The Iran war, by increasing the cost of energy, has overturned the comforting start-of-the-year thesis of falling global inflation and interest rates. A plunging Japanese yen has kicked away another assumed source of financial stability. The US treasury secretary, Scott Bessent, hasn’t calmed nerves with his solo, and so far futile, <a href=\"https://www.theguardian.com/business/2026/aug/29/scott-bessant-us-economy-donald-trump\">attempt to bring down US yields</a>. Meanwhile, the early stage of the AI revolution is an exercise in issuing squillions of debt before long-term returns on capital can possibly be assessed meaningfully.</p> <a href=\"https://www.theguardian.com/business/nils-pratley-on-finance/2026/sep/02/burnham-beware-bond-markets-demand-answers-budget\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.2101,
-      "tags": [
-        "Interest Rates",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "UK politics: Andy Burnham pressed on borrowing costs and spending at first PMQs – as it happened",
-      "url": "https://www.theguardian.com/politics/live/2026/sep/02/pmqs-andy-burnham-kemi-badenoch-labour-uk-politics-latest-news",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-02T16:36:41+00:00",
-      "summary": "<p>Burnham faced questions from Kemi Badenoch and other MPs amid speculation over budget</p><p>In the news release to mark the first anniversary of his election as the Green party’s leader, <strong>Zack Polanski</strong> highlighted what he described as 10 achievements during his first year in charge. For the record, this is how he sees his record.</p><p>-Won the Greens’ first ever parliamentary byelection in Gorton and Denton</p><p>-More than tripled the party membership from 68,500 to over 230,000</p><p>Zack Polanski in Holborn and St Pancras sounds like a done deal from the hints the party is dropping over the past 24 hours. Needs the formality of local party sign-off.</p><p>Our budget for day-to-day spending next year will be lower in real terms than this year. Our capital budget will fall in real terms every year until the end of the decade.</p> <a href=\"https://www.theguardian.com/politics/live/2026/sep/02/pmqs-andy-burnham-kemi-badenoch-labour-uk-politics-latest-news\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8126,
-      "tags": [
-        "Election"
-      ],
-      "signal": "watch",
-      "category": "markets",
       "source_repo": "financenews"
     },
     {
