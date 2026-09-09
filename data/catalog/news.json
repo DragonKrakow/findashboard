@@ -1,22 +1,148 @@
 {
-  "generated_at": "2026-09-08T05:36:43Z",
-  "snapshot_date": "2026-09-08",
+  "generated_at": "2026-09-09T05:36:24Z",
+  "snapshot_date": "2026-09-09",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels",
-      "url": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
+      "title": "Bombardier’s stock drops as the U.S.-Canada trade war intensifies. Here’s what Trump is targeting next.",
+      "url": "https://www.marketwatch.com/story/bombardiers-stock-drops-as-the-u-s-canada-trade-war-intensifies-heres-what-trump-may-target-next-b389065e?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-08T00:23:00+00:00",
-      "summary": "The West Texas Intermediate and Brent crude contracts previously rose to near-seven-week highs.",
+      "published_at": "2026-09-09T00:17:00+00:00",
+      "summary": "Shares in Bombardier lost altitude Tuesday after President Donald Trump threatened to ban the Canadian aircraft manufacturer unless it makes new commitments to build in the U.S.",
       "sentiment": "bearish",
-      "sentiment_score": -0.6705,
+      "sentiment_score": -0.8779,
       "tags": [
-        "Oil"
+        "Trade War",
+        "AI"
       ],
       "signal": "watch",
-      "category": "energy",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "How one hedge-fund manager built his firm to be powered entirely by AI agents",
+      "url": "https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-08T21:59:13+00:00",
+      "summary": "It's a stark example of a growing reality on Wall Street as firms test the benefits and limits of AI in finance and on their employees.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5106,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Memory chips have come to rule the AI boom. Why Micron’s reign could be here to stay.",
+      "url": "https://www.marketwatch.com/story/memory-chips-have-come-to-rule-the-ai-boom-why-microns-reign-could-be-here-to-stay-607a4622?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-08T21:51:00+00:00",
+      "summary": "Semiconductor industry revenue is expected to reach $1.5 trillion this year, driven mostly by memory chips.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0258,
+      "tags": [
+        "Chips",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Oracle’s stock gets a boost as the OpenAI ecosystem comes back into favor",
+      "url": "https://www.marketwatch.com/story/oracles-stock-gets-a-boost-as-the-openai-ecosystem-comes-back-into-favor-f53c8024?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-08T21:38:00+00:00",
+      "summary": "“It looks like OpenAI is turning things around,” and that’s seen as good news for Oracle, which has a lot riding on the ChatGPT creator’s success.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.926,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Intel’s stock is rising as the company looks primed to boost prices even more",
+      "url": "https://www.marketwatch.com/story/intels-stock-is-rising-as-the-company-looks-primed-to-boost-prices-even-more-8b8dfc99?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-08T21:30:00+00:00",
+      "summary": "The chip maker is reportedly set to further lift prices on its PC chips as costs rise across the supply chain.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.4019,
+      "tags": [
+        "Chips",
+        "AI",
+        "Supply Chain"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "More than 600 UK flights cancelled after air traffic control ‘technical issue’ – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-08T18:08:11+00:00",
+      "summary": "<p>National Air Traffic Services apologise for technical issue disrupting departures today, which Flightradar24 say has caused hundreds of cancellations</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/08/air-traffic-control-issue-flights-delays-disruption-uk\">Air traffic control issue causes flight delays and disruption across UK</a></p></li></ul><p><strong>Gas prices are rising this morning, putting pressure on European countries who need to stock up their storage levels before the winter.</strong></p><p>The month-ahead UK gas price is up around 1% at 184p a therm, close to yesterday’s highs when gas hit its highest since January 2023.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.4767,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "UK government pays highest interest rate on 30-year bond since 1998",
+      "url": "https://www.theguardian.com/business/2026/sep/08/uk-government-pays-highest-interest-rate-on-30-year-bond-since-1998",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-08T17:47:30+00:00",
+      "summary": "<p>High yields threaten to wipe out at least half of the £24bn headroom John Healey was expecting to have for his budget</p><p>The UK government was forced to pay the highest interest rate for a 30-year bond since 1998 on Tuesday, underlining the fiscal challenges facing the chancellor, John Healey.</p><p>Echoing the global bond market sell-off that has driven up yields, or interest rates, on government borrowing across the main markets, the Treasury paid 5.82% to borrow £4bn.</p> <a href=\"https://www.theguardian.com/business/2026/sep/08/uk-government-pays-highest-interest-rate-on-30-year-bond-since-1998\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6249,
+      "tags": [
+        "Interest Rates",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Visa tells CNBC it is expanding data offering for blockchain lenders as demand for stablecoin-linked cards surges",
+      "url": "https://www.cnbc.com/2026/09/08/visa-blockchain-lender-stablecoin-cards.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-08T11:30:01+00:00",
+      "summary": "Visa is doubling down on blockchain-powered financial services with a new program to help issuers of stablecoin-linked cards access loans.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.296,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Crypto platforms have lost over $3.63 billion to cyberattacks — even though most of them did security checks",
+      "url": "https://www.cnbc.com/2026/09/08/crypto-platforms-lost-billions-to-cyberattacks-many-even-after-audits.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-08T08:16:11+00:00",
+      "summary": "More than 60% of cryptocurrency platforms that lost money due to cyberattacks had undergone independent security audits, CoinGecko said.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0516,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
       "source_repo": "financenews"
     },
     {
@@ -60,36 +186,6 @@
       "summary": "<p>Chancellor ducks questions on whether he will have to raise taxes but says he will stick firmly to fiscal rules</p><p>John Healey has said boosting economic growth will be his defining mission as chancellor as he warned Labour had to “be honest” about the need to control public spending at next month’s budget.</p><p>In his first big speech since taking the job in July, Healey said the top priority for his 28 October budget would be to support stronger growth across the UK while sticking firmly to the government’s fiscal rules.</p> <a href=\"https://www.theguardian.com/business/2026/sep/07/john-healey-growth-labour-spending-raise-taxes\">Continue reading...</a>",
       "sentiment": "bullish",
       "sentiment_score": 0.9672,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Why the launch of OpenAI’s latest Astra model reignited the memory-chip trade",
-      "url": "https://www.marketwatch.com/story/why-the-launch-of-openais-latest-astra-model-reignited-the-memory-chip-trade-809e2edb?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-07T11:36:00+00:00",
-      "summary": "Since troughing on July 29, the semiconductor sector has been recovering steadily with the OpenAI ChatGPT-6 Astra release bolstering sentiment further",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Is the stock market open today for Labor Day? What about bond trading and mail delivery?",
-      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-labor-day-does-the-post-office-deliver-mail-6d58fd77?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-07T11:16:00+00:00",
-      "summary": "Here’s how trading hours and other services are affected by the Labor Day holiday on Monday, Sept. 7.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3527,
       "tags": [
         "AI"
       ],
@@ -326,53 +422,6 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Yen soars as Bank of Japan tipped to raise interest rates",
-      "url": "https://www.theguardian.com/business/2026/sep/03/yen-soars-bank-of-japan-tipped-to-raise-interest-rates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-03T14:33:58+00:00",
-      "summary": "<p>Jump lifts currency to highest level against dollar in a month, while global markets remain jittery</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/03/uk-mortgage-rates-set-to-rise-bond-sell-off-borrowing-costs-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The Japanese yen has soared by more than 2% against the dollar amid speculation the Bank of Japan is set to raise interest rates.</p><p>The latest jump on Thursday lifted the yen to its highest level against the dollar in a month, at 155.57, and followed a 0.9% move the previous day.</p> <a href=\"https://www.theguardian.com/business/2026/sep/03/yen-soars-bank-of-japan-tipped-to-raise-interest-rates\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7184,
-      "tags": [
-        "Interest Rates",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "China’s demise was gleefully predicted by the west – meanwhile, it built an AI revolution | Larry Elliott",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/03/china-demise-predicted-west-ai-revolution",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-03T07:00:47+00:00",
-      "summary": "<p>Free AI models that are as good as the investment-hungry US versions will disrupt global markets, and offer Britain a lesson</p><p>Almost from the moment it began, the end of the Chinese economic miracle has been much anticipated. Thick and fast, the books have come explaining how it will end badly. Overinvestment. A country wallowing in debt. The <a href=\"https://www.cfr.org/articles/does-evergrandes-collapse-threaten-chinas-economy\">collapse of the property market</a>. Political repression. The demand for democracy from a growing middle class. All have been put forward as reasons for the inevitable terminal crisis.</p><p>Even those impressed by the country’s rapid growth took comfort from the notion that the west would continue to dominate advanced manufacturing while China would be stuck assembling TVs. And while the wait for its much-predicted demise has gone on and on, China has become the workshop of the world.</p><p>Larry Elliott is a Guardian columnist</p> <a href=\"https://www.theguardian.com/commentisfree/2026/sep/03/china-demise-predicted-west-ai-revolution\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7506,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Dutch central bank moves 86 tonnes of gold to UK from US and Canada, citing ‘geopolitical unrest’",
-      "url": "https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-02T23:47:15+00:00",
-      "summary": "<p>Bank says gold reserves held in London could be traded more easily and the move will allow it to respond more rapidly in a ‘crisis situation’</p><p>The Dutch central bank says it has moved 86 tonnes of its gold reserves out of the US and Canada to London, citing “increasing geopolitical unrest”.</p><p>De Nederlandsche Bank (DNB) said gold reserves held in London could be traded more easily than those held in New York and Ottawa.</p> <a href=\"https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.27,
-      "tags": [
-        "Gold",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
       "title": "New York Fed's Williams says yield surge due to strong economic prospects",
       "url": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
       "source": "CNBC Finance",
@@ -411,52 +460,6 @@
       "summary": "Nepal's devastating floods have raised fresh concerns for the country's vital adventure tourism industry ahead of its peak travel season.",
       "sentiment": "bearish",
       "sentiment_score": -0.5574,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
-      "url": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-02T00:11:14+00:00",
-      "summary": "The colorful \"Microduck\" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.4215,
-      "tags": [
-        "Robotics"
-      ],
-      "signal": "watch",
-      "category": "markets",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
-      "url": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-01T14:01:27+00:00",
-      "summary": "The policymaker said he's concerned about \"broader price pressures taking hold\" as inflation has prevailed above the Fed's 2% target.",
-      "sentiment": "neutral",
-      "sentiment_score": -0.1803,
-      "tags": [
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Crypto exchange Gemini not at fault for collapse of Earn lending program, arbitrator says",
-      "url": "https://www.cnbc.com/2026/08/31/gemini-not-at-fault-for-collapse-of-earn-lending-program-arbitrator-says.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-08-31T15:22:43+00:00",
-      "summary": "An arbitrator earlier this month said Gemini Space Station did not mislead users of its Earn program.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.2363,
       "tags": [
         "AI"
       ],
