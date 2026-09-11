@@ -1,14 +1,152 @@
 {
-  "generated_at": "2026-09-10T05:35:47Z",
-  "snapshot_date": "2026-09-10",
+  "generated_at": "2026-09-11T05:35:48Z",
+  "snapshot_date": "2026-09-11",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
+      "title": "The iPhone Duo enters China’s crowded foldable market — and faces a price test",
+      "url": "https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-11T00:19:54+00:00",
+      "summary": "Chinese netizens focused on the price of Apple’s iPhone Duo, as cheaper Xiaomi and Huawei foldables raise value comparisons and muddle the foldable's reception.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6124,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Oracle’s AI bet pays off as cloud momentum helps drive a rosier forecast",
+      "url": "https://www.marketwatch.com/story/oracles-ai-bet-pays-off-as-cloud-momentum-helps-drive-a-rosier-forecast-cc41a4aa?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-11T00:19:00+00:00",
+      "summary": "The company saw its backlog grow even more in the latest quarter.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.3818,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Apple is walking a ‘tightrope’ when it comes to the prices of its new iPhones",
+      "url": "https://www.marketwatch.com/story/apples-stock-rises-after-iphone-reveal-the-company-is-walking-a-tightrope-on-pricing-say-analysts-813898ac?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-10T20:40:00+00:00",
+      "summary": "The company raised prices on its phone but might still have to eat costs itself, analysts say.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Treasury yields surge after Bessent’s beefed-up buyback operation fails to calm market",
+      "url": "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-10T20:24:00+00:00",
+      "summary": "The Treasury market’s painful rout intensified Thursday, after an underwhelming auction of 30-year U.S. government debt and Treasury Secretary Scott Bessent’s first beefed-up buyback operation.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.3612,
+      "tags": [
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
+      "url": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-10T19:02:58+00:00",
+      "summary": "OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling and pitchbook tasks traditionally handled by junior bankers.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.128,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "US home sales slowest in more than a year as mortgage rates and prices climb",
+      "url": "https://www.theguardian.com/us-news/2026/sep/10/home-sales-slow-housing-market",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-10T18:27:10+00:00",
+      "summary": "<p>Housing market has been stymied by borrowing costs, as Iran war pushed mortgage rates higher</p><p>Sales of previously occupied US homes declined in August to their slowest annual pace in more than a year as home shoppers grappled with rising mortgage rates and home prices.</p><p>Existing home sales fell 2% last month from July to a seasonally adjusted annual rate of 3.98m units, the National Association of Realtors said on Thursday. This is the third straight monthly decline.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/10/home-sales-slow-housing-market\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.4588,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Global bond sell-off resumes as surging oil prices stoke fears about inflation",
+      "url": "https://www.theguardian.com/business/2026/sep/10/global-bond-selloff-oil-prices-inflation-middle-east-conflict-government-borrowing",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-10T18:05:15+00:00",
+      "summary": "<p>Crude jumps above $107 a barrel amid concerns over Middle East conflict and out-of-control government borrowing</p><p>Nervous investors across big economies have been dumping government bonds, driving up the cost of borrowing, as surging oil prices amplified fears about rising inflation.</p><p>The cost of a barrel of oil jumped 6% to above $107 on Thursday amid concerns that <a href=\"https://www.theguardian.com/world/2026/sep/10/houthis-seize-key-port-mocha-yemen-red-sea-coast-iran-saudi-arabia-us\">advances by Houthi rebels</a> along the Red Sea coast in Yemen could choke off Saudi crude exports.</p> <a href=\"https://www.theguardian.com/business/2026/sep/10/global-bond-selloff-oil-prices-inflation-middle-east-conflict-government-borrowing\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.9468,
+      "tags": [
+        "Oil"
+      ],
+      "signal": "watch",
+      "category": "energy",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings",
+      "url": "https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-10T14:00:11+00:00",
+      "summary": "Its the latest move by the prediction market company to diversify its assets users can trade.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5859,
+      "tags": [
+        "Gold",
+        "Silver"
+      ],
+      "signal": "watch",
+      "category": "markets",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "John Lewis losses widen to £124m as shopper confidence dips",
+      "url": "https://www.theguardian.com/business/2026/sep/10/john-lewis-losses-double-shopper-confidence-weakens-waitrose",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-10T11:13:17+00:00",
+      "summary": "<p>Retailer says first half was a tougher market than it expected, though Waitrose grew sales</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/10/markets-economy-oil-uk-flight-disruption-primark-home-delivery-business-live-news\">Business live – latest updates</a></p></li></ul><p>Losses at the owner of John Lewis and Waitrose widened by more than 40% in the first half of the year as it struggled with higher costs and shoppers feeling less confident about their money.</p><p>The John Lewis Partnership, which operates 36 department stores and more than 300 Waitrose supermarkets, said its pre-tax loss for the six months to 1 August climbed to £124m, compared with £88m in the same period in 2025.</p> <a href=\"https://www.theguardian.com/business/2026/sep/10/john-lewis-losses-double-shopper-confidence-weakens-waitrose\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.2516,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
       "title": "Ant International partners with Visa, Mastercard on developing AI payments",
       "url": "https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html",
       "source": "CNBC Finance",
-      "published_at": "2026-09-10T00:00:33+00:00",
+      "published_at": "2026-09-10T01:53:50+00:00",
       "summary": "Visa, Mastercard and Ant International are working on common standards for AI-agent payments — including ways to verify and monitor their transactions.",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
@@ -20,80 +158,18 @@
       "source_repo": "financenews"
     },
     {
-      "title": "UK chancellor urged to remove £100k childcare ‘cliff edge’ prompting parents to cut work hours",
+      "title": "Chancellor urged to fix £100k childcare ‘cliff edge’ that prompts parents to cut work",
       "url": "https://www.theguardian.com/society/2026/sep/10/uk-chancellor-urged-to-remove-100k-childcare-cliff-edge-prompting-parents-to-cut-work-hours",
       "source": "The Guardian Economics",
       "published_at": "2026-09-09T23:01:08+00:00",
-      "summary": "<p>Critics say threshold pushes higher-paid staff to cut back on work and often mothers to stop working to avoid losing entitlement</p><p>John Healey has been urged to fix the £100,000 childcare “cliff edge”, that means some higher-paid employees cut back on work to avoid losing their entitlement.</p><p>Since the latest expansion of taxpayer-funded childcare in 2024, families with young children in which both parents earn less than £100,000 a year can be entitled to 30 hours a week of care - or none at all, if one of them cross that threshold.</p> <a href=\"https://www.theguardian.com/society/2026/sep/10/uk-chancellor-urged-to-remove-100k-childcare-cliff-edge-prompting-parents-to-cut-work-hours\">Continue reading...</a>",
+      "summary": "<p>Threshold pushes some to reduce hours or stop working to avoid losing entitlement, report warns </p><p>John Healey has been urged to fix the £100,000 childcare “cliff edge”, that means some higher-paid employees cut back on work to avoid losing their entitlement.</p><p>Since the latest expansion of taxpayer-funded childcare in 2024, families with young children in which both parents earn less than £100,000 a year can be entitled to 30 hours a week of care - or none at all, if one of them cross that threshold.</p> <a href=\"https://www.theguardian.com/society/2026/sep/10/uk-chancellor-urged-to-remove-100k-childcare-cliff-edge-prompting-parents-to-cut-work-hours\">Continue reading...</a>",
       "sentiment": "bearish",
-      "sentiment_score": -0.8689,
+      "sentiment_score": -0.8442,
       "tags": [
         "AI"
       ],
       "signal": "watch",
       "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Diesel prices hit another record high. If you’re shocked, wait until you see your grocery bill.",
-      "url": "https://www.marketwatch.com/story/diesel-prices-hit-another-record-high-if-youre-shocked-wait-until-you-see-your-grocery-bill-afee7076?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-09T22:51:00+00:00",
-      "summary": "The most important price in America is one most drivers never pay — and it reaches the CPI, the Fed and the European Central Bank in the same week.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.1413,
-      "tags": [
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
-      "url": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-09T22:30:00+00:00",
-      "summary": "“I expect to receive at least $9,000 per month before federal and California state taxes.”",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "Fed"
-      ],
-      "signal": "watch",
-      "category": "macro",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Oil’s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates",
-      "url": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-09T20:36:00+00:00",
-      "summary": "A prolonged oil shock could keep consumer prices elevated and complicate the path for central banks already navigating a difficult policy environment.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.3818,
-      "tags": [
-        "Interest Rates",
-        "Oil"
-      ],
-      "signal": "watch",
-      "category": "energy",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "You should always have energy stocks in your 401(k). Yes, even when oil is at $100.",
-      "url": "https://www.marketwatch.com/story/oil-at-100-why-you-should-always-have-energy-stocks-in-your-401-k-b82798f1?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-09T20:27:00+00:00",
-      "summary": "Energy and resource stocks have zigged while the market has zagged.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7096,
-      "tags": [
-        "Oil"
-      ],
-      "signal": "watch",
-      "category": "energy",
       "source_repo": "financenews"
     },
     {
@@ -101,7 +177,7 @@
       "url": "https://www.theguardian.com/business/2026/sep/09/treasury-bond-buyback",
       "source": "The Guardian Economics",
       "published_at": "2026-09-09T19:56:30+00:00",
-      "summary": "<p>Scott Bessent made announcement on Wednesday as bond yields rose to highest point since 2008 financial crisis</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/sep/09/donald-trump-rnc-republican-national-convention-jd-vance-midterms-latest-news-updates\">US politics live – latest updates</a></p></li></ul><p>The US treasury moved to cut the cost of borrowing on Wednesday only to be swiftly rebuffed by the bond market.</p><p>Scott Bessent, the treasury secretary, announced the US would buy back $6bn worth of government debt – treasuries – in an effort to alleviate a selloff in the US <a href=\"https://www.theguardian.com/business/bonds\">bond market</a> that has put pressure on interest rates.</p> <a href=\"https://www.theguardian.com/business/2026/sep/09/treasury-bond-buyback\">Continue reading...</a>",
+      "summary": "<p>Scott Bessent made announcement on Wednesday as bond yields rose to highest point since 2008 financial crisis</p><p>The US treasury moved to cut the cost of borrowing on Wednesday only to be swiftly rebuffed by the bond market.</p><p>Scott Bessent, the treasury secretary, announced the US would buy back $6bn worth of government debt – treasuries – in an effort to alleviate a selloff in the US <a href=\"https://www.theguardian.com/business/bonds\">bond market</a> that has put pressure on interest rates.</p> <a href=\"https://www.theguardian.com/business/2026/sep/09/treasury-bond-buyback\">Continue reading...</a>",
       "sentiment": "bullish",
       "sentiment_score": 0.3182,
       "tags": [
@@ -339,81 +415,6 @@
       "tags": [
         "AI",
         "Artificial Intelligence"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Air conditioners are our best bet in the fight against extreme heat – whether we like it or not",
-      "url": "https://www.theguardian.com/environment/2026/sep/06/climate-crisis-air-conditioning-access",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-06T11:00:03+00:00",
-      "summary": "<p>Global AC demand will inevitably accelerate as the world continues to warm amid the climate crisis</p><p>The greenest campaigners against climate change have long suffered from a crippling shortcoming: they too often frame the challenge as a problem of excess consumption. This motivates calls to <a href=\"https://degrowth.info/international-degrowth-network\">“degrow”</a> the economy and to <a href=\"https://www.biologicaldiversity.org/programs/population_and_sustainability/population/\">curb the population</a>. The claim is that humans consume too many resources, which in the context of climate change means too much energy.</p><p>Nowhere has the tension between this proposition and reality become more palpable during this sweltering summer than in the conversation over <a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC5854721/\">air conditioning.</a></p> <a href=\"https://www.theguardian.com/environment/2026/sep/06/climate-crisis-air-conditioning-access\">Continue reading...</a>",
-      "sentiment": "neutral",
-      "sentiment_score": -0.1356,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Burnham talks of radical change, but Treasury mood music says otherwise",
-      "url": "https://www.theguardian.com/business/2026/sep/06/burnham-talks-of-radical-change-but-treasury-mood-music-says-otherwise",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-06T09:48:54+00:00",
-      "summary": "<p>Bond market volatility means John Healey will have to take tough decisions, soon, if he wants to meet spending pledges</p><p>In John Healey’s bright Treasury office, overlooking St James’s Park, the artwork has not changed since his predecessor, Rachel Reeves, selected a row of Bridget Riley prints <a href=\"https://www.theguardian.com/politics/2024/sep/18/rachel-reeves-to-replace-no-11-paintings-with-art-by-women\">in her feminist rehang</a>. Judging by the signals emerging from No 11 about the chancellor’s 28 October budget, not much else has changed either.</p><p>Voters listening to <a href=\"https://www.theguardian.com/politics/2026/sep/01/burnham-promises-to-bring-optimism-and-substantial-change-in-first-commons-speech-as-pm\">Andy Burnham’s promises to overthrow 40 years of neoliberalism</a> and vanquish the ghost of Margaret Thatcher would be excused for expecting a radical policy reset. Early signs suggest they may be disappointed.</p> <a href=\"https://www.theguardian.com/business/2026/sep/06/burnham-talks-of-radical-change-but-treasury-mood-music-says-otherwise\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.631,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Catastrophic dangers await Burnham’s push for English devolution | Phillip Inman",
-      "url": "https://www.theguardian.com/politics/2026/sep/05/catastrophic-dangers-await-burnhams-push-english-devolution",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-05T15:00:39+00:00",
-      "summary": "<p>Like France, the UK has always been centralised – and imposing a new political structure brings huge risks</p><p>Devolution in England is going to be messy and slow, and brings with it huge risks that Andy Burnham ignores at his peril.</p><p>The prime minister’s <a href=\"https://www.theguardian.com/politics/2026/aug/02/andy-burnham-devolution-pledge-tricky-deliver-inequality\">devolution push</a> will be messy because Whitehall’s ingrained anxiety about handing over money and power will lead to piecemeal deals, starting with a deal for Cornwall that will lack the much-promised driving force of a newly minted mayor.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/05/catastrophic-dangers-await-burnhams-push-english-devolution\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9186,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "‘The chancellor is in a bind’: is No 11 at odds with Burnham’s big vision?",
-      "url": "https://www.theguardian.com/politics/2026/sep/05/john-healey-andy-burnham-labour-economics",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-05T14:00:38+00:00",
-      "summary": "<p>MPs applaud PM’s ambition and optimism but John Healey has yet to show he can match leader’s radical perspective</p><p>Until now, Andy Burnham has been a lucky prime minister. In office for just over six weeks, no major domestic crisis derailed his plans over the summer, Reform has been <a href=\"https://www.theguardian.com/politics/2026/sep/05/allegations-reform-uk-finances-nigel-farage\">on the back foot</a>, and he arrived back at Westminster with his personal approval ratings soaring and optimism undampened.</p><p>But underneath the sense of relief that many Labour MPs are feeling that their high-stakes gamble of ousting Keir Starmer appears – for now – to have paid off, there is an unease that Burnham’s premiership is yet to make contact with economic reality.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/05/john-healey-andy-burnham-labour-economics\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6413,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "John Healey warns of tough first budget as Middle East war puts pressure on economy",
-      "url": "https://www.theguardian.com/politics/2026/sep/05/john-healey-warns-of-tough-first-budget-as-middle-east-war-puts-pressure-on-economy",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-05T11:26:50+00:00",
-      "summary": "<p>Chancellor says he wants to ensure country has ‘buffer’ against uncertainty as global bond yields hit 18-year high</p><p>The chancellor has indicated that the UK will face a <a href=\"https://www.theguardian.com/business/2026/sep/02/burnham-tries-to-calm-bond-market-fears-as-sell-off-threatens-budget\">tough budget next month</a> due to Trump’s war in the Middle East.</p><p>In an interview <a href=\"https://www.ft.com/content/6d43b599-3d7c-471c-88c2-0f056475a840?syn-25a6b1a6=1\">with the Financial Times</a>, John Healey said the conflict in Iran would probably have a strong influence on his first budget on 28 October.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/05/john-healey-warns-of-tough-first-budget-as-middle-east-war-puts-pressure-on-economy\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.8658,
-      "tags": [
-        "AI"
       ],
       "signal": "watch",
       "category": "technology",
