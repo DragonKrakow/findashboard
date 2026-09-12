@@ -1,14 +1,166 @@
 {
-  "generated_at": "2026-09-11T05:35:48Z",
-  "snapshot_date": "2026-09-11",
+  "generated_at": "2026-09-12T05:34:25Z",
+  "snapshot_date": "2026-09-12",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
+      "title": "The Fed could raise interest rates three times. Here’s where the market could face the stiffest test.",
+      "url": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-11T23:54:00+00:00",
+      "summary": "Economists note that the Fed historically has not been content to raise rates only once.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.4588,
+      "tags": [
+        "Interest Rates",
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "This investment is safe from both Trump and the Democrats — and it pays 4.7%",
+      "url": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-11T22:06:00+00:00",
+      "summary": "There’s a safe haven hiding in plain sight.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5574,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Marvell is sitting on an incredibly ‘sticky’ business that could help it unlock a $30 billion opportunity",
+      "url": "https://www.marketwatch.com/story/marvell-is-sitting-on-an-incredibly-sticky-business-that-could-help-it-unlock-a-30-billion-opportunity-caa6c83f?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-11T21:16:00+00:00",
+      "summary": "Marvell is best known for making custom chips — but an analyst notes there’s arguably more potential in supporting components and optical networking.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7961,
+      "tags": [
+        "Chips"
+      ],
+      "signal": "watch",
+      "category": "markets",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Tesla could transform the trucking business — and capitalize on high diesel prices",
+      "url": "https://www.marketwatch.com/story/tesla-could-transform-the-trucking-business-and-capitalize-on-high-diesel-prices-e4c48d79?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-11T20:49:00+00:00",
+      "summary": "The EV maker aims to finally kick its long-awaited Semi truck into high gear — unlocking a potentially huge opportunity, according to Morgan Stanley.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6249,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Oracle shook off fears about AI spending, but its stock still loses ground",
+      "url": "https://www.marketwatch.com/story/oracle-shares-are-climbing-after-results-what-wall-street-analysts-are-saying-now-0d4517ae?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-11T20:45:00+00:00",
+      "summary": "“Several of Oracle’s bear cases were addressed head on” in the latest earnings report, according to an analyst.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.6187,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Salesforce’s stock has been riding a wave of AI optimism. Here’s what Wall Street wants to see next.",
+      "url": "https://www.marketwatch.com/story/salesforces-stock-has-been-riding-a-wave-of-ai-optimism-heres-what-wall-street-wants-to-see-next-72f20e95?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-11T20:44:00+00:00",
+      "summary": "Salesforce’s Dreamforce conference next week could offer a glimpse of how its recently announced Claudeforce partnership with Anthropic will play out.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7096,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Why Dell and HPE were the S&P 500’s top-performing stocks today",
+      "url": "https://www.marketwatch.com/story/why-dell-and-hpe-were-the-s-p-500s-top-performing-stocks-today-13d1dd14?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-11T20:30:00+00:00",
+      "summary": "Oracle’s earnings provided an upbeat read for hardware suppliers — but the Fed’s interest-rate moves could dictate just how much they continue benefitting.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5927,
+      "tags": [
+        "Fed"
+      ],
+      "signal": "watch",
+      "category": "macro",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
+      "url": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-11T20:30:00+00:00",
+      "summary": "“I expect to receive at least $9,000 per month before federal and California state taxes.”",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "Fed"
+      ],
+      "signal": "watch",
+      "category": "macro",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
+      "url": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-11T16:06:31+00:00",
+      "summary": "OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling and pitchbook tasks traditionally handled by junior bankers.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.128,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Gasoline prices drive up US monthly inflation; four UK interest rate hikes expected by next summer – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/sep/11/uk-gdp-report-economy-july-bonds-pound-ftse-john-healey-latest-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-11T15:58:06+00:00",
+      "summary": "<p>US monthly inflation rate rises to 0.4% in August, though annual rate unchanged at 3.4% and core inflation dips a little</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/11/uk-economy-defies-forecasts-with-surprise-04-growth-in-july\"><strong>UK economy unexpectedly grows 0.4% in July boosted by AI</strong></a></p></li></ul><p><br /></p><p><strong>Digging into today’s GDP report a little, we can see that the UK services sector had a decent July, with growth in 11 of its 14 subsectors.</strong></p><p>According to the ONS, the fastest growth was recorded in:</p><p><strong>professional</strong>, <strong>scientific</strong> <strong>and</strong> <strong>technical</strong> <strong>activities</strong> (up 2.1%), driven by growths in scientific research and development (up 7.0%), legal activities (up 3.1%), and advertising and market research (up 3.4%)</p><p><strong>information</strong> <strong>and</strong> <strong>communication</strong> (up 2.5%), which was mainly driven by a growth of 4.4% in computer programming, consultancy and related activities</p><p><strong>administrative and support service activities</strong> (up 1.3%), driven by growths of 6.1% in rental and leasing activities, and of 2.8% in services to buildings and landscape activities</p><p>The 0.4% rise in U.K. GDP in the second quarter was slightly stronger than we expected and suggests the economy has remained resilient to the surge in energy prices.</p><p>Adding to the positive news, growth was driven by solid gains in household consumption and business investment, and included a healthy 0.3% monthly rise in output in June, suggesting momentum was sustained as the quarter progressed.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/11/uk-gdp-report-economy-july-bonds-pound-ftse-john-healey-latest-news-updates\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.9831,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
       "title": "The iPhone Duo enters China’s crowded foldable market — and faces a price test",
       "url": "https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html",
       "source": "CNBC Finance",
-      "published_at": "2026-09-11T00:19:54+00:00",
+      "published_at": "2026-09-11T14:30:29+00:00",
       "summary": "Chinese netizens focused on the price of Apple’s iPhone Duo, as cheaper Xiaomi and Huawei foldables raise value comparisons and muddle the foldable's reception.",
       "sentiment": "bullish",
       "sentiment_score": 0.6124,
@@ -20,13 +172,13 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Oracle’s AI bet pays off as cloud momentum helps drive a rosier forecast",
-      "url": "https://www.marketwatch.com/story/oracles-ai-bet-pays-off-as-cloud-momentum-helps-drive-a-rosier-forecast-cc41a4aa?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-11T00:19:00+00:00",
-      "summary": "The company saw its backlog grow even more in the latest quarter.",
+      "title": "UK economy unexpectedly grows 0.4% in July boosted by AI",
+      "url": "https://www.theguardian.com/business/2026/sep/11/uk-economy-defies-forecasts-with-surprise-04-growth-in-july",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-11T08:10:36+00:00",
+      "summary": "<p>Welcome boost for chancellor with unexpected rise put down to rapid growth of AI in services sector outweighing Iran war fallout </p><p>The UK economy grew in July as the rapid expansion of AI appeared to outweigh the economic damage from the Iran war, in a welcome boost for John Healey.</p><p>Figures from the Office for National Statistics (ONS) showed a surprise 0.4% increase in gross domestic product (GDP), compared with 0.3% growth in June. City economists had forecast zero growth.</p> <a href=\"https://www.theguardian.com/business/2026/sep/11/uk-economy-defies-forecasts-with-surprise-04-growth-in-july\">Continue reading...</a>",
       "sentiment": "bullish",
-      "sentiment_score": 0.3818,
+      "sentiment_score": 0.5267,
       "tags": [
         "AI"
       ],
@@ -35,46 +187,33 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Apple is walking a ‘tightrope’ when it comes to the prices of its new iPhones",
-      "url": "https://www.marketwatch.com/story/apples-stock-rises-after-iphone-reveal-the-company-is-walking-a-tightrope-on-pricing-say-analysts-813898ac?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-10T20:40:00+00:00",
-      "summary": "The company raised prices on its phone but might still have to eat costs itself, analysts say.",
+      "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
+      "url": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-11T06:02:40+00:00",
+      "summary": "Ant-backed startup JoyIn's CEO published an article in Chinese that raised questions about similarities between his company's new model and OpenAI publications.",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "tags": [
-        "AI"
+        "AI",
+        "Robotics"
       ],
       "signal": "watch",
       "category": "technology",
       "source_repo": "financenews"
     },
     {
-      "title": "Treasury yields surge after Bessent’s beefed-up buyback operation fails to calm market",
-      "url": "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-10T20:24:00+00:00",
-      "summary": "The Treasury market’s painful rout intensified Thursday, after an underwhelming auction of 30-year U.S. government debt and Treasury Secretary Scott Bessent’s first beefed-up buyback operation.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.3612,
+      "title": "Friday briefing: Would a wealth tax save our public services or be billionaire repellent?",
+      "url": "https://www.theguardian.com/world/2026/sep/11/friday-briefing-would-a-wealth-tax-save-our-public-services-or-be-billionaire-repellent",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-11T05:50:18+00:00",
+      "summary": "<p>In today’s newsletter: Some think taxing the super-rich is a moral obligation, others say it drives cash away from the country. The truth may be somewhere in the middle</p><p>Morning pals, and let’s join in a heartfelt ευχαριστώ (thank you) to hedge fund billionaire Chris Rokos for the estimated £330m he paid to the UK Treasury last year, and sadly won’t be contributing in future as he’s relocating to Greece.</p><p>The publicity shy tycoon (and former Tory donor) has not made explicit his reasons for leaving the UK: so one can only speculate Rokos may be drawn by the noted health benefits of the Mediterranean diet, or the Greek government’s attractive €100,000 flat tax for overseas investors.</p><p><em><strong>UK politics </strong></em>| Ministers <a href=\"https://www.theguardian.com/business/2026/sep/10/england-nightly-levy-hotel-airbnb-stays-tourist-tax-plans\">are facing a backlash</a> from the hospitality industry after they announced mayors in England would be given sweeping powers to levy taxes on holiday accommodation such as hotels and Airbnbs.</p><p><em><strong>Economy </strong></em>| Nervous investors across big economies have been <a href=\"https://www.theguardian.com/business/2026/sep/10/global-bond-selloff-oil-prices-inflation-middle-east-conflict-government-borrowing\">dumping government bonds</a>, driving up the cost of borrowing, as surging oil prices amplified fears about rising inflation.</p><p><em><strong>US news </strong></em>| JD Vance <a href=\"https://www.theguardian.com/us-news/2026/sep/10/jd-vance-republican-midterm-convention\">made a clear pitch</a> that he should be the heir to Donald Trump, closing out the Republicans’ midterm convention with a blistering speech that featured exaggerated claims of success.</p><p><em><strong>Israel </strong></em>| Testimony from 24 Israeli military insiders<a href=\"https://www.theguardian.com/world/2026/sep/10/secret-systems-used-by-israel-in-mass-killings-of-gaza-civilians-revealed-in-new-film\"> ​on the secret ​systems used</a> in ​the war on Gaza​ has been revealed in a new documentary film about the mass killing of Palestinian civilians.</p><p><em><strong>UK news </strong></em>| Consumers will <a href=\"https://www.theguardian.com/business/2026/sep/11/speed-up-electricity-grid-upgrade-or-else-face-higher-bills-warns-uk-watchdog\">pay higher energy bills</a> unless the UK government speeds up work on a vast programme of upgrades to the electricity grid to enable the switch to renewables, the public spending watchdog has warned.</p> <a href=\"https://www.theguardian.com/world/2026/sep/11/friday-briefing-would-a-wealth-tax-save-our-public-services-or-be-billionaire-repellent\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8807,
       "tags": [
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
-      "url": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-10T19:02:58+00:00",
-      "summary": "OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling and pitchbook tasks traditionally handled by junior bankers.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.128,
-      "tags": [
-        "AI"
+        "Oil",
+        "AI",
+        "Renewables"
       ],
       "signal": "watch",
       "category": "technology",
@@ -319,146 +458,6 @@
       "summary": "Visa is doubling down on blockchain-powered financial services with a new program to help issuers of stablecoin-linked cards access loans.",
       "sentiment": "bullish",
       "sentiment_score": 0.296,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Crypto platforms have lost over $3.63 billion to cyberattacks — even though most of them did security checks",
-      "url": "https://www.cnbc.com/2026/09/08/crypto-platforms-lost-billions-to-cyberattacks-many-even-after-audits.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-08T08:16:11+00:00",
-      "summary": "More than 60% of cryptocurrency platforms that lost money due to cyberattacks had undergone independent security audits, CoinGecko said.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0516,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Policing minister makes statement on ‘intimidating and thuggish’ anti-migrant protests – as it happened",
-      "url": "https://www.theguardian.com/politics/live/2026/sep/07/uk-politics-live-john-healey-economy-portsmouth-immigration-protests-latest-news-updates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-07T18:49:04+00:00",
-      "summary": "<p>Sarah Jones tells MPs ‘those responsible should expect to face the consequences’</p><p><strong>Healey</strong> says Andy Burnham set out in his statement to MPs last week what he thought had gone wrong</p><p>The fundamentals of our economy [were] hollowed out through a series of past policy decisions, political power was centralised, weakening the relationships between the people, the businesses and the institutions who can make things happen beyond Whitehall. The economic enablers were privatised and outsourced, leaving accountability to a thicket of arm’s length bodies and regulators, too often without the predictability or the pace that underpins a thriving market economy. And our country was deindustrialised as the cost to make anything, to build anything here soared, and our dependence on unreliable sources grew, including in areas critical to our national security and sovereignty.</p><p>Let me be clear, I recognise that the costs of business, its energy bills, regulation, burdens, planning constraints, labour costs, have grown since Covid and I want to draw the line.</p><p>And whether it is the cost of business or the cost of living, the only way we deal with these in the long term is growth.</p> <a href=\"https://www.theguardian.com/politics/live/2026/sep/07/uk-politics-live-john-healey-economy-portsmouth-immigration-protests-latest-news-updates\">Continue reading...</a>",
-      "sentiment": "neutral",
-      "sentiment_score": 0.1779,
-      "tags": [
-        "Regulation",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Jaguar Land Rover job cuts: £500,000 package to help workers facing threat of redundancy – as it happened",
-      "url": "https://www.theguardian.com/business/live/2026/sep/07/uk-house-prices-fall-subdued-market-jlr-job-cuts-shares-oil-latest-news-updates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-07T14:14:30+00:00",
-      "summary": "<p>Rolling coverage of the latest economic and financial news, as JLR plans to cut almost one in 10 workers</p><ul><li><p><a href=\"https://www.theguardian.com/money/2026/sep/07/uk-house-prices-fall-august-interest-rates-lloyds\">UK house prices fall for first time in nearly three years, says Lloyds</a></p></li></ul><p><strong>The rise in mortgage rates could cool demand in the UK housing market, where (<a href=\"https://www.theguardian.com/business/live/2026/sep/07/uk-house-prices-fall-subdued-market-jlr-job-cuts-shares-oil-latest-news-updates?page=with%3Ablock-6a9e50518f0834a1091e0d45#block-6a9e50518f0834a1091e0d45\">as reported earlier)</a> prices fell last month.</strong></p><p><strong>Tom Bill, </strong>head of UK residential research at <strong>Knight</strong> <strong>Frank, </strong>says:</p><p>“We have seen a spring slump rather than a seasonal bounce this year as prices and transactions came under pressure from higher mortgage costs and an ever-present concern around which taxes the government may raise next.</p><p>Falling house prices are a natural consequence of that and whether we see a seasonal autumn bounce will depend on the level of any pre-Budget speculation and how the unpredictable conflict in the Middle East unfolds and impacts on UK inflation expectations.”</p><p>The average 2-year fixed residential mortgage rate today is 5.63%. This is up from 5.60% the previous working day.</p><p>The average 5-year fixed residential mortgage rate today is 5.68%. This is up from 5.64% the previous working day.</p><p>“The pricing margins among major lenders are under pressure due to renewed volatility in the swap rate market, so it is somewhat inevitable for them to adjust rates. Major lenders, which include HSBC and NatWest, have increased rates since the start of September. The recent uplift in swap rates has started to filter into the pricing of fixed rate mortgages, with more moves expected in the coming days. Swap rates are much higher than they were a month ago and are a key influence on how lenders price their fixed-rate mortgages. Lenders look at margins very carefully, so it would be unwise to price their deals too low, if the expectations are for interest rates to rise, even if over the short-term.</p><p>“Mortgage rates are rising due to the escalating military conflict between the US and Iran, reigniting inflationary fears. The UK 10-year gilt yield has also risen further above 5% to an 18-year high recently due to a global bond sell-off, adding further pressure to the wholesale funding costs that underpin fixed mortgage pricing. However, the hit to the mortgage market over recent days pales in comparison to when the conflict in the Middle East began around six months ago, when many lenders pulled fixed rate deals. While this alone might still not reassure some borrowers, it is worth noting that the pressure on swap rates over the past six months has not been caused by UK fiscal policy, which is why withdrawals and rate hikes are nowhere near the scale experienced in the aftermath of the ‘mini-Budget’ in 2022.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/07/uk-house-prices-fall-subdued-market-jlr-job-cuts-shares-oil-latest-news-updates\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9299,
-      "tags": [
-        "Interest Rates",
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "John Healey backs growth but says Labour must be honest on spending",
-      "url": "https://www.theguardian.com/business/2026/sep/07/john-healey-growth-labour-spending-raise-taxes",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-07T12:54:05+00:00",
-      "summary": "<p>Chancellor ducks questions on whether he will have to raise taxes but says he will stick firmly to fiscal rules</p><p>John Healey has said boosting economic growth will be his defining mission as chancellor as he warned Labour had to “be honest” about the need to control public spending at next month’s budget.</p><p>In his first big speech since taking the job in July, Healey said the top priority for his 28 October budget would be to support stronger growth across the UK while sticking firmly to the government’s fiscal rules.</p> <a href=\"https://www.theguardian.com/business/2026/sep/07/john-healey-growth-labour-spending-raise-taxes\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.9672,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "China prepares £40bn stimulus for financial sector amid fears over sluggish growth",
-      "url": "https://www.theguardian.com/world/2026/sep/06/china-prepares-40bn-stimulus-for-financial-sector-amid-fears-over-sluggish-growth",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-06T15:16:43+00:00",
-      "summary": "<p>Beijing wants banks and insurers to bolster investment in stock market as it helps to replenish cash reserves</p><p>China will inject $54bn (£40bn) into its financial sector as Beijing attempts to shore up banks and insurers in the face of faltering economic growth.</p><p>A host of financial institutions said they were due to receive billions of yuan in capital from state institutions including the ministry of finance and even the company that runs the country’s tobacco monopoly.</p> <a href=\"https://www.theguardian.com/world/2026/sep/06/china-prepares-40bn-stimulus-for-financial-sector-amid-fears-over-sluggish-growth\">Continue reading...</a>",
-      "sentiment": "neutral",
-      "sentiment_score": -0.0772,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "That sound you hear is not the world ending – it’s liberalism being monstered | Waleed Aly",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/07/waleed-aly-time-of-monsters-future-liberalism-essay",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-06T15:00:08+00:00",
-      "summary": "<p>It turns out most of us no longer believe in progress. And when that happens, it quickly becomes a crisis for societies like ours</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Depending on your politics, the monsters are everywhere. Perhaps you see them in the form of tech billionaires and the <a href=\"https://www.theguardian.com/technology/artificialintelligenceai\">artificial intelligence</a> they’re developing. Perhaps you see them in the bin fire of <a href=\"https://www.theguardian.com/media/social-media\">social media</a> they bequeathed us before that, or the legacy media that refuse to tell you “the truth”. You might see them in the manosphere, or the institutions teaching our kids gender fluidity. Maybe you see them in the migrant youth wielding machetes in the suburbs, or the refugee attempting to behead someone on a Belfast street. Or perhaps you see them in the violent anti-immigrant mobs that torched houses in response. If so, you’ll likely see them in the March for Australia or the Unite the Kingdom rallies, organised by far-right groups but attended by many more besides. You’ll almost certainly see them in at least one of Hamas, Israel or those local advocates at each other’s throats over the Middle East. I suspect you’ll see them in Russia but that can no longer be assumed. And I’d guess that you’d see them in at least one political party with a significant share of the vote.</p><p>Something in that paragraph probably outraged you. In which case, you’re probably seeing monsters in whoever sees different monsters from you. It would be easy here to make a point about polarisation. But I want to look at the deep disquiet that lies underneath.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/sep/07/waleed-aly-time-of-monsters-future-liberalism-essay\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.8037,
-      "tags": [
-        "AI",
-        "Artificial Intelligence"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Bitcoin heads for third winning week in a row as macro pressures mount",
-      "url": "https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-04T14:36:48+00:00",
-      "summary": "Bitcoin headed for its third straight winning week, as traders searched for refuge amid volatile moves in equities, currencies and bond markets.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7506,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "New York Fed's Williams says yield surge due to strong economic prospects",
-      "url": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-02T17:21:59+00:00",
-      "summary": "New York Fed President John Williams said higher Treasury yields reflect a strong economy as he weighs whether another interest rate hike is needed.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.9118,
-      "tags": [
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Berkshire CEO Greg Abel says Japanese bond yields not a challenge for trading houses right now",
-      "url": "https://www.cnbc.com/2026/09/02/berkshire-ceo-says-japanese-bond-yields-not-a-challenge-for-trading-houses.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-02T11:09:15+00:00",
-      "summary": "In an appearance on CNBC's \"Squawk Box,\" Greg Abel said that yields in the country are still relatively low.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.323,
       "tags": [
         "AI"
       ],
