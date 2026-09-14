@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-13T05:34:09Z",
-  "snapshot_date": "2026-09-13",
+  "generated_at": "2026-09-14T05:37:33Z",
+  "snapshot_date": "2026-09-14",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Why OpenAI’s Sam Altman says an IPO isn’t in the cards this year",
-      "url": "https://www.marketwatch.com/story/why-openais-sam-altman-says-an-ipo-isnt-in-the-cards-this-year-229de89c?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-12T21:50:00+00:00",
-      "summary": "Concerns about AI safety have ramped up, and OpenAI’s CEO says now would be an ‘ill-advised’ time for the ChatGPT creator to go public",
+      "title": "Andy Burnham to host entrepreneurs and local mayors at No 10 on Monday",
+      "url": "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-13T21:30:13+00:00",
+      "summary": "<p>Prime minister vows to ‘reindustrialise Britain’ through new partnership with business </p><p>The prime minister is to host business leaders, entrepreneurs and local mayors at Downing Street on Monday to pitch his government as a “partner for growth” that can offer a stable platform for investment and jobs in the UK.</p><p>Ahead of the event, Andy Burnham said the country had “everything it needs to succeed”, including talented people and world-class universities, but requires “a culture shift in how Britain does business” if it is to unlock its full potential.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10\">Continue reading...</a>",
       "sentiment": "bullish",
-      "sentiment_score": 0.4215,
+      "sentiment_score": 0.2846,
       "tags": [
         "AI"
       ],
@@ -20,43 +20,150 @@
       "source_repo": "financenews"
     },
     {
-      "title": "‘Small price to pay’: The young homeowners welcoming falling house prices even as it hurts them",
+      "title": "This investment is safe from both Trump and the Democrats — and it pays 4.7%",
+      "url": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-13T19:55:00+00:00",
+      "summary": "There’s a safe haven hiding in plain sight.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5574,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.",
+      "url": "https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-13T19:00:00+00:00",
+      "summary": "The 10-year Treasury yield is sitting on the doorstep of 5%, and that’s a warning sign for stocks.",
+      "sentiment": "neutral",
+      "sentiment_score": -0.1531,
+      "tags": [
+        "Fed"
+      ],
+      "signal": "watch",
+      "category": "energy",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "The Guardian view on the government’s corporate reforms: entrenching neoliberalism, not ending it | Editorial",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/13/the-guardian-view-on-the-governments-corporate-reforms-entrenching-neoliberalism-not-ending-it",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-13T16:30:07+00:00",
+      "summary": "<p>A recent consultation on corporate reporting prizes the interests of shareholders over society. It’s a step in the wrong direction</p><p>The question of what corporations are for is deeply political. In a 1970 article for the New York Times, Milton&nbsp;Friedman argued that the “social responsibility of business is to increase its profits”. The idea that CEOs should worry about providing good jobs was “pure and unadulterated socialism”, he wrote. Friedman and his fellow neoliberals saw companies as vehicles for enforcing their politics. Their ideas endured: UK bosses are now paid <a href=\"https://highpaycentre.org/gap-between-the-pay-of-ftse-100-ceos-and-uk-workers-the-widest-for-8-years/\">130 times</a> more than average workers.</p><p>Despite Andy Burnham’s pledge to end neoliberalism, a 12-week <a href=\"https://www.gov.uk/government/news/firms-freed-from-pen-pushing-paperwork-and-costly-red-tape-in-business-reporting-overhaul\">consultation</a> recently launched by his government risks entrenching it. The consultation was first announced as part of the Starmer government’s crusade against “red tape”. The average annual report for some businesses now runs to 98,000 words, and no doubt there are areas that could be simplified. But the consultation <a href=\"https://assets.publishing.service.gov.uk/media/6a9fc4d66beb520655555633/modernising-corporate-reporting-consultation-document.pdf\">proposes</a> removing vital information and presumes that company reports primarily serve shareholders, rather than other stakeholders. Both are steps in the wrong direction.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/sep/13/the-guardian-view-on-the-governments-corporate-reforms-entrenching-neoliberalism-not-ending-it\">Continue reading...</a>",
+      "sentiment": "neutral",
+      "sentiment_score": -0.1889,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
+      "url": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-13T15:00:00+00:00",
+      "summary": "“I expect to receive at least $9,000 per month before federal and California state taxes.”",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "Fed"
+      ],
+      "signal": "watch",
+      "category": "macro",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Surging inflation puts interest rates back in focus as policymakers meet in Japan, US and UK",
+      "url": "https://www.theguardian.com/business/2026/sep/13/interest-rates-predicted-rise-us-uk-inflation-fears",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-13T12:33:16+00:00",
+      "summary": "<p>Iran war and turbulent global bond markets add to pressure as rate decisions loom this week in major western economies</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/13/uk-autumn-budget-healey-trump\">Economics viewpoint: perilous UK economic conditions trace back to Trump</a></p></li></ul><p>Central bankers in economies including the US, Japan and the UK will face a moment of truth this week, as surging inflation raises the prospect of higher interest rates.</p><p>Policymakers in all three countries will set rates in the next seven days against the backdrop of <a href=\"https://www.theguardian.com/business/2026/sep/10/global-bond-selloff-oil-prices-inflation-middle-east-conflict-government-borrowing\">turbulent global bond markets</a>.</p> <a href=\"https://www.theguardian.com/business/2026/sep/13/interest-rates-predicted-rise-us-uk-inflation-fears\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.3612,
+      "tags": [
+        "Interest Rates",
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "NFL and midterm elections set up prediction markets for a critical fall season",
+      "url": "https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-13T11:52:33+00:00",
+      "summary": "The 2025 football season and 2024 presidential election pushed prediction markets into the prominence they enjoy today.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.2263,
+      "tags": [
+        "Election"
+      ],
+      "signal": "watch",
+      "category": "markets",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "AI will transform capitalism – but how?",
+      "url": "https://www.theguardian.com/technology/2026/sep/13/ai-will-transform-capitalism-but-how",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-13T11:00:02+00:00",
+      "summary": "<p>Technology is going to drastically reshape the economy, and it’s within our power to decide what that looks like</p><p>The idea that autonomous, thinking machines may one day destroy property, hierarchy and inequality is as old as western political thought. In Aristotle’s Politics, the philosopher cites a fantasy from the Iliad, in which machines begin to act independently of human direction, concluding: “If every tool could perform its own work when ordered, or by seeing what to do in advance … if thus shuttles wove and quills played harps of themselves, master-craftsmen would have no need of assistants and masters no need of slaves.”</p><p>The dream that automation could inaugurate a classless society is also present in the writings of Karl Marx. In 1858 he imagined the replacement of intellectual property with “socialised knowledge”, which would merge into a “general intellect”, blowing the foundations of capitalism sky high.</p> <a href=\"https://www.theguardian.com/technology/2026/sep/13/ai-will-transform-capitalism-but-how\">Continue reading...</a>",
+      "sentiment": "neutral",
+      "sentiment_score": -0.0772,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "George Osborne calls for UK to rejoin EU customs union and boost trade",
+      "url": "https://www.theguardian.com/business/2026/sep/13/george-osborne-calls-for-uk-to-rejoin-eu-customs-union-and-boost-trade",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-13T10:48:04+00:00",
+      "summary": "<p>Ex-Tory chancellor says economy has ‘fallen off a cliff’ since Brexit but rejoining union could be ‘quite simple’</p><p>The former chancellor George Osborne said Britain’s economy had “fallen off a cliff” since Brexit and that rejoining the European Union’s customs union would be the fastest route to recovery.</p><p>Osborne, who was sacked as chancellor by Theresa May after being part of David Cameron’s cabinet at the time of the referendum, said it was important to rebuild links with the EU.</p> <a href=\"https://www.theguardian.com/business/2026/sep/13/george-osborne-calls-for-uk-to-rejoin-eu-customs-union-and-boost-trade\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.4678,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "The perilous economic conditions facing the UK can be traced back to Trump | Richard Partington",
+      "url": "https://www.theguardian.com/business/2026/sep/13/uk-autumn-budget-healey-trump",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-13T09:27:45+00:00",
+      "summary": "<p>As John Healey drafts his autumn budget, the US president’s policies continue to inflate debt servicing costs</p><p>Britain is not entirely in control of its own destiny, from the rising cost of the weekly shop, to the vaulting cost of government borrowing. What is said and done in Westminster matters. But the global backdrop is making life tough, not least in the deeds and words of one man: Donald Trump.</p><p>As John Healey drafts his plan for next month’s autumn budget, the perilous economic conditions the chancellor must navigate can be traced back to the door of the US president.</p> <a href=\"https://www.theguardian.com/business/2026/sep/13/uk-autumn-budget-healey-trump\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.3506,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "‘Small price to pay’: the young homeowners welcoming falling house prices even as it hurts them",
       "url": "https://www.theguardian.com/australia-news/2026/sep/13/homeowners-welcoming-falling-house-prices-affordability-crisis-australia",
       "source": "The Guardian Economics",
       "published_at": "2026-09-12T20:00:43+00:00",
       "summary": "<p>Some buyers say they are ready to absorb the fallout of housing weakness if it means boosting home ownership across the board</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/13/australia-news-live-chris-bowen-middle-east-fuel-petrol-prices-anika-wells-social-media-algorithm-andrew-hastie-pauline-hanson-one-nation-albanese-labor-coalition-liberal-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Falling property prices have come at the worst possible time for Alex Hogan and his partner. They are now weighing up whether they can afford to have another child.</p><p>Locked out of the established housing market, the Queensland couple resorted to buying a block of land to build a family home.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/13/homeowners-welcoming-falling-house-prices-affordability-crisis-australia\">Continue reading...</a>",
       "sentiment": "bearish",
       "sentiment_score": -0.7941,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Elon Musk backs Anthropic’s call to slow down AI progress before rogue bots take over the entire internet",
-      "url": "https://www.marketwatch.com/story/elon-musk-backs-anthropics-call-to-slow-down-ai-progress-before-rogue-bots-take-over-the-entire-internet-46f12d98?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-12T17:20:00+00:00",
-      "summary": "Leaders of major AI companies say they agree with Anthropic CEO Dario Amodei, who just called for the tech industry to move more slowly with model development.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6249,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "My 87-year-old mother wants to pay for my brother’s kids’ education. I don’t have children. How is that fair?",
-      "url": "https://www.marketwatch.com/story/my-87-year-old-mother-wants-to-pay-for-my-brothers-kids-education-i-dont-have-children-is-that-fair-b647a4bd?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-12T14:01:00+00:00",
-      "summary": "“Over the years, my mother and I have supplemented his income.”",
-      "sentiment": "bullish",
-      "sentiment_score": 0.2263,
       "tags": [
         "AI"
       ],
@@ -72,68 +179,6 @@
       "summary": "In August, consumer prices rose 3.4% over the past year while wages increased just 3.1%.",
       "sentiment": "bullish",
       "sentiment_score": 0.5719,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "The Fed could raise interest rates three times. Here’s where the market could face the stiffest test.",
-      "url": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-11T23:54:00+00:00",
-      "summary": "Economists note that the Fed historically has not been content to raise rates only once.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.4588,
-      "tags": [
-        "Interest Rates",
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "This investment is safe from both Trump and the Democrats — and it pays 4.7%",
-      "url": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-11T22:06:00+00:00",
-      "summary": "There’s a safe haven hiding in plain sight.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5574,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Marvell is sitting on an incredibly ‘sticky’ business that could help it unlock a $30 billion opportunity",
-      "url": "https://www.marketwatch.com/story/marvell-is-sitting-on-an-incredibly-sticky-business-that-could-help-it-unlock-a-30-billion-opportunity-caa6c83f?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-11T21:16:00+00:00",
-      "summary": "Marvell is best known for making custom chips — but an analyst notes there’s arguably more potential in supporting components and optical networking.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7961,
-      "tags": [
-        "Chips"
-      ],
-      "signal": "watch",
-      "category": "markets",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Tesla could transform the trucking business — and capitalize on high diesel prices",
-      "url": "https://www.marketwatch.com/story/tesla-could-transform-the-trucking-business-and-capitalize-on-high-diesel-prices-e4c48d79?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-11T20:49:00+00:00",
-      "summary": "The EV maker aims to finally kick its long-awaited Semi truck into high gear — unlocking a potentially huge opportunity, according to Morgan Stanley.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6249,
       "tags": [
         "AI"
       ],
@@ -358,21 +403,6 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Electronic shelf labels likely to cost jobs and drive up grocery prices, US report warns",
-      "url": "https://www.theguardian.com/us-news/2026/sep/09/electronic-shelf-labels-grocery",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-09T11:00:07+00:00",
-      "summary": "<p>AFL-CIO calls for ban on such labels to protect consumers and workers from surveillance pricing and job cuts</p><p>The universal adoption of electronic shelf labels in grocery stores across the US could cost tens of thousands of jobs and billions of dollars in lost wages while further driving up grocery costs, according to a report released on Tuesday.</p><p>An analysis by the AFL-CIO Tech Institute of the label manufacturers’ own marketing materials found the universal adoption of electronic shelf labels, which are marketed to retailers as a cost-cutting measure, could cost workers between $1.6bn and $6.9bn in lost wages annually and affect between 44,223 and 191,633 jobs.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/09/electronic-shelf-labels-grocery\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.7184,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
       "title": "Adani Enterprises shares jump as airport unit enters into $1 billion fundraising deal",
       "url": "https://www.cnbc.com/2026/09/09/adani-enterprises-airport-fundraise-shares.html",
       "source": "CNBC Finance",
@@ -403,22 +433,6 @@
       "source_repo": "financenews"
     },
     {
-      "title": "US bans Canadian dairy, alcohol and motorcycles as trade war escalates",
-      "url": "https://www.theguardian.com/us-news/2026/sep/08/trump-canada-trade-war-dairy-alcohol",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-08T23:59:37+00:00",
-      "summary": "<p>Trump responds after Canada imposes $20bn in retaliatory tariffs and Canadian PM vows to diversify trade abroad</p><p>The US is banning dairy products, most alcoholic beverages and motorcycles from <a href=\"https://www.theguardian.com/world/canada\">Canada</a>, the White House said on Tuesday, as the trade war between the two neighbors and longtime allies escalates.</p><p>The ban will take effect in three weeks and comes after Canada imposed retaliatory tariffs on $20bn in US imports earlier on Tuesday.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/08/trump-canada-trade-war-dairy-alcohol\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9201,
-      "tags": [
-        "Trade War",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
       "title": "How one hedge-fund manager built his firm to be powered entirely by AI agents",
       "url": "https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html",
       "source": "CNBC Finance",
@@ -434,31 +448,14 @@
       "source_repo": "financenews"
     },
     {
-      "title": "More than 600 UK flights cancelled after air traffic control ‘technical issue’ – as it happened",
-      "url": "https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-08T18:08:11+00:00",
-      "summary": "<p>National Air Traffic Services apologise for technical issue disrupting departures today, which Flightradar24 say has caused hundreds of cancellations</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/08/air-traffic-control-issue-flights-delays-disruption-uk\">Air traffic control issue causes flight delays and disruption across UK</a></p></li></ul><p><strong>Gas prices are rising this morning, putting pressure on European countries who need to stock up their storage levels before the winter.</strong></p><p>The month-ahead UK gas price is up around 1% at 184p a therm, close to yesterday’s highs when gas hit its highest since January 2023.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.4767,
-      "tags": [
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "UK government pays highest interest rate on 30-year bond since 1998",
-      "url": "https://www.theguardian.com/business/2026/sep/08/uk-government-pays-highest-interest-rate-on-30-year-bond-since-1998",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-08T17:47:30+00:00",
-      "summary": "<p>High yields threaten to wipe out at least half of the £24bn headroom John Healey was expecting to have for his budget</p><p>The UK government was forced to pay the highest interest rate for a 30-year bond since 1998 on Tuesday, underlining the fiscal challenges facing the chancellor, John Healey.</p><p>Echoing the global bond market sell-off that has driven up yields, or interest rates, on government borrowing across the main markets, the Treasury paid 5.82% to borrow £4bn.</p> <a href=\"https://www.theguardian.com/business/2026/sep/08/uk-government-pays-highest-interest-rate-on-30-year-bond-since-1998\">Continue reading...</a>",
+      "title": "Visa tells CNBC it is expanding data offering for blockchain lenders as demand for stablecoin-linked cards surges",
+      "url": "https://www.cnbc.com/2026/09/08/visa-blockchain-lender-stablecoin-cards.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-08T11:30:01+00:00",
+      "summary": "Visa is doubling down on blockchain-powered financial services with a new program to help issuers of stablecoin-linked cards access loans.",
       "sentiment": "bullish",
-      "sentiment_score": 0.6249,
+      "sentiment_score": 0.296,
       "tags": [
-        "Interest Rates",
         "AI"
       ],
       "signal": "watch",
