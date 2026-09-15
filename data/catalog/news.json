@@ -1,9 +1,223 @@
 {
-  "generated_at": "2026-09-14T05:37:33Z",
-  "snapshot_date": "2026-09-14",
+  "generated_at": "2026-09-15T05:37:22Z",
+  "snapshot_date": "2026-09-15",
   "source": "financenews",
   "count": 30,
   "articles": [
+    {
+      "title": "AI doomsday fears are arriving at the worst possible time for the stock market",
+      "url": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-14T23:19:00+00:00",
+      "summary": "The latest cracks in the AI trade are emerging at a particularly troubling time for investors.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.9381,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "The murky AI milestone that has some of the industry’s leading voices increasingly on edge",
+      "url": "https://www.marketwatch.com/story/the-murky-ai-milestone-that-has-some-of-the-industrys-leading-voices-increasingly-on-edge-6ffeacc7?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-14T21:57:00+00:00",
+      "summary": "Anthropic CEO Dario Amodei and others are warning that AI models may be able to build on themselves, without the help of humans. It’s a concept known as recursive self-improvement.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.5659,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "The oil market is sending an increasingly loud warning about gas prices at the pump",
+      "url": "https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-14T21:31:00+00:00",
+      "summary": "Oil buyers are paying much more to get a barrel of crude oil immediately as the Iran conflict threatens global supplies.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.875,
+      "tags": [
+        "Oil"
+      ],
+      "signal": "watch",
+      "category": "energy",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "CrowdStrike and Palo Alto Networks lead software stocks to a never-before-seen feat",
+      "url": "https://www.marketwatch.com/story/crowdstrike-and-palo-alto-networks-are-leading-software-stocks-toward-a-never-before-seen-feat-5b8989b2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-14T21:11:00+00:00",
+      "summary": "The software sector outperformed the chip sector to a historic degree in the face of escalating AI fears.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.4215,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Chip stocks were a safe AI play. Now they’ve turned into the market’s pain trade.",
+      "url": "https://www.marketwatch.com/story/chip-stocks-were-a-safe-ai-play-now-theyve-turned-into-the-markets-pain-trade-6029df5e?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-14T21:11:00+00:00",
+      "summary": "A slowdown in the pace of AI development wouldn’t necessary dent spending, but there are other reasons semiconductor investors may want to take a measured approach.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.2382,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
+      "url": "https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-14T20:56:15+00:00",
+      "summary": "Chinese state media's reports of the daily press conference also noted that all groups should work together for AI openness and inclusivity.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.3818,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Micron, Nvidia and other chip stocks fall after tech leaders call for an AI slowdown. Here’s what to know.",
+      "url": "https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-14T20:56:00+00:00",
+      "summary": "Analysts don’t expect the push for more responsible AI development to derail data-center spending.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.101,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike",
+      "url": "https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-14T20:49:03+00:00",
+      "summary": "With inflation above target and no visibility on lower oil prices or stability of tariffs, the Fed chairman needs to pass the test that has faced his predecessors",
+      "sentiment": "bearish",
+      "sentiment_score": -0.6808,
+      "tags": [
+        "Fed",
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "10-year Treasury yield hits 5% as oil prices jump and Fed meeting looms",
+      "url": "https://www.marketwatch.com/story/10-year-treasury-yield-tops-5-for-the-first-time-since-2007-as-bond-market-selloff-deepens-14c81f75?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-14T20:47:00+00:00",
+      "summary": "The key “affordability” rate briefly touched its highest level since 2007 on Monday.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0516,
+      "tags": [
+        "Fed",
+        "Oil"
+      ],
+      "signal": "watch",
+      "category": "energy",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
+      "url": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-14T20:34:23+00:00",
+      "summary": "The muted outlook from the country's second-largest bank by assets could be an early signal that Wall Street's AI boom might have hit turbulence.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.4877,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "US borrowing costs hit 5% for first time since 2023 amid bond sell-off",
+      "url": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-14T16:48:34+00:00",
+      "summary": "<p>Soaring oil prices of above $108 a barrel after Houthi attacks on Saudi infrastructure stoke inflation fears  </p><p>US government borrowing costs have risen to 5% for the first time since 2023 as soaring oil prices fuelled by the war in the Middle East trigger an intensifying sell-off in the global bond market.</p><p>The yield – in effect the interest rate – on 10-year US Treasury bonds hit the psychologically important threshold on Monday, on a day of renewed selling pressure on Wall Street as the global oil price reached $108 a barrel.</p> <a href=\"https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.7003,
+      "tags": [
+        "Oil"
+      ],
+      "signal": "watch",
+      "category": "energy",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "UK government moves to acquire Speciality Steel UK; AI stocks hit by calls for slowdown – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/sep/14/ai-stocks-fall-development-slowdown-anthropic-openai-investors-latest-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-14T16:41:41+00:00",
+      "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai\"><strong>AI-linked stocks fall after tech bosses call for slowdown in ‘reckless’ development</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/technology/2026/sep/14/ai-ceo-safety-slowdown\">AI CEOs say they need to slow the pace of development. But will they?</a></p></li><li><p><a href=\"https://www.theguardian.com/commentisfree/2026/sep/11/the-guardian-view-on-controlling-ai-humanity-cannot-outsource-its-survival\">The Guardian view on controlling AI: humanity cannot outsource its survival</a></p></li></ul><p><strong>Companies threatened by the march of AI are seeing their share prices rise this morning!</strong></p><p><strong>RELX</strong>, the analytics group, are up 4.2% and leading the FTSE 100 risers. Earlier this year its shares tumbled after <a href=\"https://www.theguardian.com/technology/2026/feb/12/share-values-of-property-services-firms-tumble-over-fears-of-ai-disruption\">the Claude chatbot added new data and automation tools</a>.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/14/ai-stocks-fall-development-slowdown-anthropic-openai-investors-latest-news-updates\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.2244,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Prediction market traders think gas prices will hit new highs for the year",
+      "url": "https://www.cnbc.com/2026/09/14/prediction-markets-traders-think-gas-prices-will-hit-new-highs-in-2026.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-14T15:49:39+00:00",
+      "summary": "Oil prices have marched higher in recent weeks, above $100 per barrel, as tensions between the U.S. and Iran have escalated again.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.4019,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "NFL and midterm elections set up prediction markets for a critical fall season",
+      "url": "https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-14T12:16:52+00:00",
+      "summary": "The 2025 football season and 2024 presidential election pushed prediction markets into the prominence they enjoy today.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.2263,
+      "tags": [
+        "Election"
+      ],
+      "signal": "watch",
+      "category": "markets",
+      "source_repo": "financenews"
+    },
     {
       "title": "Andy Burnham to host entrepreneurs and local mayors at No 10 on Monday",
       "url": "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10",
@@ -17,36 +231,6 @@
       ],
       "signal": "watch",
       "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "This investment is safe from both Trump and the Democrats — and it pays 4.7%",
-      "url": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-13T19:55:00+00:00",
-      "summary": "There’s a safe haven hiding in plain sight.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5574,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.",
-      "url": "https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-13T19:00:00+00:00",
-      "summary": "The 10-year Treasury yield is sitting on the doorstep of 5%, and that’s a warning sign for stocks.",
-      "sentiment": "neutral",
-      "sentiment_score": -0.1531,
-      "tags": [
-        "Fed"
-      ],
-      "signal": "watch",
-      "category": "energy",
       "source_repo": "financenews"
     },
     {
@@ -65,21 +249,6 @@
       "source_repo": "financenews"
     },
     {
-      "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
-      "url": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-13T15:00:00+00:00",
-      "summary": "“I expect to receive at least $9,000 per month before federal and California state taxes.”",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "Fed"
-      ],
-      "signal": "watch",
-      "category": "macro",
-      "source_repo": "financenews"
-    },
-    {
       "title": "Surging inflation puts interest rates back in focus as policymakers meet in Japan, US and UK",
       "url": "https://www.theguardian.com/business/2026/sep/13/interest-rates-predicted-rise-us-uk-inflation-fears",
       "source": "The Guardian Economics",
@@ -94,21 +263,6 @@
       ],
       "signal": "watch",
       "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "NFL and midterm elections set up prediction markets for a critical fall season",
-      "url": "https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-13T11:52:33+00:00",
-      "summary": "The 2025 football season and 2024 presidential election pushed prediction markets into the prominence they enjoy today.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.2263,
-      "tags": [
-        "Election"
-      ],
-      "signal": "watch",
-      "category": "markets",
       "source_repo": "financenews"
     },
     {
@@ -307,159 +461,6 @@
       ],
       "signal": "watch",
       "category": "energy",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings",
-      "url": "https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-10T14:00:11+00:00",
-      "summary": "Its the latest move by the prediction market company to diversify its assets users can trade.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5859,
-      "tags": [
-        "Gold",
-        "Silver"
-      ],
-      "signal": "watch",
-      "category": "markets",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "John Lewis losses widen to £124m as shopper confidence dips",
-      "url": "https://www.theguardian.com/business/2026/sep/10/john-lewis-losses-double-shopper-confidence-weakens-waitrose",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-10T11:13:17+00:00",
-      "summary": "<p>Retailer says first half was a tougher market than it expected, though Waitrose grew sales</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/10/markets-economy-oil-uk-flight-disruption-primark-home-delivery-business-live-news\">Business live – latest updates</a></p></li></ul><p>Losses at the owner of John Lewis and Waitrose widened by more than 40% in the first half of the year as it struggled with higher costs and shoppers feeling less confident about their money.</p><p>The John Lewis Partnership, which operates 36 department stores and more than 300 Waitrose supermarkets, said its pre-tax loss for the six months to 1 August climbed to £124m, compared with £88m in the same period in 2025.</p> <a href=\"https://www.theguardian.com/business/2026/sep/10/john-lewis-losses-double-shopper-confidence-weakens-waitrose\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.2516,
-      "tags": [
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Ant International partners with Visa, Mastercard on developing AI payments",
-      "url": "https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-10T01:53:50+00:00",
-      "summary": "Visa, Mastercard and Ant International are working on common standards for AI-agent payments — including ways to verify and monitor their transactions.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Chancellor urged to fix £100k childcare ‘cliff edge’ that prompts parents to cut work",
-      "url": "https://www.theguardian.com/society/2026/sep/10/uk-chancellor-urged-to-remove-100k-childcare-cliff-edge-prompting-parents-to-cut-work-hours",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-09T23:01:08+00:00",
-      "summary": "<p>Threshold pushes some to reduce hours or stop working to avoid losing entitlement, report warns </p><p>John Healey has been urged to fix the £100,000 childcare “cliff edge”, that means some higher-paid employees cut back on work to avoid losing their entitlement.</p><p>Since the latest expansion of taxpayer-funded childcare in 2024, families with young children in which both parents earn less than £100,000 a year can be entitled to 30 hours a week of care - or none at all, if one of them cross that threshold.</p> <a href=\"https://www.theguardian.com/society/2026/sep/10/uk-chancellor-urged-to-remove-100k-childcare-cliff-edge-prompting-parents-to-cut-work-hours\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.8442,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Bond market rebuffs US treasury’s plan to buy back $6bn in government debt",
-      "url": "https://www.theguardian.com/business/2026/sep/09/treasury-bond-buyback",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-09T19:56:30+00:00",
-      "summary": "<p>Scott Bessent made announcement on Wednesday as bond yields rose to highest point since 2008 financial crisis</p><p>The US treasury moved to cut the cost of borrowing on Wednesday only to be swiftly rebuffed by the bond market.</p><p>Scott Bessent, the treasury secretary, announced the US would buy back $6bn worth of government debt – treasuries – in an effort to alleviate a selloff in the US <a href=\"https://www.theguardian.com/business/bonds\">bond market</a> that has put pressure on interest rates.</p> <a href=\"https://www.theguardian.com/business/2026/sep/09/treasury-bond-buyback\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3182,
-      "tags": [
-        "Interest Rates",
-        "Fed"
-      ],
-      "signal": "watch",
-      "category": "macro",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "The global causes of UK bond market blues | Letter",
-      "url": "https://www.theguardian.com/business/2026/sep/09/the-global-causes-of-uk-bond-market-blues",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-09T17:01:15+00:00",
-      "summary": "<p>Most media outlets portray current economic pressures as a specifically British problem. That’s not the case, writes <strong>Neil Kinnock</strong></p><p>I recall that from the Cameron/Osborne government, and for years afterwards, we were repeatedly told that the economic pressures afflicting the UK were due to “global factors”, despite the reality that many of the difficulties were exacerbated by the depressive effects of the ruinous squeeze euphemised as “austerity”.</p><p>Now, destabilising pressures on the economy are without doubt due in substantial part to “global factors”, especially the Trumpkrieg against Iran that is hitting every developed economy.<strong> </strong></p> <a href=\"https://www.theguardian.com/business/2026/sep/09/the-global-causes-of-uk-bond-market-blues\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9215,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Adani Enterprises shares jump as airport unit enters into $1 billion fundraising deal",
-      "url": "https://www.cnbc.com/2026/09/09/adani-enterprises-airport-fundraise-shares.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-09T06:26:59+00:00",
-      "summary": "The investors will subscribe to new shares in three tranches and collectively own about 5.54% of the airport operator after the final tranche.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5267,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "China's EV makers shift gears to focus on humanoids as car market slows",
-      "url": "https://www.cnbc.com/2026/09/09/chinas-ev-makers-shift-gears-to-focus-on-humanoids-as-car-market-slows.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-09T04:12:51+00:00",
-      "summary": "As Chinese electric car sales slow and share prices tumble, several of the automakers are ramping up humanoid robotics development.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.296,
-      "tags": [
-        "Robotics"
-      ],
-      "signal": "watch",
-      "category": "markets",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "How one hedge-fund manager built his firm to be powered entirely by AI agents",
-      "url": "https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-08T21:59:13+00:00",
-      "summary": "It's a stark example of a growing reality on Wall Street as firms test the benefits and limits of AI in finance and on their employees.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5106,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Visa tells CNBC it is expanding data offering for blockchain lenders as demand for stablecoin-linked cards surges",
-      "url": "https://www.cnbc.com/2026/09/08/visa-blockchain-lender-stablecoin-cards.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-08T11:30:01+00:00",
-      "summary": "Visa is doubling down on blockchain-powered financial services with a new program to help issuers of stablecoin-linked cards access loans.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.296,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
       "source_repo": "financenews"
     }
   ]
