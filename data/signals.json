@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T04:12:16.216261+00:00",
+  "generated_at": "2026-09-16T08:14:24.460114+00:00",
   "portfolio_summary": {
     "total_assets": 10,
     "buy_count": 3,
@@ -117,12 +117,11 @@
       "name": "Bitcoin",
       "sector": "Crypto",
       "type": "crypto",
-      "price": 75830.1016,
-      "change_pct": -2.9851,
+      "price": 75463.5703,
+      "change_pct": -0.197,
       "signal": "watch",
       "note": "Above $90k resistance; ETF inflows strong",
       "sparkline": [
-        77300.4766,
         81271.7422,
         79671.9688,
         79823.8672,
@@ -135,7 +134,8 @@
         77270.4688,
         76838.1562,
         78163.3828,
-        75830.1016
+        75612.5078,
+        75463.5703
       ]
     },
     {
@@ -143,12 +143,11 @@
       "name": "Ethereum",
       "sector": "Crypto",
       "type": "crypto",
-      "price": 2401.99,
-      "change_pct": -4.4709,
+      "price": 2385.8999,
+      "change_pct": -0.5497,
       "signal": "hold",
       "note": "ETF decision in Q3; staking yield at 4.2%",
       "sparkline": [
-        2391.501,
         2508.0208,
         2456.0781,
         2480.7356,
@@ -161,7 +160,8 @@
         2525.9446,
         2477.0208,
         2514.407,
-        2401.99
+        2399.0869,
+        2385.8999
       ]
     },
     {
