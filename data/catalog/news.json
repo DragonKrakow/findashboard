@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-15T05:37:22Z",
-  "snapshot_date": "2026-09-15",
+  "generated_at": "2026-09-16T05:37:18Z",
+  "snapshot_date": "2026-09-16",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "AI doomsday fears are arriving at the worst possible time for the stock market",
-      "url": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-14T23:19:00+00:00",
-      "summary": "The latest cracks in the AI trade are emerging at a particularly troubling time for investors.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9381,
+      "title": "Carney says Canada will pursue ‘unique security and economic alliance’ with EU amid US trade spat",
+      "url": "https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-15T19:08:37+00:00",
+      "summary": "<p>Prime minister speaks of strengthening Canada’s economic and political ties to Europe at Canada Investment Summit</p><p>Mark Carney said Canada will pursue a “unique security and economic alliance” with Europe as he positions his country as a base to build in the “new global economic order”.</p><p>Speaking to investors, company executives and government ministers at the inaugural Canada Investment Summit on Tuesday, the prime minister pitched Canada as a “safe harbour” and lucrative home for foreign capital as his government looks to reduce its reliance on trade with the United States.</p> <a href=\"https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8689,
       "tags": [
         "AI"
       ],
@@ -20,14 +20,15 @@
       "source_repo": "financenews"
     },
     {
-      "title": "The murky AI milestone that has some of the industry’s leading voices increasingly on edge",
-      "url": "https://www.marketwatch.com/story/the-murky-ai-milestone-that-has-some-of-the-industrys-leading-voices-increasingly-on-edge-6ffeacc7?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-14T21:57:00+00:00",
-      "summary": "Anthropic CEO Dario Amodei and others are warning that AI models may be able to build on themselves, without the help of humans. It’s a concept known as recursive self-improvement.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.5659,
+      "title": "The Guardian view on the Bank of England’s £120bn bill: power without accountability | Editorial",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/15/the-guardian-view-on-the-bank-of-englands-120bn-bill-power-without-accountability",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-15T17:58:15+00:00",
+      "summary": "<p>Quantitative tightening has blurred the line between monetary and fiscal policy, leaving ministers accountable for decisions they cannot directly control</p><p>When Labour made the Bank of England <a href=\"https://www.theguardian.com/politics/1997/may/07/economy.uk\">independent</a> in 1997, the idea was that the Bank set interest rates while the Treasury taxed and spent. Monetary policy was in Threadneedle Street, fiscal policy in Whitehall. But in August the Bank of England quietly slipped out that its key policy could cost the Treasury <a href=\"https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q2\">£120bn</a>. That policy – <a href=\"https://www.theguardian.com/commentisfree/2022/oct/19/the-guardian-view-on-big-finance-addicted-to-government-handouts\">quantitative tightening</a> (QT) – clearly ought to be rethought and the policy of the Treasury indemnifying the Bank for its losses <a href=\"https://www.theguardian.com/commentisfree/2025/mar/24/the-guardian-view-on-rachel-reevess-spending-cuts-a-choice-not-an-economic-necessity\">ended</a>. Last year, ministers paid the Bank <a href=\"https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/february2026\">£17bn</a> to cover these arguably notional losses – an amount considerably larger than the budget of the Ministry of Justice, which is dealing with a real prisons crisis.</p><p>Bank independence was constructed for a world in which monetary policy decisions had predictable and indirect fiscal effects. The financial crisis, Covid, war and fractious trade disputes have contributed to ending that world. The Bank bought up government bonds to support the economy via its quantitative easing (QE) programme. But the constitutional settlement – of an independent central bank working out on its own what to do with those bonds – has not caught up. The game is surely up when a former Bank deputy governor, <a href=\"https://www.theguardian.com/business/2026/sep/15/bank-of-england-bond-selling-cut-uk-borrowing-costs-john-healey\">Charlie Bean</a>, acknowledges that independence cannot justify effectively giving power to an unelected monetary policy committee (MPC) over decisions with great consequences for public spending.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/sep/15/the-guardian-view-on-the-bank-of-englands-120bn-bill-power-without-accountability\">Continue reading...</a>",
+      "sentiment": "neutral",
+      "sentiment_score": -0.106,
       "tags": [
+        "Interest Rates",
         "AI"
       ],
       "signal": "watch",
@@ -35,13 +36,13 @@
       "source_repo": "financenews"
     },
     {
-      "title": "The oil market is sending an increasingly loud warning about gas prices at the pump",
-      "url": "https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-14T21:31:00+00:00",
-      "summary": "Oil buyers are paying much more to get a barrel of crude oil immediately as the Iran conflict threatens global supplies.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.875,
+      "title": "UK retirees with no other income will not pay tax on new £13,000 state pension, No 10 says",
+      "url": "https://www.theguardian.com/business/2026/sep/15/uk-pay-growth-interest-rates-unemployment-inflation-oil-price",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-15T15:43:42+00:00",
+      "summary": "<p>Average wages rose by 3.9% in three months to July, signalling pensioners will receive uplift of same percentage in 2027 under triple lock</p><p>The government has promised retirees they will be excluded from paying tax on the full new state pension after official figures paved the way for an inflation-beating increase above the tax-free personal allowance.</p><p>Figures published on Tuesday showed that average UK wages rose by 3.9% in the three months to July, signalling that pensioners will receive an uplift of the same percentage next year under <a href=\"https://www.theguardian.com/money/2025/sep/16/uk-state-pension-what-is-the-triple-lock-and-could-it-be-ditched\">the triple lock</a>.</p> <a href=\"https://www.theguardian.com/business/2026/sep/15/uk-pay-growth-interest-rates-unemployment-inflation-oil-price\">Continue reading...</a>",
+      "sentiment": "neutral",
+      "sentiment_score": -0.1788,
       "tags": [
         "Oil"
       ],
@@ -50,13 +51,13 @@
       "source_repo": "financenews"
     },
     {
-      "title": "CrowdStrike and Palo Alto Networks lead software stocks to a never-before-seen feat",
-      "url": "https://www.marketwatch.com/story/crowdstrike-and-palo-alto-networks-are-leading-software-stocks-toward-a-never-before-seen-feat-5b8989b2?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-14T21:11:00+00:00",
-      "summary": "The software sector outperformed the chip sector to a historic degree in the face of escalating AI fears.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.4215,
+      "title": "China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
+      "url": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-15T09:46:14+00:00",
+      "summary": "China's investment slump deepened, retail sales growth slowed further in August while industrial output blew past estimates as Beijing warns of supply-demand imbalance.",
+      "sentiment": "neutral",
+      "sentiment_score": -0.1531,
       "tags": [
         "AI"
       ],
@@ -65,15 +66,31 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Chip stocks were a safe AI play. Now they’ve turned into the market’s pain trade.",
-      "url": "https://www.marketwatch.com/story/chip-stocks-were-a-safe-ai-play-now-theyve-turned-into-the-markets-pain-trade-6029df5e?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-14T21:11:00+00:00",
-      "summary": "A slowdown in the pace of AI development wouldn’t necessary dent spending, but there are other reasons semiconductor investors may want to take a measured approach.",
+      "title": "Bank of England urged to slow or halt bond-selling to slash UK borrowing costs",
+      "url": "https://www.theguardian.com/business/2026/sep/15/bank-of-england-bond-selling-cut-uk-borrowing-costs-john-healey",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-15T06:51:23+00:00",
+      "summary": "<p>Economists urge John Healey to press Bank to change policy that is costing the exchequer billions of pounds</p><p>Economists have urged the chancellor, John Healey, to press the Bank of England to slow down its bond-selling programme that has already cost the exchequer billions of pounds.</p><p>The Bank’s monetary policy committee (MPC) meets this week to not only <a href=\"https://www.theguardian.com/business/2026/sep/13/interest-rates-predicted-rise-us-uk-inflation-fears\">decide the level of interest rates</a> but also whether they should freeze or slow the sale of government bonds, known as gilts, bought as part of the rescue operation after the 2008 banking crash.</p> <a href=\"https://www.theguardian.com/business/2026/sep/15/bank-of-england-bond-selling-cut-uk-borrowing-costs-john-healey\">Continue reading...</a>",
       "sentiment": "bullish",
-      "sentiment_score": 0.2382,
+      "sentiment_score": 0.7351,
       "tags": [
-        "AI"
+        "Interest Rates"
+      ],
+      "signal": "watch",
+      "category": "markets",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Panama canal traffic facing further cuts as drought from El Niño worsens",
+      "url": "https://www.theguardian.com/world/2026/sep/15/panama-canal-traffic-cut-trade-drought-el-nino",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-15T02:43:18+00:00",
+      "summary": "<p>Planned daily reductions will further choke one of the world’s most important shipping lanes</p><p>The Panama canal plans to again cut maritime traffic due to worsening drought caused by the El Niño climate phenomenon, further choking up one of the world’s most important shipping lanes.</p><p>The canal handles 5% of global maritime trade and about 40% of US container traffic; it is favoured by shippers because it usually reduces cost and transit times, especially for companies trading between China, Asia and the US.</p> <a href=\"https://www.theguardian.com/world/2026/sep/15/panama-canal-traffic-cut-trade-drought-el-nino\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.8724,
+      "tags": [
+        "AI",
+        "Shipping"
       ],
       "signal": "watch",
       "category": "technology",
@@ -87,21 +104,6 @@
       "summary": "Chinese state media's reports of the daily press conference also noted that all groups should work together for AI openness and inclusivity.",
       "sentiment": "bearish",
       "sentiment_score": -0.3818,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Micron, Nvidia and other chip stocks fall after tech leaders call for an AI slowdown. Here’s what to know.",
-      "url": "https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-14T20:56:00+00:00",
-      "summary": "Analysts don’t expect the push for more responsible AI development to derail data-center spending.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.101,
       "tags": [
         "AI"
       ],
@@ -124,22 +126,6 @@
       ],
       "signal": "watch",
       "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "10-year Treasury yield hits 5% as oil prices jump and Fed meeting looms",
-      "url": "https://www.marketwatch.com/story/10-year-treasury-yield-tops-5-for-the-first-time-since-2007-as-bond-market-selloff-deepens-14c81f75?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-14T20:47:00+00:00",
-      "summary": "The key “affordability” rate briefly touched its highest level since 2007 on Monday.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0516,
-      "tags": [
-        "Fed",
-        "Oil"
-      ],
-      "signal": "watch",
-      "category": "energy",
       "source_repo": "financenews"
     },
     {
@@ -449,18 +435,34 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Global bond sell-off resumes as surging oil prices stoke fears about inflation",
-      "url": "https://www.theguardian.com/business/2026/sep/10/global-bond-selloff-oil-prices-inflation-middle-east-conflict-government-borrowing",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-10T18:05:15+00:00",
-      "summary": "<p>Crude jumps above $107 a barrel amid concerns over Middle East conflict and out-of-control government borrowing</p><p>Nervous investors across big economies have been dumping government bonds, driving up the cost of borrowing, as surging oil prices amplified fears about rising inflation.</p><p>The cost of a barrel of oil jumped 6% to above $107 on Thursday amid concerns that <a href=\"https://www.theguardian.com/world/2026/sep/10/houthis-seize-key-port-mocha-yemen-red-sea-coast-iran-saudi-arabia-us\">advances by Houthi rebels</a> along the Red Sea coast in Yemen could choke off Saudi crude exports.</p> <a href=\"https://www.theguardian.com/business/2026/sep/10/global-bond-selloff-oil-prices-inflation-middle-east-conflict-government-borrowing\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9468,
+      "title": "Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings",
+      "url": "https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-10T14:00:11+00:00",
+      "summary": "Its the latest move by the prediction market company to diversify its assets users can trade.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5859,
       "tags": [
-        "Oil"
+        "Gold",
+        "Silver"
       ],
       "signal": "watch",
-      "category": "energy",
+      "category": "markets",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Ant International partners with Visa, Mastercard on developing AI payments",
+      "url": "https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-10T01:53:50+00:00",
+      "summary": "Visa, Mastercard and Ant International are working on common standards for AI-agent payments — including ways to verify and monitor their transactions.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
       "source_repo": "financenews"
     }
   ]
