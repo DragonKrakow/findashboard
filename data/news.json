@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-09-19T16:09:37.338942+00:00",
+  "generated_at": "2026-09-19T20:09:08.688509+00:00",
   "articles": [
+    {
+      "id": "83a6a5f139ce",
+      "title": "Trump Reignites Kennedy Center Fight",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-19/trump-reignites-kennedy-center-fight-video",
+      "published_at": "2026-09-19T18:09:33+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "President Donald Trump’s plans for the Kennedy Center are hitting legal roadblocks as questions mount over the landmark’s future. Bloomberg’s Shaquille Omari breaks down the escalating battle over one",
+      "tags": []
+    },
+    {
+      "id": "4a92bed626c2",
+      "title": "Hormuz Oil Shipments Hit Six-Month High, US Commander Says",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-19/hormuz-oil-shipments-hit-six-month-high-us-commander-says",
+      "published_at": "2026-09-19T14:47:50+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Oil and liquefied natural gas shipments through the Strait of Hormuz in the past two weeks reached the highest level in six months, signaling that US naval protection and mine clearance efforts are “p",
+      "tags": []
+    },
+    {
+      "id": "5c80adb83bc0",
+      "title": "Turkey Detains Top Finance Executives in Funds Scheme, NTV Says",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-19/turkey-detains-top-finance-executives-in-funds-scheme-ntv-says",
+      "published_at": "2026-09-19T17:02:56+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Turkish authorities on Saturday detained high-profile finance executives as part of an investigation into a “ponzi-like” funds scheme.",
+      "tags": []
+    },
+    {
+      "id": "6d511739f2e6",
+      "title": "Bloomberg This Weekend 09/19/2026",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-19/bloomberg-this-weekend-09-19-2026-video",
+      "published_at": "2026-09-19T16:43:15+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by",
+      "tags": []
+    },
     {
       "id": "3346fe4f9e57",
       "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
@@ -50,18 +98,6 @@
       "tags": []
     },
     {
-      "id": "4a92bed626c2",
-      "title": "Hormuz Oil Shipments Hit Six-Month High, US Commander Says",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-19/hormuz-oil-shipments-hit-six-month-high-us-commander-says",
-      "published_at": "2026-09-19T14:47:50+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Oil and liquefied natural gas shipments through the Strait of Hormuz in the past two weeks reached the highest level in six months, signaling that US naval protection and mine clearance efforts are “p",
-      "tags": []
-    },
-    {
       "id": "1c56d667afee",
       "title": "Saudi Arabia Billionaires’ Family Office Dubai Bet Adds to London Exodus",
       "source": "Bloomberg Markets",
@@ -83,42 +119,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "SpaceX will make up 2.82% of the Nasdaq 100 when the index’s quarterly rebalance takes effect Monday, according to data obtained by Bloomberg, locking in a sharp increase from its current weighting of",
-      "tags": []
-    },
-    {
-      "id": "820e3ff14072",
-      "title": "Companies Avoid Selling the Bonds Investors Crave: Credit Weekly",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-19/companies-avoid-selling-the-bonds-investors-crave-credit-weekly",
-      "published_at": "2026-09-19T14:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Investors are clamoring for the kind of debt companies are reluctant to sell now: longer-term bonds.",
-      "tags": []
-    },
-    {
-      "id": "6e1d5d3aa59d",
-      "title": "Diesel Prices Keep Pressure on Fed and Markets",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-19/diesel-prices-keep-pressure-on-fed-and-markets-video",
-      "published_at": "2026-09-19T13:40:40+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The Federal Reserve unanimously raised its benchmark rate by a quarter point as policymakers confront inflation that remains above target and uncertainty tied to geopolitical developments. Merrill and",
-      "tags": []
-    },
-    {
-      "id": "d55d970f338d",
-      "title": "Mozambique Cut by Moody’s on Heightened Restructuring Risks",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-19/mozambique-cut-by-moody-s-on-heightened-restructuring-risks",
-      "published_at": "2026-09-19T13:38:35+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Moody’s Ratings cut its assessment of Mozambique’s creditworthiness deeper into junk, citing increased risk that the gas-rich southeast African nation will restructure its sole eurobond.",
       "tags": []
     },
     {
@@ -194,15 +194,15 @@
       "tags": []
     },
     {
-      "id": "e88ec9eea75c",
-      "title": "Nobel economists throw support behind California billionaire tax",
+      "id": "daafe194fb18",
+      "title": "Trump announces ‘AI Force’ as alarm grows over technology’s advance",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/94ec0fee-53ab-4d7e-9b17-6b05608ad974?syn-25a6b1a6=1",
-      "published_at": "2026-09-19T11:00:05+00:00",
+      "url": "https://www.ft.com/content/bcbfe352-9e9f-4ef5-81b2-2e01505b8477?syn-25a6b1a6=1",
+      "published_at": "2026-09-19T19:49:31+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Progressive laureates say November ballot measure could ‘start reining in the power’ of ultra-wealthy",
+      "summary": "US president has resisted industry calls for regulation but said he would appoint a ‘tsar’ to monitor for ‘bad’ behaviour",
       "tags": []
     },
     {
@@ -218,18 +218,6 @@
       "tags": []
     },
     {
-      "id": "4d5430fe0f1b",
-      "title": "AI chatbots give wrong answers to financial queries ‘most of the time’",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-      "published_at": "2026-09-19T04:49:57+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Report finds some chatbots ignored upcoming tax changes and hallucinated rules",
-      "tags": []
-    },
-    {
       "id": "e6658481153d",
       "title": "US state department under pressure to disclose Venezuelan oil takings",
       "source": "International homepage",
@@ -239,6 +227,54 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Trump administration holds back from revealing how much money it has collected and how much it has sent back to Caracas",
+      "tags": []
+    },
+    {
+      "id": "e88ec9eea75c",
+      "title": "Nobel economists throw support behind California billionaire tax",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/94ec0fee-53ab-4d7e-9b17-6b05608ad974?syn-25a6b1a6=1",
+      "published_at": "2026-09-19T11:00:05+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Progressive laureates say November ballot measure could ‘start reining in the power’ of ultra-wealthy",
+      "tags": []
+    },
+    {
+      "id": "1a68ff0905e7",
+      "title": "REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-09-19T19:14:38+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/",
+      "tags": []
+    },
+    {
+      "id": "cd5a930b8b12",
+      "title": "Kalshi joins Coinbase with filing for US stock perpetual futures",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-09-19T18:35:16+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi joins Coinbase with filing for US stock perpetual futures\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me",
+      "tags": []
+    },
+    {
+      "id": "eb1e7fbe3bc9",
+      "title": "VanEck criticizes Metaplanet over executive dilution despite compensation cuts",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/vaneck-labels-metaplanet-compensation-bad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-09-19T16:15:27+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"VanEck criticizes Metaplanet over executive dilution despite compensation cuts\" class=\"type:primaryImage\" src=\"https://s3-images",
       "tags": []
     },
     {
@@ -323,42 +359,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC submits crypto market regulation plan for White House review  \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io",
-      "tags": []
-    },
-    {
-      "id": "25be3b17fbd8",
-      "title": "Bitcoin hits $81K as US bond yields rebound on global oil woes",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/markets/bitcoin-hits-81k-as-us-bond-yields-rebound-on-global-oil-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-09-18T15:35:59+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin hits $81K as US bond yields rebound on global oil woes\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
-      "tags": []
-    },
-    {
-      "id": "8b682f45404b",
-      "title": "Banks double on EU MiCA crypto provider list as share hits 23%",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/banks-double-eu-mica-crypto-register-esma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-09-18T14:04:43+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Banks double on EU MiCA crypto provider list as share hits 23%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
-      "tags": []
-    },
-    {
-      "id": "c2645fc3175f",
-      "title": "Ethereum Institutional signals support for Ethlabs’ motion to reduce Ethereum block times",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/ethereum-institutional-support-ethlabs-reduce-ethereum-block-times?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-09-18T12:40:04+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum Institutional signals support for Ethlabs’ motion to reduce Ethereum block times\" class=\"type:primaryImage\" src=\"https:",
       "tags": []
     },
     {
@@ -482,6 +482,78 @@
       "tags": []
     },
     {
+      "id": "d06689e9e087",
+      "title": "Oracle: Backlog Burden Implies More Capex Pains - Contrarian AI Buy Thesis",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4948072-oracle-backlog-burden-implies-more-capex-pains-contrarian-ai-buy-thesis?source=feed_all_articles",
+      "published_at": "2026-09-19T18:21:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Oracle: Backlog Burden Implies More Capex Pains - Contrarian AI Buy Thesis",
+      "tags": []
+    },
+    {
+      "id": "672c968a99d1",
+      "title": "If I Could Only Buy 2 Investments While The Fed Hikes Rates",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4947976-if-i-could-only-buy-2-investments-while-fed-hikes-rates?source=feed_all_articles",
+      "published_at": "2026-09-19T17:05:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "If I Could Only Buy 2 Investments While The Fed Hikes Rates",
+      "tags": []
+    },
+    {
+      "id": "4d2980582bfb",
+      "title": "NiSource: Faster Growth Comes With A Higher Cost",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4948095-nisource-faster-growth-comes-with-a-higher-cost?source=feed_all_articles",
+      "published_at": "2026-09-19T16:50:23+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "NiSource: Faster Growth Comes With A Higher Cost",
+      "tags": []
+    },
+    {
+      "id": "b0bd7b0574e3",
+      "title": "Columbia Dividend Opportunity Fund Q2 2026 Commentary",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4948099-columbia-dividend-opportunity-fund-q2-2026-commentary?source=feed_all_articles",
+      "published_at": "2026-09-19T16:30:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Columbia Dividend Opportunity Fund Q2 2026 Commentary",
+      "tags": []
+    },
+    {
+      "id": "f917be6e2352",
+      "title": "Janus Henderson Forty Fund Q2 2026 Commentary",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4948098-janus-henderson-forty-fund-q2-2026-commentary?source=feed_all_articles",
+      "published_at": "2026-09-19T16:20:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Janus Henderson Forty Fund Q2 2026 Commentary",
+      "tags": []
+    },
+    {
+      "id": "c2f414e8c634",
+      "title": "Why Hyrdogen? Why HYDR?",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4948097-why-hyrdogen-why-hydr?source=feed_all_articles",
+      "published_at": "2026-09-19T16:10:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Why Hyrdogen? Why HYDR?",
+      "tags": []
+    },
+    {
       "id": "26aea73567c7",
       "title": "Fidelity Tax-Free Bond Fund Q2 2026 Commentary",
       "source": "All Articles on Seeking Alpha",
@@ -527,78 +599,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Prologis: Undervalued With Plenty Of Room To Run",
-      "tags": []
-    },
-    {
-      "id": "df62871f2899",
-      "title": "Software Is Officially Back From The Dead",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4948089-software-is-officially-back-from-the-dead?source=feed_all_articles",
-      "published_at": "2026-09-19T15:52:27+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Software Is Officially Back From The Dead",
-      "tags": []
-    },
-    {
-      "id": "d39d4335937b",
-      "title": "The Next Big Theme: September 2026",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4948094-next-big-theme-september-2026?source=feed_all_articles",
-      "published_at": "2026-09-19T15:45:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The Next Big Theme: September 2026",
-      "tags": []
-    },
-    {
-      "id": "922c47852566",
-      "title": "Arch Capital: 7.5% Yielding Preferred Stock Is Attractive Thanks To Low Payout Ratio",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4947226-arch-capital-7-5-percent-yielding-preferred-stock-is-attractive-thanks-to-low-payout-ratio?source=feed_all_articles",
-      "published_at": "2026-09-19T15:40:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Arch Capital: 7.5% Yielding Preferred Stock Is Attractive Thanks To Low Payout Ratio",
-      "tags": []
-    },
-    {
-      "id": "858516be0683",
-      "title": "VEFA Rebalance: Analyst Conviction Shifts To Industrials",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4948093-vefa-rebalance-analyst-conviction-shifts-to-industrials?source=feed_all_articles",
-      "published_at": "2026-09-19T15:35:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "VEFA Rebalance: Analyst Conviction Shifts To Industrials",
-      "tags": []
-    },
-    {
-      "id": "cf482aeeedfc",
-      "title": "VanEck Mid-September 2026 Bitcoin ChainCheck",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4948092-vaneck-mid-september-2026-bitcoin-chaincheck?source=feed_all_articles",
-      "published_at": "2026-09-19T15:20:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "VanEck Mid-September 2026 Bitcoin ChainCheck",
-      "tags": []
-    },
-    {
-      "id": "47d68d1c2d8f",
-      "title": "EWJV: Inflation Can Drive Dividends",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4948088-ishares-msci-japan-value-etf-inflation-can-drive-dividends?source=feed_all_articles",
-      "published_at": "2026-09-19T15:18:46+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "EWJV: Inflation Can Drive Dividends",
       "tags": []
     }
   ]
