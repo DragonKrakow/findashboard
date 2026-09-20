@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-09-19T20:09:08.688509+00:00",
+  "generated_at": "2026-09-20T00:30:42.026371+00:00",
   "articles": [
-    {
-      "id": "83a6a5f139ce",
-      "title": "Trump Reignites Kennedy Center Fight",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-19/trump-reignites-kennedy-center-fight-video",
-      "published_at": "2026-09-19T18:09:33+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "President Donald Trump’s plans for the Kennedy Center are hitting legal roadblocks as questions mount over the landmark’s future. Bloomberg’s Shaquille Omari breaks down the escalating battle over one",
-      "tags": []
-    },
     {
       "id": "4a92bed626c2",
       "title": "Hormuz Oil Shipments Hit Six-Month High, US Commander Says",
@@ -23,6 +11,30 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Oil and liquefied natural gas shipments through the Strait of Hormuz in the past two weeks reached the highest level in six months, signaling that US naval protection and mine clearance efforts are “p",
+      "tags": []
+    },
+    {
+      "id": "820e3ff14072",
+      "title": "Companies Avoid Selling the Bonds Investors Crave: Credit Weekly",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-19/companies-avoid-selling-the-bonds-investors-crave-credit-weekly",
+      "published_at": "2026-09-19T14:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Investors are clamoring for the kind of debt companies are reluctant to sell now: longer-term bonds.",
+      "tags": []
+    },
+    {
+      "id": "83a6a5f139ce",
+      "title": "Trump Reignites Kennedy Center Fight",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-19/trump-reignites-kennedy-center-fight-video",
+      "published_at": "2026-09-19T18:09:33+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "President Donald Trump’s plans for the Kennedy Center are hitting legal roadblocks as questions mount over the landmark’s future. Bloomberg’s Shaquille Omari breaks down the escalating battle over one",
       "tags": []
     },
     {
@@ -110,18 +122,6 @@
       "tags": []
     },
     {
-      "id": "e00fc2aaee1b",
-      "title": "SpaceX’s Nasdaq 100 Weight Is Confirmed at 2.82% in Rebalance",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-19/spacex-s-nasdaq-100-weight-is-confirmed-at-2-82-in-rebalance",
-      "published_at": "2026-09-19T14:17:01+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "SpaceX will make up 2.82% of the Nasdaq 100 when the index’s quarterly rebalance takes effect Monday, according to data obtained by Bloomberg, locking in a sharp increase from its current weighting of",
-      "tags": []
-    },
-    {
       "id": "c942add398e8",
       "title": "Investors warn Anthropic could struggle to sustain revenues post-IPO",
       "source": "International homepage",
@@ -131,18 +131,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "OpenAI’s resurgence, cheap rivals and safety fears test faith in durability of business model",
-      "tags": []
-    },
-    {
-      "id": "a4d3c6123018",
-      "title": "OpenAI expects to burn $280bn by 2030",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/6011d061-eee3-4193-b3b7-8ee4155f538c?syn-25a6b1a6=1",
-      "published_at": "2026-09-18T22:33:32+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "AI start-up has projected deeply negative cash flows as it invests in infrastructure and faces price pressures",
       "tags": []
     },
     {
@@ -202,7 +190,7 @@
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "US president has resisted industry calls for regulation but said he would appoint a ‘tsar’ to monitor for ‘bad’ behaviour",
+      "summary": "US president has resisted calls for regulation but said he would appoint a ‘tsar’ to monitor for ‘bad’ behaviour",
       "tags": []
     },
     {
@@ -239,6 +227,18 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Progressive laureates say November ballot measure could ‘start reining in the power’ of ultra-wealthy",
+      "tags": []
+    },
+    {
+      "id": "f6d9791582da",
+      "title": "Paramount in talks to settle antitrust lawsuit blocking WBD deal",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/e0e384b8-aa4c-4948-b4ee-7bdff414641b?syn-25a6b1a6=1",
+      "published_at": "2026-09-19T01:37:52+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Agreement to end action by a dozen Democratic states would clear path for $111bn tie-up",
       "tags": []
     },
     {
@@ -482,6 +482,54 @@
       "tags": []
     },
     {
+      "id": "a8a6218702e2",
+      "title": "Korn Ferry (KFY) Presents at William Blair Human Capital Services Virtual Conference - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4948103-korn-ferry-kfy-presents-at-william-blair-human-capital-services-virtual-conference-slideshow?source=feed_all_articles",
+      "published_at": "2026-09-19T23:17:59+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Korn Ferry (KFY) Presents at William Blair Human Capital Services Virtual Conference - Slideshow",
+      "tags": []
+    },
+    {
+      "id": "ef80527241fa",
+      "title": "Shiseido Company, Limited (SSDOY) Analyst/Investor Day - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4948102-shiseido-company-limited-ssdoy-analyst-investor-day-slideshow?source=feed_all_articles",
+      "published_at": "2026-09-19T23:17:01+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Shiseido Company, Limited (SSDOY) Analyst/Investor Day - Slideshow",
+      "tags": []
+    },
+    {
+      "id": "31279a8f9dc3",
+      "title": "Oscar Health, Inc. (OSCR) Analyst/Investor Day - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4948101-oscar-health-inc-oscr-analyst-investor-day-slideshow?source=feed_all_articles",
+      "published_at": "2026-09-19T23:16:56+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Oscar Health, Inc. (OSCR) Analyst/Investor Day - Slideshow",
+      "tags": []
+    },
+    {
+      "id": "42e0276c3722",
+      "title": "Cboe Global Markets, Inc. (CBOE) Presents at Barclays 24th Annual Global Financial Services Conference - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4948100-cboe-global-markets-inc-cboe-presents-at-barclays-24th-annual-global-financial-services?source=feed_all_articles",
+      "published_at": "2026-09-19T23:15:45+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Cboe Global Markets, Inc. (CBOE) Presents at Barclays 24th Annual Global Financial Services Conference - Slideshow",
+      "tags": []
+    },
+    {
       "id": "d06689e9e087",
       "title": "Oracle: Backlog Burden Implies More Capex Pains - Contrarian AI Buy Thesis",
       "source": "All Articles on Seeking Alpha",
@@ -551,54 +599,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Why Hyrdogen? Why HYDR?",
-      "tags": []
-    },
-    {
-      "id": "26aea73567c7",
-      "title": "Fidelity Tax-Free Bond Fund Q2 2026 Commentary",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4948096-fidelity-tax-free-bond-fund-q2-2026-commentary?source=feed_all_articles",
-      "published_at": "2026-09-19T16:05:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Fidelity Tax-Free Bond Fund Q2 2026 Commentary",
-      "tags": []
-    },
-    {
-      "id": "9f95553be25d",
-      "title": "The 1-Minute Market Report September 19, 2026",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4948091-the-1-minute-market-report-september-19-2026?source=feed_all_articles",
-      "published_at": "2026-09-19T16:04:15+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The 1-Minute Market Report September 19, 2026",
-      "tags": []
-    },
-    {
-      "id": "da1434091caa",
-      "title": "Oracle: OpenAI Just Blinked",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4948026-oracle-openai-just-blinked?source=feed_all_articles",
-      "published_at": "2026-09-19T16:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Oracle: OpenAI Just Blinked",
-      "tags": []
-    },
-    {
-      "id": "e5c5e6d9c60f",
-      "title": "Prologis: Undervalued With Plenty Of Room To Run",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4948090-prologis-undervalued-with-plenty-of-room-to-run?source=feed_all_articles",
-      "published_at": "2026-09-19T15:59:26+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Prologis: Undervalued With Plenty Of Room To Run",
       "tags": []
     }
   ]
