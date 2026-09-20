@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-20T00:30:42.026371+00:00",
+  "generated_at": "2026-09-20T04:11:41.137855+00:00",
   "articles": [
+    {
+      "id": "2fff591f82c4",
+      "title": "Australia Home Auction Clearance Rates Fall Amid Rate Hike Fears",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-20/australia-home-auction-clearance-rates-fall-amid-rate-hike-fears",
+      "published_at": "2026-09-20T02:56:32+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Australia’s residential real estate market remained subdued with auction clearance rates falling this week as concerns the central bank will increase interest rates later this month grow, according to",
+      "tags": []
+    },
+    {
+      "id": "ec66b16f9a8a",
+      "title": "Venezuela, TotalEnergies Pave Way for Oil Company’s Return",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-20/venezuela-totalenergies-pave-way-for-oil-company-s-return",
+      "published_at": "2026-09-20T02:01:49+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Venezuela and TotalEnergies SE signed a memorandum of understanding on Saturday, setting up the French company for a return to operations in the South American country.",
+      "tags": []
+    },
     {
       "id": "4a92bed626c2",
       "title": "Hormuz Oil Shipments Hit Six-Month High, US Commander Says",
@@ -98,30 +122,6 @@
       "tags": []
     },
     {
-      "id": "dcab6f9f8ae3",
-      "title": "Governor Cox Says Americans Need Healthier Conflict",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-19/governor-cox-says-americans-need-healthier-conflict-video",
-      "published_at": "2026-09-19T15:04:02+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Utah Governor Spencer Cox joins Bloomberg This Weekend and argues Americans need more substantive disagreement without the contempt he says is fueling polarization, damaged relationships and political",
-      "tags": []
-    },
-    {
-      "id": "1c56d667afee",
-      "title": "Saudi Arabia Billionaires’ Family Office Dubai Bet Adds to London Exodus",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-18/saudi-arabia-billionaires-family-office-dubai-bet-adds-to-london-exodus",
-      "published_at": "2026-09-18T10:19:29+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "An investment firm for one of Saudi Arabia’s richest families is relocating from London to Dubai, according to people familiar with the matter, the latest example of private wealth outflows from the U",
-      "tags": []
-    },
-    {
       "id": "c942add398e8",
       "title": "Investors warn Anthropic could struggle to sustain revenues post-IPO",
       "source": "International homepage",
@@ -194,18 +194,6 @@
       "tags": []
     },
     {
-      "id": "ca73c9eeec1a",
-      "title": "Google’s Gemini hacked three companies in new AI safety incident",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/158740d1-fde7-4dbc-a282-5830c3201189?syn-25a6b1a6=1",
-      "published_at": "2026-09-19T01:29:25+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Breakout during training exercises follows instances at rivals OpenAI and Anthropic as concerns grow over safety of frontier systems",
-      "tags": []
-    },
-    {
       "id": "e6658481153d",
       "title": "US state department under pressure to disclose Venezuelan oil takings",
       "source": "International homepage",
@@ -227,18 +215,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Progressive laureates say November ballot measure could ‘start reining in the power’ of ultra-wealthy",
-      "tags": []
-    },
-    {
-      "id": "f6d9791582da",
-      "title": "Paramount in talks to settle antitrust lawsuit blocking WBD deal",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/e0e384b8-aa4c-4948-b4ee-7bdff414641b?syn-25a6b1a6=1",
-      "published_at": "2026-09-19T01:37:52+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Agreement to end action by a dozen Democratic states would clear path for $111bn tie-up",
       "tags": []
     },
     {
@@ -482,6 +458,90 @@
       "tags": []
     },
     {
+      "id": "c794d7dd7517",
+      "title": "Politics And The Markets 09/20/26",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4941668-politics-and-the-markets-092026?source=feed_all_articles",
+      "published_at": "2026-09-20T04:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Politics And The Markets 09/20/26",
+      "tags": []
+    },
+    {
+      "id": "202b6ba025e7",
+      "title": "PAPI: Differentiated Approach And Monthly Pay",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4948110-papi-differentiated-approach-and-monthly-pay?source=feed_all_articles",
+      "published_at": "2026-09-20T03:59:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "PAPI: Differentiated Approach And Monthly Pay",
+      "tags": []
+    },
+    {
+      "id": "04a080e1695e",
+      "title": "IXN: Massive Multiple Compression In Tech YoY, Too Cheap Today",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4948109-ixn-massive-multiple-compression-in-tech-yoy-too-cheap-today?source=feed_all_articles",
+      "published_at": "2026-09-20T03:57:22+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "IXN: Massive Multiple Compression In Tech YoY, Too Cheap Today",
+      "tags": []
+    },
+    {
+      "id": "b2d583f95733",
+      "title": "Saul Centers: Leverage Is Too High Here (Rating Downgrade)",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4948107-saul-centers-leverage-is-too-high-here-downgrade?source=feed_all_articles",
+      "published_at": "2026-09-20T03:30:58+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Saul Centers: Leverage Is Too High Here (Rating Downgrade)",
+      "tags": []
+    },
+    {
+      "id": "29faf3768a12",
+      "title": "IDEX Corporation: A Stronger Franchise Already Carries A Recovery Price",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4948106-idex-corporation-stronger-franchise-already-carries-a-recovery-price?source=feed_all_articles",
+      "published_at": "2026-09-20T03:17:45+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "IDEX Corporation: A Stronger Franchise Already Carries A Recovery Price",
+      "tags": []
+    },
+    {
+      "id": "e156171da1be",
+      "title": "SentinelOne's Land-And-Expand Strategy Is Driving Growth Across Every Product Line",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4948105-sentinelone-land-and-expand-strategy-is-driving-growth-across-every-product-line?source=feed_all_articles",
+      "published_at": "2026-09-20T03:03:52+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "SentinelOne's Land-And-Expand Strategy Is Driving Growth Across Every Product Line",
+      "tags": []
+    },
+    {
+      "id": "c2cab8d55aec",
+      "title": "BDC Weekly Review: Bond Issuance Remains An Income Headwind",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4948104-bdc-weekly-review-bond-issuance-remains-an-income-headwind?source=feed_all_articles",
+      "published_at": "2026-09-20T02:54:08+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "BDC Weekly Review: Bond Issuance Remains An Income Headwind",
+      "tags": []
+    },
+    {
       "id": "a8a6218702e2",
       "title": "Korn Ferry (KFY) Presents at William Blair Human Capital Services Virtual Conference - Slideshow",
       "source": "All Articles on Seeking Alpha",
@@ -515,90 +575,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Oscar Health, Inc. (OSCR) Analyst/Investor Day - Slideshow",
-      "tags": []
-    },
-    {
-      "id": "42e0276c3722",
-      "title": "Cboe Global Markets, Inc. (CBOE) Presents at Barclays 24th Annual Global Financial Services Conference - Slideshow",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4948100-cboe-global-markets-inc-cboe-presents-at-barclays-24th-annual-global-financial-services?source=feed_all_articles",
-      "published_at": "2026-09-19T23:15:45+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Cboe Global Markets, Inc. (CBOE) Presents at Barclays 24th Annual Global Financial Services Conference - Slideshow",
-      "tags": []
-    },
-    {
-      "id": "d06689e9e087",
-      "title": "Oracle: Backlog Burden Implies More Capex Pains - Contrarian AI Buy Thesis",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4948072-oracle-backlog-burden-implies-more-capex-pains-contrarian-ai-buy-thesis?source=feed_all_articles",
-      "published_at": "2026-09-19T18:21:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Oracle: Backlog Burden Implies More Capex Pains - Contrarian AI Buy Thesis",
-      "tags": []
-    },
-    {
-      "id": "672c968a99d1",
-      "title": "If I Could Only Buy 2 Investments While The Fed Hikes Rates",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4947976-if-i-could-only-buy-2-investments-while-fed-hikes-rates?source=feed_all_articles",
-      "published_at": "2026-09-19T17:05:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "If I Could Only Buy 2 Investments While The Fed Hikes Rates",
-      "tags": []
-    },
-    {
-      "id": "4d2980582bfb",
-      "title": "NiSource: Faster Growth Comes With A Higher Cost",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4948095-nisource-faster-growth-comes-with-a-higher-cost?source=feed_all_articles",
-      "published_at": "2026-09-19T16:50:23+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "NiSource: Faster Growth Comes With A Higher Cost",
-      "tags": []
-    },
-    {
-      "id": "b0bd7b0574e3",
-      "title": "Columbia Dividend Opportunity Fund Q2 2026 Commentary",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4948099-columbia-dividend-opportunity-fund-q2-2026-commentary?source=feed_all_articles",
-      "published_at": "2026-09-19T16:30:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Columbia Dividend Opportunity Fund Q2 2026 Commentary",
-      "tags": []
-    },
-    {
-      "id": "f917be6e2352",
-      "title": "Janus Henderson Forty Fund Q2 2026 Commentary",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4948098-janus-henderson-forty-fund-q2-2026-commentary?source=feed_all_articles",
-      "published_at": "2026-09-19T16:20:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Janus Henderson Forty Fund Q2 2026 Commentary",
-      "tags": []
-    },
-    {
-      "id": "c2f414e8c634",
-      "title": "Why Hyrdogen? Why HYDR?",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4948097-why-hyrdogen-why-hydr?source=feed_all_articles",
-      "published_at": "2026-09-19T16:10:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Why Hyrdogen? Why HYDR?",
       "tags": []
     }
   ]
