@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-20T05:35:01Z",
-  "snapshot_date": "2026-09-20",
+  "generated_at": "2026-09-21T05:38:15Z",
+  "snapshot_date": "2026-09-21",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "What happens if you never buy a house? What renters are gaining — and giving up.",
-      "url": "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-19T16:45:00+00:00",
-      "summary": "The high cost of buying a home means that many 20- and 30-somethings are re-evaluating traditional personal-finance advice that assumed homeownership to build wealth.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8126,
+      "title": "UK minister warns of impact of Trump’s Iran war on next month’s budget",
+      "url": "https://www.theguardian.com/politics/2026/sep/20/uk-budget-made-harder-donald-trump-war-iran-bridget-phillipson-andy-burnham",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-20T19:36:29+00:00",
+      "summary": "<p>Bridget Phillipson says Burnham’s past criticisms of US president not an issue as PM prepares to meet Trump at UN</p><p>Next month’s budget will be made more difficult by Donald Trump’s war with Iran, one of Andy Burnham’s cabinet ministers has said, while adding she did not expect the prime minister’s previous disparaging comments about the US president to be an issue.</p><p>Burnham is <a href=\"https://www.theguardian.com/politics/2026/sep/16/andy-burnham-donald-trump-un-general-assembly\">expected to meet Trump</a> early next week at the UN general assembly summit in New York, the pair having previously spoken twice by phone since Burnham entered No 10.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/20/uk-budget-made-harder-donald-trump-war-iran-bridget-phillipson-andy-burnham\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.9538,
       "tags": [
         "AI"
       ],
@@ -20,14 +20,30 @@
       "source_repo": "financenews"
     },
     {
-      "title": "It’s not a winner-take-all stock market. This hedge-fund manager favors three underdogs.",
-      "url": "https://www.marketwatch.com/story/its-not-a-winner-take-all-stock-market-this-hedge-fund-manager-favors-three-underdogs-a366ab6f?mod=mw_rss_topstories",
+      "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+      "url": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-19T16:19:00+00:00",
-      "summary": "There’s a winner-take-all fallacy in certain industries, says a hedge-fund manager.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.4767,
+      "published_at": "2026-09-20T16:30:00+00:00",
+      "summary": "“I also own my home and an SUV outright, with no outstanding debt.”",
+      "sentiment": "neutral",
+      "sentiment_score": -0.1331,
       "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+      "url": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-20T15:00:00+00:00",
+      "summary": "The Federal Reserve announced a quarter-percentage-point interest-rate hike Wednesday, to a range of 3.75%-4.0%.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.6956,
+      "tags": [
+        "Fed",
         "AI"
       ],
       "signal": "watch",
@@ -38,12 +54,60 @@
       "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
       "url": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-19T16:15:00+00:00",
+      "published_at": "2026-09-20T13:16:00+00:00",
       "summary": "“They had been married for over 30 years when she passed.”",
       "sentiment": "bearish",
       "sentiment_score": -0.296,
       "tags": [
         "Silver",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Record diesel prices are exposing pain points in the stock market and economy",
+      "url": "https://www.marketwatch.com/story/record-diesel-prices-are-exposing-pain-points-in-the-stock-market-and-economy-a2079b04?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-20T13:00:00+00:00",
+      "summary": "A major risks now is that diesel prices stay high — and continue to put upward pressure on inflation.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.8399,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
+      "url": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-20T12:47:23+00:00",
+      "summary": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7184,
+      "tags": [
+        "Interest Rates",
+        "AI",
+        "Transport"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Are global stock markets heading for a crash?",
+      "url": "https://www.theguardian.com/business/ng-interactive/2026/sep/20/stock-market-crash-government-bond-yields",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-20T05:00:07+00:00",
+      "summary": "<p>Economies thrown into renewed turmoil as AI debt, Iran war and soaring government bond yields fuel alarm</p><p>At the height of the summer, the mood was optimistic in the world’s financial capitals. Powered by the <a href=\"https://www.theguardian.com/technology/artificialintelligenceai\">AI revolution</a>, the US stock market had rallied to a <a href=\"https://www.theguardian.com/business/2026/aug/04/stock-market-records-ai-profits-oil-prices-ease\">fresh all-time high</a>, as investors bet the multitrillion-dollar investment spree would overshadow the hit from the Iran war.</p><p>Now the warning lights are flashing red. As the fighting in the <a href=\"https://www.theguardian.com/world/us-israel-war-on-iran\">Middle East</a> intensifies without clear sign of a resolution, financial markets have been thrown into renewed turmoil. A slowdown looms in the AI arms race, and tinderbox conditions in the market for government debt are fuelling alarm.</p> <a href=\"https://www.theguardian.com/business/ng-interactive/2026/sep/20/stock-market-crash-government-bond-yields\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.9637,
+      "tags": [
+        "Oil",
         "AI"
       ],
       "signal": "watch",
@@ -399,67 +463,6 @@
       "sentiment_score": -0.8625,
       "tags": [
         "Interest Rates",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "UK rents accelerate as London house prices fall, and inflation rises to 3.1% – as it happened",
-      "url": "https://www.theguardian.com/business/live/2026/sep/16/uk-inflation-expected-to-have-risen-in-august-as-cost-of-living-squeeze-tightens-business-live",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-16T14:04:20+00:00",
-      "summary": "<p>Soaring motor fuel costs have pushed UK inflation to a five-month high in August</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/16/uk-inflation-rises-pressure-on-households-bank-of-england-interest-rates\">Full story: <strong>UK inflation rises to 3.1% as motor fuel prices jump by almost a quarter</strong></a></p></li></ul><p><strong>Worryingly, the cost of goods produced by UK factories rose at a faster rate in August too.</strong></p><p>Producer output prices – or the cost of goods at the ‘factory gate’ - rose by 3.7% in the year to August, up from 3.3% in July.</p><p>“Rising crude oil and petrol prices increased both the annual cost of raw materials and the price of goods leaving factories respectively.”</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/16/uk-inflation-expected-to-have-risen-in-august-as-cost-of-living-squeeze-tightens-business-live\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.3818,
-      "tags": [
-        "Oil"
-      ],
-      "signal": "watch",
-      "category": "energy",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Reform-linked thinktank ‘to call for big tax cuts for the rich’",
-      "url": "https://www.theguardian.com/politics/2026/sep/16/reform-thinktank-tax-cuts-rich-centre-for-a-better-britain",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-16T13:40:59+00:00",
-      "summary": "<p>Centre for a Better Britain will urge abolishing inheritance tax and phasing out capital gains tax, report says</p><p>A thinktank linked to Nigel Farage’s Reform UK is preparing an influential policy plan that is reportedly going to call for substantial tax cuts for the rich.</p><p>The <a href=\"https://www.cfabb.uk/how-we-work\">Centre for a Better Britain (CFABB) </a>is due to publish the 200-page document next week, giving insight into the economic and financial policies that are likely to form part of Reform UK’s platform before the next election.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/16/reform-thinktank-tax-cuts-rich-centre-for-a-better-britain\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.872,
-      "tags": [
-        "Election",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "China's AI leaders keep quiet despite U.S. 'publicity' on tech risks",
-      "url": "https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-16T04:01:59+00:00",
-      "summary": "Z.ai, Moonshot, MiniMax, Alibaba and Tencent did not provide any statements when contacted by CNBC about the warnings on AI from Silicon Valley.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.5106,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Carney says Canada will pursue ‘unique security and economic alliance’ with EU amid US trade spat",
-      "url": "https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-15T19:08:37+00:00",
-      "summary": "<p>Prime minister speaks of strengthening Canada’s economic and political ties to Europe at Canada Investment Summit</p><p>Mark Carney said Canada will pursue a “unique security and economic alliance” with Europe as he positions his country as a base to build in the “new global economic order”.</p><p>Speaking to investors, company executives and government ministers at the inaugural Canada Investment Summit on Tuesday, the prime minister pitched Canada as a “safe harbour” and lucrative home for foreign capital as his government looks to reduce its reliance on trade with the United States.</p> <a href=\"https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8689,
-      "tags": [
         "AI"
       ],
       "signal": "watch",
