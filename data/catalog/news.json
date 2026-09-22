@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-21T05:38:15Z",
-  "snapshot_date": "2026-09-21",
+  "generated_at": "2026-09-22T05:37:35Z",
+  "snapshot_date": "2026-09-22",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "UK minister warns of impact of Trump’s Iran war on next month’s budget",
-      "url": "https://www.theguardian.com/politics/2026/sep/20/uk-budget-made-harder-donald-trump-war-iran-bridget-phillipson-andy-burnham",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-20T19:36:29+00:00",
-      "summary": "<p>Bridget Phillipson says Burnham’s past criticisms of US president not an issue as PM prepares to meet Trump at UN</p><p>Next month’s budget will be made more difficult by Donald Trump’s war with Iran, one of Andy Burnham’s cabinet ministers has said, while adding she did not expect the prime minister’s previous disparaging comments about the US president to be an issue.</p><p>Burnham is <a href=\"https://www.theguardian.com/politics/2026/sep/16/andy-burnham-donald-trump-un-general-assembly\">expected to meet Trump</a> early next week at the UN general assembly summit in New York, the pair having previously spoken twice by phone since Burnham entered No 10.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/20/uk-budget-made-harder-donald-trump-war-iran-bridget-phillipson-andy-burnham\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9538,
+      "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
+      "url": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-21T22:01:00+00:00",
+      "summary": "Muse is gaining popularity and helping convince investors that Meta’s AI bets are paying off.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.9618,
       "tags": [
         "AI"
       ],
@@ -20,13 +20,28 @@
       "source_repo": "financenews"
     },
     {
-      "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
-      "url": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+      "title": "Novo Nordisk’s stock tumbles as doubts persist about Ozempic maker’s strategy",
+      "url": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-20T16:30:00+00:00",
-      "summary": "“I also own my home and an SUV outright, with no outstanding debt.”",
+      "published_at": "2026-09-21T20:23:00+00:00",
+      "summary": "The drugmaker, best known for developing weight-loss and diabetes drugs, failed to excite investors hoping for a turnaround.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6808,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Amazon and Shopify make starkly different moves in the brewing battle over AI shopping",
+      "url": "https://www.marketwatch.com/story/amazon-and-shopify-make-starkly-different-moves-in-the-brewing-battle-over-ai-shopping-4e00618b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-21T20:22:00+00:00",
+      "summary": "While Amazon is shutting out Meta’s Muse, Shopify is partnering on payment technology with the buzzy AI assistant.",
       "sentiment": "neutral",
-      "sentiment_score": -0.1331,
+      "sentiment_score": -0.0516,
       "tags": [
         "AI"
       ],
@@ -35,45 +50,13 @@
       "source_repo": "financenews"
     },
     {
-      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
-      "url": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+      "title": "AMD hits a major milestone as AI stocks blaze higher",
+      "url": "https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-20T15:00:00+00:00",
-      "summary": "The Federal Reserve announced a quarter-percentage-point interest-rate hike Wednesday, to a range of 3.75%-4.0%.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.6956,
-      "tags": [
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "url": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-20T13:16:00+00:00",
-      "summary": "“They had been married for over 30 years when she passed.”",
-      "sentiment": "bearish",
-      "sentiment_score": -0.296,
-      "tags": [
-        "Silver",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Record diesel prices are exposing pain points in the stock market and economy",
-      "url": "https://www.marketwatch.com/story/record-diesel-prices-are-exposing-pain-points-in-the-stock-market-and-economy-a2079b04?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-20T13:00:00+00:00",
-      "summary": "A major risks now is that diesel prices stay high — and continue to put upward pressure on inflation.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.8399,
+      "published_at": "2026-09-21T20:19:00+00:00",
+      "summary": "On an intraday basis, AMD became the 14th U.S. company to see its market capitalization top $1 trillion.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.2023,
       "tags": [
         "AI"
       ],
@@ -85,7 +68,7 @@
       "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
       "url": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
       "source": "CNBC Finance",
-      "published_at": "2026-09-20T12:47:23+00:00",
+      "published_at": "2026-09-21T15:04:04+00:00",
       "summary": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
       "sentiment": "bullish",
       "sentiment_score": 0.7184,
@@ -93,6 +76,67 @@
         "Interest Rates",
         "AI",
         "Transport"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Fears over interest rate rise and jobs send UK consumer confidence to three-year low",
+      "url": "https://www.theguardian.com/business/2026/sep/21/interest-rate-rise-jobs-uk-consumer-confidence-budget",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-21T12:00:11+00:00",
+      "summary": "<p>Blow to John Healey before budget as UK households face ‘notable strain’ on their finances</p><p>Fears of a steep rise in mortgage payments and increasing job insecurity have sent UK consumer confidence tumbling to a three-month low, according to a leading survey.</p><p>In a blow to John Healey before next month’s budget, the S&amp;P Global consumer sentiment index dropped to 42.7 in September from 42.9 in August, indicating “a notable strain on financial confidence across UK households”.</p> <a href=\"https://www.theguardian.com/business/2026/sep/21/interest-rate-rise-jobs-uk-consumer-confidence-budget\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5994,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "All the signs say another financial crisis is coming. Here’s why we need to prepare for it now | Larry Elliott",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/21/financial-crisis-ai-oil-market-2008-crash-disruption",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-21T07:00:38+00:00",
+      "summary": "<p>War, AI disruption and markets in turmoil: the warnings are all there. But lessons from the 2008 crash could help us</p> <a href=\"https://www.theguardian.com/commentisfree/2026/sep/21/financial-crisis-ai-oil-market-2008-crash-disruption\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.6858,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "UK urged to strengthen financial muscle of national wealth fund to aid economy",
+      "url": "https://www.theguardian.com/business/2026/sep/21/uk-urged-to-strengthen-financial-muscle-of-national-wealth-fund-to-aid-economy",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-21T04:00:35+00:00",
+      "summary": "<p>Unions, thinktanks and others say overhaul could provide investment Britain needs</p><p>Unions, thinktanks, environmental groups and charities have come together to call on ministers to boost the financial firepower of the national wealth fund to empower it to invest more in Britain and rebalance the country’s economy.</p><p>Lower energy bills, the revitalisation of the UK’s industrial heartlands and the provision of more high-quality jobs could all be unlocked by scaling up the NWF, according to a statement from organisations including the TUC, Greenpeace, WWF and the New Economics Foundation.</p><p>Turbocharging the retrofitting of homes and buildings.</p><p>Giving the public a bigger stake in critical infrastructure through taking part-ownership stakes in key projects.</p><p>Launching a targeted investment programme to bring new green industries to communities hit hardest by deindustrialisation.</p><p>Supporting a network of regional banks to funnel money into the small businesses that hold up local economies.</p> <a href=\"https://www.theguardian.com/business/2026/sep/21/uk-urged-to-strengthen-financial-muscle-of-national-wealth-fund-to-aid-economy\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.926,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "UK minister warns of impact of Trump’s Iran war on next month’s budget",
+      "url": "https://www.theguardian.com/politics/2026/sep/20/uk-budget-made-harder-donald-trump-war-iran-bridget-phillipson-andy-burnham",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-20T19:36:29+00:00",
+      "summary": "<p>Bridget Phillipson says Burnham’s past criticisms of US president not an issue as PM prepares to meet Trump at UN</p><p>Next month’s budget will be made more difficult by Donald Trump’s war with Iran, one of Andy Burnham’s cabinet ministers has said, while adding she did not expect the prime minister’s previous disparaging comments about the US president to be an issue.</p><p>Burnham is <a href=\"https://www.theguardian.com/politics/2026/sep/16/andy-burnham-donald-trump-un-general-assembly\">expected to meet Trump</a> early next week at the UN general assembly summit in New York, the pair having previously spoken twice by phone since Burnham entered No 10.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/20/uk-budget-made-harder-donald-trump-war-iran-bridget-phillipson-andy-burnham\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.9538,
+      "tags": [
+        "AI"
       ],
       "signal": "watch",
       "category": "technology",
@@ -421,52 +465,6 @@
       ],
       "signal": "watch",
       "category": "macro",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Here is what changed in the new Fed statement under Warsh",
-      "url": "https://www.cnbc.com/2026/09/16/september-fed-statement-redline.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-16T18:18:54+00:00",
-      "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in July.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "Fed"
-      ],
-      "signal": "watch",
-      "category": "macro",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Senate is still a toss-up, but Democrats now have slight edge, prediction market traders think",
-      "url": "https://www.cnbc.com/2026/09/16/prediction-markets-say-democrats-are-slightly-favored-to-win-senate.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-16T16:26:41+00:00",
-      "summary": "Traders on both Kalshi and Polymarket see Democrats with one of their best chances to flip the U.S. Senate since the contracts on the election opened.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8402,
-      "tags": [
-        "Election"
-      ],
-      "signal": "watch",
-      "category": "markets",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Burnham warns of ‘difficult decisions’ in budget as inflation rises to 3.1%",
-      "url": "https://www.theguardian.com/business/2026/sep/16/uk-inflation-rises-pressure-on-households-bank-of-england-interest-rates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-16T15:17:49+00:00",
-      "summary": "<p>PM rejects claim he leads a ‘tax-and-spend’ government, as Bank of England prepares for interest rates decision</p><p>Andy Burnham has said “difficult decisions” will need to be taken in next month’s budget after a rise in energy prices triggered by the Iran war drove UK inflation above 3%.</p><p>In a fresh blow for living standards amid the worsening damage to the global economy from the Middle East conflict, official figures showed soaring fuel prices pushed inflation from 2.9% in July to 3.1% in August.</p> <a href=\"https://www.theguardian.com/business/2026/sep/16/uk-inflation-rises-pressure-on-households-bank-of-england-interest-rates\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.8625,
-      "tags": [
-        "Interest Rates",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
       "source_repo": "financenews"
     }
   ]
