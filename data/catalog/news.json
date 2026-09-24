@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-23T05:37:27Z",
-  "snapshot_date": "2026-09-23",
+  "generated_at": "2026-09-24T05:37:29Z",
+  "snapshot_date": "2026-09-24",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "The Nasdaq’s rapid rise to a record is sending a message to investors: Don’t wait for a pullback to buy",
-      "url": "https://www.marketwatch.com/story/the-nasdaqs-rapid-rise-to-a-record-is-sending-a-message-to-investors-dont-wait-for-a-pullback-to-buy-5f533ed8?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-22T21:44:00+00:00",
-      "summary": "Some analysts say the upbeat data on the Nasdaq’s outlook is backed up by improving fundamentals.",
+      "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
+      "url": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-23T23:59:39+00:00",
+      "summary": "The deal, which was set to expire in November, will now be extended to Jan. 10, Bessent said, noting the need for Beijing to fulfill more deliverables.",
       "sentiment": "bullish",
       "sentiment_score": 0.4404,
       "tags": [
@@ -20,58 +20,13 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Sandisk’s stock is rising: Why one analyst says AI could help it reach new heights",
-      "url": "https://www.marketwatch.com/story/sandisks-stock-is-rising-why-one-analyst-says-ai-could-help-it-reach-new-heights-5541ded8?mod=mw_rss_topstories",
+      "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
+      "url": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-22T21:30:00+00:00",
-      "summary": "Larger AI models and inference are turning NAND from a commodity into a critical component, a Rosenblatt analyst said.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.128,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Want to bet on risky, high-beta stocks? Why you should wait for mid-October.",
-      "url": "https://www.marketwatch.com/story/want-to-bet-on-risky-high-beta-stocks-why-you-should-wait-for-this-week-in-october-d9094820?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-22T21:27:00+00:00",
-      "summary": "Coming soon is one of the only weeks of the year in which aggressive traders should bet that the highest-beta stocks will beat the lowest ones.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.5719,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Could Meta’s viral Muse app be the company’s ChatGPT moment?",
-      "url": "https://www.marketwatch.com/story/could-metas-viral-muse-app-be-the-companys-chatgpt-moment-8e7075aa?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-22T21:26:00+00:00",
-      "summary": "Meta’s new assistant is topping App Store charts and beating ChatGPT’s early download pace, spurring renewed confidence in the company’s AI strategy",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0772,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Why Apple could soon join Nvidia in the exclusive $5 trillion club",
-      "url": "https://www.marketwatch.com/story/why-apple-could-soon-join-nvidia-in-the-exclusive-5-trillion-club-4e7724e7?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-22T20:54:00+00:00",
-      "summary": "A new foldable iPhone and a disciplined AI-spending approach have sent Apple shares to new highs this year",
+      "published_at": "2026-09-23T23:15:00+00:00",
+      "summary": "“I draw from my IRA as needed for household repairs, trips and other larger expenses.”",
       "sentiment": "bullish",
-      "sentiment_score": 0.5994,
+      "sentiment_score": 0.3818,
       "tags": [
         "AI"
       ],
@@ -80,13 +35,13 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Want to retire with more money? Leave the U.S. early in your career — and then come back.",
-      "url": "https://www.marketwatch.com/story/want-to-retire-with-more-money-leave-the-country-for-work-early-in-your-career-7e568d03?mod=mw_rss_topstories",
+      "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
+      "url": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-22T20:46:00+00:00",
-      "summary": "Gain experiences, memories and a substantial contribution to your future nest egg.",
+      "published_at": "2026-09-23T22:15:00+00:00",
+      "summary": "“My mother has a pension, Social Security, investments and a house probably worth over $1 million.”",
       "sentiment": "bullish",
-      "sentiment_score": 0.6151,
+      "sentiment_score": 0.5423,
       "tags": [
         "AI"
       ],
@@ -95,13 +50,88 @@
       "source_repo": "financenews"
     },
     {
-      "title": "This GLP-1 drug helped people maintain their weight loss in a clinical trial — even for those taking it once a month",
-      "url": "https://www.marketwatch.com/story/this-glp-1-drug-helped-people-maintain-their-weight-loss-in-a-clinical-trial-even-for-those-taking-it-once-a-month-f70929b5?mod=mw_rss_topstories",
+      "title": "This test screens for 50 cancers — but whether Medicare and other health insurers will cover it hinges on FDA approval",
+      "url": "https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-22T20:27:00+00:00",
-      "summary": "Viking Therapeutics is developing VK2735, a GLP-1/GIP drug that could compete with Eli Lilly’s Zepbound. Its stock soared.",
+      "published_at": "2026-09-23T21:59:00+00:00",
+      "summary": "Grail’s Galleri test looks for 50 cancers from a blood draw, but a major study failed to prove it could detect later-stage cancers.",
+      "sentiment": "neutral",
+      "sentiment_score": -0.1822,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Micron’s stock has become a ‘battleground’ as the AI narrative shifts",
+      "url": "https://www.marketwatch.com/story/microns-stock-has-become-a-battleground-as-the-ai-narrative-shifts-d61a3408?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-23T21:51:00+00:00",
+      "summary": "Investors have become more focused on the durability of memory-chip demand, but there are reasons to be optimistic on that front, a UBS analyst said.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5642,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "OpenAI and Anthropic’s CEOs just delivered this message to the U.N. as AI fears swirl",
+      "url": "https://www.marketwatch.com/story/the-openai-and-anthropic-ceos-just-delivered-this-message-to-the-u-n-as-ai-fears-swirl-47b0e97b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-23T21:27:00+00:00",
+      "summary": "Sam Altman and Dario Amodei on Wednesday asked United Nations members to work together on global AI standards.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Palantir’s stock sees its highest close of the year, sealing a dramatic comeback",
+      "url": "https://www.marketwatch.com/story/palantirs-stock-is-heading-for-its-highest-close-of-the-year-in-a-dramatic-comeback-a5fd451d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-23T21:08:00+00:00",
+      "summary": "Palantir’s last earnings report reignited investor enthusiasm, and now the company is basking in the glow of a real-world AI boom.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.4404,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Three international bodies warn of risks of rising debt and soaring borrowing in major economies",
+      "url": "https://www.theguardian.com/business/2026/sep/23/oecd-global-economy-resilient-iran-war",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-23T09:27:52+00:00",
+      "summary": "<p>IIF highlights challenges facing US, France, UK and Japan, while OECD and IMF also voice global concerns</p><p>Three heavyweight international bodies have issued stark warnings about the risks of rising debt levels and soaring borrowing costs across large economies.</p><p>The Paris-based Organisation for Economic Co-operation and Development (OECD), the International Monetary Fund (IMF) and the International Institute of Finance (IIF), the voice of global banking, on Wednesday highlighted the dangers of soaring interest rates on $365tn (£275tn) in global borrowing.</p> <a href=\"https://www.theguardian.com/business/2026/sep/23/oecd-global-economy-resilient-iran-war\">Continue reading...</a>",
       "sentiment": "bearish",
-      "sentiment_score": -0.3182,
+      "sentiment_score": -0.8658,
+      "tags": [
+        "Interest Rates"
+      ],
+      "signal": "watch",
+      "category": "geopolitical",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Critics of UK government’s economic forecaster are ‘shooting the messenger’, say MPs",
+      "url": "https://www.theguardian.com/business/2026/sep/23/obr-treasury-committee-shooting-messenger-mps-economic-forecaster-uk",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-23T05:00:16+00:00",
+      "summary": "<p>Treasury committee rejects calls for fundamental reform of independent watchdog the Office for Budget Responsibility</p><p>Attacks on the government’s independent economic forecaster from left and right of the political spectrum are akin to “shooting the messenger”, according to an influential group of MPs.</p><p>The Treasury committee rejected “siren calls to fundamentally reform” the Office for Budget Responsibility (OBR) and said it should not be blamed when policymakers had to make tough decisions because of tight public finances.</p> <a href=\"https://www.theguardian.com/business/2026/sep/23/obr-treasury-committee-shooting-messenger-mps-economic-forecaster-uk\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.449,
       "tags": [
         "AI"
       ],
@@ -431,37 +461,6 @@
       ],
       "signal": "watch",
       "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Khan addresses Polanski in Urdu at London assembly, mocking Green leader’s byelection video – as it happened",
-      "url": "https://www.theguardian.com/politics/live/2026/sep/17/conservatives-badenoch-griffiths-healey-burnham-tax-rises-budget-economy-bank-of-england-latest-uk-politics-news-updates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-17T15:45:45+00:00",
-      "summary": "<p>This blog is now closed</p><p><strong>Andrew Griffith</strong> has delivered his speech, and he is now taking questions.</p><p><em>Q: You want the government to pause the <a href=\"https://www.gov.uk/government/collections/making-tax-digital-for-income-tax\">making tax digital programme</a>. Is that an admission that the last government got this wrong when it introduced it?</em></p><p>It is an admission that despite [good] intentions, the execution of that has left a lot to be desired.</p><p>In fact, coming to parliament from business, I can confess the law that we pass the most often is the law of unintended consequences. And I think making tax digital is a good example of that.</p><p>The truth is that Burnham and Miliband ignored the advice they were given – which was that if they were determined to sanction Israel, they should not do so before the Israeli election on 27 October.</p><p>It may not be surprising that this was the message from the Israeli foreign minister, Gideon Sa’ar, when Miliband called him on 11 August to warn sanctions were imminent. ‘He said postpone it until after the elections,’ a diplomatic source confirms. It was also the message the Israeli embassy in London – and its new chargé d’affaires Chris Cantor – was relaying to the Foreign Office. ‘Their message was clear: why do it now? Wait until after the elections, because something might change,’ a senior Labour figure says.</p> <a href=\"https://www.theguardian.com/politics/live/2026/sep/17/conservatives-badenoch-griffiths-healey-burnham-tax-rises-budget-economy-bank-of-england-latest-uk-politics-news-updates\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.613,
-      "tags": [
-        "Election",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "The Bank of England is shaking up its bond sales – why does it matter?",
-      "url": "https://www.theguardian.com/business/2026/sep/17/bank-of-england-bond-sales-plan-gilts-treasury-public-finances",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-17T15:45:42+00:00",
-      "summary": "<p>What the plan to sell £146bn in gilts back to the Treasury means for the public finances</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation\">Bank of England holds interest rates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/sep/17/andy-burnham-bank-interest-rate-rises-inflation\">Burnham’s talk of ‘breathing space’ at odds with reality of future rate rises</a></p></li></ul><p>Mixed in with the Bank of England’s decision on Thursday to <a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation\">hold interest rates at 3.75%</a> was a surprise announcement that it was shaking up its programme of quantitative tightening.</p><p>So why is this apparently arcane change to QT important, and what does it mean for the public finances?</p> <a href=\"https://www.theguardian.com/business/2026/sep/17/bank-of-england-bond-sales-plan-gilts-treasury-public-finances\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.9061,
-      "tags": [
-        "Interest Rates"
-      ],
-      "signal": "watch",
-      "category": "markets",
       "source_repo": "financenews"
     }
   ]
