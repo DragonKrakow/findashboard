@@ -1,18 +1,50 @@
 {
-  "generated_at": "2026-09-24T05:37:29Z",
-  "snapshot_date": "2026-09-24",
+  "generated_at": "2026-09-25T05:38:13Z",
+  "snapshot_date": "2026-09-25",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
-      "url": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
+      "title": "The S&P 500’s newest tech stock is now its best performer",
+      "url": "https://www.marketwatch.com/story/the-s-p-500s-newest-tech-stock-is-now-its-best-performer-5bfeb6e2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-24T23:26:00+00:00",
+      "summary": "Shares of data-storage company Everpure were leading S&amp;P 500 gainers on Thursday.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7506,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Here’s how to position your portfolio for the next AI wave, according to Morgan Stanley",
+      "url": "https://www.marketwatch.com/story/heres-how-to-position-your-portfolio-for-the-next-ai-wave-according-to-morgan-stanley-ac8f8a4a?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-24T20:50:00+00:00",
+      "summary": "There’s still room for AI hardware stocks to rise,  but analysts at Morgan Stanley say it’s time to diversify into a wide variety of industries that are starting to realize AI benefits.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5267,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
+      "url": "https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html",
       "source": "CNBC Finance",
-      "published_at": "2026-09-23T23:59:39+00:00",
-      "summary": "The deal, which was set to expire in November, will now be extended to Jan. 10, Bessent said, noting the need for Beijing to fulfill more deliverables.",
+      "published_at": "2026-09-24T17:12:04+00:00",
+      "summary": "The policymaker said she and her colleagues may need to raise interest rates further to bring inflation back to target.",
       "sentiment": "bullish",
-      "sentiment_score": 0.4404,
+      "sentiment_score": 0.4588,
       "tags": [
+        "Interest Rates",
+        "Fed",
         "AI"
       ],
       "signal": "watch",
@@ -20,14 +52,16 @@
       "source_repo": "financenews"
     },
     {
-      "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
-      "url": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-23T23:15:00+00:00",
-      "summary": "“I draw from my IRA as needed for household repairs, trips and other larger expenses.”",
+      "title": "US mortgage rates top 7% for first time in 20 months",
+      "url": "https://www.theguardian.com/business/2026/sep/24/mortgage-rates-housing-market",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-24T16:31:58+00:00",
+      "summary": "<p>Increase comes after Fed decision to raise interest rates, as Americans struggle with high prices and stagnant wages</p><p>US mortgage rates surpassed 7% for the first time since January 2025, according to federal lender Freddie Mac, aggravating a housing market that has endured years of high interest rates and low supply.</p><p>The increase comes after the US <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a> <a href=\"https://www.theguardian.com/business/2026/sep/16/us-federal-reserve-votes-hike-rates\">hiked interest rates</a>, which directly affect mortgage rates, for the first time since 2023, citing high inflation.</p> <a href=\"https://www.theguardian.com/business/2026/sep/24/mortgage-rates-housing-market\">Continue reading...</a>",
       "sentiment": "bullish",
-      "sentiment_score": 0.3818,
+      "sentiment_score": 0.7579,
       "tags": [
+        "Interest Rates",
+        "Fed",
         "AI"
       ],
       "signal": "watch",
@@ -35,14 +69,16 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
-      "url": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-23T22:15:00+00:00",
-      "summary": "“My mother has a pension, Social Security, investments and a house probably worth over $1 million.”",
+      "title": "UK interest rate rise ‘increasingly likely’ with high energy prices; inflation fears hit bonds – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/sep/24/global-bond-sell-off-us-economy-fears-stock-markets-ftse-dollar-pound-latest-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-24T16:03:32+00:00",
+      "summary": "<p>BoE deputy governor cites risks from energy prices, as US 30-year bond yields hits highest since 2004</p><p><strong>Newsflash: A Bank of England deputy governor is warning that interest rates will be raised, if necessary, to combat the risk of persistent inflationary pressures from higher oil prices.</strong></p><p><strong>Clare</strong> <strong>Lombardelli</strong> is telling the Sixth Biennial Conference on Macroeconomic Policy in Warsaw that the energy shock due to the conflict in the Middle East is likely to keep pushing UK inflation higher in the coming months.</p><p>Strong demand for AI components is already pushing up global export prices and weather-related shocks add upside risks. On the other hand, trade diversion is reducing inflation.</p><p>The longer higher energy prices persist, the greater the risk that indirect effects build and that inflation expectations, wage bargaining and price-setting behaviour begin to adjust in response.</p><p>On that basis, policy is increasingly likely to need to tighten if elevated energy prices persist, absent clear evidence of disinflation or weaker activity. But this is by no means suggesting that monetary policy should respond mechanically to movements in energy prices. The key issue is not the spot price of energy itself but the interaction of the underlying economy, higher energy prices, and the nature of their transmission. That, ultimately, is what will determine whether Bank Rate needs to rise.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/24/global-bond-sell-off-us-economy-fears-stock-markets-ftse-dollar-pound-latest-news-updates\">Continue reading...</a>",
       "sentiment": "bullish",
-      "sentiment_score": 0.5423,
+      "sentiment_score": 0.2023,
       "tags": [
+        "Interest Rates",
+        "Oil",
         "AI"
       ],
       "signal": "watch",
@@ -50,41 +86,11 @@
       "source_repo": "financenews"
     },
     {
-      "title": "This test screens for 50 cancers — but whether Medicare and other health insurers will cover it hinges on FDA approval",
-      "url": "https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-23T21:59:00+00:00",
-      "summary": "Grail’s Galleri test looks for 50 cancers from a blood draw, but a major study failed to prove it could detect later-stage cancers.",
-      "sentiment": "neutral",
-      "sentiment_score": -0.1822,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Micron’s stock has become a ‘battleground’ as the AI narrative shifts",
-      "url": "https://www.marketwatch.com/story/microns-stock-has-become-a-battleground-as-the-ai-narrative-shifts-d61a3408?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-23T21:51:00+00:00",
-      "summary": "Investors have become more focused on the durability of memory-chip demand, but there are reasons to be optimistic on that front, a UBS analyst said.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5642,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "OpenAI and Anthropic’s CEOs just delivered this message to the U.N. as AI fears swirl",
-      "url": "https://www.marketwatch.com/story/the-openai-and-anthropic-ceos-just-delivered-this-message-to-the-u-n-as-ai-fears-swirl-47b0e97b?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-23T21:27:00+00:00",
-      "summary": "Sam Altman and Dario Amodei on Wednesday asked United Nations members to work together on global AI standards.",
+      "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
+      "url": "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-24T14:16:27+00:00",
+      "summary": "Chinese confirmation of the AI discussions came just hours before President Xi Jinping was scheduled to begin talks with U.S. President Donald Trump.",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
       "tags": [
@@ -95,11 +101,75 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Palantir’s stock sees its highest close of the year, sealing a dramatic comeback",
-      "url": "https://www.marketwatch.com/story/palantirs-stock-is-heading-for-its-highest-close-of-the-year-in-a-dramatic-comeback-a5fd451d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-23T21:08:00+00:00",
-      "summary": "Palantir’s last earnings report reignited investor enthusiasm, and now the company is basking in the glow of a real-world AI boom.",
+      "title": "‘You can’t just bet everything on exports’: as its gas runs out, is Bolivia doomed to repeat history?",
+      "url": "https://www.theguardian.com/global-development/2026/sep/24/fossil-gas-runs-out-bolivia-poverty-inflation",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-24T13:00:18+00:00",
+      "summary": "<p>A fossil gas boom that lifted millions out of poverty has collapsed and inflation is rising – but not everyone believes selling gold and soya is the answer</p><p>Once hailed as the “energy heart of South America”, <a href=\"https://www.theguardian.com/world/bolivia\">Bolivia</a>’s economy was buoyed up by a fossil gas boom from 2006 to 2014. At its height, then-president Evo Morales commissioned a <a href=\"https://www.theguardian.com/world/2018/aug/16/bolivian-president-evo-morales-new-residence-is-as-imposing-as-it-is-divisive-la-paz\">gleaming presidential skyscraper</a> and installed the world’s longest urban <a href=\"https://www.theguardian.com/cities/2016/feb/10/la-paz-cable-difference-city-subway-sky\">cable car network</a> in La Paz, the seat of government.</p><p>Flush with cash, the country <a href=\"https://www.imf.org/en/news/articles/2018/12/06/pr18453-imf-executive-board-concludes-2018-article-iv-consultation-with-bolivia\">grew its GDP</a>, expanded <a href=\"https://www.theguardian.com/commentisfree/2014/oct/14/evo-morales-reelected-socialism-doesnt-damage-economies-bolivia\">social programmes</a> and <a href=\"https://www.npr.org/sections/goatsandsoda/2019/11/26/781199250/how-evo-morales-made-bolivia-a-better-place-before-he-was-forced-to-flee\">halved poverty rates</a>. But then commodity prices plummeted and gas reserves <a href=\"https://www.bloomberg.com/news/features/2024-10-09/bolivia-natural-gas-shortage-sends-economy-teetering?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjMzOTQwMiwiZXhwIjoxNzg2OTQ0MjAyLCJhcnRpY2xlSWQiOiJTTDM1OFNUMEFGQjQwMCIsImJjb25uZWN0SWQiOiJGQ0Y1MzVDRTU5QUI0RUY4QkU3NTEwNEM2NEFCNzcwMSJ9.GaXAfxQvvucJBB2MOcQ6bai-tCWm4MkudrmGPmANVgc\">started to dry up</a>, bringing Bolivia’s “<a href=\"https://www.reuters.com/world/americas/bolivias-creaking-big-state-model-rings-warning-bell-south-america-2023-06-27/\">economic miracle</a>” crashing down. Inflation – once the <a href=\"https://apnews.com/article/bolivia-elections-president-morales-bread-socialism-mas-subsidies-protests-fd1f696aa8036647f7d023a79c272c8a\">region’s lowest</a> – has soared.</p> <a href=\"https://www.theguardian.com/global-development/2026/sep/24/fossil-gas-runs-out-bolivia-poverty-inflation\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.2406,
+      "tags": [
+        "Election",
+        "Gold",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Oil price rise creates more pressure on UK policymakers before budget",
+      "url": "https://www.theguardian.com/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-24T11:41:08+00:00",
+      "summary": "<p>Treasury sources concede ‘less room’ for manoeuvre as global bond selloff also hikes government’s borrowing costs</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/23/oecd-global-economy-resilient-iran-war\">International bodies warn of rising debt and borrowing risks</a></p></li><li><p><a href=\"https://www.theguardian.com/politics/2026/sep/23/burnham-stands-by-uk-bond-market-claim\">Burnham stands by claim UK is ‘in hock’ to bond markets</a></p><p></p></li></ul><p>Oil prices lurched upwards again on Thursday, creating a growing headache for UK policymakers ahead of John Healey’s budget next month.</p><p>While Healey has been keen to present an upbeat picture of the UK’s economic prospects, Treasury sources concede the sharp jump in oil and gas prices means they have “less room” than a month ago.</p> <a href=\"https://www.theguardian.com/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6258,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "UK ‘losing up to £6.5bn a year in EU trade’ without post-Brexit product deal",
+      "url": "https://www.theguardian.com/politics/2026/sep/24/uk-losing-billions-in-eu-trade-due-to-mismatched-product-rules",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-24T08:48:11+00:00",
+      "summary": "<p>IPPR finds failure to align testing standards has forced companies to abandon exporting to EU and is costing costing 0.18% of national income</p><p>The UK is losing out on annual exports to the EU that could be worth as much as £6.5bn without a deal with Brussels that allows manufacturers to jettison duplicate product testing.</p><p>In the latest attempt to calculate the loss of trade with the EU after Brexit, the IPPR thinktank said many companies have given up selling goods to the EU or set up subsidiaries inside the trade bloc after successive governments failed to secure a mutual recognition agreement that would avoid the extra administration costs.</p><p>Motor vehicle and part exports would have been between £2.48bn and £3.42bn higher each year.</p><p>Electronic exports could have been between £1.17bn and £1.67bn higher.</p><p>Pharmaceutical exports would have had an estimated annual uplift of between £740m and £820m.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/24/uk-losing-billions-in-eu-trade-due-to-mismatched-product-rules\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.875,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Australians ‘scrambling’ for second jobs to deal with rising mortgage repayments and cost of living",
+      "url": "https://www.theguardian.com/business/2026/sep/24/australians-working-second-jobs-rising-mortgage-repayments-cost-of-living",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-24T06:12:45+00:00",
+      "summary": "<p>Latest data also shows unemployment at highest level since the pandemic, which analysts doubt will stop RBA hiking interest rates</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australians are “scrambling” to find more work to <a href=\"https://www.theguardian.com/australia-news/2026/sep/24/young-australians-are-staying-in-the-family-home-for-longer-and-its-not-hard-to-see-why\">cover soaring living expenses</a> and prepare for higher mortgage costs, economists say, after new data showed unemployment ticked up to its highest rate since the pandemic.</p><p>The key jobless figure lifted to 4.6% in August, from 4.5% the month before, according to the Australian Bureau of Statistics.</p> <a href=\"https://www.theguardian.com/business/2026/sep/24/australians-working-second-jobs-rising-mortgage-repayments-cost-of-living\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.8645,
+      "tags": [
+        "Interest Rates",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
+      "url": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-24T04:55:59+00:00",
+      "summary": "The deal, which was set to expire in November, will now be extended to Jan. 10, Bessent said, noting the need for Beijing to fulfill more deliverables.",
       "sentiment": "bullish",
       "sentiment_score": 0.4404,
       "tags": [
@@ -394,68 +464,6 @@
       "summary": "The startup Moonshot said it signed on financial industry giants from investment bank CICC to venture capital firms",
       "sentiment": "neutral",
       "sentiment_score": 0.0,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Japan raises interest rates to 31-year high to curb impact of rising prices",
-      "url": "https://www.theguardian.com/business/2026/sep/18/japan-raises-interest-rates-to-31-year-high-rising-prices",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-18T07:14:13+00:00",
-      "summary": "<p>Increase from 1% to 1.25% follows US Federal Reserve and European Central Bank tightening monetary policy</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>Japan’s central bank has increased interest rates to a fresh 31-year high as it attempts to combat global inflation linked to the war in Iran.</p><p>The Bank of Japan (BoJ) voted to raise its target interest rate from 1% to 1.25%, the highest level since 1995.</p> <a href=\"https://www.theguardian.com/business/2026/sep/18/japan-raises-interest-rates-to-31-year-high-rising-prices\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7269,
-      "tags": [
-        "Interest Rates",
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Global leaders urged to join initiative to fight extreme inequality",
-      "url": "https://www.theguardian.com/inequality/2026/sep/18/global-leaders-urged-to-join-initiative-to-fight-extreme-inequality",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-18T06:00:11+00:00",
-      "summary": "<p>More than 1,500 academics and economists sign letter, calling growing gap between richest and poorest ‘a policy choice that can be reversed’</p><p>More than 1,500 academics and economists from 100-plus countries are urging global leaders to join an initiative against extreme inequality, calling current unfairness “a policy choice that can be reversed”.</p><p>Before the UN general assembly in New York next week, the experts have signed an open letter backing the International Panel on Inequality (IPI).</p> <a href=\"https://www.theguardian.com/inequality/2026/sep/18/global-leaders-urged-to-join-initiative-to-fight-extreme-inequality\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3612,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Securitize jumps after regulators greenlight some tokenized U.S. stock trading",
-      "url": "https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-17T17:59:51+00:00",
-      "summary": "Securitize surged Thursday after federal regulators greenlit the issuing of tokenized stocks on some trading platforms in the U.S.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.1531,
-      "tags": [
-        "Fed"
-      ],
-      "signal": "watch",
-      "category": "macro",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "All smiles in Strasbourg but uncertainty clouds Canada’s EU membership plan",
-      "url": "https://www.theguardian.com/world/2026/sep/17/smiles-strasbourg-uncertainty-canada-eu-membership-plan-mark-carney",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-17T15:46:15+00:00",
-      "summary": "<p>Although Mark Carney welcomed offer to become bloc’s first associate member, no one seems to know what that means</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates\">Europe live – latest updates</a></p></li></ul><p>Mark Carney received a rapturous reception in the European parliament when he gave his speech on Thursday welcoming a proposal for Canada to become the EU’s first-ever associate member.</p><p>Politicians queued to shake his hand and take selfies. One described the speech as a historic moment. “Europe has extended a hand, and Canada has taken it,” said the German Green MEP Terry Reintke, who borrowed a Canadian ice hockey shirt for the occasion.</p> <a href=\"https://www.theguardian.com/world/2026/sep/17/smiles-strasbourg-uncertainty-canada-eu-membership-plan-mark-carney\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.9349,
       "tags": [
         "AI"
       ],
