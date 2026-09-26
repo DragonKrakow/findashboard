@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-09-26T16:10:38.245378+00:00",
+  "generated_at": "2026-09-26T20:09:25.909051+00:00",
   "articles": [
+    {
+      "id": "f80e977063d3",
+      "title": "Bond Market Volatility Signals Risks for Corporate Debt Investors",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-26/rate-market-fear-gauge-is-warning-for-corporates-credit-weekly",
+      "published_at": "2026-09-26T19:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Corporate bonds have been relatively resilient amid a global government bond selloff, but the strength may not last.",
+      "tags": []
+    },
+    {
+      "id": "f642fc2793b0",
+      "title": "Bangladesh Targets Up to $1 Billion in Debut Sovereign Bond Sale",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-26/bangladesh-targets-up-to-1-billion-in-debut-sovereign-bond-sale",
+      "published_at": "2026-09-26T18:21:18+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Bangladesh is preparing to raise between $500 million and $1 billion through its maiden foreign-currency sovereign bond sale within the next three months, a senior government official said.",
+      "tags": []
+    },
+    {
+      "id": "6f48a445d2cf",
+      "title": "Bloomberg This Weekend 09/26/2026",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-26/bloomberg-this-weekend-09-26-2026-video",
+      "published_at": "2026-09-26T16:53:56+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by",
+      "tags": []
+    },
     {
       "id": "14cc0d937924",
       "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
@@ -86,42 +122,6 @@
       "tags": []
     },
     {
-      "id": "e0967832d2c7",
-      "title": "McDonald’s Selloff Hits 30% as Big Mac Inflation Spurs Pushback",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-26/mcdonald-s-sell-off-hits-30-as-big-mac-inflation-spurs-pushback",
-      "published_at": "2026-09-26T13:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "McDonald’s Corp. faces a key challenge as it fights to reinvigorate a sagging stock price: Winning back the cost-conscious diners who believe its menu has become too expensive.",
-      "tags": []
-    },
-    {
-      "id": "d475f08561ae",
-      "title": "By The Way: Headlines You May Have Missed",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-26/by-the-way-headlines-you-may-have-missed-video",
-      "published_at": "2026-09-26T12:40:10+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Campus Moms, smuggling butter, bringing iced coffee to a job interview, and the 'what's for dinner' question: Join Alexis Christoforous, David Gura and Christina Ruffini for a roundup of headlines you",
-      "tags": []
-    },
-    {
-      "id": "eb52821d9341",
-      "title": "Higher Bond Yields Mark a Return to Normal",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-26/higher-bond-yields-mark-a-return-to-normal-video",
-      "published_at": "2026-09-26T12:33:14+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Ritholtz Wealth Management founder Barry Ritholtz tells Bloomberg This Weekend that rising bond yields reflect both a normalization of interest rates and inflationary pressures from factors including ",
-      "tags": []
-    },
-    {
       "id": "f6a3110193cc",
       "title": "Foreign capital flows into US stocks hit record as appetite for debt fades",
       "source": "International homepage",
@@ -143,18 +143,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Rising borrowing costs show no sign of putting a brake on activity in world’s biggest economy",
-      "tags": []
-    },
-    {
-      "id": "552237e12610",
-      "title": "Bond ructions point to new danger zone in markets",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/4acbdc1f-d898-4966-b865-924470de0066?syn-25a6b1a6=1",
-      "published_at": "2026-09-25T17:00:09+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Sell-offs of this scale and speed have the potential to light fires in other parts of the financial system",
       "tags": []
     },
     {
@@ -194,27 +182,51 @@
       "tags": []
     },
     {
-      "id": "34e0d2be19fa",
-      "title": "Hackers hijack AI accounts and servers to fuel new cyber crime boom",
+      "id": "3928991ce0fa",
+      "title": "German and Russian foreign ministers meet for first time in over four years",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32?syn-25a6b1a6=1",
-      "published_at": "2026-09-26T10:00:04+00:00",
+      "url": "https://www.ft.com/content/ec92933f-7147-410e-8ade-ab09add476a7?syn-25a6b1a6=1",
+      "published_at": "2026-09-26T19:01:46+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Security researchers warn of surge in ‘LLM-jacking’ attacks targeting companies’ costly AI resources",
+      "summary": "Johann Wadephul said he warned Sergei Lavrov about drone incursions and urged de-escalation in Ukraine in ‘intense conversation’",
       "tags": []
     },
     {
-      "id": "0cee43689a20",
-      "title": "OpenAI says governments among ‘dozens’ of organisations hacked by its agents",
+      "id": "a4664bfd6d44",
+      "title": "Trump rejects Iran’s ceasefire proposal to reopen Strait of Hormuz",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/651024b1-d1ce-40c1-acae-a92c3505d3f1?syn-25a6b1a6=1",
-      "published_at": "2026-09-25T22:18:19+00:00",
+      "url": "https://www.ft.com/content/4d71acf8-dda7-475e-88c5-5351f0176558?syn-25a6b1a6=1",
+      "published_at": "2026-09-26T17:01:19+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Company says its models leaked images shared by users in a disclosure that is likely to further inflame AI safety fears",
+      "summary": "Tehran offered a week-long break in hostilities to kick-start peace talks aimed at ending seven-month-long conflict",
+      "tags": []
+    },
+    {
+      "id": "0f6bb65623b5",
+      "title": "Medicines run short in Iran under US sanctions",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/fb890a8d-f530-497e-8486-27186ee66b9b?syn-25a6b1a6=1",
+      "published_at": "2026-09-26T07:15:32+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Washington’s campaign to isolate the Islamic republic has made securing pharmaceuticals increasingly difficult",
+      "tags": []
+    },
+    {
+      "id": "0f63dfda7ba1",
+      "title": "Trump and Xi to meet twice more after summit fails to resolve tensions",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/bd99d372-d3d1-4972-a3fe-1bed8f71e14c?syn-25a6b1a6=1",
+      "published_at": "2026-09-26T18:42:28+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Observers say the US and China maintained good communications during state visit but achieved no breakthroughs in trade stand-off",
       "tags": []
     },
     {
@@ -227,18 +239,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Successive British governments have sought to shore up diplomatic ties with Abu Dhabi in a bid to lure investment",
-      "tags": []
-    },
-    {
-      "id": "881a009d79c8",
-      "title": "Manchester City rule breaches - potential punishments, appeals and next steps",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/88e06322-9910-4675-8f7c-5e884cc0ad2d?syn-25a6b1a6=1",
-      "published_at": "2026-09-26T15:45:26+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The case could run for several years, legal experts warn",
       "tags": []
     },
     {
@@ -482,6 +482,54 @@
       "tags": []
     },
     {
+      "id": "2c653e33b86a",
+      "title": "Topaz Energy: Operator-Funded Reserve Renewal Supports The Premium",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4949990-topaz-energy-operator-funded-reserve-renewal-supports-the-premium?source=feed_all_articles",
+      "published_at": "2026-09-26T18:19:18+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Topaz Energy: Operator-Funded Reserve Renewal Supports The Premium",
+      "tags": []
+    },
+    {
+      "id": "bd048c8da05c",
+      "title": "The 1-Minute Market Report, September 26, 2026",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4949989-the-1-minute-market-report-september-26-2026?source=feed_all_articles",
+      "published_at": "2026-09-26T16:48:02+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The 1-Minute Market Report, September 26, 2026",
+      "tags": []
+    },
+    {
+      "id": "0fe7955eef70",
+      "title": "Dentsply Sirona's Troubles Are Nothing To Smile About (Downgrade)",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4949986-dentsply-sironas-troubles-are-nothing-to-smile-about-downgrade?source=feed_all_articles",
+      "published_at": "2026-09-26T16:18:18+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Dentsply Sirona's Troubles Are Nothing To Smile About (Downgrade)",
+      "tags": []
+    },
+    {
+      "id": "3595f54891cc",
+      "title": "Heidmar Maritime Holdings:  The Warnings Still Apply",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4949985-heidmar-maritime-holdings-the-warnings-still-apply?source=feed_all_articles",
+      "published_at": "2026-09-26T16:10:26+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Heidmar Maritime Holdings:  The Warnings Still Apply",
+      "tags": []
+    },
+    {
       "id": "eaa0dcb918ae",
       "title": "Intuit: Bargain Price, But With Some Risks",
       "source": "All Articles on Seeking Alpha",
@@ -551,54 +599,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "David Rubenstein, Co-Founder Of The Carlyle Group, On The Business Of Sports, Investing And Leadership",
-      "tags": []
-    },
-    {
-      "id": "11f0862eaecc",
-      "title": "Ardmore Shipping: The Yield Is Real, But The Easy Money Is Gone",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4949981-ardmore-shipping-the-yield-is-real-but-the-easy-money-is-gone?source=feed_all_articles",
-      "published_at": "2026-09-26T15:30:12+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Ardmore Shipping: The Yield Is Real, But The Easy Money Is Gone",
-      "tags": []
-    },
-    {
-      "id": "556443403877",
-      "title": "The Copper Surplus Mirage: Why A Tariff Rejection Could Be A Buying Opportunity",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4949980-the-copper-surplus-mirage-why-a-tariff-rejection-could-be-a-buying-opportunity?source=feed_all_articles",
-      "published_at": "2026-09-26T15:28:15+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The Copper Surplus Mirage: Why A Tariff Rejection Could Be A Buying Opportunity",
-      "tags": []
-    },
-    {
-      "id": "3346af33e711",
-      "title": "Realty Income 3.0: The REIT You Know Is Rebuilding It's Growth Engine",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4949978-realty-income-3-0-the-reit-you-know-is-rebuilding-its-growth-engine?source=feed_all_articles",
-      "published_at": "2026-09-26T15:09:08+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Realty Income 3.0: The REIT You Know Is Rebuilding It's Growth Engine",
-      "tags": []
-    },
-    {
-      "id": "0fd560c5dc93",
-      "title": "THQ: A 5.6% Cut Leaves An 11% Yield, But Payouts Now Follow NAV",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4949977-thq-a-5-6-percent-cut-leaves-an-11-percent-yield-but-payouts-now-follow-nav?source=feed_all_articles",
-      "published_at": "2026-09-26T15:01:35+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "THQ: A 5.6% Cut Leaves An 11% Yield, But Payouts Now Follow NAV",
       "tags": []
     }
   ]
