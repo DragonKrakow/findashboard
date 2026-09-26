@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-25T05:38:13Z",
-  "snapshot_date": "2026-09-25",
+  "generated_at": "2026-09-26T05:36:38Z",
+  "snapshot_date": "2026-09-26",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "The S&P 500’s newest tech stock is now its best performer",
-      "url": "https://www.marketwatch.com/story/the-s-p-500s-newest-tech-stock-is-now-its-best-performer-5bfeb6e2?mod=mw_rss_topstories",
+      "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
+      "url": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-24T23:26:00+00:00",
-      "summary": "Shares of data-storage company Everpure were leading S&amp;P 500 gainers on Thursday.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7506,
+      "published_at": "2026-09-25T23:30:00+00:00",
+      "summary": "“Her younger son lives in the condo, but wants to move elsewhere with friends.”",
+      "sentiment": "neutral",
+      "sentiment_score": 0.1779,
       "tags": [
         "AI"
       ],
@@ -20,13 +20,106 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Here’s how to position your portfolio for the next AI wave, according to Morgan Stanley",
-      "url": "https://www.marketwatch.com/story/heres-how-to-position-your-portfolio-for-the-next-ai-wave-according-to-morgan-stanley-ac8f8a4a?mod=mw_rss_topstories",
+      "title": "Microsoft’s stock has roared back to life, closing at its highest level of the year",
+      "url": "https://www.marketwatch.com/story/microsofts-stock-has-roared-back-to-life-and-is-now-headed-for-its-highest-close-of-the-year-89e4d596?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-24T20:50:00+00:00",
-      "summary": "There’s still room for AI hardware stocks to rise,  but analysts at Morgan Stanley say it’s time to diversify into a wide variety of industries that are starting to realize AI benefits.",
+      "published_at": "2026-09-25T21:04:00+00:00",
+      "summary": "Microsoft shares got off to a rough start this year, but investors have warmed to the company’s AI narrative over the last few months.",
       "sentiment": "bullish",
-      "sentiment_score": 0.5267,
+      "sentiment_score": 0.5023,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Tesla’s stock falls as launch of Semi truck fails to excite investors",
+      "url": "https://www.marketwatch.com/story/teslas-stock-falls-as-semi-launch-fails-to-excite-investors-5b216e59?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-25T20:34:00+00:00",
+      "summary": "Autonomous trucking represents a compelling opportunity for Tesla, but it’s unclear what the company’s initial Semi targets look like.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5023,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "A 10% risk-free yield? For some, yes.",
+      "url": "https://www.marketwatch.com/story/a-10-risk-free-yield-for-some-yes-0d1fa51a?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-25T20:32:00+00:00",
+      "summary": "This could be a bargain, especially for very high earners and those in high-tax locations.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5423,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "The Guardian view on Trump and Xi: a show of friendship, but no real attempt to address the tensions | Editorial",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/25/the-guardian-view-on-trump-and-xi-a-show-of-friendship-but-no-real-attempt-to-address-the-tensions",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-25T16:53:49+00:00",
+      "summary": "<p>The Chinese leader’s visit to Washington appears to have done nothing to shift the stalemate in bilateral relations </p><p>Within days, two high-profile Chinese visitors will arrive in the US – envoys of friendship, as Xi Jinping described them when he met Donald Trump at the White House this week. The giant pandas, Ping Ping and Fu Shuang, will be hosted at Atlanta zoo. Beijing dispatched the first panda pair to the US in 1972 following President Richard Nixon’s landmark visit to China. It uses the animals to&nbsp;indicate satisfaction or displeasure with other nations. But it also charges heftily for their lease: reportedly, <a href=\"https://time.com/article/2026/09/25/china-panda-diplomacy-trump-xi-jinping/\">around $1m a year</a> per pair. <a href=\"https://www.pewresearch.org/short-reads/2026/09/23/americans-views-of-china-have-warmed-in-recent-years/\">Americans’ views</a> of China have warmed from a pandemic nadir, but are unlikely to be shifted much by two animals, however charming.&nbsp;These days they are more of a token gesture&nbsp;than a striking symbol.</p><p>It is telling that the announcement was one of the <a href=\"https://www.theguardian.com/us-news/2026/sep/25/donald-trump-xi-jinping-china-president-us-visit-red-carpet-treatment\">main takeaways</a> of Mr Xi’s <a href=\"https://www.theguardian.com/us-news/2026/sep/23/trump-xi-jinping-china-us-state-visit\">visit to Washington</a>. Expectations were low after May’s stalemate summit in Beijing, but this meeting still struggled to meet them. The US president gave Mr Xi a lavish welcome –&nbsp;unusually, travelling to meet the “strong, vibrant and&nbsp;fit” Chinese leader off the plane. He insisted that they had “never gotten along better”.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/sep/25/the-guardian-view-on-trump-and-xi-a-show-of-friendship-but-no-real-attempt-to-address-the-tensions\">Continue reading...</a>",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0129,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Healey appoints Labour manifesto writer, adding to election speculation",
+      "url": "https://www.theguardian.com/politics/2026/sep/25/labour-appoints-manifesto-writer-ravinder-athwal-treasury",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-25T16:34:13+00:00",
+      "summary": "<p>Exclusive: Economist Ravinder Athwal, who worked in Keir Starmer’s team, is poached from Flint Global</p><p>Ravinder Athwal, the economist who wrote Labour’s 2024 manifesto, is taking on a senior role as an adviser to John Healey, in a move likely to fuel speculation about an early general election.</p><p>The chancellor is keen to strengthen his team before the critical budget on 28 October, as the economy is buffeted by <a href=\"https://www.theguardian.com/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget\">high oil prices</a> and rising government <a href=\"https://www.theguardian.com/business/2026/sep/22/uk-government-borrowing-john-healey-budget-bond-markets\">borrowing costs</a>.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/25/labour-appoints-manifesto-writer-ravinder-athwal-treasury\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.3612,
+      "tags": [
+        "Election",
+        "Oil"
+      ],
+      "signal": "watch",
+      "category": "energy",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Iran war drives UK diesel price to near record high, and makes interest rate rise ‘hard to avoid’ – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/sep/25/uk-consumer-confidence-burnham-bounce-bank-of-england-oil-inflation-stock-markets-bonds-latest-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-25T14:46:27+00:00",
+      "summary": "<p>Bank of England governor Andrew Bailey says persistently high oil and gas prices would make it hard to resist pressure to raise interest rates</p><ul><li><p><a href=\"https://www.theguardian.com/money/2026/sep/25/capital-gains-tax-how-it-works-benefits-and-pitfalls-of-another-hike\"><strong>Capital gains tax: how it works, and the pros and cons of another rise</strong></a></p></li></ul><p><br /></p><p><strong>TalkTalk is scrambling to secure its future amid the threat of administration, closing in on deals to sell its consumer and broadband arms as it seeks to save 900 jobs.</strong></p><p>The telecoms company said on Friday it is in the final stages of sealing deals to sell its consumer business as well as its wholesale operation, PXC.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/25/uk-consumer-confidence-burnham-bounce-bank-of-england-oil-inflation-stock-markets-bonds-latest-news-updates\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6369,
+      "tags": [
+        "Interest Rates",
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "China's Xi urges U.S. to cooperate on AI",
+      "url": "https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-25T01:22:17+00:00",
+      "summary": "U.S. President Donald Trump hosted Chinese President Xi Jinping on Thursday at the White House.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
       "tags": [
         "AI"
       ],
@@ -373,98 +466,6 @@
       "sentiment_score": -0.9637,
       "tags": [
         "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
-      "url": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-18T18:28:31+00:00",
-      "summary": "The chairman both explained this week's decision to raise interest rates, and raised vexing questions about what comes next",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "Interest Rates",
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Software defect blamed for UK air traffic control chaos; FTSE 100’s worst day since July; Volkswagen cuts outlook – as it happened",
-      "url": "https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-18T15:56:23+00:00",
-      "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/08/uk-airport-disruption-rights-if-affected-london-gatwick-heathrow-manchester-birmingham\"><strong>UK airport disruption: what are your rights if you have been affected?</strong></a></p></li></ul><p><br /></p><p><strong>Britons are increasingly worried about the climate emergency, and job security.</strong></p><p>New data from the Office for National Statistics shows:</p><p>The proportion of adults reporting climate change and the environment as an important issue (62%) has increased since June 2026 (53%). This is currently the highest it has been since late 2024.</p><p>The proportion of adults reporting employment as an important issue has been increasing over time. Between 5 to 30 August 2026, just over half (54%) of adults reported employment as an important issue. This was higher when compared with similar periods in 2025 and 2024.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.946,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Retail sales bounce back in Great Britain amid brighter signs for economy",
-      "url": "https://www.theguardian.com/business/2026/sep/18/retail-sales-bounce-back-across-great-britain",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-18T12:38:28+00:00",
-      "summary": "<p>Latest data to defy economic gloom shows 0.5% rise boosted by purchases of sports items, aircon units and fans during heatwaves</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates\">Business live – latest updates</a></p></li></ul><p></p><p>Retail sales across Great Britain unexpectedly rose last month, the latest economic indicator to defy gloomy forecasts as the chancellor, John Healey, prepares to present next month’s budget.</p><p>The Office for National Statistics (ONS) said the volume of goods sold rose 0.5% month on month in August, defying analyst expectations of a 0.2% fall.</p> <a href=\"https://www.theguardian.com/business/2026/sep/18/retail-sales-bounce-back-across-great-britain\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8442,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'",
-      "url": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-18T12:04:02+00:00",
-      "summary": "Buffett's son Howard will replace him as chairman, as dictated by a long-standing succession plan, Berkshire said.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6705,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "US wheat farmers navigate uncertainty amid drought and geopolitical chaos",
-      "url": "https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-18T11:00:17+00:00",
-      "summary": "<p>Some experts worry factors affecting wheat exports could push global food prices even higher than they are now</p><p>Wheat prices are at their highest level in three years, which means farmer Merrill Nielsen should be getting more for his crops out of his 2,500-acre (1,010-hectare) <a href=\"https://www.theguardian.com/us-news/kansas\">Kansas</a> farm.</p><p>Yet even as future prices for bread-type wheat are up 39%, Nielsen is unsure whether increased prices will raise his bottom line. The price of diesel fuel, which he needs to run his tractor, has hit record highs. Then there’s the erratic weather that made him lose his entire wheat crop in the spring, and drought has overtaken the southern Great Plains.</p> <a href=\"https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.7579,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
-      "url": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-18T08:41:11+00:00",
-      "summary": "The startup Moonshot said it signed on financial industry giants from investment bank CICC to venture capital firms",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
         "AI"
       ],
       "signal": "watch",
