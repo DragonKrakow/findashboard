@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-26T20:09:25.909051+00:00",
+  "generated_at": "2026-09-27T00:32:35.777783+00:00",
   "articles": [
+    {
+      "id": "c05bd30c4903",
+      "title": "China’s Consumer Stocks Face Lost Decade as AI Steals Spotlight",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-27/china-s-consumer-stocks-face-lost-decade-as-ai-steals-spotlight",
+      "published_at": "2026-09-27T00:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Under the shadow of Beijing’s single-minded focus on artificial intelligence, China’s consumer stocks are trapped in a lost decade.",
+      "tags": []
+    },
     {
       "id": "f80e977063d3",
       "title": "Bond Market Volatility Signals Risks for Corporate Debt Investors",
@@ -110,18 +122,6 @@
       "tags": []
     },
     {
-      "id": "7f16afa775ce",
-      "title": "Russia Ukraine War Becomes Economic Battle",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-26/russia-ukraine-war-becomes-economic-battle-video",
-      "published_at": "2026-09-26T13:10:37+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "New York Times Kyiv bureau chief Andrew Kramer tells Bloomberg This Weekend that Russia and Ukraine are increasingly targeting each other’s economies as the war shifts toward attacks on energy, transp",
-      "tags": []
-    },
-    {
       "id": "f6a3110193cc",
       "title": "Foreign capital flows into US stocks hit record as appetite for debt fades",
       "source": "International homepage",
@@ -131,18 +131,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Overseas purchases of US equities topped $940bn in the year to July, coinciding with strong gains in the S&amp;P 500",
-      "tags": []
-    },
-    {
-      "id": "89d0a36477e6",
-      "title": "Soaring bond yields ‘not even close’ to cooling red-hot US economy, investors say",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/bcf0715b-4292-428e-80ec-e6702d430aa4?syn-25a6b1a6=1",
-      "published_at": "2026-09-25T20:00:09+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Rising borrowing costs show no sign of putting a brake on activity in world’s biggest economy",
       "tags": []
     },
     {
@@ -182,15 +170,15 @@
       "tags": []
     },
     {
-      "id": "3928991ce0fa",
-      "title": "German and Russian foreign ministers meet for first time in over four years",
+      "id": "0f63dfda7ba1",
+      "title": "Trump and Xi to meet twice more after summit fails to resolve tensions",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/ec92933f-7147-410e-8ade-ab09add476a7?syn-25a6b1a6=1",
-      "published_at": "2026-09-26T19:01:46+00:00",
+      "url": "https://www.ft.com/content/bd99d372-d3d1-4972-a3fe-1bed8f71e14c?syn-25a6b1a6=1",
+      "published_at": "2026-09-26T18:42:28+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Johann Wadephul said he warned Sergei Lavrov about drone incursions and urged de-escalation in Ukraine in ‘intense conversation’",
+      "summary": "Observers say the US and China maintained good communications during state visit but achieved no breakthroughs in trade stand-off",
       "tags": []
     },
     {
@@ -218,27 +206,27 @@
       "tags": []
     },
     {
-      "id": "0f63dfda7ba1",
-      "title": "Trump and Xi to meet twice more after summit fails to resolve tensions",
+      "id": "3928991ce0fa",
+      "title": "German and Russian foreign ministers meet for first time in over four years",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/bd99d372-d3d1-4972-a3fe-1bed8f71e14c?syn-25a6b1a6=1",
-      "published_at": "2026-09-26T18:42:28+00:00",
+      "url": "https://www.ft.com/content/ec92933f-7147-410e-8ade-ab09add476a7?syn-25a6b1a6=1",
+      "published_at": "2026-09-26T19:01:46+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Observers say the US and China maintained good communications during state visit but achieved no breakthroughs in trade stand-off",
+      "summary": "Johann Wadephul said he warned Sergei Lavrov about drone incursions and urged de-escalation in Ukraine in ‘intense conversation’",
       "tags": []
     },
     {
-      "id": "b8f69afacc2d",
-      "title": "Manchester City verdict poses latest test to UK-UAE relations",
+      "id": "093dd3411d38",
+      "title": "Appeals court overturns ban on contentious Northern Ireland parade",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/36fd2644-9d0e-40b5-8a7a-ef33f302e652?syn-25a6b1a6=1",
-      "published_at": "2026-09-26T12:34:15+00:00",
+      "url": "https://www.ft.com/content/c9957c9f-8622-4351-9380-9b725b70b1e7?syn-25a6b1a6=1",
+      "published_at": "2026-09-27T00:13:15+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Successive British governments have sought to shore up diplomatic ties with Abu Dhabi in a bid to lure investment",
+      "summary": "Judge says earlier suspension of the Protestant march “erred in law” in dramatic night of court challenges hours before Sunday’s parade",
       "tags": []
     },
     {
@@ -482,6 +470,30 @@
       "tags": []
     },
     {
+      "id": "e787580e773e",
+      "title": "AMD: First AI Target Hit, Likely $1,000 Up Next",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4949941-amd-first-ai-target-hit-likely-1000-up-next?source=feed_all_articles",
+      "published_at": "2026-09-27T00:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "AMD: First AI Target Hit, Likely $1,000 Up Next",
+      "tags": []
+    },
+    {
+      "id": "32b8c50822a6",
+      "title": "Hamee Corp. 2027 Q1 - Results - Earnings Call Presentation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4949991-hamee-corp-2027-q1-results-earnings-call-presentation?source=feed_all_articles",
+      "published_at": "2026-09-26T23:08:28+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Hamee Corp. 2027 Q1 - Results - Earnings Call Presentation",
+      "tags": []
+    },
+    {
       "id": "2c653e33b86a",
       "title": "Topaz Energy: Operator-Funded Reserve Renewal Supports The Premium",
       "source": "All Articles on Seeking Alpha",
@@ -575,30 +587,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Diversifying A Momentum-Driven Market",
-      "tags": []
-    },
-    {
-      "id": "3eb9ee2a0b73",
-      "title": "Allstate Offers A 7% Yielding Preferred Stock To Ride Out Earnings Decrease",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4949855-allstate-offers-7-percent-preferred-stock-to-ride-out-earnings-decrease?source=feed_all_articles",
-      "published_at": "2026-09-26T15:40:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Allstate Offers A 7% Yielding Preferred Stock To Ride Out Earnings Decrease",
-      "tags": []
-    },
-    {
-      "id": "46bbe3049a0f",
-      "title": "David Rubenstein, Co-Founder Of The Carlyle Group, On The Business Of Sports, Investing And Leadership",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4949434-david-rubenstein-co-founder-of-the-carlyle-group-on-the-business-of-sports-investing-and-leadership?source=feed_all_articles",
-      "published_at": "2026-09-26T15:37:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "David Rubenstein, Co-Founder Of The Carlyle Group, On The Business Of Sports, Investing And Leadership",
       "tags": []
     }
   ]
