@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-27T05:37:24Z",
-  "snapshot_date": "2026-09-27",
+  "generated_at": "2026-09-28T05:40:11Z",
+  "snapshot_date": "2026-09-28",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "A 10% risk-free yield? For some, yes.",
-      "url": "https://www.marketwatch.com/story/a-10-risk-free-yield-for-some-yes-0d1fa51a?mod=mw_rss_topstories",
+      "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
+      "url": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-26T16:51:00+00:00",
-      "summary": "This could be a bargain, especially for very high earners and those in high-tax locations.",
+      "published_at": "2026-09-27T16:45:00+00:00",
+      "summary": "“My mother has a pension, Social Security, investments and a house probably worth over $1 million.”",
       "sentiment": "bullish",
       "sentiment_score": 0.5423,
       "tags": [
@@ -20,13 +20,13 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Choosing these AI-exposed college majors could dent your job prospects — and lower your pay",
-      "url": "https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories",
+      "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
+      "url": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-26T16:22:00+00:00",
-      "summary": "At a time when many college students say they are rethinking their academic focus because of AI, new findings supply hard data on the potential costs of these decisions.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.2023,
+      "published_at": "2026-09-27T16:00:00+00:00",
+      "summary": "“I draw from my IRA as needed for household repairs, trips and other larger expenses.”",
+      "sentiment": "bullish",
+      "sentiment_score": 0.3818,
       "tags": [
         "AI"
       ],
@@ -35,30 +35,46 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Millions will lose Medicaid once new work rules kick in. These groups will be hit the hardest.",
-      "url": "https://www.marketwatch.com/story/millions-will-lose-medicaid-once-new-work-rules-kick-in-these-groups-will-be-hit-the-hardest-507694d3?mod=mw_rss_topstories",
+      "title": "Debt-hungry AI companies face increased risk as bond yields spike",
+      "url": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-27T15:35:34+00:00",
+      "summary": "The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.1531,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
+      "url": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-26T15:30:00+00:00",
-      "summary": "The changes will cut about $1 trillion from federal Medicaid spending over 10 years.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.5859,
+      "published_at": "2026-09-27T15:15:00+00:00",
+      "summary": "“Her younger son lives in the condo, but wants to move elsewhere with friends.”",
+      "sentiment": "neutral",
+      "sentiment_score": 0.1779,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Look closer, and Wall Street’s rally is showing cracks",
+      "url": "https://www.marketwatch.com/story/look-closer-and-wall-streets-rally-is-showing-cracks-94952048?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-27T13:00:00+00:00",
+      "summary": "Major stock indexes hovering near records are masking a market straining under elevated oil prices, rising Treasury yields and a Federal Reserve bracing for additional interest-rate hikes.",
+      "sentiment": "neutral",
+      "sentiment_score": -0.128,
       "tags": [
         "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Do this one thing to help prevent your parents from being scammed",
-      "url": "https://www.marketwatch.com/story/do-this-one-thing-to-help-prevent-your-parents-from-being-scammed-27a0ca4b?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-26T15:04:00+00:00",
-      "summary": "“I felt like I was talking to a robot,” said one adviser about a client who was ensnared in a romance scam.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6369,
-      "tags": [
+        "Oil",
         "AI"
       ],
       "signal": "watch",
@@ -451,22 +467,6 @@
       "sentiment": "bullish",
       "sentiment_score": 0.5994,
       "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "All the signs say another financial crisis is coming. Here’s why we need to prepare for it now | Larry Elliott",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/21/financial-crisis-ai-oil-market-2008-crash-disruption",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-21T07:00:38+00:00",
-      "summary": "<p>War, AI disruption and markets in turmoil: the warnings are all there. But lessons from the 2008 crash could help us</p> <a href=\"https://www.theguardian.com/commentisfree/2026/sep/21/financial-crisis-ai-oil-market-2008-crash-disruption\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.6858,
-      "tags": [
-        "Oil",
         "AI"
       ],
       "signal": "watch",
