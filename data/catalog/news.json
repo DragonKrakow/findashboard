@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-29T05:39:25Z",
-  "snapshot_date": "2026-09-29",
+  "generated_at": "2026-09-30T05:39:20Z",
+  "snapshot_date": "2026-09-30",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "AMD makes a big bet on the next era of AI with World Labs acquisition",
-      "url": "https://www.marketwatch.com/story/amd-makes-a-big-bet-on-the-next-era-of-ai-7f8a3b3c?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-29T00:03:00+00:00",
-      "summary": "The chip maker is buying the startup and adding AI pioneer Fei-Fei Li as its chief scientist.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
+      "title": "The Standard of Living review – Rory Kinnear has bags of charm as Bloomsbury economist Keynes",
+      "url": "https://www.theguardian.com/stage/2026/sep/30/the-standard-of-living-review-rory-kinnear-theatre-royal-haymarket-london-james-graham-nicholas-hytner",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-29T23:01:03+00:00",
+      "summary": "<p><strong>Theatre Royal Haymarket, London<br /></strong>James Graham’s high-wire writing brings economic theory to life and connects it with art and fulfilment in this polished, ravishingly staged story of John Maynard Keynes</p><p>Not everyone will know that the Bloomsbury group had a jobbing economist among them. One with superstar status and a firm belief in capitalism. John Maynard Keynes (Rory Kinnear) may not have cut a very bohemian picture in his three-piece suit but the foremost thinker of economic policy in 20th century Britain was also a card-carrying art lover, avant-gardist and bisexual who had affairs with Lytton Strachey and Duncan Grant, hanging out with the gang at their nerve-centre in Charleston.</p><p>He played with equal amounts of old-school reserve, and charm, by Kinnear, as state-of-the-nation writer, James Graham, audaciously brings economic theory to the West End. The high-wire act of the subject matter is leavened by Graham’s remarkable facility to balance British social history and complex political ideas with speed, sparkle and a humorous lightness of touch.</p> <a href=\"https://www.theguardian.com/stage/2026/sep/30/the-standard-of-living-review-rory-kinnear-theatre-royal-haymarket-london-james-graham-nicholas-hytner\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.9842,
       "tags": [
         "AI"
       ],
@@ -20,13 +20,13 @@
       "source_repo": "financenews"
     },
     {
-      "title": "SpaceX’s next big growth engine isn’t rockets — it’s this play on AI power, analysts say",
-      "url": "https://www.marketwatch.com/story/spacexs-next-big-growth-engine-isnt-rockets-its-this-play-on-ai-power-analysts-say-11963aeb?mod=mw_rss_topstories",
+      "title": "The real prize in AMD’s $8 billion World Labs acquisition isn’t what you’d think",
+      "url": "https://www.marketwatch.com/story/the-real-prize-in-amds-8-billion-world-labs-acquisition-isnt-what-youd-think-6f609d0f?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-28T22:03:00+00:00",
-      "summary": "The company has a lucrative opportunity in letting rivals tap its data centers for computing power.",
+      "published_at": "2026-09-29T21:52:00+00:00",
+      "summary": "AMD is getting cutting-edge spatial-intelligence models, but more importantly, a leader who can help recruit top talent and bring real-world AI applications into focus.",
       "sentiment": "bullish",
-      "sentiment_score": 0.7992,
+      "sentiment_score": 0.9324,
       "tags": [
         "AI"
       ],
@@ -35,13 +35,13 @@
       "source_repo": "financenews"
     },
     {
-      "title": "MongoDB’s stock is down nearly 20% as CEO decamps to Meta",
-      "url": "https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories",
+      "title": "Microsoft’s stock is on track to post its biggest quarterly gain in 28 years",
+      "url": "https://www.marketwatch.com/story/microsofts-stock-is-on-track-to-post-its-biggest-quarterly-gain-in-28-years-e6a20d11?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-28T21:23:00+00:00",
-      "summary": "Meta is creating an enterprise platform business that aims to make it easier for developers to use its products. CJ Desai, formerly of MongoDB, will head up the initiative.",
+      "published_at": "2026-09-29T21:18:00+00:00",
+      "summary": "Amid a “flight to quality,” Microsoft’s stock has stood out as an AI winner, according to one analyst",
       "sentiment": "bullish",
-      "sentiment_score": 0.6124,
+      "sentiment_score": 0.802,
       "tags": [
         "AI"
       ],
@@ -50,14 +50,105 @@
       "source_repo": "financenews"
     },
     {
-      "title": "This AI startup has only 14 employees — and a fresh $10 billion valuation",
-      "url": "https://www.marketwatch.com/story/this-ai-startup-has-only-14-employees-and-a-fresh-10-billion-valuation-5466e081?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-28T21:19:00+00:00",
-      "summary": "Instinct is rapidly amassing investment dollars, illustrating the rush of excitement around personal AI assistants.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6705,
+      "title": "Goldman Sachs CEO succession planning faces one big problem",
+      "url": "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-29T20:50:10+00:00",
+      "summary": "The Goldman Sachs board has reportedly discussed replacing CEO David Solomon, 64, with president John Waldron, 57, as early as next year.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.2263,
       "tags": [
+        "Gold"
+      ],
+      "signal": "watch",
+      "category": "markets",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "UK government pays highest interest rate on 10-year debt since 1999 at bond auction – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-29T15:07:56+00:00",
+      "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Newsflash: the number of mortgages approved by UK lenders has fallen to its lowest level since the end of 2023.</strong></p><p>Just 54,918 new home loans were approved in August on a seasonally-adjusted basis, new Bank of England data shows, as rising borrowing costs deterred potential home buyers.</p><p>The average 2-year fixed residential mortgage rate today is 5.93%. This is up from 5.91% the previous working day.</p><p>The average 5-year fixed residential mortgage rate today is 5.94%. This is up from 5.93% the previous working day.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.3182,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
+      "url": "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-29T14:37:07+00:00",
+      "summary": "President Donald Trump disclosed municipal bond holdings worth $300 million to $1 billion, including debt tied to issuers affected by federal policy.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.25,
+      "tags": [
+        "Fed"
+      ],
+      "signal": "watch",
+      "category": "macro",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
+      "url": "https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-29T12:00:33+00:00",
+      "summary": "Lisa Mantil, after a nearly three-decade run at Goldman, will join the prediction market's team to attract institutional traders.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7351,
+      "tags": [
+        "Gold"
+      ],
+      "signal": "watch",
+      "category": "markets",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "‘Visible and engaged’: Burnham in listening mode with businesses at Labour party conference",
+      "url": "https://www.theguardian.com/business/2026/sep/29/andy-burnham-business-labour-party-conference-budget-tax-rises",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-29T11:43:16+00:00",
+      "summary": "<p>PM reassures firms and chancellor vows help on costs – but unease remains over possible budget tax rises</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates\">Business live – latest updates</a></p></li></ul><p>A year ago Andy Burnham had a tough business reception at Labour’s party conference. The then mayor of Greater Manchester, with clear ambitions to replace Keir Starmer, had rattled the City of London with his comment that <a href=\"https://www.theguardian.com/politics/2025/sep/25/andy-burnham-alarms-city-call-end-uk-dependence-foreign-lenders\">Britain should be less “in hock” to bond markets</a>.</p><p>Returning to the annual gathering in Liverpool a year later as prime minister, the mood is different. Labour is pushing to repair relations with corporate Britain and reassure City bond traders against a jittery backdrop amid the Middle East war.</p> <a href=\"https://www.theguardian.com/business/2026/sep/29/andy-burnham-business-labour-party-conference-budget-tax-rises\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.9091,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
+      "url": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-29T07:19:38+00:00",
+      "summary": "China's securities regulator is raising the bar for public listings of humanoid robot startups with three specific criteria, according to three sources.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.296,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "The RBA has hiked interest rates. Use our loan calculator to check how it affects you",
+      "url": "https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-29T04:42:57+00:00",
+      "summary": "<p>Reserve Bank announces fourth hike this year, adding to the cost of monthly mortgage repayments</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/may/04/australia-news-live-jim-chalmers-budget-inflation-labor-cost-of-living-interest-rates-bondi-shooting-royal-commission-antisemitism-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Reserve Bank hiked interest rates again on Tuesday, after lifting rates in February, March and May.</p><p>The central bank raised the cash rate to 4.6%, from 4.35%.</p> <a href=\"https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7476,
+      "tags": [
+        "Interest Rates",
         "AI"
       ],
       "signal": "watch",
@@ -374,98 +465,6 @@
       "summary": "<p>IPPR finds failure to align testing standards has forced companies to abandon exporting to EU and is costing costing 0.18% of national income</p><p>The UK is losing out on annual exports to the EU that could be worth as much as £6.5bn without a deal with Brussels that allows manufacturers to jettison duplicate product testing.</p><p>In the latest attempt to calculate the loss of trade with the EU after Brexit, the IPPR thinktank said many companies have given up selling goods to the EU or set up subsidiaries inside the trade bloc after successive governments failed to secure a mutual recognition agreement that would avoid the extra administration costs.</p><p>Motor vehicle and part exports would have been between £2.48bn and £3.42bn higher each year.</p><p>Electronic exports could have been between £1.17bn and £1.67bn higher.</p><p>Pharmaceutical exports would have had an estimated annual uplift of between £740m and £820m.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/24/uk-losing-billions-in-eu-trade-due-to-mismatched-product-rules\">Continue reading...</a>",
       "sentiment": "bearish",
       "sentiment_score": -0.875,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Australians ‘scrambling’ for second jobs to deal with rising mortgage repayments and cost of living",
-      "url": "https://www.theguardian.com/business/2026/sep/24/australians-working-second-jobs-rising-mortgage-repayments-cost-of-living",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-24T06:12:45+00:00",
-      "summary": "<p>Latest data also shows unemployment at highest level since the pandemic, which analysts doubt will stop RBA hiking interest rates</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australians are “scrambling” to find more work to <a href=\"https://www.theguardian.com/australia-news/2026/sep/24/young-australians-are-staying-in-the-family-home-for-longer-and-its-not-hard-to-see-why\">cover soaring living expenses</a> and prepare for higher mortgage costs, economists say, after new data showed unemployment ticked up to its highest rate since the pandemic.</p><p>The key jobless figure lifted to 4.6% in August, from 4.5% the month before, according to the Australian Bureau of Statistics.</p> <a href=\"https://www.theguardian.com/business/2026/sep/24/australians-working-second-jobs-rising-mortgage-repayments-cost-of-living\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.8645,
-      "tags": [
-        "Interest Rates",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
-      "url": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-24T04:55:59+00:00",
-      "summary": "The deal, which was set to expire in November, will now be extended to Jan. 10, Bessent said, noting the need for Beijing to fulfill more deliverables.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.4404,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Three international bodies warn of risks of rising debt and soaring borrowing in major economies",
-      "url": "https://www.theguardian.com/business/2026/sep/23/oecd-global-economy-resilient-iran-war",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-23T09:27:52+00:00",
-      "summary": "<p>IIF highlights challenges facing US, France, UK and Japan, while OECD and IMF also voice global concerns</p><p>Three heavyweight international bodies have issued stark warnings about the risks of rising debt levels and soaring borrowing costs across large economies.</p><p>The Paris-based Organisation for Economic Co-operation and Development (OECD), the International Monetary Fund (IMF) and the International Institute of Finance (IIF), the voice of global banking, on Wednesday highlighted the dangers of soaring interest rates on $365tn (£275tn) in global borrowing.</p> <a href=\"https://www.theguardian.com/business/2026/sep/23/oecd-global-economy-resilient-iran-war\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.8658,
-      "tags": [
-        "Interest Rates"
-      ],
-      "signal": "watch",
-      "category": "geopolitical",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Critics of UK government’s economic forecaster are ‘shooting the messenger’, say MPs",
-      "url": "https://www.theguardian.com/business/2026/sep/23/obr-treasury-committee-shooting-messenger-mps-economic-forecaster-uk",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-23T05:00:16+00:00",
-      "summary": "<p>Treasury committee rejects calls for fundamental reform of independent watchdog the Office for Budget Responsibility</p><p>Attacks on the government’s independent economic forecaster from left and right of the political spectrum are akin to “shooting the messenger”, according to an influential group of MPs.</p><p>The Treasury committee rejected “siren calls to fundamentally reform” the Office for Budget Responsibility (OBR) and said it should not be blamed when policymakers had to make tough decisions because of tight public finances.</p> <a href=\"https://www.theguardian.com/business/2026/sep/23/obr-treasury-committee-shooting-messenger-mps-economic-forecaster-uk\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.449,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Oil falls below $100 a barrel; UK government borrowing paints ‘dismal picture’ as bond vigilantes assemble – as it happened",
-      "url": "https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-22T16:07:06+00:00",
-      "summary": "<p>The rising cost of servicing the UK national debt pushed up borrowing last month, while oil is dropping, and M&amp;G holds Bond Vigilantes Forum in London</p><p><strong>How much ‘headroom’ might John Healey still have to keep within the government’s fiscal rules?</strong></p><p>That’s the question dogging Westminster and the City.</p><p>“The chancellor has probably lost about half the headroom he inherited, leaving it between £10bn to £15bn. As long as the headroom is in double figures, he will probably be able to avoid topping it up, but the drop in headroom means any additional day-to-day spending, such as on defence or cost of living, will have to be paid for by higher taxes.</p><p>“What’s more, if the recent rise in energy prices is sustained through the next few months, household energy bills could rise by another 25% in January, which would take them above the level that the previous government capped them at. That would only further increase the pressure to act on cost of living by temporarily subsiding energy bills.</p><p>“The PM and chancellor will be feeling quite claustrophobic today as the walls close in around them. Borrowing costs keep climbing, while borrowing itself is outpacing the teeny rise in tax receipts.</p><p>Everyone can diagnose the problem, but it’s far from clear that a PM who swept to power promising good things for all is capable of holding a fractious Labour party together to carry out the tough work needed.”</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.9535,
-      "tags": [
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Kalshi asks CFTC to allow margin trading on its platform, letting users buy with borrowed funds",
-      "url": "https://www.cnbc.com/2026/09/22/kalshi-asks-cftc-to-allow-margin-trading-on-its-platform-letting-users-buy-with-borrowed-funds.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-22T12:28:51+00:00",
-      "summary": "It's the latest move by the company as it and other event contract exchanges seek to gain greater participation by institutional traders.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7783,
       "tags": [
         "AI"
       ],
