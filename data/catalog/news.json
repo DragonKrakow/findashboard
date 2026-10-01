@@ -1,47 +1,265 @@
 {
-  "generated_at": "2026-09-30T05:39:20Z",
-  "snapshot_date": "2026-09-30",
+  "generated_at": "2026-10-01T05:39:31Z",
+  "snapshot_date": "2026-10-01",
   "source": "financenews",
   "count": 30,
   "articles": [
+    {
+      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+      "url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-10-01T00:20:00+00:00",
+      "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
+      "sentiment": "bearish",
+      "sentiment_score": -0.4767,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
+      "url": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-30T23:44:28+00:00",
+      "summary": "Kashkari sat down with CNBC's Steve Liesman for an exclusive conversation Wednesday night.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.765,
+      "tags": [
+        "Fed"
+      ],
+      "signal": "watch",
+      "category": "macro",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Google shows it’s not out of the AI race just yet",
+      "url": "https://www.marketwatch.com/story/google-shows-its-not-out-of-the-ai-race-just-yet-75e19860?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-30T22:51:00+00:00",
+      "summary": "The company’s Gemini 4 Argon announcement shows Google is back with the pack when it comes to cutting-edge AI models.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "The 15 worst-performing S&P 500 stocks during a dismal September",
+      "url": "https://www.marketwatch.com/story/the-15-worst-performing-s-p-500-stocks-during-a-dismal-september-991f8a07?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-30T21:22:00+00:00",
+      "summary": "The S&amp;P 500 has gained slightly in September, but three-quarters of its components have declined.",
+      "sentiment": "neutral",
+      "sentiment_score": -0.1779,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
+      "url": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-30T21:09:42+00:00",
+      "summary": "Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.3818,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "How the ‘AI put’ has become the only thing that matters for stocks",
+      "url": "https://www.marketwatch.com/story/this-is-the-big-risk-that-stock-investors-should-be-watching-as-rising-bond-yields-menace-markets-904cae0a?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-30T20:59:00+00:00",
+      "summary": "While investors worry a spike in global bond yields will trigger a selloff in U.S. equities, strategists at BofA Global Research say the real threat lies elsewhere.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.8402,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Brisbane and Sydney hit hardest by falling house prices as 5.2% shaved from property values nationwide",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/01/brisbane-sydney-hit-hardest-by-falling-house-prices",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-30T20:53:12+00:00",
+      "summary": "<p>Cotality data shows median house prices fell in September as interest rates hit borrowing capacity</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/oct/01/labor-anthony-albanese-ato-ndis-thriving-kids-coalition-greens-leader-david-shoebridge-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Housing prices are falling in almost every suburb in Australia’s biggest cities, with values dropping faster in Brisbane than Sydney as the slowdown intensifies.</p><p>Prices nationally have fallen 5.2% from their peak in March to where they were a year ago, Cotality data released on Thursday shows.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/01/brisbane-sydney-hit-hardest-by-falling-house-prices\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6199,
+      "tags": [
+        "Interest Rates",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
+      "url": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-09-30T20:32:00+00:00",
+      "summary": "Yields in the global bond market have risen with startling speed over the past few months, and the more than $30 trillion market for U.S. government debt certainly hasn’t been immune.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.34,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Federal Reserve watchdog finds no criminal violations for building renovation cost overruns",
+      "url": "https://www.theguardian.com/business/2026/sep/30/federal-reserve-watchdog-building-renovation",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-30T17:49:27+00:00",
+      "summary": "<p>Trump criticized $2.4bn rehab amid attempts to pressure then Fed chair Jerome Powell into lowering interest rates</p><p>An internal watchdog said the <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a> mismanaged costs associated with a $2.4bn renovation of its Washington DC headquarters, but noted that no criminal violations occurred, according to a report released on Wednesday.</p><p>For over a year, <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has centered his attacks against the Fed and former chair <a href=\"https://www.theguardian.com/business/jerome-powell\">Jerome Powell</a> around the renovations, including a months-long Department of Justice criminal investigation that was <a href=\"https://www.theguardian.com/business/2026/apr/24/doj-drops-criminal-probe-jerome-powell-fed\">dropped</a> in April.</p> <a href=\"https://www.theguardian.com/business/2026/sep/30/federal-reserve-watchdog-building-renovation\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6602,
+      "tags": [
+        "Interest Rates",
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Economic growth in UK and US revised higher; diesel on brink of £2 a litre for first time – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/sep/30/uk-economy-growth-revised-up-stock-markets-greggs-job-cuts-energy-prices-latest-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-30T16:02:38+00:00",
+      "summary": "<p>Second-quarter GDP growth on both sides of the Atlantic was stronger than first estimated</p><p><strong>This morning’s upgrade to UK growth in April-June is a boost to Andy Burnham, analysts say, even though he didn’t take office until almost a month later.</strong></p><p><strong>Chris</strong> <strong>Beauchamp</strong>, chief market analyst at <strong>IG</strong>, says:</p><p>“Still on a post-speech high, the upgraded figure is yet more good news for the UK’s still-new(ish) prime minister.</p><p><a href=\"https://www.theguardian.com/business/live/2026/sep/30/uk-economy-growth-revised-up-stock-markets-greggs-job-cuts-energy-prices-latest-news-updates?page=with%3Ablock-6abcb3808f08d2f5d21fe794#block-6abcb3808f08d2f5d21fe794\">The highest growth in the G7 for the first half</a> is certainly a headline and one that will help keep nervous MPs in line for a while, plus it helps take off pressure for a new election - why risk it now when things appear to be improving nicely.”</p><p>The upward revision to real GDP growth in Q2, from 0.4% q/q to 0.5% q/q, suggests that the economy has been a bit more resilient to higher energy prices in the first half of the year than previously thought. This resilience may continue into Q3, but we still expect it to fade in Q4 as higher inflation takes a bigger bite out of households’ real incomes.</p><p>The 0.5% q/q gain in Q2 real GDP followed unrevised growth of 0.6% q/q in Q1, with the breakdown still showing that the economy is no longer being heavily supported by government spending, which contracted by 0.5% q/q (revised down from -0.3%).</p><p>“The upward revisions to Q2 GDP growth means the economy was even stronger in the first half of the year than we previously expected, despite the Iran war. What’s more, the composition of growth looks a little healthier. Surveys suggest that much of that positive momentum has been carried forward into Q3 meaning we have revised up our annual GDP forecast to 1.4%.</p><p>“However, the next six months looks tougher with potential interest rate rises, a sharp increase in inflation and another tax raising budget all to come. That will drag heavily on growth over the winter.</p><p>“Greggs served up a tasty trading update, with total sales growth accelerating to 7.7% over the third quarter.</p><p>This was driven by more settled weather in recent months, alongside ongoing menu development and product innovation. New store openings also played their part, with the group on track for 100-110 net openings this year, excluding 12 Express locations, making it easier for more customers to tuck into their freshly baked goods.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/30/uk-economy-growth-revised-up-stock-markets-greggs-job-cuts-energy-prices-latest-news-updates\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.9964,
+      "tags": [
+        "Election",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Good news in US inflation report boosts chances Fed won’t hike rates",
+      "url": "https://www.theguardian.com/business/2026/sep/30/inflation-report-interest-rates-fed",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-30T15:34:20+00:00",
+      "summary": "<p>Traders see about a 35% chance of an October rate hike, down from ​about 45% following White House pressure</p><p>Good economic news boosted Wall Street’s main indexes on Wednesday, as a softer-than-anticipated <a href=\"https://www.theguardian.com/business/inflation\">inflation</a> reading buoyed up hopes that the <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a> might not hike rates as soon ⁠as next month.</p><p>A commerce department report ⁠showed the personal consumption expenditures (PCE) ​price index stood at 3.4% on an annual basis in August against estimates of 3.7%, per economists polled by Reuters.</p> <a href=\"https://www.theguardian.com/business/2026/sep/30/inflation-report-interest-rates-fed\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.9062,
+      "tags": [
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "If turbocharged petrol prices are driving up inflation, then why are Australia’s unemployed on the line? | Greg Jericho",
+      "url": "https://www.theguardian.com/business/grogonomics/2026/oct/01/turbocharged-petrol-prices-driving-inflation-rba-rates-recession-employment",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-30T15:00:48+00:00",
+      "summary": "<p>Avoiding a rise in unemployment is important for the RBA – but apparently not a dealbreaker</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/oct/01/labor-anthony-albanese-ato-ndis-thriving-kids-coalition-greens-leader-david-shoebridge-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">new political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>And here we are again. Hello darkness my old friend. Interest rates up again and talk of a recession if needed.</p><p>The Reserve Bank’s enacting legislation gives it a dual mandate – “price stability [ie stable inflation] and the maintenance of full employment in Australia”. But in reality the RBA seems to ignore the “full employment” aspect overall and we now need to worry about a recession.</p> <a href=\"https://www.theguardian.com/business/grogonomics/2026/oct/01/turbocharged-petrol-prices-driving-inflation-rba-rates-recession-employment\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.509,
+      "tags": [
+        "Interest Rates",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "UK income growth revised upwards as markets hail ‘resilient’ economy",
+      "url": "https://www.theguardian.com/business/2026/sep/30/uk-income-growth-john-healey-budget-gdp-ons",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-30T14:13:55+00:00",
+      "summary": "<p>Boost for John Healey before budget as GDP figure shows UK economy grew faster than first estimated in second quarter</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/30/uk-economy-growth-revised-up-stock-markets-greggs-job-cuts-energy-prices-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>UK household income grew at a stronger pace than previously estimated during the first six months of the year, according to revisions of official data.</p><p>The rise in income per head to 1.1% between January and June followed an increase in the level of economic growth that illustrated the resilience of the UK economy since the outbreak of hostilities in the Middle East more than seven months ago.</p> <a href=\"https://www.theguardian.com/business/2026/sep/30/uk-income-growth-john-healey-budget-gdp-ons\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.743,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Inflation leaps to 4% stoking fears of fifth interest rate hike before Christmas",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/30/australia-inflation-rise-stokes-fears-fifth-interest-rate-hike-before-christmas",
+      "source": "The Guardian Economics",
+      "published_at": "2026-09-30T04:40:25+00:00",
+      "summary": "<p>Jim Chalmers says ‘higher global oil prices flowing through to oil prices in Australia’ are to blame for inflation rising from 3.5%</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/30/labor-anthony-albanese-coalition-polling-new-greens-leader-openai-hack-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Inflation has jumped to 4% in the year to August, from 3.5%, as Jim Chalmers was again forced to defend Labor’s economic management amid fears the Reserve Bank will need to <a href=\"https://www.theguardian.com/business/2026/sep/29/rba-interest-rate-announcement-decision-cash-rate\">hike interest rates</a> again before Christmas.</p><p>The increasingly embattled treasurer was asked if he was “gaslighting” Australians by insisting that government spending was not responsible for high inflation, blaming instead higher fuel costs associated with the ongoing US-Israel war on Iran.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/30/australia-inflation-rise-stokes-fears-fifth-interest-rate-hike-before-christmas\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.9173,
+      "tags": [
+        "Interest Rates",
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
+      "url": "https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-30T03:39:08+00:00",
+      "summary": "China must \"respond firmly\" if the EU introduces restrictions on Chinese businesses or products, the Commerce Ministry said, according to a CNBC translation.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.2023,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
+      "url": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-30T02:50:35+00:00",
+      "summary": "China's securities regulator is raising the bar for public listings of humanoid robot startups with three specific criteria, according to three sources.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.296,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
     {
       "title": "The Standard of Living review – Rory Kinnear has bags of charm as Bloomsbury economist Keynes",
       "url": "https://www.theguardian.com/stage/2026/sep/30/the-standard-of-living-review-rory-kinnear-theatre-royal-haymarket-london-james-graham-nicholas-hytner",
       "source": "The Guardian Economics",
       "published_at": "2026-09-29T23:01:03+00:00",
-      "summary": "<p><strong>Theatre Royal Haymarket, London<br /></strong>James Graham’s high-wire writing brings economic theory to life and connects it with art and fulfilment in this polished, ravishingly staged story of John Maynard Keynes</p><p>Not everyone will know that the Bloomsbury group had a jobbing economist among them. One with superstar status and a firm belief in capitalism. John Maynard Keynes (Rory Kinnear) may not have cut a very bohemian picture in his three-piece suit but the foremost thinker of economic policy in 20th century Britain was also a card-carrying art lover, avant-gardist and bisexual who had affairs with Lytton Strachey and Duncan Grant, hanging out with the gang at their nerve-centre in Charleston.</p><p>He played with equal amounts of old-school reserve, and charm, by Kinnear, as state-of-the-nation writer, James Graham, audaciously brings economic theory to the West End. The high-wire act of the subject matter is leavened by Graham’s remarkable facility to balance British social history and complex political ideas with speed, sparkle and a humorous lightness of touch.</p> <a href=\"https://www.theguardian.com/stage/2026/sep/30/the-standard-of-living-review-rory-kinnear-theatre-royal-haymarket-london-james-graham-nicholas-hytner\">Continue reading...</a>",
+      "summary": "<p><strong>Theatre Royal Haymarket, London<br /></strong>James Graham’s high-wire writing brings economic theory to life and connects it with art and fulfilment in this polished, ravishingly staged story of John Maynard Keynes</p><p>Not everyone will know that the Bloomsbury group had a jobbing economist among them. One with superstar status and a firm belief in capitalism. John Maynard Keynes (Rory Kinnear) may not have cut a very bohemian picture in his three-piece suit but the foremost thinker of economic policy in 20th century Britain was also a card-carrying art lover, avant-gardist and bisexual who had affairs with Lytton Strachey and Duncan Grant, hanging out with the gang at their nerve-centre in Charleston.</p><p>He is played with equal amounts of old-school reserve, and charm, by Kinnear, as state-of-the-nation writer, James Graham, audaciously brings economic theory to the West End. The high-wire act of the subject matter is leavened by Graham’s remarkable facility to balance British social history and complex political ideas with speed, sparkle and a humorous lightness of touch.</p> <a href=\"https://www.theguardian.com/stage/2026/sep/30/the-standard-of-living-review-rory-kinnear-theatre-royal-haymarket-london-james-graham-nicholas-hytner\">Continue reading...</a>",
       "sentiment": "bullish",
       "sentiment_score": 0.9842,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "The real prize in AMD’s $8 billion World Labs acquisition isn’t what you’d think",
-      "url": "https://www.marketwatch.com/story/the-real-prize-in-amds-8-billion-world-labs-acquisition-isnt-what-youd-think-6f609d0f?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-29T21:52:00+00:00",
-      "summary": "AMD is getting cutting-edge spatial-intelligence models, but more importantly, a leader who can help recruit top talent and bring real-world AI applications into focus.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.9324,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Microsoft’s stock is on track to post its biggest quarterly gain in 28 years",
-      "url": "https://www.marketwatch.com/story/microsofts-stock-is-on-track-to-post-its-biggest-quarterly-gain-in-28-years-e6a20d11?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-29T21:18:00+00:00",
-      "summary": "Amid a “flight to quality,” Microsoft’s stock has stood out as an AI winner, according to one analyst",
-      "sentiment": "bullish",
-      "sentiment_score": 0.802,
       "tags": [
         "AI"
       ],
@@ -117,21 +335,6 @@
       "summary": "<p>PM reassures firms and chancellor vows help on costs – but unease remains over possible budget tax rises</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates\">Business live – latest updates</a></p></li></ul><p>A year ago Andy Burnham had a tough business reception at Labour’s party conference. The then mayor of Greater Manchester, with clear ambitions to replace Keir Starmer, had rattled the City of London with his comment that <a href=\"https://www.theguardian.com/politics/2025/sep/25/andy-burnham-alarms-city-call-end-uk-dependence-foreign-lenders\">Britain should be less “in hock” to bond markets</a>.</p><p>Returning to the annual gathering in Liverpool a year later as prime minister, the mood is different. Labour is pushing to repair relations with corporate Britain and reassure City bond traders against a jittery backdrop amid the Middle East war.</p> <a href=\"https://www.theguardian.com/business/2026/sep/29/andy-burnham-business-labour-party-conference-budget-tax-rises\">Continue reading...</a>",
       "sentiment": "bullish",
       "sentiment_score": 0.9091,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
-      "url": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-29T07:19:38+00:00",
-      "summary": "China's securities regulator is raising the bar for public listings of humanoid robot startups with three specific criteria, according to three sources.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.296,
       "tags": [
         "AI"
       ],
@@ -257,214 +460,6 @@
       "summary": "Matthews Asia portfolio manager Andrew Mattock delivers a strategy that revolves around the world's second largest economy.",
       "sentiment": "bullish",
       "sentiment_score": 0.4019,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
-      "url": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-26T13:30:06+00:00",
-      "summary": "The benchmark yield has climbed to a 19-year high, fueled by sticky inflation, heavy bond issuance and an AI-fueled investment boom.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.2023,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "‘It’s just getting worse’: anger in Maine over Trump’s trade war with close neighbor Canada",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/26/maine-voters-canada-trump-trade-war",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-26T11:00:35+00:00",
-      "summary": "<p>President’s tariffs have hurt fishers, loggers and others in a state with deep bonds to Canada – will voters show their displeasure in the midterms?</p><p>It was an ideal summer to cut trees.</p><p>The weather in Maine’s Penobscot county – one of the most heavily forested counties in a state<strong> </strong>dense with trees – was warm and dry. Yet even as the county’s wood had grown to an ideal size to harvest, the machines Molly London typically uses sat idle.</p> <a href=\"https://www.theguardian.com/us-news/ng-interactive/2026/sep/26/maine-voters-canada-trump-trade-war\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.6597,
-      "tags": [
-        "Trade War",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "The Guardian view on Trump and Xi: a show of friendship, but no real attempt to address the tensions | Editorial",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/25/the-guardian-view-on-trump-and-xi-a-show-of-friendship-but-no-real-attempt-to-address-the-tensions",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-25T16:53:49+00:00",
-      "summary": "<p>The Chinese leader’s visit to Washington appears to have done nothing to shift the stalemate in bilateral relations </p><p>Within days, two high-profile Chinese visitors will arrive in the US – envoys of friendship, as Xi Jinping described them when he met Donald Trump at the White House this week. The giant pandas, Ping Ping and Fu Shuang, will be hosted at Atlanta zoo. Beijing dispatched the first panda pair to the US in 1972 following President Richard Nixon’s landmark visit to China. It uses the animals to&nbsp;indicate satisfaction or displeasure with other nations. But it also charges heftily for their lease: reportedly, <a href=\"https://time.com/article/2026/09/25/china-panda-diplomacy-trump-xi-jinping/\">around $1m a year</a> per pair. <a href=\"https://www.pewresearch.org/short-reads/2026/09/23/americans-views-of-china-have-warmed-in-recent-years/\">Americans’ views</a> of China have warmed from a pandemic nadir, but are unlikely to be shifted much by two animals, however charming.&nbsp;These days they are more of a token gesture&nbsp;than a striking symbol.</p><p>It is telling that the announcement was one of the <a href=\"https://www.theguardian.com/us-news/2026/sep/25/donald-trump-xi-jinping-china-president-us-visit-red-carpet-treatment\">main takeaways</a> of Mr Xi’s <a href=\"https://www.theguardian.com/us-news/2026/sep/23/trump-xi-jinping-china-us-state-visit\">visit to Washington</a>. Expectations were low after May’s stalemate summit in Beijing, but this meeting still struggled to meet them. The US president gave Mr Xi a lavish welcome –&nbsp;unusually, travelling to meet the “strong, vibrant and&nbsp;fit” Chinese leader off the plane. He insisted that they had “never gotten along better”.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/sep/25/the-guardian-view-on-trump-and-xi-a-show-of-friendship-but-no-real-attempt-to-address-the-tensions\">Continue reading...</a>",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0129,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Healey appoints Labour manifesto writer, adding to election speculation",
-      "url": "https://www.theguardian.com/politics/2026/sep/25/labour-appoints-manifesto-writer-ravinder-athwal-treasury",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-25T16:34:13+00:00",
-      "summary": "<p>Exclusive: Economist Ravinder Athwal, who worked in Keir Starmer’s team, is poached from Flint Global</p><p>Ravinder Athwal, the economist who wrote Labour’s 2024 manifesto, is taking on a senior role as an adviser to John Healey, in a move likely to fuel speculation about an early general election.</p><p>The chancellor is keen to strengthen his team before the critical budget on 28 October, as the economy is buffeted by <a href=\"https://www.theguardian.com/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget\">high oil prices</a> and rising government <a href=\"https://www.theguardian.com/business/2026/sep/22/uk-government-borrowing-john-healey-budget-bond-markets\">borrowing costs</a>.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/25/labour-appoints-manifesto-writer-ravinder-athwal-treasury\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3612,
-      "tags": [
-        "Election",
-        "Oil"
-      ],
-      "signal": "watch",
-      "category": "energy",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Iran war drives UK diesel price to near record high, and makes interest rate rise ‘hard to avoid’ – as it happened",
-      "url": "https://www.theguardian.com/business/live/2026/sep/25/uk-consumer-confidence-burnham-bounce-bank-of-england-oil-inflation-stock-markets-bonds-latest-news-updates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-25T14:46:27+00:00",
-      "summary": "<p>Bank of England governor Andrew Bailey says persistently high oil and gas prices would make it hard to resist pressure to raise interest rates</p><ul><li><p><a href=\"https://www.theguardian.com/money/2026/sep/25/capital-gains-tax-how-it-works-benefits-and-pitfalls-of-another-hike\"><strong>Capital gains tax: how it works, and the pros and cons of another rise</strong></a></p></li></ul><p><br /></p><p><strong>TalkTalk is scrambling to secure its future amid the threat of administration, closing in on deals to sell its consumer and broadband arms as it seeks to save 900 jobs.</strong></p><p>The telecoms company said on Friday it is in the final stages of sealing deals to sell its consumer business as well as its wholesale operation, PXC.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/25/uk-consumer-confidence-burnham-bounce-bank-of-england-oil-inflation-stock-markets-bonds-latest-news-updates\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6369,
-      "tags": [
-        "Interest Rates",
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "China's Xi urges U.S. to cooperate on AI",
-      "url": "https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-25T01:22:17+00:00",
-      "summary": "U.S. President Donald Trump hosted Chinese President Xi Jinping on Thursday at the White House.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
-      "url": "https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-24T17:12:04+00:00",
-      "summary": "The policymaker said she and her colleagues may need to raise interest rates further to bring inflation back to target.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.4588,
-      "tags": [
-        "Interest Rates",
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "US mortgage rates top 7% for first time in 20 months",
-      "url": "https://www.theguardian.com/business/2026/sep/24/mortgage-rates-housing-market",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-24T16:31:58+00:00",
-      "summary": "<p>Increase comes after Fed decision to raise interest rates, as Americans struggle with high prices and stagnant wages</p><p>US mortgage rates surpassed 7% for the first time since January 2025, according to federal lender Freddie Mac, aggravating a housing market that has endured years of high interest rates and low supply.</p><p>The increase comes after the US <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a> <a href=\"https://www.theguardian.com/business/2026/sep/16/us-federal-reserve-votes-hike-rates\">hiked interest rates</a>, which directly affect mortgage rates, for the first time since 2023, citing high inflation.</p> <a href=\"https://www.theguardian.com/business/2026/sep/24/mortgage-rates-housing-market\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7579,
-      "tags": [
-        "Interest Rates",
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "UK interest rate rise ‘increasingly likely’ with high energy prices; inflation fears hit bonds – as it happened",
-      "url": "https://www.theguardian.com/business/live/2026/sep/24/global-bond-sell-off-us-economy-fears-stock-markets-ftse-dollar-pound-latest-news-updates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-24T16:03:32+00:00",
-      "summary": "<p>BoE deputy governor cites risks from energy prices, as US 30-year bond yields hits highest since 2004</p><p><strong>Newsflash: A Bank of England deputy governor is warning that interest rates will be raised, if necessary, to combat the risk of persistent inflationary pressures from higher oil prices.</strong></p><p><strong>Clare</strong> <strong>Lombardelli</strong> is telling the Sixth Biennial Conference on Macroeconomic Policy in Warsaw that the energy shock due to the conflict in the Middle East is likely to keep pushing UK inflation higher in the coming months.</p><p>Strong demand for AI components is already pushing up global export prices and weather-related shocks add upside risks. On the other hand, trade diversion is reducing inflation.</p><p>The longer higher energy prices persist, the greater the risk that indirect effects build and that inflation expectations, wage bargaining and price-setting behaviour begin to adjust in response.</p><p>On that basis, policy is increasingly likely to need to tighten if elevated energy prices persist, absent clear evidence of disinflation or weaker activity. But this is by no means suggesting that monetary policy should respond mechanically to movements in energy prices. The key issue is not the spot price of energy itself but the interaction of the underlying economy, higher energy prices, and the nature of their transmission. That, ultimately, is what will determine whether Bank Rate needs to rise.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/24/global-bond-sell-off-us-economy-fears-stock-markets-ftse-dollar-pound-latest-news-updates\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.2023,
-      "tags": [
-        "Interest Rates",
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
-      "url": "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-24T14:16:27+00:00",
-      "summary": "Chinese confirmation of the AI discussions came just hours before President Xi Jinping was scheduled to begin talks with U.S. President Donald Trump.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "‘You can’t just bet everything on exports’: as its gas runs out, is Bolivia doomed to repeat history?",
-      "url": "https://www.theguardian.com/global-development/2026/sep/24/fossil-gas-runs-out-bolivia-poverty-inflation",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-24T13:00:18+00:00",
-      "summary": "<p>A fossil gas boom that lifted millions out of poverty has collapsed and inflation is rising – but not everyone believes selling gold and soya is the answer</p><p>Once hailed as the “energy heart of South America”, <a href=\"https://www.theguardian.com/world/bolivia\">Bolivia</a>’s economy was buoyed up by a fossil gas boom from 2006 to 2014. At its height, then-president Evo Morales commissioned a <a href=\"https://www.theguardian.com/world/2018/aug/16/bolivian-president-evo-morales-new-residence-is-as-imposing-as-it-is-divisive-la-paz\">gleaming presidential skyscraper</a> and installed the world’s longest urban <a href=\"https://www.theguardian.com/cities/2016/feb/10/la-paz-cable-difference-city-subway-sky\">cable car network</a> in La Paz, the seat of government.</p><p>Flush with cash, the country <a href=\"https://www.imf.org/en/news/articles/2018/12/06/pr18453-imf-executive-board-concludes-2018-article-iv-consultation-with-bolivia\">grew its GDP</a>, expanded <a href=\"https://www.theguardian.com/commentisfree/2014/oct/14/evo-morales-reelected-socialism-doesnt-damage-economies-bolivia\">social programmes</a> and <a href=\"https://www.npr.org/sections/goatsandsoda/2019/11/26/781199250/how-evo-morales-made-bolivia-a-better-place-before-he-was-forced-to-flee\">halved poverty rates</a>. But then commodity prices plummeted and gas reserves <a href=\"https://www.bloomberg.com/news/features/2024-10-09/bolivia-natural-gas-shortage-sends-economy-teetering?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjMzOTQwMiwiZXhwIjoxNzg2OTQ0MjAyLCJhcnRpY2xlSWQiOiJTTDM1OFNUMEFGQjQwMCIsImJjb25uZWN0SWQiOiJGQ0Y1MzVDRTU5QUI0RUY4QkU3NTEwNEM2NEFCNzcwMSJ9.GaXAfxQvvucJBB2MOcQ6bai-tCWm4MkudrmGPmANVgc\">started to dry up</a>, bringing Bolivia’s “<a href=\"https://www.reuters.com/world/americas/bolivias-creaking-big-state-model-rings-warning-bell-south-america-2023-06-27/\">economic miracle</a>” crashing down. Inflation – once the <a href=\"https://apnews.com/article/bolivia-elections-president-morales-bread-socialism-mas-subsidies-protests-fd1f696aa8036647f7d023a79c272c8a\">region’s lowest</a> – has soared.</p> <a href=\"https://www.theguardian.com/global-development/2026/sep/24/fossil-gas-runs-out-bolivia-poverty-inflation\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.2406,
-      "tags": [
-        "Election",
-        "Gold",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Oil price rise creates more pressure on UK policymakers before budget",
-      "url": "https://www.theguardian.com/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-24T11:41:08+00:00",
-      "summary": "<p>Treasury sources concede ‘less room’ for manoeuvre as global bond selloff also hikes government’s borrowing costs</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/sep/23/oecd-global-economy-resilient-iran-war\">International bodies warn of rising debt and borrowing risks</a></p></li><li><p><a href=\"https://www.theguardian.com/politics/2026/sep/23/burnham-stands-by-uk-bond-market-claim\">Burnham stands by claim UK is ‘in hock’ to bond markets</a></p><p></p></li></ul><p>Oil prices lurched upwards again on Thursday, creating a growing headache for UK policymakers ahead of John Healey’s budget next month.</p><p>While Healey has been keen to present an upbeat picture of the UK’s economic prospects, Treasury sources concede the sharp jump in oil and gas prices means they have “less room” than a month ago.</p> <a href=\"https://www.theguardian.com/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6258,
-      "tags": [
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "UK ‘losing up to £6.5bn a year in EU trade’ without post-Brexit product deal",
-      "url": "https://www.theguardian.com/politics/2026/sep/24/uk-losing-billions-in-eu-trade-due-to-mismatched-product-rules",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-24T08:48:11+00:00",
-      "summary": "<p>IPPR finds failure to align testing standards has forced companies to abandon exporting to EU and is costing costing 0.18% of national income</p><p>The UK is losing out on annual exports to the EU that could be worth as much as £6.5bn without a deal with Brussels that allows manufacturers to jettison duplicate product testing.</p><p>In the latest attempt to calculate the loss of trade with the EU after Brexit, the IPPR thinktank said many companies have given up selling goods to the EU or set up subsidiaries inside the trade bloc after successive governments failed to secure a mutual recognition agreement that would avoid the extra administration costs.</p><p>Motor vehicle and part exports would have been between £2.48bn and £3.42bn higher each year.</p><p>Electronic exports could have been between £1.17bn and £1.67bn higher.</p><p>Pharmaceutical exports would have had an estimated annual uplift of between £740m and £820m.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/24/uk-losing-billions-in-eu-trade-due-to-mismatched-product-rules\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.875,
       "tags": [
         "AI"
       ],
