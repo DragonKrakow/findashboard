@@ -1,18 +1,82 @@
 {
-  "generated_at": "2026-10-01T05:39:31Z",
-  "snapshot_date": "2026-10-01",
+  "generated_at": "2026-10-02T05:39:22Z",
+  "snapshot_date": "2026-10-02",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
-      "url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-01T00:20:00+00:00",
-      "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
-      "sentiment": "bearish",
-      "sentiment_score": -0.4767,
+      "published_at": "2026-10-02T00:15:00+00:00",
+      "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
+      "sentiment": "bullish",
+      "sentiment_score": 0.802,
       "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "The hidden silver lining of high interest rates: safer, cheaper retirement income",
+      "url": "https://www.marketwatch.com/story/the-hidden-silver-lining-of-high-interest-rates-safer-cheaper-retirement-income-36e2e077?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-10-01T21:27:00+00:00",
+      "summary": "Annuity payout rates are closely tied to interest rates",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8316,
+      "tags": [
+        "Interest Rates",
+        "Silver"
+      ],
+      "signal": "watch",
+      "category": "macro",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "US borrowing costs hit 24-year high as global bond sell-off intensifies",
+      "url": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-01T17:56:18+00:00",
+      "summary": "<p>Fears that US deficit is unsustainable also drive UK 30-year bond yields briefly above 6% for first time since 1998</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/01/uk-house-prices-september-mortgage-rates-bonds-stock-markets-manufacturing-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The global bond sell-off intensified on Thursday, driving 10-year US government borrowing costs to their highest level in 24 years in a frantic day’s trading.</p><p>The threat of a renewed round of inflation from <a href=\"https://www.theguardian.com/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget\">the persistently high cost of oil</a> has spooked investors on both sides of the Atlantic, with central banks expected to raise interest rates in the coming months to prevent price increases from becoming embedded.</p> <a href=\"https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.7096,
+      "tags": [
+        "Interest Rates",
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
+      "url": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-10-01T14:24:36+00:00",
+      "summary": "Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.3818,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Rightwing economic myths could derail Burnham’s project – to destroy them, look to Keynes | Larry Elliott",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/01/rightwing-economic-myths-andy-burnham-borrowing-markets",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-01T05:00:28+00:00",
+      "summary": "<p>Borrowing can be good, there is no such thing as the ‘nation’s credit card’, and, yes, you can buck the markets – as previous governments have shown</p><p>Andy Burnham does a nice line in nostalgia. His <a href=\"https://labour.org.uk/updates/stories/andy-burnhams-speech-to-labour-party-conference-2026/\">first party conference speech</a> as prime minister was full of fond memories for the Britain of the 1950s and 1960s, when working-class families could sense their lives steadily getting better. The underlying message of his address was that, given time, he could rekindle that optimism and return the country to how it was before Margaret Thatcher wrecked everything.</p><p>Much of what Burnham says is true. The 1980s was a decade of deindustrialisation, asset-stripping and financial deregulation that has shaped modern Britain – and not in a good way.</p><p>Larry Elliott is a Guardian columnist</p> <a href=\"https://www.theguardian.com/commentisfree/2026/oct/01/rightwing-economic-myths-andy-burnham-borrowing-markets\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.9381,
+      "tags": [
+        "Regulation",
         "AI"
       ],
       "signal": "watch",
@@ -35,90 +99,15 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Google shows it’s not out of the AI race just yet",
-      "url": "https://www.marketwatch.com/story/google-shows-its-not-out-of-the-ai-race-just-yet-75e19860?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-30T22:51:00+00:00",
-      "summary": "The company’s Gemini 4 Argon announcement shows Google is back with the pack when it comes to cutting-edge AI models.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "The 15 worst-performing S&P 500 stocks during a dismal September",
-      "url": "https://www.marketwatch.com/story/the-15-worst-performing-s-p-500-stocks-during-a-dismal-september-991f8a07?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-30T21:22:00+00:00",
-      "summary": "The S&amp;P 500 has gained slightly in September, but three-quarters of its components have declined.",
-      "sentiment": "neutral",
-      "sentiment_score": -0.1779,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
-      "url": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-30T21:09:42+00:00",
-      "summary": "Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3818,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "How the ‘AI put’ has become the only thing that matters for stocks",
-      "url": "https://www.marketwatch.com/story/this-is-the-big-risk-that-stock-investors-should-be-watching-as-rising-bond-yields-menace-markets-904cae0a?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-30T20:59:00+00:00",
-      "summary": "While investors worry a spike in global bond yields will trigger a selloff in U.S. equities, strategists at BofA Global Research say the real threat lies elsewhere.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.8402,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Brisbane and Sydney hit hardest by falling house prices as 5.2% shaved from property values nationwide",
+      "title": "Property prices are plunging in almost every capital city across Australia – see how your suburb rates",
       "url": "https://www.theguardian.com/australia-news/2026/oct/01/brisbane-sydney-hit-hardest-by-falling-house-prices",
       "source": "The Guardian Economics",
       "published_at": "2026-09-30T20:53:12+00:00",
       "summary": "<p>Cotality data shows median house prices fell in September as interest rates hit borrowing capacity</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/oct/01/labor-anthony-albanese-ato-ndis-thriving-kids-coalition-greens-leader-david-shoebridge-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Housing prices are falling in almost every suburb in Australia’s biggest cities, with values dropping faster in Brisbane than Sydney as the slowdown intensifies.</p><p>Prices nationally have fallen 5.2% from their peak in March to where they were a year ago, Cotality data released on Thursday shows.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/01/brisbane-sydney-hit-hardest-by-falling-house-prices\">Continue reading...</a>",
       "sentiment": "bullish",
-      "sentiment_score": 0.6199,
+      "sentiment_score": 0.4515,
       "tags": [
         "Interest Rates",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
-      "url": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-09-30T20:32:00+00:00",
-      "summary": "Yields in the global bond market have risen with startling speed over the past few months, and the more than $30 trillion market for U.S. government debt certainly hasn’t been immune.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.34,
-      "tags": [
         "AI"
       ],
       "signal": "watch",
@@ -195,7 +184,7 @@
       "url": "https://www.theguardian.com/business/2026/sep/30/uk-income-growth-john-healey-budget-gdp-ons",
       "source": "The Guardian Economics",
       "published_at": "2026-09-30T14:13:55+00:00",
-      "summary": "<p>Boost for John Healey before budget as GDP figure shows UK economy grew faster than first estimated in second quarter</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/30/uk-economy-growth-revised-up-stock-markets-greggs-job-cuts-energy-prices-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>UK household income grew at a stronger pace than previously estimated during the first six months of the year, according to revisions of official data.</p><p>The rise in income per head to 1.1% between January and June followed an increase in the level of economic growth that illustrated the resilience of the UK economy since the outbreak of hostilities in the Middle East more than seven months ago.</p> <a href=\"https://www.theguardian.com/business/2026/sep/30/uk-income-growth-john-healey-budget-gdp-ons\">Continue reading...</a>",
+      "summary": "<p>Boost for John Healey before budget as GDP figure shows UK economy grew faster than first estimated in second quarter</p><p>UK household income grew at a stronger pace than previously estimated during the first six months of the year, according to revisions of official data.</p><p>The rise in income per head to 1.1% between January and June followed an increase in the level of economic growth that illustrated the resilience of the UK economy since the outbreak of hostilities in the Middle East more than seven months ago.</p> <a href=\"https://www.theguardian.com/business/2026/sep/30/uk-income-growth-john-healey-budget-gdp-ons\">Continue reading...</a>",
       "sentiment": "bullish",
       "sentiment_score": 0.743,
       "tags": [
@@ -460,6 +449,21 @@
       "summary": "Matthews Asia portfolio manager Andrew Mattock delivers a strategy that revolves around the world's second largest economy.",
       "sentiment": "bullish",
       "sentiment_score": 0.4019,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
+      "url": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-09-26T13:30:06+00:00",
+      "summary": "The benchmark yield has climbed to a 19-year high, fueled by sticky inflation, heavy bond issuance and an AI-fueled investment boom.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.2023,
       "tags": [
         "AI"
       ],
