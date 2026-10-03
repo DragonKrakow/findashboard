@@ -1,14 +1,60 @@
 {
-  "generated_at": "2026-10-02T05:39:22Z",
-  "snapshot_date": "2026-10-02",
+  "generated_at": "2026-10-03T05:43:17Z",
+  "snapshot_date": "2026-10-03",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
+      "title": "Why Western Digital and Seagate are seeing big stock drops today",
+      "url": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-10-02T22:42:00+00:00",
+      "summary": "Investors are worried that Toshiba will boost its production of a key AI storage product, potentially hurting the strong pricing power that Western Digital and Seagate currently enjoy.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6486,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "DoJ declines to reopen investigation into former Fed chair Jay Powell",
+      "url": "https://www.theguardian.com/business/2026/oct/02/doj-fed-chair-jerome-powell-investigation",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-02T22:32:21+00:00",
+      "summary": "<p>Kevin Warsh’s predecessor had been investigated over cost overruns related to central bank renovation project</p><p>The US ⁠justice department is not reopening a criminal investigation into former Federal Reserve chair <a href=\"https://www.theguardian.com/business/jerome-powell\">Jerome Powell</a> ⁠for cost overruns ⁠related ​to the central bank’s building renovation project, a department spokesperson said on Friday.</p><p>Attorney general <a href=\"https://www.theguardian.com/us-news/todd-blanche\">Todd ⁠Blanche</a> – in comments to <a href=\"https://www.bloomberg.com/news/articles/2026-10-02/doj-not-reopening-criminal-probe-into-fed-s-powell-blanche-says\">Bloomberg News</a>, which first reported the development – said he has not ruled out ⁠continuing to look into the project’s oversight and potentially take ​action if evidence of ‌wrongdoing came to ‌light.</p> <a href=\"https://www.theguardian.com/business/2026/oct/02/doj-fed-chair-jerome-powell-investigation\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.4168,
+      "tags": [
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Does AI have a soul? Pope Leo and Anthropic clash.",
+      "url": "https://www.marketwatch.com/story/does-ai-have-a-soul-pope-leo-and-anthropic-clash-0c1669fb?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-10-02T20:40:00+00:00",
+      "summary": "The Vatican has laid a moral blueprint for the technology, with Pope Leo maintaining that “algorithms lack the spark of humanity.”",
+      "sentiment": "neutral",
+      "sentiment_score": -0.1027,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
       "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
       "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-02T00:15:00+00:00",
+      "published_at": "2026-10-02T20:30:00+00:00",
       "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
       "sentiment": "bullish",
       "sentiment_score": 0.802,
@@ -20,19 +66,143 @@
       "source_repo": "financenews"
     },
     {
-      "title": "The hidden silver lining of high interest rates: safer, cheaper retirement income",
-      "url": "https://www.marketwatch.com/story/the-hidden-silver-lining-of-high-interest-rates-safer-cheaper-retirement-income-36e2e077?mod=mw_rss_topstories",
+      "title": "Europe’s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
+      "url": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-01T21:27:00+00:00",
-      "summary": "Annuity payout rates are closely tied to interest rates",
+      "published_at": "2026-10-02T20:26:00+00:00",
+      "summary": "Europe leaders agreed Friday to release some of diesel stockpiles, pulling prices of oil down by as much as 5%.",
+      "sentiment": "neutral",
+      "sentiment_score": -0.128,
+      "tags": [
+        "Oil"
+      ],
+      "signal": "watch",
+      "category": "energy",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
+      "url": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-10-02T18:49:03+00:00",
+      "summary": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
       "sentiment": "bullish",
-      "sentiment_score": 0.8316,
+      "sentiment_score": 0.7269,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Nasdaq hits record high after weaker-than-expected US jobs report – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/oct/02/french-bond-sell-off-euro-crisis-cuts-tax-rises-eurozone-inflation-us-jobs-report-latest-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-02T15:58:01+00:00",
+      "summary": "<p>US economy only added 29,000 jobs in September, which might deter the Federal Reserve from raising interest rates</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/02/september-jobs-report\"><strong>US added just 29,000 jobs in September in sharp drop from last month’s gains</strong></a></p></li></ul><p>Core inflation in the eurozone also inched up last month.</p><p>Inflation, excluding energy, food, alcohol &amp; tobacco, rose to 2.5% in September up from 2.4% in August.</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/02/french-bond-sell-off-euro-crisis-cuts-tax-rises-eurozone-inflation-us-jobs-report-latest-news-updates\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.4588,
       "tags": [
         "Interest Rates",
-        "Silver"
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "US added just 29,000 jobs in September in sharp drop from last month’s gains",
+      "url": "https://www.theguardian.com/business/2026/oct/02/september-jobs-report",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-02T14:04:29+00:00",
+      "summary": "<p>Final jobs report before the midterm elections also shows the US unemployment rate rose slightly to 4.2%</p><p>US employers added just 29,000 jobs in September, a sharp drop from last month’s gains, and unemployment rose slightly to 4.2%, a sign of a cooling labor market in the final jobs report before the midterm election.</p><p>The numbers were under half of economists’ expectations of <a href=\"https://www.wsj.com/economy/jobs/adp-says-private-sector-hiring-picked-up-in-september-d8c0f59e\">just under 70,000 new jobs</a>. Most job gains were concentrated in the healthcare industry, which added 17,000 new jobs, while the information, financial and professional industries saw losses, according to the latest data from the US Bureau of Labor Statistics.</p> <a href=\"https://www.theguardian.com/business/2026/oct/02/september-jobs-report\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.6395,
+      "tags": [
+        "Election",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "John Maynard Keynes: the cultured economist who governments turn to in a crisis",
+      "url": "https://www.theguardian.com/business/2026/oct/02/john-maynard-keynes-the-cultured-economist-who-governments-turn-to-in-a-crisis",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-02T14:00:09+00:00",
+      "summary": "<p>A new play about the art-loving Bloomsbury Group member speaks of the enduring battle of ideas with his free-market rival Friedrich Hayek</p><p>The sound of guns from the advancing German armies could be heard clearly by John Maynard Keynes as his train trundled across northern France in the spring of 1918. The evidence of the struggle on the western front was everywhere but Keynes, then a Treasury official, was not heading to Paris on war business; he was off to buy some art.</p><p>Keynes made the risky trip to attend an auction of the studio of Edgar Degas, who had died the previous year. The man who would become the foremost economist of the 20th century returned to London with some impressionist treasures for the National Gallery, having successfully petitioned the chancellor of the exchequer to spend £20,000 at the sale.</p> <a href=\"https://www.theguardian.com/business/2026/oct/02/john-maynard-keynes-the-cultured-economist-who-governments-turn-to-in-a-crisis\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.34,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "UK diesel price hits record high of £2 a litre",
+      "url": "https://www.theguardian.com/money/2026/oct/02/uk-diesel-price-record-high-iran-war-oil",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-02T13:41:04+00:00",
+      "summary": "<p>France proposes that EU nations and IEA release oil and diesel from reserves as Iran war drives up cost worldwide</p><ul><li><p><a href=\"https://www.theguardian.com/money/2026/sep/21/diesel-global-supply-shortage-record-prices-iran-war-energy-crisis-brent-crude\">‘Half my day’s pay goes to filling up my car’</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>British motorists face more pressure at the pumps after the average price of diesel climbed to a record £2 a litre.</p><p>The price of a litre at UK forecourts has risen 40.5% since late February, when the US-Israel war on Iran began disrupting supplies of crude and refined oil products from the Gulf, leading to cost increases across the economy.</p> <a href=\"https://www.theguardian.com/money/2026/oct/02/uk-diesel-price-record-high-iran-war-oil\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.9371,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
+      "url": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-10-02T13:29:27+00:00",
+      "summary": "Odds tumbled after a jobs report showed a soft labor market, leading more traders to lower the the chances of a fed funds rate increase this month.",
+      "sentiment": "neutral",
+      "sentiment_score": -0.1423,
+      "tags": [
+        "Fed"
       ],
       "signal": "watch",
       "category": "macro",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "There is a way to look after people, the planet – and Britain’s growth. It’s what we call the ‘wellbeing economy’ | Jamie Driscoll",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/02/people-planet-britain-growth-wellbeing-economy",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-02T13:01:29+00:00",
+      "summary": "<p>Imagine the UK with a 20-year investment plan, with green homes and fast transport. We already have the tools to make it happen</p><p>You’ve just left school. What’s your future?</p><p>I know a physics graduate making flat whites; a 30-year-old living in his childhood bedroom who feels like a failure; a lad in Blyth who turned down a job 15 miles away because there’s no bus, and for young people his age car insurance is almost £2,000 a year. Britain’s young people are our greatest resource, and we are failing them because capital markets won’t allocate investment where it is needed. Saying “hope” <a href=\"https://www.theguardian.com/politics/2026/sep/29/andy-burnham-unplugged-labour-conference-sketch\">in a conference speech</a> sounds warm. But people need a plan.</p><p>Jamie Driscoll is a Green party councillor on Newcastle city council and former North of Tyne mayor</p> <a href=\"https://www.theguardian.com/commentisfree/2026/oct/02/people-planet-britain-growth-wellbeing-economy\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6428,
+      "tags": [
+        "AI",
+        "Transport"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "'The hottest skill on Wall Street’: Demand for this AI ability jumped 1,721% as banks embrace agents",
+      "url": "https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-10-02T11:03:31+00:00",
+      "summary": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8074,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
       "source_repo": "financenews"
     },
     {
@@ -299,176 +469,6 @@
       ],
       "signal": "watch",
       "category": "macro",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
-      "url": "https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-29T12:00:33+00:00",
-      "summary": "Lisa Mantil, after a nearly three-decade run at Goldman, will join the prediction market's team to attract institutional traders.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7351,
-      "tags": [
-        "Gold"
-      ],
-      "signal": "watch",
-      "category": "markets",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "‘Visible and engaged’: Burnham in listening mode with businesses at Labour party conference",
-      "url": "https://www.theguardian.com/business/2026/sep/29/andy-burnham-business-labour-party-conference-budget-tax-rises",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-29T11:43:16+00:00",
-      "summary": "<p>PM reassures firms and chancellor vows help on costs – but unease remains over possible budget tax rises</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates\">Business live – latest updates</a></p></li></ul><p>A year ago Andy Burnham had a tough business reception at Labour’s party conference. The then mayor of Greater Manchester, with clear ambitions to replace Keir Starmer, had rattled the City of London with his comment that <a href=\"https://www.theguardian.com/politics/2025/sep/25/andy-burnham-alarms-city-call-end-uk-dependence-foreign-lenders\">Britain should be less “in hock” to bond markets</a>.</p><p>Returning to the annual gathering in Liverpool a year later as prime minister, the mood is different. Labour is pushing to repair relations with corporate Britain and reassure City bond traders against a jittery backdrop amid the Middle East war.</p> <a href=\"https://www.theguardian.com/business/2026/sep/29/andy-burnham-business-labour-party-conference-budget-tax-rises\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.9091,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "The RBA has hiked interest rates. Use our loan calculator to check how it affects you",
-      "url": "https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-29T04:42:57+00:00",
-      "summary": "<p>Reserve Bank announces fourth hike this year, adding to the cost of monthly mortgage repayments</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/may/04/australia-news-live-jim-chalmers-budget-inflation-labor-cost-of-living-interest-rates-bondi-shooting-royal-commission-antisemitism-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Reserve Bank hiked interest rates again on Tuesday, after lifting rates in February, March and May.</p><p>The central bank raised the cash rate to 4.6%, from 4.35%.</p> <a href=\"https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7476,
-      "tags": [
-        "Interest Rates",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Foie gras, live dolphins and toasters: China and US cut reciprocal tariffs on $30bn each of goods",
-      "url": "https://www.theguardian.com/business/2026/sep/28/china-and-us-cut-reciprocal-tariffs",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-28T14:02:28+00:00",
-      "summary": "<p>World’s biggest economies release lists of products in latest move away from trade war – but no strategic goods are included</p><p>The US and China have released reciprocal lists of goods worth about $30bn each on which they plan to cut tariffs, ranging from consumer electronics and agricultural products to artificial flowers and live dolphins.</p><p>The announcements are the latest tack away from the intense trade war between the world’s two largest economies that dominated much of last year, though major strategic products are not included and no timeline has yet been given for the reductions.</p> <a href=\"https://www.theguardian.com/business/2026/sep/28/china-and-us-cut-reciprocal-tariffs\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.8647,
-      "tags": [
-        "Trade War"
-      ],
-      "signal": "watch",
-      "category": "markets",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Healey offers upbeat vision but sheds little light on how it will be paid for",
-      "url": "https://www.theguardian.com/politics/2026/sep/28/john-healey-chancellor-upbeat-vision-reindustrialise-britain",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-28T13:46:18+00:00",
-      "summary": "<p>With the budget a month away, chancellor gives little indication in conference speech of where money will come from to reindustrialise Britain</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/sep/28/john-healey-fiscal-rules-budget-hope\">Healey vows to stick to fiscal rules in budget</a></p></li><li><p><a href=\"https://www.theguardian.com/politics/live/2026/sep/28/labour-party-conference-healey-economy-streeting-miliband-andy-burnham-latest-news-updates\">UK politics live – latest updates</a><br /><br /></p></li></ul><p>John Healey cheered the Labour faithful with his <a href=\"https://www.theguardian.com/politics/2026/sep/28/john-healey-fiscal-rules-budget-hope\">first conference speech</a> as chancellor, offering an upbeat vision of a reindustrialised Britain with fresh opportunities for young people, but he gave little sense of how he intends to pay for Andy Burnham’s radical plans.</p><p>Healey’s budget next month is widely seen both inside and outside Labour as the moment when the prime minister’s radical rhetoric about ditching 40 years of neoliberal orthodoxy risks crashing into fiscal reality.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/28/john-healey-chancellor-upbeat-vision-reindustrialise-britain\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.9371,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Healey signals welfare reform push and new apprenticeships scheme",
-      "url": "https://www.theguardian.com/politics/2026/sep/28/john-healey-fiscal-rules-budget-hope",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-28T12:25:29+00:00",
-      "summary": "<p>Chancellor sets out measures to support jobs and growth in conference speech but vows fiscal discipline in budget</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/sep/28/john-healey-chancellor-upbeat-vision-reindustrialise-britain\">Analysis: Healey offers upbeat vision but little light on how to pay for it</a></p></li><li><p><a href=\"https://www.theguardian.com/money/2026/sep/28/price-of-diesel-on-uk-forecourts-reaches-all-time-high\">Average price of diesel on UK forecourts reaches all-time high</a></p></li></ul><p>John Healey has signalled Labour will stage a fresh attempt at welfare reform as he pledged to put fiscal discipline at the core of next month’s budget, alongside measures to inject hope into Britain’s economy.</p><p>In his first speech as chancellor to the <a href=\"https://www.theguardian.com/politics/labourconference\">Labour conference</a>, Healey warned that next month’s highly anticipated tax-and-spending event would need to take into account a challenging global backdrop.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/28/john-healey-fiscal-rules-budget-hope\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.872,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Gouged: why Americans are being ripped off – and what to do about it",
-      "url": "https://www.theguardian.com/us-news/2026/sep/28/corporate-profiteering-americans-economy",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-28T11:00:32+00:00",
-      "summary": "<p>How can we fix our pricing crisis? Economic sociologist Lindsay Owens urges tough new rules – and a consumer uprising</p><p>“Repeat after me: it’s not my fault, it’s not my fault, it’s not my fault.” That’s the message to frustrated US shoppers in Gouged: The End of a Fair Price – and What That Means for Your Wallet by Lindsay Owens, economic sociologist and head of the Groundwork Collaborative, a progressive Washington thinktank.</p><p>Consumer rage is rising and no wonder – we are all living through the “reinvention of the rip-off”, Owens told the Guardian, an experience that is undermining Americans’ trust in the economy. Nothing short of a consumer uprising and a slate of tough new rules is going to fix the problem, she believes.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/28/corporate-profiteering-americans-economy\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.8856,
-      "tags": [
-        "Mining",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "As the US midterms approach, Trump’s boasts on the economy fall flat with voters",
-      "url": "https://www.theguardian.com/business/2026/sep/28/trump-us-economy-midterm-elections",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-28T11:00:32+00:00",
-      "summary": "<p>Trump’s tariffs and his war against Iran caused prices to rise, but the US president continues to claim it’s ‘the greatest economy in history’</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/sep/04/sign-up-to-the-stakes-2026-your-weekly-guide-to-the-us-midterms\">Sign up for The Stakes 2026: your weekly guide to the US midterms</a></p></li></ul><p>Donald Trump has taken to repeating a familiar boast: “<a href=\"https://www.presidency.ucsb.edu/documents/pool-reports-september-16-2026\">We have the greatest economy</a> in history,” Trump said recently at a White House press gaggle. The boast comes even though inflation is higher and economic growth lower than when Joe Biden left office, even though <a href=\"https://www.nbcnews.com/business/energy/gas-prices-trump-midterms-iran-rcna598523\">gas prices have jumped about 50%</a> since the war against Iran started, and even though <a href=\"https://www.nytimes.com/interactive/2026/09/15/polls/times-siena-poll-likely-voter-crosstabs.html\">73% of Americans think the economy</a> is in fair or poor shape (48% say it’s in poor shape). What’s more, the Federal Reserve is so worried about inflation that it just raised interest rates.</p><p>“It’s bluster, it’s gaslighting for him to say the economy is the greatest ever,” said Darrick Hamilton, chief economist for the AFL-CIO, the nation’s main union federation. “The economy is trending down by many measures. A lot of that has been caused by Trump’s unforced errors.”</p> <a href=\"https://www.theguardian.com/business/2026/sep/28/trump-us-economy-midterm-elections\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7935,
-      "tags": [
-        "Interest Rates",
-        "Election",
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Debt-hungry AI companies face increased risk as bond yields spike",
-      "url": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-27T15:35:34+00:00",
-      "summary": "The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.1531,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "This may be the ‘missing piece’ for investors looking to boost AI exposure",
-      "url": "https://www.cnbc.com/2026/09/26/ai-portfolios-may-need-china-to-grab-the-biggest-gains.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-26T15:00:01+00:00",
-      "summary": "Matthews Asia portfolio manager Andrew Mattock delivers a strategy that revolves around the world's second largest economy.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.4019,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
-      "url": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-09-26T13:30:06+00:00",
-      "summary": "The benchmark yield has climbed to a 19-year high, fueled by sticky inflation, heavy bond issuance and an AI-fueled investment boom.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.2023,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
       "source_repo": "financenews"
     }
   ]
