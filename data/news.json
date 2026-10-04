@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-03T21:01:00.058808+00:00",
+  "generated_at": "2026-10-04T01:08:21.504875+00:00",
   "articles": [
+    {
+      "id": "9e6227d28bc8",
+      "title": "AI Deal Frenzy Powers Hong Kong Fundraising to Record Summer",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-04/ai-deal-frenzy-powers-hong-kong-fundraising-to-record-summer",
+      "published_at": "2026-10-04T00:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Bankers in Hong Kong skipped the summer break as an artificial intelligence-fueled rush for capital sent share sales to a record, defying a bruising selloff in the city’s stocks.",
+      "tags": []
+    },
+    {
+      "id": "b5b50d164eb5",
+      "title": "Mexico Says Its Troops Sent to Border in Conjunction With US",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-03/mexico-says-its-troops-sent-to-border-in-conjunction-with-us",
+      "published_at": "2026-10-03T23:24:07+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The US and Mexico have jointly deployed military personnel in a border area in Texas as part of “mirror operations,” the Mexican government said Saturday.",
+      "tags": []
+    },
+    {
+      "id": "7f704125e47f",
+      "title": "Lula, Bolsonaro in Dead Heat as Brazil Prepares to Vote",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-03/lula-bolsonaro-in-dead-heat-as-brazil-prepares-to-vote",
+      "published_at": "2026-10-03T22:35:24+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "President Luiz Inácio Lula da Silva and right-wing challenger Flávio Bolsonaro remain locked in a tight race as Brazil prepares to vote in Sunday’s election, according to a pair of new polls.",
+      "tags": []
+    },
     {
       "id": "a5cccc2d4f8c",
       "title": "Paramount Debt Drop Spells Trouble for Borrowers: Credit Weekly",
@@ -83,42 +119,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "People starting to speak like AI chatbots, AI anxiety spilling into therapists' offices, NYC's AI office boom a bust for young job hunters and Tinder rolls out group dating for younger users. Join Lis",
-      "tags": []
-    },
-    {
-      "id": "ce1e1d1ddcfb",
-      "title": "US Military Buildup Raises Iran Escalation Risk",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-03/us-military-buildup-raises-iran-escalation-risk-video",
-      "published_at": "2026-10-03T15:25:03+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Washington Institute research director Dana Stroul tells Bloomberg This Weekend that the US military buildup in the Middle East, including a third aircraft carrier, is expanding President Donald Trump",
-      "tags": []
-    },
-    {
-      "id": "df9306cc3137",
-      "title": "Fake Jobs Put Job Seekers at Risk of Identity Theft",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-03/fake-jobs-put-job-seekers-at-risk-of-identity-theft-video",
-      "published_at": "2026-10-03T15:15:35+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Fraud investigator Jay Jones, known online as “The Profiler,” tells Bloomberg This Weekend that AI is helping scammers create increasingly convincing fake recruiters and job listings that can lead vic",
-      "tags": []
-    },
-    {
-      "id": "b6cecb0dc4ac",
-      "title": "Egypt Flagged Hamas Threat Before Oct. 7",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-03/egypt-flagged-hamas-threat-before-oct-7-video",
-      "published_at": "2026-10-03T15:09:17+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Atlantic Staff Writer Vivian Salama tells Bloomberg This Weekend that Egypt’s then-intelligence chief Abbas Kamel made an unusual 67-minute trip to Israel less than two weeks before the Oct. 7, 2023, ",
       "tags": []
     },
     {
@@ -458,6 +458,54 @@
       "tags": []
     },
     {
+      "id": "e2a657af6ebd",
+      "title": "Nektar Therapeutics (NKTR) Shareholder/Analyst Call - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4951797-nektar-therapeutics-nktr-shareholder-analyst-call-slideshow?source=feed_all_articles",
+      "published_at": "2026-10-03T23:12:56+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Nektar Therapeutics (NKTR) Shareholder/Analyst Call - Slideshow",
+      "tags": []
+    },
+    {
+      "id": "1d15c2e71e24",
+      "title": "Conduent Incorporated (CNDT) Analyst/Investor Day - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4951796-conduent-incorporated-cndt-analyst-investor-day-slideshow?source=feed_all_articles",
+      "published_at": "2026-10-03T23:11:59+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Conduent Incorporated (CNDT) Analyst/Investor Day - Slideshow",
+      "tags": []
+    },
+    {
+      "id": "2dad7386cec3",
+      "title": "Arcos Dorados Holdings Inc. (ARCO) Analyst/Investor Day - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4951795-arcos-dorados-holdings-inc-arco-analyst-investor-day-slideshow?source=feed_all_articles",
+      "published_at": "2026-10-03T23:10:38+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Arcos Dorados Holdings Inc. (ARCO) Analyst/Investor Day - Slideshow",
+      "tags": []
+    },
+    {
+      "id": "87f21fd313c0",
+      "title": "Sika AG (SXYAY) Analyst/Investor Day - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4951794-sika-ag-sxyay-analyst-investor-day-slideshow?source=feed_all_articles",
+      "published_at": "2026-10-03T23:08:47+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Sika AG (SXYAY) Analyst/Investor Day - Slideshow",
+      "tags": []
+    },
+    {
       "id": "ff006cc54906",
       "title": "September Jobs Data Backs An October Hold: I See A Problem",
       "source": "All Articles on Seeking Alpha",
@@ -527,54 +575,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Regions Financial: Attractive 7.2% Preferred Dividend Yield Backed By Strong Earnings",
-      "tags": []
-    },
-    {
-      "id": "067b805427dc",
-      "title": "Lumentum: The Rally May Not Be Over",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4951789-lumentum-the-rally-may-not-be-over?source=feed_all_articles",
-      "published_at": "2026-10-03T15:39:25+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Lumentum: The Rally May Not Be Over",
-      "tags": []
-    },
-    {
-      "id": "c4ce3e00bfff",
-      "title": "Choice Hotels International: A $130 Million Bet On RV Travelers",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4951787-choice-hotels-international-a-130-million-bet-on-rv-travelers?source=feed_all_articles",
-      "published_at": "2026-10-03T15:31:45+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Choice Hotels International: A $130 Million Bet On RV Travelers",
-      "tags": []
-    },
-    {
-      "id": "0091a55f2aca",
-      "title": "Leveraged ETF Watchlist For October, Focus On UDOW",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4951728-leveraged-etf-watchlist-for-october-focus-on-udow?source=feed_all_articles",
-      "published_at": "2026-10-03T15:24:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Leveraged ETF Watchlist For October, Focus On UDOW",
-      "tags": []
-    },
-    {
-      "id": "429ee77938bb",
-      "title": "Powerlaw: Would An 8.5% Forward Yield At A 30% Discount To NAV Pique Your Interest?",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4951786-powerlaw-would-an-8-5-percent-forward-yield-at-a-30-percent-discount-to-nav-pique-your-interest?source=feed_all_articles",
-      "published_at": "2026-10-03T15:16:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Powerlaw: Would An 8.5% Forward Yield At A 30% Discount To NAV Pique Your Interest?",
       "tags": []
     }
   ]
