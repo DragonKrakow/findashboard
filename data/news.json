@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-10-04T05:29:49.667113+00:00",
+  "generated_at": "2026-10-04T10:09:34.238263+00:00",
   "articles": [
+    {
+      "id": "95fe67c6dc3a",
+      "title": "Ethiopia Retakes Tigray Airport as Northern Rebels Retreat",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-04/ethiopia-recaptures-tigray-airport-as-northern-rebels-retreat",
+      "published_at": "2026-10-04T07:47:44+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Ethiopian forces seized control of the airport and other parts of Mekelle, the capital of the northern Tigray region, as leaders of the Tigray People’s Liberation Front retreated from the city, a majo",
+      "tags": []
+    },
+    {
+      "id": "6e567134f917",
+      "title": "OPEC+ Set to Keep Quotas Steady in November, Delegates Say",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-04/opec-has-deal-outline-for-steady-november-quotas-delegates-say",
+      "published_at": "2026-10-04T07:49:48+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Major OPEC+ nations have an agreement in principle to keep oil production quotas unchanged next month, as conflict in the Middle East continues to shutter swaths of the group’s output.",
+      "tags": []
+    },
     {
       "id": "9e6227d28bc8",
       "title": "AI Deal Frenzy Powers Hong Kong Fundraising to Record Summer",
@@ -98,30 +122,6 @@
       "tags": []
     },
     {
-      "id": "a6164975d128",
-      "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-03/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-      "published_at": "2026-10-03T16:28:40+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Lisa Mateo, Christina Ruffini and",
-      "tags": []
-    },
-    {
-      "id": "e03066f3902e",
-      "title": "By The Way: Headlines You May Have Missed",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-03/by-the-way-headlines-you-may-have-missed",
-      "published_at": "2026-10-03T16:27:47+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "People starting to speak like AI chatbots, AI anxiety spilling into therapists' offices, NYC's AI office boom a bust for young job hunters and Tinder rolls out group dating for younger users. Join Lis",
-      "tags": []
-    },
-    {
       "id": "10037495b741",
       "title": "Wall Street’s IPO fervour cools on tepid demand and valuation worries",
       "source": "International homepage",
@@ -131,6 +131,18 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Several listings have been paused in recent weeks as delay in Anthropic’s public debut sends a chill through markets",
+      "tags": []
+    },
+    {
+      "id": "aa60af894ea7",
+      "title": "Why the IPO market is booming and busting",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/8b7e2800-3e36-4d0c-9016-32deaae67b62",
+      "published_at": "2026-10-04T09:29:09+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Flotations have stalled and returns from new listings have been weak",
       "tags": []
     },
     {
@@ -158,15 +170,15 @@
       "tags": []
     },
     {
-      "id": "3426b2fadafc",
-      "title": "Co-pilot used axe to carry out ‘terrorist act’ on Flydubai flight",
+      "id": "04e4249119bd",
+      "title": "Australian authorities probe Flydubai attacker’s links to the country",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/36b90fa1-f61e-4563-8622-127cdb471101?syn-25a6b1a6=1",
-      "published_at": "2026-10-03T17:21:11+00:00",
+      "url": "https://www.ft.com/content/488b479d-cd2f-401e-887e-97ce639d0329",
+      "published_at": "2026-10-04T09:25:03+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Flight 1073 was heading to Tel Aviv when the attack was launched in the cockpit",
+      "summary": "Recriminations among various governments have escalated after the attempted hijacking of a flight from Dubai to Tel Aviv last week",
       "tags": []
     },
     {
@@ -182,27 +194,15 @@
       "tags": []
     },
     {
-      "id": "771606721317",
-      "title": "Japanese and Korean shipbuilders deploy robots to take on China",
+      "id": "e5e089ca9c90",
+      "title": "How 60,000 Polish number plates exposed Italy’s tax allergy",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/ea32c53d-4de7-4b34-af44-cc148b23433f?syn-25a6b1a6=1",
-      "published_at": "2026-10-04T01:00:04+00:00",
+      "url": "https://www.ft.com/content/74e70f0c-3788-4343-93d7-9c8740ee28b6?syn-25a6b1a6=1",
+      "published_at": "2026-10-04T04:00:06+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "US allies invest in ‘smart shipyards’ as Beijing’s dominance of industry alarms Washington",
-      "tags": []
-    },
-    {
-      "id": "0aa0864f4029",
-      "title": "China launches anti-dumping probe into European chemical exports",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/bae0af94-f42d-47d1-a1a8-fab608e75a72?syn-25a6b1a6=1",
-      "published_at": "2026-10-03T10:16:42+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Latest tit-for-tat move follows three similar investigations launched by the EU last week",
+      "summary": "Giorgia Meloni is moving to cut unpopular road levies that have spawned evasion schemes using cars registered in Poland",
       "tags": []
     },
     {
@@ -215,6 +215,30 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "DigitalBridge CEO Marc Ganzi says his data centre investment group will be SoftBank’s ‘third-party infrastructure arm’ after $4bn takeover",
+      "tags": []
+    },
+    {
+      "id": "bd101e7e79e6",
+      "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-10-04T09:39:51+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"El Salvador receives $138 million from IMF after Bitcoin waivers granted\" class=\"type:primaryImage\" src=\"https://s3-images.ctmed",
+      "tags": []
+    },
+    {
+      "id": "5dfbed6adbc9",
+      "title": "Russia’s Finance Ministry pays wages in digital rubles for first time",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-10-04T07:16:53+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Russia’s Finance Ministry pays wages in digital rubles for first time\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.",
       "tags": []
     },
     {
@@ -311,30 +335,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"71% of UK finance leaders expect tokenization to reshape financial services: Lloyds\" class=\"type:primaryImage\" src=\"https://s3-i",
-      "tags": []
-    },
-    {
-      "id": "73afc5ee35f6",
-      "title": "Crypto’s billions are back, but the premiums aren’t",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/crypto-biz-kalshi-blockchain-com-crypto-treasury-valuations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-10-02T15:32:53+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto’s billions are back, but the premiums aren’t\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-c",
-      "tags": []
-    },
-    {
-      "id": "2f3a00baff09",
-      "title": "Bitcoin briefly hits $87K as weak US jobs data sends bond yields lower",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/markets/bitcoin-briefly-taps-87k-as-bond-yields-drop-on-low-us-nonfarm-payrolls-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-10-02T15:27:31+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin briefly hits $87K as weak US jobs data sends bond yields lower\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia",
       "tags": []
     },
     {
@@ -458,6 +458,114 @@
       "tags": []
     },
     {
+      "id": "805ab5710afd",
+      "title": "Paccar: The Price Has Come Down Far Enough Now",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4951820-paccar-the-price-has-come-down-far-enough-now?source=feed_all_articles",
+      "published_at": "2026-10-04T10:01:56+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Paccar: The Price Has Come Down Far Enough Now",
+      "tags": []
+    },
+    {
+      "id": "635621f15ffd",
+      "title": "AbraSilver: Solid Finances And Plans, Forecasts Still Point To The Upside Case",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4951819-abrasilver-stock-solid-finances-plans-forecasts-still-point-to-upside-case?source=feed_all_articles",
+      "published_at": "2026-10-04T09:33:28+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "AbraSilver: Solid Finances And Plans, Forecasts Still Point To The Upside Case",
+      "tags": []
+    },
+    {
+      "id": "b1faf3e7ce24",
+      "title": "Politics And The Markets 10/04/26",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4950139-politics-and-the-markets-100426?source=feed_all_articles",
+      "published_at": "2026-10-04T09:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Politics And The Markets 10/04/26",
+      "tags": []
+    },
+    {
+      "id": "7e3ce1906ea0",
+      "title": "EnerSys: A Play On Data Centers And Defense",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4951818-enersys-a-play-on-data-centers-and-defence?source=feed_all_articles",
+      "published_at": "2026-10-04T08:49:20+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "EnerSys: A Play On Data Centers And Defense",
+      "tags": []
+    },
+    {
+      "id": "bbf37039adca",
+      "title": "NorthWestern Energy: Price Increases Help, But Cost Recovery Still Lags",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4951815-northwestern-energy-stock-price-increases-help-but-cost-recovery-still-lags?source=feed_all_articles",
+      "published_at": "2026-10-04T08:17:50+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "NorthWestern Energy: Price Increases Help, But Cost Recovery Still Lags",
+      "tags": []
+    },
+    {
+      "id": "11b3a97b047c",
+      "title": "Federal Realty: The Only REIT Dividend King Trades At A Discount",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4951814-federal-realty-the-only-reit-dividend-king-trades-at-a-discount?source=feed_all_articles",
+      "published_at": "2026-10-04T08:04:35+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Federal Realty: The Only REIT Dividend King Trades At A Discount",
+      "tags": []
+    },
+    {
+      "id": "2ffe31cd72d1",
+      "title": "Micron: The Market Is In Disbelief. Ignore Them",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4951813-micron-the-market-is-in-disbelief-ignore-them?source=feed_all_articles",
+      "published_at": "2026-10-04T07:59:09+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Micron: The Market Is In Disbelief. Ignore Them",
+      "tags": []
+    },
+    {
+      "id": "cd55697a569f",
+      "title": "Rocky Brands: Decent Recovery From The Lows, But Execution Going Forward Is Key",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4951808-rocky-brands-decent-recovery-from-the-lows-but-execution-going-forward-is-key?source=feed_all_articles",
+      "published_at": "2026-10-04T06:39:43+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Rocky Brands: Decent Recovery From The Lows, But Execution Going Forward Is Key",
+      "tags": []
+    },
+    {
+      "id": "6fdd8bf5dfdb",
+      "title": "Kao Corporation (KAOOY) Discusses R&D Strategy Alignment and Value Creation Through Technology Management - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4951812-kao-corporation-kaooy-discusses-r-and-d-strategy-alignment-and-value-creation-through?source=feed_all_articles",
+      "published_at": "2026-10-04T06:31:23+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Kao Corporation (KAOOY) Discusses R&D Strategy Alignment and Value Creation Through Technology Management - Slideshow",
+      "tags": []
+    },
+    {
       "id": "be1e77b8fa48",
       "title": "Arm Holdings: Agentic AI Shift Provides A Catalyst For Growth (Rating Upgrade)",
       "source": "All Articles on Seeking Alpha",
@@ -467,114 +575,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Arm Holdings: Agentic AI Shift Provides A Catalyst For Growth (Rating Upgrade)",
-      "tags": []
-    },
-    {
-      "id": "5177c5b63a9d",
-      "title": "Nvidia Gets Its Leather Jacket Back",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4951713-nvidia-gets-its-leather-jacket-back?source=feed_all_articles",
-      "published_at": "2026-10-04T04:30:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Nvidia Gets Its Leather Jacket Back",
-      "tags": []
-    },
-    {
-      "id": "7cf79602eaad",
-      "title": "Graham Holdings Company Remains An Excellent Candidate To Break Up",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4951806-graham-holdings-company-remains-an-excellent-candidate-to-break-up?source=feed_all_articles",
-      "published_at": "2026-10-04T03:57:03+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Graham Holdings Company Remains An Excellent Candidate To Break Up",
-      "tags": []
-    },
-    {
-      "id": "e2c9eb8879cf",
-      "title": "M&T: Buy Reaffirmed, Despite Market Pullback, As Growth And Earnings Story Remain Strong",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4951805-m-and-t-stock-buy-reaffirmed-despite-market-pullback-as-growth-and-earnings-story-remain-strong?source=feed_all_articles",
-      "published_at": "2026-10-04T03:37:39+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "M&T: Buy Reaffirmed, Despite Market Pullback, As Growth And Earnings Story Remain Strong",
-      "tags": []
-    },
-    {
-      "id": "46099d40d482",
-      "title": "Lumen Technologies: A Better Network Still Needs More Durable Cash",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4951804-lumen-technologies-a-better-network-still-needs-more-durable-cash?source=feed_all_articles",
-      "published_at": "2026-10-04T03:27:53+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Lumen Technologies: A Better Network Still Needs More Durable Cash",
-      "tags": []
-    },
-    {
-      "id": "7dd3bb461712",
-      "title": "BancFirst: Conservative Balance Sheet = Stagnant Share Price",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4951803-bancfirst-stock-conservative-balance-sheet-stagnant-share-price?source=feed_all_articles",
-      "published_at": "2026-10-04T03:27:24+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "BancFirst: Conservative Balance Sheet = Stagnant Share Price",
-      "tags": []
-    },
-    {
-      "id": "87a9e1615cac",
-      "title": "Teradyne Is Up Big, But The Real Growth May Still Be Ahead",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4951802-teradyne-is-up-big-but-the-real-growth-may-still-be-ahead?source=feed_all_articles",
-      "published_at": "2026-10-04T03:11:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Teradyne Is Up Big, But The Real Growth May Still Be Ahead",
-      "tags": []
-    },
-    {
-      "id": "22ad812ab9e8",
-      "title": "AppLovin: I Was Wrong, This Is A Sell (Rating Downgrade)",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4951801-applovin-i-was-wrong-this-is-a-sell?source=feed_all_articles",
-      "published_at": "2026-10-04T03:01:42+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "AppLovin: I Was Wrong, This Is A Sell (Rating Downgrade)",
-      "tags": []
-    },
-    {
-      "id": "556cb214445d",
-      "title": "American Airlines Is In The Best Of Times, Worst Of Times",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4951800-american-airlines-is-in-the-best-of-times-worst-of-times?source=feed_all_articles",
-      "published_at": "2026-10-04T02:48:18+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "American Airlines Is In The Best Of Times, Worst Of Times",
-      "tags": []
-    },
-    {
-      "id": "c85a3b79b0f1",
-      "title": "CEF Weekly Review: XFLT Launches Promised Tender Offer",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4951799-cef-weekly-review-xflt-launches-promised-tender-offer?source=feed_all_articles",
-      "published_at": "2026-10-04T02:35:11+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "CEF Weekly Review: XFLT Launches Promised Tender Offer",
       "tags": []
     }
   ]
