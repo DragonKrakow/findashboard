@@ -1,22 +1,83 @@
 {
-  "generated_at": "2026-10-03T05:43:17Z",
-  "snapshot_date": "2026-10-03",
+  "generated_at": "2026-10-04T07:23:33Z",
+  "snapshot_date": "2026-10-04",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Why Western Digital and Seagate are seeing big stock drops today",
-      "url": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories",
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-02T22:42:00+00:00",
-      "summary": "Investors are worried that Toshiba will boost its production of a key AI storage product, potentially hurting the strong pricing power that Western Digital and Seagate currently enjoy.",
+      "published_at": "2026-10-03T20:00:00+00:00",
+      "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
       "sentiment": "bullish",
-      "sentiment_score": 0.6486,
+      "sentiment_score": 0.802,
       "tags": [
         "AI"
       ],
       "signal": "watch",
       "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+      "url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-10-03T16:00:00+00:00",
+      "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
+      "sentiment": "bearish",
+      "sentiment_score": -0.4767,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Burnham must remember: more regulation is not the best way to improve public services | Phillip Inman",
+      "url": "https://www.theguardian.com/business/2026/oct/03/andy-burnham-regulation-public-services-nhs",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-03T15:00:02+00:00",
+      "summary": "<p>In the NHS as in the private sector, the measure of success should be customer satisfaction and not just box-ticking</p><p>Andy Burnham said he wanted to “rewire” the economy. Then he seemed to slam on the brakes, kicking most reforms into the 2030s.</p><p>Local government reorganisation is on hold, along with an overhaul of the much-maligned water industry. Social care and significant welfare reform are matters to be resolved by the next government.</p> <a href=\"https://www.theguardian.com/business/2026/oct/03/andy-burnham-regulation-public-services-nhs\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8531,
+      "tags": [
+        "Regulation",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Tories plan to extend cuts beyond £47bn previously pledged, leak reveals",
+      "url": "https://www.theguardian.com/politics/2026/oct/03/conservatives-extend-cuts-andrew-griffith-leaked-comments",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-03T15:00:01+00:00",
+      "summary": "<p>Exclusive: Shadow chancellor Andrew Griffith told party members last year he had discussed making further savings if they win next election</p><p>The Conservatives are planning to make sweeping cuts beyond the <a href=\"https://www.theguardian.com/politics/2025/oct/07/badenoch-tories-new-policies-british-ice-stop-and-search\">£47bn announced last year</a> if they win the next election, according to leaked comments by the shadow chancellor.</p><p>Speaking last year when he was shadow business secretary, Andrew Griffith told Conservative members he and fellow shadow cabinet ministers had discussed making further cuts in “every part of government”.</p> <a href=\"https://www.theguardian.com/politics/2026/oct/03/conservatives-extend-cuts-andrew-griffith-leaked-comments\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.4019,
+      "tags": [
+        "Election"
+      ],
+      "signal": "watch",
+      "category": "markets",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
+      "url": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-10-03T13:12:27+00:00",
+      "summary": "With the first round of Brazil's presidential election taking place Sunday, Wall Street is gearing up with starkly different market predictions.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "Election"
+      ],
+      "signal": "watch",
+      "category": "markets",
       "source_repo": "financenews"
     },
     {
@@ -33,51 +94,6 @@
       ],
       "signal": "watch",
       "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Does AI have a soul? Pope Leo and Anthropic clash.",
-      "url": "https://www.marketwatch.com/story/does-ai-have-a-soul-pope-leo-and-anthropic-clash-0c1669fb?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-02T20:40:00+00:00",
-      "summary": "The Vatican has laid a moral blueprint for the technology, with Pope Leo maintaining that “algorithms lack the spark of humanity.”",
-      "sentiment": "neutral",
-      "sentiment_score": -0.1027,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-02T20:30:00+00:00",
-      "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
-      "sentiment": "bullish",
-      "sentiment_score": 0.802,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Europe’s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
-      "url": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-02T20:26:00+00:00",
-      "summary": "Europe leaders agreed Friday to release some of diesel stockpiles, pulling prices of oil down by as much as 5%.",
-      "sentiment": "neutral",
-      "sentiment_score": -0.128,
-      "tags": [
-        "Oil"
-      ],
-      "signal": "watch",
-      "category": "energy",
       "source_repo": "financenews"
     },
     {
@@ -439,21 +455,6 @@
       ],
       "signal": "watch",
       "category": "markets",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "UK government pays highest interest rate on 10-year debt since 1999 at bond auction – as it happened",
-      "url": "https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-09-29T15:07:56+00:00",
-      "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>Newsflash: the number of mortgages approved by UK lenders has fallen to its lowest level since the end of 2023.</strong></p><p>Just 54,918 new home loans were approved in August on a seasonally-adjusted basis, new Bank of England data shows, as rising borrowing costs deterred potential home buyers.</p><p>The average 2-year fixed residential mortgage rate today is 5.93%. This is up from 5.91% the previous working day.</p><p>The average 5-year fixed residential mortgage rate today is 5.94%. This is up from 5.93% the previous working day.</p> <a href=\"https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3182,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
       "source_repo": "financenews"
     },
     {
