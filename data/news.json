@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-04T20:44:33.982257+00:00",
+  "generated_at": "2026-10-05T00:32:17.637892+00:00",
   "articles": [
+    {
+      "id": "bb193fa79e92",
+      "title": "Asian Shares Rise as Fed Hike Bets Ease, Oil Gains: Markets Wrap",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-04/asian-stocks-to-rise-as-hike-bets-ease-oil-climbs-markets-wrap",
+      "published_at": "2026-10-04T22:17:26+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Asian stocks rose after a softer US jobs data report eased pressure on the Federal Reserve to keep raising interest rates. Brent crude rose as Yemen launched a bid to recapture Houthi-controlled areas",
+      "tags": []
+    },
+    {
+      "id": "ab5c17cf2a92",
+      "title": "Japan Should Keep Focus on Cheap Mideast Oil, Local Refiner Says",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-04/japan-should-keep-focus-on-cheap-mideast-oil-local-refiner-says",
+      "published_at": "2026-10-04T23:51:23+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Japan should continue to rely on the Middle East for the bulk of its crude as that’s cost-effective, processor Taiyo Oil Co. said, pushing back against a government drive to diversify triggered by the",
+      "tags": []
+    },
+    {
+      "id": "3bb24b3c4457",
+      "title": "Schneider Said to Near Deal to Buy PTC for More Than $20 Billion",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-04/schneider-said-to-near-deal-to-buy-ptc-for-more-than-20-billion",
+      "published_at": "2026-10-04T20:47:02+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Schneider Electric SE is nearing a deal to acquire US-based engineering software developer PTC Inc. for more than $20 billion, according to a source familiar with the matter.",
+      "tags": []
+    },
     {
       "id": "d1372abfd7c9",
       "title": "Supreme Court Opens Term With Climate Fight",
@@ -86,63 +122,15 @@
       "tags": []
     },
     {
-      "id": "2917aaed0153",
-      "title": "Wall Street’s AI Party Is on Edge as Soaring Yields Raise Risks",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-04/wall-street-s-ai-party-is-on-edge-as-soaring-yields-raise-risks",
-      "published_at": "2026-10-04T13:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Wall Street’s artificial intelligence fixation is so strong that it’s overwhelming all risks, including soaring interest rates, as investors continue to plow money into the market’s largest technology",
-      "tags": []
-    },
-    {
-      "id": "745b64ff2044",
-      "title": "White House Moves to Assess Growing AI Risks",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-04/white-house-moves-to-assess-growing-ai-risks-video",
-      "published_at": "2026-10-04T12:40:30+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Bloomberg Opinion Columnist Gautam Mukunda tells Bloomberg This Weekend that voluntary safeguards may not be enough to manage AI risks because competitive and financial pressures can push companies to",
-      "tags": []
-    },
-    {
-      "id": "5118eccbd6c0",
-      "title": "Markets Brace for Sharp Swings No Matter Result of Brazil Vote",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-04/markets-brace-for-sharp-swings-no-matter-result-of-brazil-vote",
-      "published_at": "2026-10-04T12:30:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Investors are expecting sharp swings in Brazilian markets in the aftermath of Sunday’s elections no matter the outcome, with assets to adjust quickly as the neck-and-neck presidential race prevented t",
-      "tags": []
-    },
-    {
-      "id": "e72108f1257d",
-      "title": "Schneider Electric nears deal to buy software group PTC for $20bn",
+      "id": "a82fa1ee0e28",
+      "title": "US recalls B-1 bombers from UK air base following alleged terror plot",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/2084f349-0829-4130-a5e6-b98929a6e633?syn-25a6b1a6=1",
-      "published_at": "2026-10-04T19:33:33+00:00",
+      "url": "https://www.ft.com/content/66897ef7-936b-43d0-a067-576be636f876?syn-25a6b1a6=1",
+      "published_at": "2026-10-04T22:24:04+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Acquisition would be French group’s largest and expand its industrial software capability",
-      "tags": []
-    },
-    {
-      "id": "78fe3048661d",
-      "title": "Dealmaking slowdown threatens early end to M&A boom",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/00fb4438-1f86-4bf2-a165-0c39f3fd506b?syn-25a6b1a6=1",
-      "published_at": "2026-10-04T20:00:10+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Interest rate rises, AI anxiety and midterm elections cool animal spirits after record-breaking start to the year",
+      "summary": "UK and American officials have claimed Iran was involved in the incident in which five British men were arrested near RAF Fairford",
       "tags": []
     },
     {
@@ -179,6 +167,30 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "And what they should always try to avoid",
+      "tags": []
+    },
+    {
+      "id": "e72108f1257d",
+      "title": "Schneider Electric nears deal to buy software group PTC for $20bn",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/2084f349-0829-4130-a5e6-b98929a6e633?syn-25a6b1a6=1",
+      "published_at": "2026-10-04T21:51:33+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Acquisition would be French conglomerate’s largest and enhance its products focused on manufacturers",
+      "tags": []
+    },
+    {
+      "id": "78fe3048661d",
+      "title": "Dealmaking slowdown threatens early end to M&A boom",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/00fb4438-1f86-4bf2-a165-0c39f3fd506b?syn-25a6b1a6=1",
+      "published_at": "2026-10-04T20:00:10+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Interest rate rises, AI anxiety and midterm elections cool animal spirits after record-breaking start to the year",
       "tags": []
     },
     {
@@ -230,15 +242,15 @@
       "tags": []
     },
     {
-      "id": "4235a91dbacb",
-      "title": "China closes hundreds of banks to bolster financial system",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/8a8f5c97-f1d3-4d3d-a3bc-d5a2e5539177?syn-25a6b1a6=1",
-      "published_at": "2026-10-04T02:00:04+00:00",
+      "id": "b5cf57916c4e",
+      "title": "Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-10-04T22:31:12+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "More than 670 lenders, a record, shut down last year as Fitch says smaller players remain sector’s weakest part",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest\" class=\"type:primaryImage\" src=\"https://s3-image",
       "tags": []
     },
     {
@@ -347,18 +359,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO\" class=\"type:primaryImage\" src=\"https://s",
-      "tags": []
-    },
-    {
-      "id": "1c6b6853ff0e",
-      "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-10-02T18:41:17+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m",
       "tags": []
     },
     {
@@ -482,6 +482,30 @@
       "tags": []
     },
     {
+      "id": "412c3354a7e0",
+      "title": "Micron: Memory Boom Still Has Legs",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4951809-micron-memory-boom-still-has-legs?source=feed_all_articles",
+      "published_at": "2026-10-05T00:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Micron: Memory Boom Still Has Legs",
+      "tags": []
+    },
+    {
+      "id": "a3d5cf7d0d40",
+      "title": "Elemental Royalty Corporation (ELE:CA) Presents at Mining Forum Americas 2026 - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4951866-elemental-royalty-corporation-ele-ca-presents-at-mining-forum-americas-2026-slideshow?source=feed_all_articles",
+      "published_at": "2026-10-04T23:07:13+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Elemental Royalty Corporation (ELE:CA) Presents at Mining Forum Americas 2026 - Slideshow",
+      "tags": []
+    },
+    {
       "id": "d1173829f321",
       "title": "DVY: A Strong Option To Balance Out A Tech-Heavy Portfolio (Rating Upgrade)",
       "source": "All Articles on Seeking Alpha",
@@ -575,30 +599,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "CGDV: Why Dividend Quality Matters More Than Quantity",
-      "tags": []
-    },
-    {
-      "id": "69637718d32a",
-      "title": "BKLC: Zero Fees, Weak Risk-Reward",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4951857-bklc-zero-fees-weak-risk-reward?source=feed_all_articles",
-      "published_at": "2026-10-04T18:33:05+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "BKLC: Zero Fees, Weak Risk-Reward",
-      "tags": []
-    },
-    {
-      "id": "31dae4d4ec2f",
-      "title": "St. James Investment Company Value Investor's Q3 2026 Letter",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4951856-st-james-investment-company-value-investors-q3-2026-letter?source=feed_all_articles",
-      "published_at": "2026-10-04T18:30:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "St. James Investment Company Value Investor's Q3 2026 Letter",
       "tags": []
     }
   ]
