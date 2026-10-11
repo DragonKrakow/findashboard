@@ -1,32 +1,47 @@
 {
-  "generated_at": "2026-10-10T05:39:40Z",
-  "snapshot_date": "2026-10-10",
+  "generated_at": "2026-10-11T05:39:53Z",
+  "snapshot_date": "2026-10-11",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist.",
-      "url": "https://www.marketwatch.com/story/trump-taps-russia-to-boost-global-diesel-supplies-ahead-of-midterms-it-may-be-too-little-too-late-says-strategist-8c789030?mod=mw_rss_topstories",
+      "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most.",
+      "url": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-09T22:00:00+00:00",
-      "summary": "The Trump administration has enlisted Russia to help boost U.S. and global diesel supplies in an effort to lower prices for the fuel ahead of the U.S. midterm elections in November.",
+      "published_at": "2026-10-10T19:44:00+00:00",
+      "summary": "Social Security is projected to become insolvent in six years. These are some of the creative solutions that are on the table, beyond raising payroll taxes.",
       "sentiment": "bullish",
-      "sentiment_score": 0.7096,
+      "sentiment_score": 0.8714,
       "tags": [
-        "Election"
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Rising interest rates: The good, the bad and the ugly for retirees",
+      "url": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-10-10T19:44:00+00:00",
+      "summary": "Unlike higher gas prices, which hurt almost everyone, higher borrowing costs have an uneven impact.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.6486,
+      "tags": [
+        "Interest Rates"
       ],
       "signal": "watch",
       "category": "macro",
       "source_repo": "financenews"
     },
     {
-      "title": "AI chip stocks wobble even as investors get clarity on a key OpenAI issue",
-      "url": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories",
+      "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
+      "url": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-09T21:27:00+00:00",
-      "summary": "A new report paints OpenAI’s financial picture in a more optimistic light.",
+      "published_at": "2026-10-10T19:44:00+00:00",
+      "summary": "Seven tips for painlessly moving in retirement.",
       "sentiment": "bullish",
-      "sentiment_score": 0.6478,
+      "sentiment_score": 0.7845,
       "tags": [
         "AI"
       ],
@@ -35,44 +50,15 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Microsoft is nearing a big milestone that solidifies its revival",
-      "url": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-09T21:24:00+00:00",
-      "summary": "Microsoft is close to reclaiming a $4 trillion market cap — and fresh records are also in sight.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3182,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
-      "url": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-09T21:07:00+00:00",
-      "summary": "Telecommunications stocks saw their worst daily drops in over a decade.",
+      "title": "France’s dilemma: protesters demand spending as markets require fiscal restraint",
+      "url": "https://www.theguardian.com/world/2026/oct/10/france-caught-between-bond-markets-student-worker-blockades",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-10T04:00:47+00:00",
+      "summary": "<p>Waves of protests expose debt crisis faced by French government, but political wrangling is stalling an escape plan. Is there a way out?</p><p>Eight years have passed since rising fuel prices brought the <em><a href=\"https://www.theguardian.com/world/2018/dec/03/who-are-the-gilets-jaunes-and-what-do-they-want\">gilets </a></em><em><a href=\"https://www.theguardian.com/world/2018/dec/03/who-are-the-gilets-jaunes-and-what-do-they-want\">jaunes</a></em> (yellow vest) demonstrators to the streets of France, prompting the first big crisis of Emmanuel Macron’s time in the Élysée Palace.</p><p>As the French president contemplates his exit next year, turmoil has again gripped the streets in the <a href=\"https://www.theguardian.com/world/2026/oct/08/france-student-protests-schools-vow-to-continue\">form of student protests</a>, but this time the financial markets are unhappy too.</p> <a href=\"https://www.theguardian.com/world/2026/oct/10/france-caught-between-bond-markets-student-worker-blockades\">Continue reading...</a>",
       "sentiment": "bearish",
-      "sentiment_score": -0.6808,
+      "sentiment_score": -0.9631,
       "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-      "url": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-09T21:00:00+00:00",
-      "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
-      "sentiment": "bearish",
-      "sentiment_score": -0.2732,
-      "tags": [
+        "Oil",
         "AI"
       ],
       "signal": "watch",
@@ -458,6 +444,22 @@
       "sentiment": "bullish",
       "sentiment_score": 0.6597,
       "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Euro falls to 17-month low against dollar amid French debt fears",
+      "url": "https://www.theguardian.com/business/2026/oct/05/euro-falls-dollar-amid-french-debt-cac-40-spain-eurozone",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-05T11:18:20+00:00",
+      "summary": "<p>France’s Cac 40 index slides as announcement of snap election in Spain also helps fuel eurozone uncertainty</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/05/bt-strikes-deal-rescue-broadband-firm-talktalk-euro-slides-france-debt-burden-fears-live-updates\">Business live – latest updates</a></p></li></ul><p>The euro has slumped to the lowest level against the dollar in 17 months amid growing concern France’s debt position could threaten the stability of the wider single currency bloc.</p><p>The single currency fell as much as 0.8% against the dollar in early trading on Monday to below $1.12, its lowest level since May 2025. It has slumped by about 1.2% this month, accelerating a drop of about eight cents against the greenback from a peak of $1.20 in January.</p> <a href=\"https://www.theguardian.com/business/2026/oct/05/euro-falls-dollar-amid-french-debt-cac-40-spain-eurozone\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.926,
+      "tags": [
+        "Election",
         "AI"
       ],
       "signal": "watch",
