@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T20:10:21.160494+00:00",
+  "generated_at": "2026-10-11T00:33:30.709116+00:00",
   "articles": [
     {
       "id": "f12fc38c9e03",
@@ -122,27 +122,15 @@
       "tags": []
     },
     {
-      "id": "58d4d4efc2a3",
-      "title": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
+      "id": "d70a90568551",
+      "title": "Missile strike on Riyadh airport kills 12 and injures hundreds",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
-      "published_at": "2026-10-10T18:14:28+00:00",
+      "url": "https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1",
+      "published_at": "2026-10-10T22:18:05+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Donald Trump’s administration hopes the company will rival cheap Chinese alternatives such as DeepSeek",
-      "tags": []
-    },
-    {
-      "id": "fc70d5162f5c",
-      "title": "AI borrowing slows as investors grow wary of debt binge",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9?syn-25a6b1a6=1",
-      "published_at": "2026-10-10T11:00:07+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Appetite for financing infrastructure boom is tested after months of record-breaking bond issuance",
+      "summary": "Deadly assault in Saudi Arabia comes days after multiple attacks by Iran-backed Houthi rebels",
       "tags": []
     },
     {
@@ -179,6 +167,30 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Richard Nixon has become the unlikely darling of Trump’s Washington",
+      "tags": []
+    },
+    {
+      "id": "58d4d4efc2a3",
+      "title": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
+      "published_at": "2026-10-10T18:14:28+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Donald Trump’s administration hopes the company will rival cheap Chinese alternatives such as DeepSeek",
+      "tags": []
+    },
+    {
+      "id": "fc70d5162f5c",
+      "title": "AI borrowing slows as investors grow wary of debt binge",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9?syn-25a6b1a6=1",
+      "published_at": "2026-10-10T11:00:07+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Appetite for financing infrastructure boom is tested after months of record-breaking bond issuance",
       "tags": []
     },
     {
@@ -227,18 +239,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Rise in energy costs due to US-Israel war on Iran has put downward pressure on the currency of the world’s fastest-growing major economy",
-      "tags": []
-    },
-    {
-      "id": "d70a90568551",
-      "title": "Riyadh airport suspends operations after missile strike injures dozens",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1",
-      "published_at": "2026-10-10T18:28:09+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Fresh attack launched on Saudi Arabia as kingdom prepares to host investment summits",
       "tags": []
     },
     {
@@ -482,6 +482,42 @@
       "tags": []
     },
     {
+      "id": "d088dbbe6224",
+      "title": "Kodiak Sciences Inc. (KOD) Presents at American Academy of Ophthalmology Conference 2026 - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4953298-kodiak-sciences-inc-kod-presents-at-american-academy-of-ophthalmology-conference-2026?source=feed_all_articles",
+      "published_at": "2026-10-10T23:08:08+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Kodiak Sciences Inc. (KOD) Presents at American Academy of Ophthalmology Conference 2026 - Slideshow",
+      "tags": []
+    },
+    {
+      "id": "4b631930da64",
+      "title": "Unite Group PLC (UTGPF) Q3 2026 Sales/ Trading Statement Call - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4953297-unite-group-plc-utgpf-q3-2026-sales-trading-statement-call-slideshow?source=feed_all_articles",
+      "published_at": "2026-10-10T23:07:22+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Unite Group PLC (UTGPF) Q3 2026 Sales/ Trading Statement Call - Slideshow",
+      "tags": []
+    },
+    {
+      "id": "b2b427fbe358",
+      "title": "Neogen Corporation 2027 Q1 - Results - Earnings Call Presentation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4953296-neogen-corporation-2027-q1-results-earnings-call-presentation?source=feed_all_articles",
+      "published_at": "2026-10-10T23:05:58+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Neogen Corporation 2027 Q1 - Results - Earnings Call Presentation",
+      "tags": []
+    },
+    {
       "id": "915514c4fcd0",
       "title": "Lincoln Electric: The Volume Recovery Gives Automation A Better Launchpad",
       "source": "All Articles on Seeking Alpha",
@@ -563,42 +599,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Lumentum: The CPO Winner Investors Are Overlooking",
-      "tags": []
-    },
-    {
-      "id": "b1688f28597d",
-      "title": "Bank of America: A Mix Of Common And Preferred Stock Makes Sense Now",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4952569-bank-of-america-a-mix-of-common-and-preferred-stock-makes-sense-now?source=feed_all_articles",
-      "published_at": "2026-10-10T15:40:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Bank of America: A Mix Of Common And Preferred Stock Makes Sense Now",
-      "tags": []
-    },
-    {
-      "id": "33647e2caaec",
-      "title": "Zeta Wins The MarTech War - Growth Premium Already Baked-In",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4953219-zeta-wins-the-martech-war-growth-premium-already-baked-in?source=feed_all_articles",
-      "published_at": "2026-10-10T15:34:02+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Zeta Wins The MarTech War - Growth Premium Already Baked-In",
-      "tags": []
-    },
-    {
-      "id": "611759eaafa4",
-      "title": "Corsair - Come Sail Away (For The Time Being)",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4953284-corsair-come-sail-away-for-the-time-being?source=feed_all_articles",
-      "published_at": "2026-10-10T15:29:14+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Corsair - Come Sail Away (For The Time Being)",
       "tags": []
     }
   ]
