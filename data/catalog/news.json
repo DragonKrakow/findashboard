@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-11T05:39:53Z",
-  "snapshot_date": "2026-10-11",
+  "generated_at": "2026-10-12T05:47:11Z",
+  "snapshot_date": "2026-10-12",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most.",
-      "url": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
+      "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+      "url": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-10T19:44:00+00:00",
-      "summary": "Social Security is projected to become insolvent in six years. These are some of the creative solutions that are on the table, beyond raising payroll taxes.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8714,
+      "published_at": "2026-10-11T19:32:00+00:00",
+      "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
+      "sentiment": "bearish",
+      "sentiment_score": -0.2732,
       "tags": [
         "AI"
       ],
@@ -20,29 +20,62 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Rising interest rates: The good, the bad and the ugly for retirees",
-      "url": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-10T19:44:00+00:00",
-      "summary": "Unlike higher gas prices, which hurt almost everyone, higher borrowing costs have an uneven impact.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.6486,
+      "title": "Trump’s deal with Putin will have little impact on US diesel prices, experts say",
+      "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-11T15:56:25+00:00",
+      "summary": "<p>Analysts say fuel will take weeks to ship and quantity is too small to affect prices, while full deal is unlikely to be met given damage to Russian refineries</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire\">Trump announces partial ceasefire but Zelenskyy says deal is ‘news to me’</a></p></li></ul><p>Donald Trump’s deal with Vladimir Putin to temporarily lift sanctions on US imports of Russian diesel will have little “meaningful” effect on motorists and businesses in the US and overseas, energy and foreign policy analysts have predicted.</p><p>The US president <a href=\"https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine\">infuriated Volodymyr Zelenskyy</a> when he announced the deal on Friday, writing on Truth Social that the agreement with his Russia counterpart to supply millions of tonnes of diesel was essential to reduce fuel prices in the US, which have soared after his decision to go to war against Iran.</p> <a href=\"https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.3506,
       "tags": [
-        "Interest Rates"
+        "AI"
       ],
       "signal": "watch",
-      "category": "macro",
+      "category": "technology",
       "source_repo": "financenews"
     },
     {
-      "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
-      "url": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+      "title": "We’re about to get a huge read on whether earnings can keep propping up the stock market",
+      "url": "https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-10T19:44:00+00:00",
-      "summary": "Seven tips for painlessly moving in retirement.",
+      "published_at": "2026-10-11T14:00:00+00:00",
+      "summary": "High hopes for third-quarter earnings are outweighing concerns around interest rates and oil prices — but one expert warns markets have gotten “extremely complacent.”",
       "sentiment": "bullish",
-      "sentiment_score": 0.7845,
+      "sentiment_score": 0.4497,
       "tags": [
+        "Interest Rates",
+        "Oil"
+      ],
+      "signal": "watch",
+      "category": "energy",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "US’s Reagan-era economic promises return as Trump’s AI-fueled growth fantasy",
+      "url": "https://www.theguardian.com/business/2026/oct/11/trump-ai-economy-reagan",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-11T11:00:25+00:00",
+      "summary": "<p>‘Even if AI supercharged the economy, its impact on the government’s finances would be muted’</p><p>Back through political history to the age of <a href=\"https://www.theguardian.com/us-news/ronald-reagan\">Ronald Reagan</a>, Republicans have repeatedly promised the US public that tax cuts would pay for themselves, firing up economic growth and filling the government’s coffers.</p><p>The promise never really panned out. From the Gipper’s day on, the Republicans’ tax cuts inevitably increased the budget deficit. Despite its failure, though, the promise is back, coated in a fine new layer of <a href=\"https://www.theguardian.com/technology/artificialintelligenceai\">artificial intelligence</a> pixie dust. It will fail again.</p> <a href=\"https://www.theguardian.com/business/2026/oct/11/trump-ai-economy-reagan\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7271,
+      "tags": [
+        "AI",
+        "Artificial Intelligence"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Labour has got the message – developing nations suffer most from bond market turmoil | Heather Stewart",
+      "url": "https://www.theguardian.com/business/2026/oct/11/labour-bond-market-turmoil-developing-nations-andy-burnham-brown-blair",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-11T10:11:19+00:00",
+      "summary": "<p>Just as Brown and Blair did in 2005, Andy Burnham aims to champion debt relief to help developing countries</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/11/developing-nations-triple-shock-energy-crisis-el-nino-borrowing-costs-un-warns\">Developing nations face triple shock, UN warns</a></p></li></ul><p></p><p>From Washington to Paris, London to Tokyo, policymakers in every large economy have been counting the costs of bond market turmoil in recent weeks. But the brunt of the pain is being borne by heavily indebted developing countries that have little hope of influencing the whims of global investors, but pay the price regardless.</p><p>Markets have responded to the war in the Middle East, and a spendthrift White House, by dumping government bonds – driving up borrowing costs just about everywhere.</p> <a href=\"https://www.theguardian.com/business/2026/oct/11/labour-bond-market-turmoil-developing-nations-andy-burnham-brown-blair\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.9168,
+      "tags": [
+        "Oil",
         "AI"
       ],
       "signal": "watch",
@@ -429,37 +462,6 @@
       "sentiment_score": -0.4588,
       "tags": [
         "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "UK reviewing whether to impose tariffs on Chinese car imports to align with EU",
-      "url": "https://www.theguardian.com/business/2026/oct/05/uk-tariffs-chinese-car-imports-eu-manufacturing",
-      "source": "The Guardian Economics",
-      "published_at": "2026-10-05T11:37:46+00:00",
-      "summary": "<p>Move would strengthen Britain’s case to be included in new legislation to protect European manufacturing</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/05/bt-strikes-deal-rescue-broadband-firm-talktalk-euro-slides-france-debt-burden-fears-live-updates\">Business live – latest updates</a></p></li></ul><p>The UK is reviewing whether to impose tariffs on Chinese car imports to align itself with the EU and strengthen its case to be included in new legislation designed to protect the European manufacturing sectors including autos and chemicals.</p><p>It is understood the EU has raised the question of tariffs with the UK as part of the discussions on the <a href=\"https://www.theguardian.com/world/2026/sep/16/made-in-europe-laws-could-derail-uk-eu-reset-plans\">“Made in Europe” legislation</a>, known as the Industrial Accelerator Act.</p> <a href=\"https://www.theguardian.com/business/2026/oct/05/uk-tariffs-chinese-car-imports-eu-manufacturing\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6597,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Euro falls to 17-month low against dollar amid French debt fears",
-      "url": "https://www.theguardian.com/business/2026/oct/05/euro-falls-dollar-amid-french-debt-cac-40-spain-eurozone",
-      "source": "The Guardian Economics",
-      "published_at": "2026-10-05T11:18:20+00:00",
-      "summary": "<p>France’s Cac 40 index slides as announcement of snap election in Spain also helps fuel eurozone uncertainty</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/05/bt-strikes-deal-rescue-broadband-firm-talktalk-euro-slides-france-debt-burden-fears-live-updates\">Business live – latest updates</a></p></li></ul><p>The euro has slumped to the lowest level against the dollar in 17 months amid growing concern France’s debt position could threaten the stability of the wider single currency bloc.</p><p>The single currency fell as much as 0.8% against the dollar in early trading on Monday to below $1.12, its lowest level since May 2025. It has slumped by about 1.2% this month, accelerating a drop of about eight cents against the greenback from a peak of $1.20 in January.</p> <a href=\"https://www.theguardian.com/business/2026/oct/05/euro-falls-dollar-amid-french-debt-cac-40-spain-eurozone\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.926,
-      "tags": [
-        "Election",
         "AI"
       ],
       "signal": "watch",
