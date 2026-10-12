@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-11T20:11:01.439444+00:00",
+  "generated_at": "2026-10-12T00:34:36.567239+00:00",
   "articles": [
+    {
+      "id": "c0f1fb4a2ef2",
+      "title": "Korean Bond Rally Seen Faltering as Traders Brace for Rate Hikes",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-12/korean-bond-rally-seen-faltering-as-traders-brace-for-rate-hikes",
+      "published_at": "2026-10-12T00:14:05+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "A rally in South Korean bonds may prove fleeting as the effect of government-led measures to quell volatility fades and expectations of further monetary policy tightening build, according to strategis",
+      "tags": []
+    },
     {
       "id": "27762c422245",
       "title": "Bond Selloff May Mean Fewer Rate Hikes From Global Central Banks",
@@ -11,6 +23,78 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Bond markets are starting to do some of the lifting for central banks around the world by pushing up borrowing costs themselves, potentially reducing the number of benchmark interest-rate hikes needed",
+      "tags": []
+    },
+    {
+      "id": "4bd1efd2898a",
+      "title": "US Stock Futures Gain as Oil Erases Early Gains: Markets Wrap",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-11/oil-rises-on-mideast-attacks-dollar-edges-higher-markets-wrap",
+      "published_at": "2026-10-11T22:09:49+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "US equity-index futures advanced after crude oil declined, erasing an earlier gain triggered by Houthi attacks on Saudi Arabia.",
+      "tags": []
+    },
+    {
+      "id": "843e2b35943c",
+      "title": "Latest Oil Market News and Analysis for Oct. 12",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-11/latest-oil-market-news-and-analysis-for-oct-12",
+      "published_at": "2026-10-11T22:08:45+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Oil dropped as traders weighed President Donald Trump’s claim of an “energy ceasefire” between Russia and Ukraine, even as hostilities escalated across the Middle East.",
+      "tags": []
+    },
+    {
+      "id": "d443076490a0",
+      "title": "Wrightson’s Crandall Ends Weekly Market Missives After 44 Years",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-11/wrightson-s-crandall-ends-weekly-market-missives-after-44-years",
+      "published_at": "2026-10-11T23:32:41+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Lou Crandall, the Wrightson ICAP chief economist whose dispatches on Treasury financing and Federal Reserve operations became required reading across trading desks for nearly half a century, announced",
+      "tags": []
+    },
+    {
+      "id": "e1bdba0754b1",
+      "title": "NZ National Party Will Wait for Budget Surplus Before Tax Cuts",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-11/nz-national-party-will-wait-for-budget-surplus-before-tax-cuts",
+      "published_at": "2026-10-11T23:15:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "New Zealand’s ruling National Party says the nation’s debt burden and budget deficit mean now is not the time to cut taxes.",
+      "tags": []
+    },
+    {
+      "id": "e0cc658e2479",
+      "title": "Healey Needs £35 Billion to Meet UK Spending Plans, IFS Says",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-11/healey-needs-35-billion-to-meet-uk-spending-plans-ifs-says",
+      "published_at": "2026-10-11T23:01:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "UK Chancellor of the Exchequer John Healey must find £35 billion ($46 billion) to meet the Labour government’s spending ambitions, the Institute for Fiscal Studies warned ahead of the budget later thi",
+      "tags": []
+    },
+    {
+      "id": "4dba31785f48",
+      "title": "Saudi Airport Hit Again as Riyadh Set to Host Major Events",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-11/saudi-arabia-s-main-riyadh-airport-comes-under-further-attack",
+      "published_at": "2026-10-11T14:47:50+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Saudi Arabia’s main airport came under renewed attack from Houthi rebels, a day after a strike on the facility killed 12 people and heaped pressure on the Middle East’s biggest economy as it prepares ",
       "tags": []
     },
     {
@@ -38,90 +122,6 @@
       "tags": []
     },
     {
-      "id": "efae83d55e59",
-      "title": "Bookmarked: Stories That Caught Our Eye This Week",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-11/bookmarked-stories-that-caught-our-eye-this-week-video",
-      "published_at": "2026-10-11T17:18:16+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Bloomberg hosts David Gura, Christina Ruffini and Lisa Mateo are on Bloomberg This Weekend for “Bookmarked,” sharing stories that caught their attention over the past week. The hosts discuss the repor",
-      "tags": []
-    },
-    {
-      "id": "f005fc5cb254",
-      "title": "Former US Envoy Warns of Wider Middle East Conflict",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-11/former-us-envoy-warns-of-wider-middle-east-conflict-video",
-      "published_at": "2026-10-11T17:12:36+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Former White House Middle East Coordinator Brett McGurk tells Bloomberg This Weekend that the deadly attack on Riyadh's international airport underscores the growing threat from Iran-backed Houthi mil",
-      "tags": []
-    },
-    {
-      "id": "4dba31785f48",
-      "title": "Saudi Airport Hit Again as Riyadh Set to Host Major Conferences",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-11/saudi-arabia-s-main-riyadh-airport-comes-under-further-attack",
-      "published_at": "2026-10-11T14:47:50+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Saudi Arabia’s main airport came under renewed attack from Houthi rebels, a day after a strike on the facility killed 12 people and heaped pressure on the Middle East’s biggest economy as it prepares ",
-      "tags": []
-    },
-    {
-      "id": "711f4c1040fa",
-      "title": "Globalization Defies a Decade of Populist Pushback",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-11/globalization-defies-a-decade-of-populist-pushback-video",
-      "published_at": "2026-10-11T17:03:16+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Bloomberg News Senior Economics Writer Shawn Donnan tells Bloomberg This Weekend that globalization has continued to expand despite a decade of populist policies, tariffs and efforts to reshape intern",
-      "tags": []
-    },
-    {
-      "id": "471314019ab8",
-      "title": "Riyadh Airport Attack, Trump To Ukraine: “Time To Get A New President”",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-11/bloomberg-this-weekend-10-11-2026-video",
-      "published_at": "2026-10-11T16:24:36+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York.\n\nJoined b",
-      "tags": []
-    },
-    {
-      "id": "56fae32eb532",
-      "title": "Tech Billionaires Gain $845 Billion in 2026",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-11/tech-billionaires-gain-845-billion-in-2026-video",
-      "published_at": "2026-10-11T16:20:06+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Bloomberg News Wealth Reporter Dylan Sloan tells Bloomberg This Weekend that the world's technology billionaires gained a record $845 billion through the first nine months of 2026, while fortunes outs",
-      "tags": []
-    },
-    {
-      "id": "3aa4e970d1c1",
-      "title": "Saudi Airport Attack Raises Middle East War Risks",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-11/saudi-airport-attack-raises-middle-east-war-risks-video",
-      "published_at": "2026-10-11T15:46:27+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Bloomberg Reporters Alex Koccharov and Abeer Abu Omar join hosts David Gura and Christina Ruffini on Bloomberg This Weekend to discuss the deadly attack on Riyadh's international airport and the growi",
-      "tags": []
-    },
-    {
       "id": "7135a9d3de2c",
       "title": "US threatens to block arms for Ukraine over attacks on Russian refineries",
       "source": "International homepage",
@@ -134,6 +134,18 @@
       "tags": []
     },
     {
+      "id": "1eee339802f2",
+      "title": "Trump faces Republican opposition to his diesel deal with Russia’s Putin",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/debf0be6-d5aa-4ba7-bb66-7daf770d99ff?syn-25a6b1a6=1",
+      "published_at": "2026-10-11T21:17:58+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Lawmakers from both parties say the agreement would finance Putin’s war machine in Ukraine and violate US law",
+      "tags": []
+    },
+    {
       "id": "3c712be1d3b6",
       "title": "Can Russia meet Trump’s diesel demands?",
       "source": "International homepage",
@@ -143,18 +155,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Ukrainian strikes have triggered the worst petrol shortages since the collapse of the Soviet Union but diesel is not in short supply",
-      "tags": []
-    },
-    {
-      "id": "0c157ad2fc1d",
-      "title": "Russia ‘interfered’ in 2016 Brexit vote, says Burnham",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/4fcbf57e-c73e-4ced-be4a-5ecc6f4874de?syn-25a6b1a6=1",
-      "published_at": "2026-10-11T18:01:02+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "UK prime minister calls for European voters to be better informed about Kremlin-backed efforts to disrupt democratic process",
       "tags": []
     },
     {
@@ -214,7 +214,7 @@
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "The ship tried to break through America’s naval blockade of Iranian ports, Central Command says of its first attack in a month",
+      "summary": "Ship tried to break through American naval blockade of Iranian ports, Central Command says of its first attack in a month",
       "tags": []
     },
     {
@@ -239,6 +239,18 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Voters increasingly doubt the president’s ability to steer the economy with weeks to go until elections",
+      "tags": []
+    },
+    {
+      "id": "d3d82a245ae0",
+      "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-10-11T22:57:53+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest \" class=\"type:primaryImage\" src=\"https://s3-images.",
       "tags": []
     },
     {
@@ -347,18 +359,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US plans to seize $1B in crypto linked to Iran this week: Scott Bessent\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedi",
-      "tags": []
-    },
-    {
-      "id": "48166d9b7458",
-      "title": "New York permanently bars Celsius founder Mashinsky in $35M fraud settlement",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-10-09T20:14:02+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"New York permanently bars Celsius founder Mashinsky in $35M fraud settlement\" class=\"type:primaryImage\" src=\"https://s3-images.c",
       "tags": []
     },
     {
@@ -482,6 +482,102 @@
       "tags": []
     },
     {
+      "id": "5936a69178fa",
+      "title": "Savannah Resources Plc (SAVNF) Discusses Progress and Competitiveness of the Barroso Lithium Project - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4953374-savannah-resources-plc-savnf-discusses-progress-and-competitiveness-of-the-barroso-lithium?source=feed_all_articles",
+      "published_at": "2026-10-11T23:09:18+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Savannah Resources Plc (SAVNF) Discusses Progress and Competitiveness of the Barroso Lithium Project - Slideshow",
+      "tags": []
+    },
+    {
+      "id": "c37d4bd8e230",
+      "title": "Dr. Ing. h.c. F. Porsche AG (DRPRY) Analyst/Investor Day - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4953373-dr-ing-h-c-f-porsche-ag-drpry-analyst-investor-day-slideshow?source=feed_all_articles",
+      "published_at": "2026-10-11T23:08:32+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Dr. Ing. h.c. F. Porsche AG (DRPRY) Analyst/Investor Day - Slideshow",
+      "tags": []
+    },
+    {
+      "id": "ba402e5a8ca8",
+      "title": "SpaceX, Telecom Sell-Off, Micron's A Grades, Steve Cress Origin Story",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4953372-spacex-telecom-sell-off-microns-a-grades-steve-cress-origin-story?source=feed_all_articles",
+      "published_at": "2026-10-11T21:50:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "SpaceX, Telecom Sell-Off, Micron's A Grades, Steve Cress Origin Story",
+      "tags": []
+    },
+    {
+      "id": "6e461fdfbd14",
+      "title": "Acquisitions Digested, Celsius Is Positioned For Its Next Offense",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4953371-acquisitions-digested-celsius-is-positioned-for-its-next-offense?source=feed_all_articles",
+      "published_at": "2026-10-11T21:32:02+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Acquisitions Digested, Celsius Is Positioned For Its Next Offense",
+      "tags": []
+    },
+    {
+      "id": "67cfd78a009f",
+      "title": "Donaldson: The Replacement Filter Business Has A Second Engine",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4953369-donaldson-the-replacement-filter-business-has-a-second-engine?source=feed_all_articles",
+      "published_at": "2026-10-11T20:39:46+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Donaldson: The Replacement Filter Business Has A Second Engine",
+      "tags": []
+    },
+    {
+      "id": "c464bcad57f7",
+      "title": "Vertex Built The NaV1.8 Market, Latigo May Be The One To Profit From It",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4953368-vertex-built-the-nav1-8-market-latigo-may-be-the-one-to-profit-from-it?source=feed_all_articles",
+      "published_at": "2026-10-11T20:31:21+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Vertex Built The NaV1.8 Market, Latigo May Be The One To Profit From It",
+      "tags": []
+    },
+    {
+      "id": "9600d8c951ea",
+      "title": "ETW: Monthly Pay Through Global Diversification And Options Writing",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4953367-etw-monthly-pay-through-global-diversification-and-options-writing?source=feed_all_articles",
+      "published_at": "2026-10-11T20:22:27+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "ETW: Monthly Pay Through Global Diversification And Options Writing",
+      "tags": []
+    },
+    {
+      "id": "2339410d8d15",
+      "title": "OMAH: Your Insurance Against An AI Crash Won't Cover A Macro One",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4953366-omah-your-insurance-against-an-ai-crash-wont-cover-a-macro-one?source=feed_all_articles",
+      "published_at": "2026-10-11T20:07:16+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "OMAH: Your Insurance Against An AI Crash Won't Cover A Macro One",
+      "tags": []
+    },
+    {
       "id": "5b357885a079",
       "title": "S&P 500: A Hard Road Ahead",
       "source": "All Articles on Seeking Alpha",
@@ -503,102 +599,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "EUFN: Fear Mounts In France, But European Banks Are Now Too Cheap (Upgrade)",
-      "tags": []
-    },
-    {
-      "id": "91021aaec42f",
-      "title": "Chewy: Gaining Share In A Tough Market",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4953363-chewy-gaining-share-in-a-tough-market?source=feed_all_articles",
-      "published_at": "2026-10-11T18:57:39+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Chewy: Gaining Share In A Tough Market",
-      "tags": []
-    },
-    {
-      "id": "77cf3bd4d5ad",
-      "title": "Entegris: The Recovery Is Real, But The Price Needs It To Last",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4953362-entegris-the-recovery-is-real-but-the-price-needs-it-to-last?source=feed_all_articles",
-      "published_at": "2026-10-11T18:35:26+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Entegris: The Recovery Is Real, But The Price Needs It To Last",
-      "tags": []
-    },
-    {
-      "id": "1ccf955ffa98",
-      "title": "Wall Street Brunch: Start Your Earnings Engines",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4953361-wall-street-bruch-start-your-earnings-engines?source=feed_all_articles",
-      "published_at": "2026-10-11T17:29:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Wall Street Brunch: Start Your Earnings Engines",
-      "tags": []
-    },
-    {
-      "id": "5a877104cf5c",
-      "title": "HORAN Capital Advisors Fall 2026 Quarterly Investor Letter",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4953360-horan-capital-advisors-fall-2026-quarterly-investor-letter?source=feed_all_articles",
-      "published_at": "2026-10-11T16:47:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "HORAN Capital Advisors Fall 2026 Quarterly Investor Letter",
-      "tags": []
-    },
-    {
-      "id": "6ba1ac82260b",
-      "title": "Top 50 High-Quality Dividend Growth Stocks For October 2026",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4953359-top-50-high-quality-dividend-growth-stocks-for-october-2026?source=feed_all_articles",
-      "published_at": "2026-10-11T16:46:56+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Top 50 High-Quality Dividend Growth Stocks For October 2026",
-      "tags": []
-    },
-    {
-      "id": "0d50d7051c0e",
-      "title": "Ovintiv: The Company Will Survive, But I Can Do Better Elsewhere",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4953358-ovintiv-will-survive-but-i-can-do-better-elsewhere?source=feed_all_articles",
-      "published_at": "2026-10-11T16:16:30+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Ovintiv: The Company Will Survive, But I Can Do Better Elsewhere",
-      "tags": []
-    },
-    {
-      "id": "f928beedde47",
-      "title": "Vision Capital Fund Q3 2026 Portfolio Activity",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4953357-vision-capital-fund-q3-2026-portfolio-activity?source=feed_all_articles",
-      "published_at": "2026-10-11T16:02:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Vision Capital Fund Q3 2026 Portfolio Activity",
-      "tags": []
-    },
-    {
-      "id": "b21b026e8f59",
-      "title": "Rocket Lab: The Biggest Test In Its History Is Coming",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4953292-rocket-lab-the-biggest-test-in-its-history-is-coming?source=feed_all_articles",
-      "published_at": "2026-10-11T16:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Rocket Lab: The Biggest Test In Its History Is Coming",
       "tags": []
     }
   ]
