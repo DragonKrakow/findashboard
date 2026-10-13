@@ -1,17 +1,168 @@
 {
-  "generated_at": "2026-10-12T05:47:11Z",
-  "snapshot_date": "2026-10-12",
+  "generated_at": "2026-10-13T05:43:00Z",
+  "snapshot_date": "2026-10-13",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-      "url": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+      "title": "Brazilian stocks are breaking out as investors look for opportunities beyond tech",
+      "url": "https://www.marketwatch.com/story/brazilian-stocks-are-breaking-out-as-investors-look-for-opportunities-beyond-tech-7fbed032?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-11T19:32:00+00:00",
-      "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
+      "published_at": "2026-10-12T22:00:00+00:00",
+      "summary": "Brazil’s presidential election is powering optimism in the country’s stock market — and capturing the attention of investors wary of having too much exposure to U.S. stocks.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7269,
+      "tags": [
+        "Election"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors",
+      "url": "https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-10-12T21:19:00+00:00",
+      "summary": "The chip makers introduced hardware and software designs for future AI data centers, but the revenue potential is still far out, an analyst says.",
+      "sentiment": "neutral",
+      "sentiment_score": -0.1655,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Why Ciena, Lumentum and other optical stocks were among the market’s biggest losers on Monday",
+      "url": "https://www.marketwatch.com/story/why-ciena-lumentum-and-other-optical-stocks-were-among-the-markets-biggest-losers-on-monday-b3e53f6a?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-10-12T20:46:00+00:00",
+      "summary": "The sharp moves could partly be a reaction to recent cautious commentary on AI spending.",
       "sentiment": "bearish",
-      "sentiment_score": -0.2732,
+      "sentiment_score": -0.5859,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Microsoft hits a big milestone that solidifies its revival",
+      "url": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-10-12T20:40:00+00:00",
+      "summary": "Microsoft has reclaimed a $4 trillion market cap on Monday — and fresh records are in sight.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.3182,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Meta is back on the AI leaderboard with its new family of Wonder models",
+      "url": "https://www.marketwatch.com/story/meta-is-back-on-the-ai-leaderboard-with-its-new-family-of-wonder-models-a704b6cc?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-10-12T19:43:00+00:00",
+      "summary": "The company’s stock was up more than 3% following the release of Muse Wonder and Muse Wonder Full, which analysts expect to drive new business opportunities.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.3818,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+      "url": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-10-12T17:15:21+00:00",
+      "summary": "The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.296,
+      "tags": [
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
+      "url": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-10-12T15:37:26+00:00",
+      "summary": "Traders think there's little chance core inflation, which excludes food and energy prices, will fall to 2.2% this year.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5734,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises",
+      "url": "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-12T14:20:53+00:00",
+      "summary": "<p>US economists developed models that help central bankers and finance ministers to stabilise their economies</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/12/uk-growth-inflation-pressures-oil-price-sveriges-riksbank-nobel-prize-economic-sciences-awarded-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>Two US economists have won the 2026 Nobel economics prize for their work developing models that help central bankers and finance ministers to stabilise their countries, avoiding long recessions and runaway inflation.</p><p>Robert Hall of Stanford University, California, and Michael Woodford of Columbia University, New York, were recognised for <a href=\"https://www.nobelprize.org/uploads/2026/10/advanced-economicsciencesprize2026.pdf\">developing the “microeconomic foundations of macroeconomic stabilisation”</a>, giving policymakers better tools to smooth out the peaks and troughs of their economies.</p> <a href=\"https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.9652,
+      "tags": [
+        "Oil"
+      ],
+      "signal": "watch",
+      "category": "energy",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Nobel prize for economics awarded to two Americans, Hall and Woodford, for work on New Keynesian models – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/oct/12/uk-growth-inflation-pressures-oil-price-sveriges-riksbank-nobel-prize-economic-sciences-awarded-latest-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-12T14:17:27+00:00",
+      "summary": "<p>The Sveriges Riksbank Prize in Economic Sciences has been awarded to Robert Hall and Michael Woodford for developing the “microeconomic foundations of macroeconomic stabilisation”</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models\"><strong>Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises</strong></a></p></li></ul><p><strong>There’s some movement in the Nobel economics prize betting, with around 45 minutes to go until the announcement.</strong></p><p><strong>Sidney Winter, </strong>the professor emeritus of management at the <strong>Wharton</strong> <strong>School</strong>, and <strong>Lawrence Katz, </strong>the Elisabeth Allison Professor of Economics at Harvard University, have both appeared high on Polymarket’s odds at times this morning (although the market is very volatile).</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/12/uk-growth-inflation-pressures-oil-price-sveriges-riksbank-nobel-prize-economic-sciences-awarded-latest-news-updates\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.9652,
+      "tags": [
+        "Oil"
+      ],
+      "signal": "watch",
+      "category": "energy",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "EU to limit Chinese hybrid vehicle imports to 350,000 a year",
+      "url": "https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-12T11:23:55+00:00",
+      "summary": "<p>Brussels uses WTO rules to quickly impose quota, which will halve Chinese market share to 3%</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/oct/12/uk-growth-inflation-pressures-oil-price-sveriges-riksbank-nobel-prize-economic-sciences-awarded-latest-news-updates\">Business live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry\">VW boss backs EU plan to bolster domestic industry</a></p></li></ul><p>The EU is to limit the number of hybrid electric vehicles imported from China to 350,000 cars a year, the European Commission has confirmed.</p><p>Imports have been soaring in the past two years; about 800,000 battery and plug-in hybrids are likely to be sold this year.</p> <a href=\"https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles\">Continue reading...</a>",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0258,
+      "tags": [
+        "Oil"
+      ],
+      "signal": "watch",
+      "category": "energy",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "IFS: budget will be ‘work of fiction’ without clear plan to cover UK’s £35bn spending pressures",
+      "url": "https://www.theguardian.com/business/2026/oct/12/ifs-budget-report-spending-pressures-tax-inflation-john-healey",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-12T05:49:11+00:00",
+      "summary": "<p>Thinktank’s influential pre-budget report urges key decisions to be made now and not put off until next year</p><p>John Healey has been warned by Britain’s leading tax and spending experts that his budget risks being a “work of fiction” unless he sets out plans to cover £35bn in spending pressures.</p><p>As the war in the Middle East rattles the public finances, the Institute for Fiscal Studies (IFS) said the damage from higher inflation meant the chancellor would need to either top up funds for his current government spending plans or impose deep real-terms cuts by the end of the decade.</p> <a href=\"https://www.theguardian.com/business/2026/oct/12/ifs-budget-report-spending-pressures-tax-inflation-john-healey\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.9258,
       "tags": [
         "AI"
       ],
@@ -32,22 +183,6 @@
       ],
       "signal": "watch",
       "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "We’re about to get a huge read on whether earnings can keep propping up the stock market",
-      "url": "https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-11T14:00:00+00:00",
-      "summary": "High hopes for third-quarter earnings are outweighing concerns around interest rates and oil prices — but one expert warns markets have gotten “extremely complacent.”",
-      "sentiment": "bullish",
-      "sentiment_score": 0.4497,
-      "tags": [
-        "Interest Rates",
-        "Oil"
-      ],
-      "signal": "watch",
-      "category": "energy",
       "source_repo": "financenews"
     },
     {
@@ -323,145 +458,6 @@
       "sentiment": "neutral",
       "sentiment_score": -0.1546,
       "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
-      "url": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-10-07T06:16:39+00:00",
-      "summary": "Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6597,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "EU negotiators head to China hoping to curb cheap imports of hybrid electric cars",
-      "url": "https://www.theguardian.com/business/2026/oct/07/eu-negotiators-head-to-china-hoping-to-curb-cheap-imports-of-hybrid-electric-cars",
-      "source": "The Guardian Economics",
-      "published_at": "2026-10-07T04:00:34+00:00",
-      "summary": "<p>Mood in trade talks said to have changed as EU member states harden demands for protection against Chinese imports</p><p>EU trade negotiators are heading to China for two days of crunch talks aimed at sealing a breakthrough deal tackling Beijing’s record £1bn-a-day trade surplus by curbing its exports of cheap hybrid electric cars into Europe.</p><p>Trade commissioner Maroš Šefčovič and his team fly out on Wednesday and will be negotiating up to the wire in talks scheduled to start the following day and continue late into Friday.</p> <a href=\"https://www.theguardian.com/business/2026/oct/07/eu-negotiators-head-to-china-hoping-to-curb-cheap-imports-of-hybrid-electric-cars\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.4215,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Poland’s ‘solidarity’ push for EU energy resilience in face of Russian aggression",
-      "url": "https://www.theguardian.com/world/2026/oct/07/poland-solidarity-eu-energy-resilience-russian-aggression-economy",
-      "source": "The Guardian Economics",
-      "published_at": "2026-10-07T04:00:33+00:00",
-      "summary": "<p>In the second article in a series on the Polish economy, we look at how the country is forging closer ties with its neighbours</p><p>Two miles off the coast of Gdańsk, the white steel piles of Poland’s first offshore gas terminal rise from the slate-grey Baltic. Installed at a height eight metres above the waves, the floating cranes and construction vessels here are on the frontline of Europe’s push for energy security.</p><p>Since the taps were turned off on Russian gas after Vladimir Putin’s invasion of Ukraine four years ago, Poland has turned to the global energy market for supplies. But while conditions are far from ideal as the Middle East war drives oil and gas prices to stratospheric levels, strengthening the diversity of the country’s energy mix remains a top priority for Poland, its Baltic neighbours, and the EU at large.</p> <a href=\"https://www.theguardian.com/world/2026/oct/07/poland-solidarity-eu-energy-resilience-russian-aggression-economy\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8573,
-      "tags": [
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
-      "url": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-10-06T22:23:01+00:00",
-      "summary": "The S&amp;P 500 returned to an intraday record Tuesday as tech gains, easing oil prices and Treasury yields helped stocks overcome months of market shocks.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6486,
-      "tags": [
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
-      "url": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-10-06T18:41:32+00:00",
-      "summary": "Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3818,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
-      "url": "https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-10-06T08:47:30+00:00",
-      "summary": "Goldman Sachs says tight refinery capacity could keep diesel prices elevated through 2027, with high margins needed to curb demand and rebuild inventories.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.5106,
-      "tags": [
-        "Gold"
-      ],
-      "signal": "watch",
-      "category": "markets",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty",
-      "url": "https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-10-05T21:24:25+00:00",
-      "summary": "A new bill bans federal candidates from trading prediction market contracts related to their own elections and would result in a fine if violated.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.6808,
-      "tags": [
-        "Election",
-        "Fed"
-      ],
-      "signal": "watch",
-      "category": "macro",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
-      "url": "https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-10-05T20:41:23+00:00",
-      "summary": "The moves come after the first round results of Brazil's presidential election on Sunday. Bolsonaro will face incumbent Lula da Silva in a runoff on Oct. 25.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7783,
-      "tags": [
-        "Election"
-      ],
-      "signal": "watch",
-      "category": "markets",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Average five-year fixed mortgage rate hits 6% for first time in three years",
-      "url": "https://www.theguardian.com/money/2026/oct/05/five-year-fixed-mortgage-rate-banks-building-societies",
-      "source": "The Guardian Economics",
-      "published_at": "2026-10-05T11:39:37+00:00",
-      "summary": "<p>Banks and building societies raise prices as turmoil in bond markets increases expectations of base rate rise</p><p>The average cost of a five-year fixed-rate mortgage has hit the 6% barrier for the first time in three years, as jitters in the money markets make the loans more expensive for lenders to offer.</p><p>Figures from financial information provider Moneyfacts show the average is now 6.00%, its highest point since September 2023, while the average two-year fixed rate is not far behind at 5.98%, its highest since December of the same year.</p> <a href=\"https://www.theguardian.com/money/2026/oct/05/five-year-fixed-mortgage-rate-banks-building-societies\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.4588,
-      "tags": [
-        "Oil",
         "AI"
       ],
       "signal": "watch",
