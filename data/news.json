@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-17T16:09:28.020130+00:00",
+  "generated_at": "2026-10-17T20:09:12.664418+00:00",
   "articles": [
+    {
+      "id": "246d36db26b1",
+      "title": "Russia Sanctions Waived, AI Debt Concerns, Making 'GTA VI'",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-17/bloomberg-this-weekend-10-17-2026-video",
+      "published_at": "2026-10-17T16:31:01+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by",
+      "tags": []
+    },
     {
       "id": "ec7d91935248",
       "title": "India Frees ‘Cockroach’ Leader As Voter-List Row Simmers",
@@ -110,18 +122,6 @@
       "tags": []
     },
     {
-      "id": "8b691a90b5dc",
-      "title": "Rockstar Rebuilt Itself to Make GTA VI",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-17/rockstar-rebuilt-itself-to-make-gta-vi-video",
-      "published_at": "2026-10-17T12:15:53+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Bloomberg News video game reporter Jason Schreier tells Bloomberg This Weekend how Rockstar Games nearly doubled its workforce and overhauled its production culture while building the highly anticipat",
-      "tags": []
-    },
-    {
       "id": "2c9d8c1c16dd",
       "title": "Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’",
       "source": "International homepage",
@@ -143,18 +143,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "US president gives Putin a reprieve on threatened energy measures after cutting deal with Moscow to release diesel",
-      "tags": []
-    },
-    {
-      "id": "6cec61f718d7",
-      "title": "Trump’s press secretary Katie Zacharia fired after five days",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1",
-      "published_at": "2026-10-17T01:29:51+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Exit comes amid deepening turmoil for White House as midterm elections loom",
       "tags": []
     },
     {
@@ -182,15 +170,15 @@
       "tags": []
     },
     {
-      "id": "e8f7f2d806c8",
-      "title": "The dress rehearsal for an AI reckoning",
+      "id": "e2751c92a3f6",
+      "title": "Why have screens replaced socialising?",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/3f982af9-3eec-476f-9d29-39145ac485c4?syn-25a6b1a6=1",
+      "url": "https://www.ft.com/content/989c757d-29ba-46fd-82de-427b810a8649?syn-25a6b1a6=1",
       "published_at": "2026-10-17T04:00:21+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Ructions point to what a true bursting of the bubble might do to financial markets",
+      "summary": "The economics of why we increasingly avoid the company of both other humans and books",
       "tags": []
     },
     {
@@ -206,15 +194,15 @@
       "tags": []
     },
     {
-      "id": "8767c49fcc91",
-      "title": "Apple blames ‘extraordinary’ demand as foldable iPhones sell out",
+      "id": "e8f7f2d806c8",
+      "title": "The dress rehearsal for an AI reckoning",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f?syn-25a6b1a6=1",
-      "published_at": "2026-10-16T21:03:42+00:00",
+      "url": "https://www.ft.com/content/3f982af9-3eec-476f-9d29-39145ac485c4?syn-25a6b1a6=1",
+      "published_at": "2026-10-17T04:00:21+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Deliveries of the $2,000 Duo slip to 2027 within hours of going on sale",
+      "summary": "Ructions point to what a true bursting of the bubble might do to financial markets",
       "tags": []
     },
     {
@@ -239,6 +227,18 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Strong demand for private air travel combined with production delays boosts prices",
+      "tags": []
+    },
+    {
+      "id": "ad757aa81b40",
+      "title": "Israeli settlers attack European diplomats in the West Bank",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/35a08f82-6830-41fa-83ae-d3765f3970e0",
+      "published_at": "2026-10-17T17:58:01+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Belgian foreign minister says his government will ‘press for EU sanctions against those responsible for this violence’",
       "tags": []
     },
     {
@@ -362,6 +362,18 @@
       "tags": []
     },
     {
+      "id": "8631a6b961a2",
+      "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
+      "published_at": "2026-10-17T17:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
+      "tags": []
+    },
+    {
       "id": "75d81480cc6c",
       "title": "Citrini sees a tokenization boom. The harder question is who profits",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
@@ -470,15 +482,39 @@
       "tags": []
     },
     {
-      "id": "f21d4ef541e4",
-      "title": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed",
-      "published_at": "2026-10-16T10:48:49+00:00",
+      "id": "448b43476db7",
+      "title": "BOK Financial Corporation's Drop Opens A Door To An Upgrade",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4955000-bok-financial-corporations-drop-opens-a-door-to-an-upgrade?source=feed_all_articles",
+      "published_at": "2026-10-17T18:47:14+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
+      "summary": "BOK Financial Corporation's Drop Opens A Door To An Upgrade",
+      "tags": []
+    },
+    {
+      "id": "cd480cfefd14",
+      "title": "Blue Bird: The Profit Test Behind Its Next Growth Cycle",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4955002-blue-bird-the-profit-test-behind-its-next-growth-cycle?source=feed_all_articles",
+      "published_at": "2026-10-17T16:28:36+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Blue Bird: The Profit Test Behind Its Next Growth Cycle",
+      "tags": []
+    },
+    {
+      "id": "fde72a72c036",
+      "title": "Collegium Pharmaceutical: Under 3x Cash Earnings After A Narrow Guidance Cut",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4955001-collegium-pharmaceutical-under-3x-cash-earnings-after-a-narrow-guidance-cut?source=feed_all_articles",
+      "published_at": "2026-10-17T16:18:21+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Collegium Pharmaceutical: Under 3x Cash Earnings After A Narrow Guidance Cut",
       "tags": []
     },
     {
@@ -563,42 +599,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "It's Y2K Again: Why Income Investments Win As The Fed Repeats A Dot-Com Error",
-      "tags": []
-    },
-    {
-      "id": "ee9d084089a1",
-      "title": "SailPoint: The Identity Layer For AI Agents",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4954994-sailpoint-the-identity-layer-for-ai-agents?source=feed_all_articles",
-      "published_at": "2026-10-17T14:26:54+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "SailPoint: The Identity Layer For AI Agents",
-      "tags": []
-    },
-    {
-      "id": "58e77a7eeb5e",
-      "title": "FDIS: Consumer Discretionary Sector Dashboard For October",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4954831-fdis-consumer-discretionary-sector-dashboard-for-october?source=feed_all_articles",
-      "published_at": "2026-10-17T14:10:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "FDIS: Consumer Discretionary Sector Dashboard For October",
-      "tags": []
-    },
-    {
-      "id": "b94b1c20897b",
-      "title": "TQQQ: The Tech Selloff Is Not Yet A Bear Market, But Leverage Requires Discipline",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4954992-tqqq-the-tech-selloff-is-not-yet-a-bear-market-but-leverage-requires-discipline?source=feed_all_articles",
-      "published_at": "2026-10-17T14:04:47+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "TQQQ: The Tech Selloff Is Not Yet A Bear Market, But Leverage Requires Discipline",
       "tags": []
     }
   ]
