@@ -1,9 +1,190 @@
 {
-  "generated_at": "2026-10-16T05:39:05Z",
-  "snapshot_date": "2026-10-16",
+  "generated_at": "2026-10-17T05:36:40Z",
+  "snapshot_date": "2026-10-17",
   "source": "financenews",
   "count": 30,
   "articles": [
+    {
+      "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
+      "url": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-10-16T21:59:00+00:00",
+      "summary": "The software and semiconductor sectors haven’t been trading in tandem much this year, but they collectively fell Friday as AI and interest-rate fears hit the market.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.5332,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
+      "url": "https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-10-16T21:35:00+00:00",
+      "summary": "Anthropic and New York City’s comptroller have opened a line of communication to discuss “existential risks” posed by AI and what that could mean for the company’s future stock.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.1779,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "New SEC rules would fleece everyday investors to enrich Wall Street",
+      "url": "https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-10-16T21:21:00+00:00",
+      "summary": "New proposals from the Securities and Exchange Commission will tilt the scales in favor of Wall Street and against a huge group of retail investors.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7351,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Don’t buy this dip: Several signs suggest there’s more pain ahead for tech stocks",
+      "url": "https://www.marketwatch.com/story/dont-buy-this-dip-several-signs-suggest-theres-more-pain-ahead-for-tech-stocks-83f971d7?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-10-16T20:58:00+00:00",
+      "summary": "Thinking of buying the dip in technology stocks? The Nasdaq Composite’s technical outlook suggests don’t do it — at least not yet.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.5563,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
+      "url": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-10-16T19:45:00+00:00",
+      "summary": "The 3.6% COLA for 2027 is aimed at helping more than 68 million beneficiaries keep pace with the cost of living",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7506,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
+      "url": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-10-16T16:46:18+00:00",
+      "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.2023,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Extreme heatwaves in Europe not changing Britons’ holiday plans, say travel bosses",
+      "url": "https://www.theguardian.com/business/2026/oct/16/extreme-heatwaves-in-europe-not-changing-brits-holiday-plans-say-travel-bosses",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-16T16:16:25+00:00",
+      "summary": "<p>Hot summer getaways are still popular – but tourism industry fears impact of rising jet fuel costs and squeezed household incomes</p><p>After a year marked by extreme heat and war sending fuel prices skywards, British travel executives hoped for solace in Madeira’s benign subtropical climate, separated by hundreds of miles of blue sea from the overtourism protests and six-hour EU-entry queues seen on the Portuguese mainland.</p><p>As bosses admitted, holidays will be ever less affordable, AI is coming for their jobs, and the visitable world is shrinking – not least those parts where tourists remain welcome.</p> <a href=\"https://www.theguardian.com/business/2026/oct/16/extreme-heatwaves-in-europe-not-changing-brits-holiday-plans-say-travel-bosses\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.2902,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "IMF suggests UK should cut spending rather than raise taxes on banks, as Healey prepares budget raid – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/oct/16/john-healey-set-to-raise-bank-taxes-shares-profits-stock-markets-imf-latest-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-16T15:42:59+00:00",
+      "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget\"><strong>John Healey poised to raise taxes on banks in budget</strong></a></p></li></ul><p><br /></p><p>Elsewhere in the markets today, South Korea’s <strong>Kospi</strong> share index has recorded its biggest weekly loss since October 2008, down 14.5% this week.</p><p>Although the <strong>Kospi</strong> did rise today (+2%), it was still a bad week for technology stocks – as investors worried about the borrowing, spending commitments and future profitability of AI companies.</p><p>The reality is that while companies embraced AI aggressively as it first emerged, now they are figuring out how to use it effectively while keeping AI costs under control. A slowing, more careful, path towards corporate adoption has been missed by the market which remained wildly frothy about valuations.</p><p>“A UK bank tax risk is now a base case. If it is confirmed on 28 October, it’ll be the size and timing that will be key.</p><p>If Healey does go ahead, shares of Lloyds and NatWest, which are almost entirely exposed to the UK, would likely be impacted most, and you are seeing this already in the share price reaction today. Barclays is partly exposed. HSBC is least exposed in the mix.”</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/16/john-healey-set-to-raise-bank-taxes-shares-profits-stock-markets-imf-latest-news-updates\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.2039,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Target pensions or welfare, not banks, IMF tells John Healey",
+      "url": "https://www.theguardian.com/business/2026/oct/16/target-pensions-or-welfare-not-banks-imf-tells-john-healey",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-16T15:33:29+00:00",
+      "summary": "<p>Supporters of planned tax, however, say banks were bailed out by taxpayers during financial crisis and can afford to pay more now</p><ul><li><p><a href=\"https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget\">John Healey poised to raise taxes on banks in budget</a></p></li></ul><p>The International Monetary Fund has urged John Healey to target savings on pensions and welfare, instead of taxing Britain’s banks at the budget later this month.</p><p>Helge Berger, deputy director of the IMF’s European department, was asked about bank taxes after the <a href=\"https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget\">Guardian revealed Healey plans to tap the sector</a> for additional revenue.</p> <a href=\"https://www.theguardian.com/business/2026/oct/16/target-pensions-or-welfare-not-banks-imf-tells-john-healey\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.5423,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "For restaurants Covid-19 was a crisis – pandemic loans are proving a disaster",
+      "url": "https://www.theguardian.com/environment/2026/oct/16/restaurant-pandemic-loans",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-16T13:00:11+00:00",
+      "summary": "<p>Low-interest loans kept many eateries afloat. But the industry never recovered enough for them to repay the debt</p><p>For almost 20 years, Jai Mazumdar has served vegetarian curries, samosas, gulab jamun and other Indian delicacies at Spice N Curry, a cafe and grocery nestled inside a modest strip mall near Florida International University (FIU) in Miami. When the Covid-19 pandemic devastated his business, as it did with so many restaurants, Mazumdar took out a $370,000 economic injury disaster loan (EIDL) from the federal government in early 2021.</p><p>At the time, it provided a desperately needed lifeline. He was confident that once business returned to normal he could begin repaying the 30-year loan, which came with a low 3.75% interest rate and a 30-month deferment period. But when his business didn’t recover, the disaster loan turned out to be a disaster of its own.</p> <a href=\"https://www.theguardian.com/environment/2026/oct/16/restaurant-pandemic-loans\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.9849,
+      "tags": [
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Repairing Brexit economic damage should be Burnham’s top priority, business chief says",
+      "url": "https://www.theguardian.com/business/2026/oct/16/brexit-economic-damage-andy-burnham-uk-business-eu-trading-relationship",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-16T05:00:51+00:00",
+      "summary": "<p>Shevaun Haviland argues PM is right to revisit Labour’s EU red lines as current trading relationship is bad for business</p><p>Repairing the economic damage of Brexit should be the top priority for Andy Burnham as he reconsiders Labour’s red lines on EU membership, the head of one of Britain’s leading business groups has said.</p><p>Shevaun Haviland, the director general of the British Chambers of Commerce (BCC), said she welcomed the prime minister <a href=\"https://www.theguardian.com/politics/2026/sep/30/andy-burnham-uk-could-go-all-the-way-rejoining-eu\">reopening the Brexit battle lines</a> despite the uncertainty it could create, arguing that the UK’s current trading relationship with the EU was bad for business.</p> <a href=\"https://www.theguardian.com/business/2026/oct/16/brexit-economic-damage-andy-burnham-uk-business-eu-trading-relationship\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.9255,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "‘People’s dignity, and democracy, is at stake’: meet the economist ditching ideology for reality",
+      "url": "https://www.theguardian.com/business/2026/oct/16/isabella-weber-anti-fascist-economics",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-16T04:00:50+00:00",
+      "summary": "<p>Exclusive: Isabella Weber prescribes a common-sense solution to poverty, inequality and fascism – making life’s essentials affordable for all</p><p>The trouble with economists, Isabella Weber believes, is they do not behave like dentists. They obsess over ideological purity and are inflexible when searching for solutions, regardless of society’s symptoms. Dentists have no such pretensions – patients have little patience for dogma when in insufferable pain.</p><p>John Maynard Keynes, Weber clarifies in the canteen of the <em>Wissenschaftskolleg zu Berlin</em> (Berlin’s Institute for Advanced Study), was the first to draw this dental comparison – and she is running with it. As she sees it, the symptoms could not be more severe. “The status quo for the majority is entirely unbearable,” while extreme inequality and corporate concentration has reached levels “simply incompatible with democracy” worldwide. This is exacerbated by a climate crisis that “generates massive windfall profits” for big business as the “ecological foundations of our lives disintegrate”. All the while the far right is making hay.</p> <a href=\"https://www.theguardian.com/business/2026/oct/16/isabella-weber-anti-fascist-economics\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.6135,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
     {
       "title": "People in China are spending nearly as much of their income as Americans on healthcare",
       "url": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
@@ -13,113 +194,6 @@
       "sentiment": "bullish",
       "sentiment_score": 0.6597,
       "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-15T22:31:00+00:00",
-      "summary": "”I earn $110,000 a year.”",
-      "sentiment": "bearish",
-      "sentiment_score": -0.5106,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
-      "url": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-15T21:56:00+00:00",
-      "summary": "Popular AI names are under pressure again this week — but the pain could worsen after the Nov. 3 election.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.8873,
-      "tags": [
-        "Election",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
-      "url": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-15T21:23:00+00:00",
-      "summary": "Reported details about Anthropic’s financial progress are adding to concerns about the health of the AI ecosystem.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.296,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Don’t ditch tech stocks just yet. Make these moves to take advantage of the latest AI reset.",
-      "url": "https://www.marketwatch.com/story/dont-ditch-tech-stocks-just-yet-make-these-moves-to-take-advantage-of-the-latest-ai-reset-cb70c7b2?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-15T21:21:00+00:00",
-      "summary": "Investors have a ‘love-hate relationship’ with tech stocks now — and experts recommend selectively hunting for bargains while also betting on the major cloud companies.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5423,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "CoreWeave’s polarizing stock rebounds as Wall Street squares off about AI spending",
-      "url": "https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-15T21:03:00+00:00",
-      "summary": "Wall Street’s views on CoreWeave are starkly divisive as investors pay more attention to the financial details of big artificial-intelligence companies.",
-      "sentiment": "neutral",
-      "sentiment_score": -0.1027,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Investors are dumping AI stocks as ‘tech wreck’ worsens. Here’s where they’re turning now.",
-      "url": "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-15T20:40:00+00:00",
-      "summary": "A continued selloff in the AI trade is forcing investors to move from tech names to the relative safety of government bonds and defensive stock sectors.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.3612,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "This one governor’s race could derail the AI trade that’s powered the stock market",
-      "url": "https://www.marketwatch.com/story/this-one-governors-race-could-derail-the-ai-trade-thats-powered-the-stock-market-6bbf06f8?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-15T19:00:00+00:00",
-      "summary": "Here’s the Nov. 3 contest that “presents the biggest election-specific risk,” analysts say.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.296,
-      "tags": [
-        "Election",
         "AI"
       ],
       "signal": "watch",
@@ -331,84 +405,6 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Closer EU trade ties greater prize for UK than making separate deals, minister says",
-      "url": "https://www.theguardian.com/politics/2026/oct/14/closer-eu-trade-ties-uk-europe-douglas-alexander",
-      "source": "The Guardian Economics",
-      "published_at": "2026-10-14T13:58:39+00:00",
-      "summary": "<p>Exclusive: Douglas Alexander, on trade delegation to India, talks up economic benefits of joint trading arrangements with Europe</p><p>Britain will benefit from much closer trading relations with the EU even if that means giving up its ability to negotiate free trade agreements, the Scotland secretary has said.</p><p>Douglas Alexander helped negotiate deals with India and the US when he was a trade minister under Keir Starmer.</p> <a href=\"https://www.theguardian.com/politics/2026/oct/14/closer-eu-trade-ties-uk-europe-douglas-alexander\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.9612,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Excluding UK from ‘Made in Europe’ law will hurt entire EU car industry, Mercedes boss warns",
-      "url": "https://www.theguardian.com/world/2026/oct/14/uk-made-in-europe-law-hurt-carmaking-eu-mercedes-benz-boss-ola-kallenius",
-      "source": "The Guardian Economics",
-      "published_at": "2026-10-14T13:57:03+00:00",
-      "summary": "<p>Ola Källenius says it will ‘weaken the industry on both sides’ ahead of act intended to counter non-EU competition </p><p>Locking the UK out of the EU’s flagship industrial “Made in Europe” legislation would amount to a “deliberate choice” by EU leaders to “hurt” the car industry across the bloc, the head of Mercedes-Benz has said.</p><p>Speaking in his capacity as president of the European Automobile Manufacturers’ Association (ACEA), Ola Källenius said such a move would “weaken the industry on both sides”.</p> <a href=\"https://www.theguardian.com/world/2026/oct/14/uk-made-in-europe-law-hurt-carmaking-eu-mercedes-benz-boss-ola-kallenius\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.5267,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "‘From liabilities to goldmines’: refineries eye record profits from diesel shortage",
-      "url": "https://www.theguardian.com/business/2026/oct/14/refineries-record-profits-diesel-shortage-fuel-crude-oil",
-      "source": "The Guardian Economics",
-      "published_at": "2026-10-14T12:26:27+00:00",
-      "summary": "<p>Firms turning crude oil into the ‘workhorse’ fuel stand to gain most despite economic fallout from record prices</p><p>Days after Donald Trump announced a <a href=\"https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine\">deal to import Russian diesel into the US</a> in an effort to lower soaring pump prices, the world’s energy watchdog has warned that the global fuel shortage will drag into 2027.</p><p>Trump’s temporary sanctions reprieve was criticised for offering “too little, too late” to temper the <a href=\"https://www.theguardian.com/us-news/2026/oct/03/diesel-prices-midwest-farmers\">sky high pump prices</a> triggered by the shutdown of war-damaged refineries in the Middle East and Russia – once the world’s second-largest diesel exporter behind the US.</p> <a href=\"https://www.theguardian.com/business/2026/oct/14/refineries-record-profits-diesel-shortage-fuel-crude-oil\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.872,
-      "tags": [
-        "Oil",
-        "Gold",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Bank of England and IMF bosses warn of cyber threat to trust in financial system",
-      "url": "https://www.theguardian.com/business/2026/oct/14/bank-of-england-imf-bosses-warning-cyber-threat-to-trust",
-      "source": "The Guardian Economics",
-      "published_at": "2026-10-14T09:07:59+00:00",
-      "summary": "<p>Kristalina Georgieva says online fraud could lead people to opt out of system and turn to ‘shoeboxes under their bed’</p><p>The heads of the Bank of England and the International Monetary Fund have issued a stark warning that rising cyber-attacks risk undermining trust in the financial system.</p><p>Speaking on a panel about online fraud at the IMF and World Bank meetings in Bangkok, the governor of the Bank of England, Andrew Bailey, pointed to alarming headlines about self-replicating AI agents <a href=\"https://www.theguardian.com/technology/2026/oct/13/anthropic-ai-replicators-warning\">hijacking personal devices</a>, and the French supermarket hack that <a href=\"https://www.theguardian.com/world/2026/oct/12/cyber-attack-defrosts-refrigerators-france-supermarket-chains-intermarche-cooperative-u\">heated fridges up to 50C</a>.</p> <a href=\"https://www.theguardian.com/business/2026/oct/14/bank-of-england-imf-bosses-warning-cyber-threat-to-trust\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9062,
-      "tags": [
-        "Mining",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Global financial system is failing developing countries, says Ed Miliband",
-      "url": "https://www.theguardian.com/politics/2026/oct/14/global-financial-system-is-failing-developing-countries-says-ed-miliband-world-bank",
-      "source": "The Guardian Economics",
-      "published_at": "2026-10-14T05:00:45+00:00",
-      "summary": "<p>UK foreign secretary will call for World Bank and others to help governments trapped by hefty borrowing costs</p><p>The foreign secretary, Ed Miliband, will claim the global financial system is failing developing countries, as he calls for a “new deal” for governments struggling under the burden of debt.</p><p>Promising to throw the UK’s diplomatic weight behind urgent reform, he will evoke the example of the Gleneagles summit under the last Labour government in 2005 – the culmination of the Make Poverty History campaign.</p> <a href=\"https://www.theguardian.com/politics/2026/oct/14/global-financial-system-is-failing-developing-countries-says-ed-miliband-world-bank\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9382,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
       "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
       "url": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
       "source": "CNBC Finance",
@@ -454,15 +450,15 @@
       "source_repo": "financenews"
     },
     {
-      "title": "The RBA keeps hiking interest rates – but are the rate rises actually working?",
-      "url": "https://www.theguardian.com/business/2026/oct/14/rba-keeps-hiking-interest-rates-but-are-rises-actually-working",
-      "source": "The Guardian Economics",
-      "published_at": "2026-10-13T14:00:05+00:00",
-      "summary": "<p>With the cash rate at a 15-year high, consumer confidence has tanked – while household spending is still growing</p><ul><li><p>Follow our <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/14/treasurer-jim-chalmers-labor-one-nation-pauline-hanson-one-nation-gas-reservation-scheme-ntwnfb\">Australian politics live blog</a> for latest updates</p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Interest rates have risen to 15-year highs and are pushing up mortgage default risks – but household spending is still growing.</p><p>Economists say the surprising result shows this year’s four rate hikes have not yet fully hit the economy and may be less effective at fighting inflation than they used to be. If true, that could mean more interest rate rises are on the way.</p> <a href=\"https://www.theguardian.com/business/2026/oct/14/rba-keeps-hiking-interest-rates-but-are-rises-actually-working\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.9516,
+      "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+      "url": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-10-13T02:58:11+00:00",
+      "summary": "The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.296,
       "tags": [
-        "Interest Rates",
+        "Fed",
         "AI"
       ],
       "signal": "watch",
