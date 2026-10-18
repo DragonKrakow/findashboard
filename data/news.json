@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-10-17T20:09:12.664418+00:00",
+  "generated_at": "2026-10-18T00:28:58.098632+00:00",
   "articles": [
+    {
+      "id": "971d600f0f4a",
+      "title": "Avalanche in Chile Kills Three Climbers Amid Rare Snowy Spring",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-17/avalanche-in-chile-kills-three-climbers-amid-rare-snowy-spring",
+      "published_at": "2026-10-17T22:09:20+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "An avalanche killed three climbers and injured four others Saturday afternoon near the Portillo ski resort in the Chilean Andes, northeast of the capital Santiago.",
+      "tags": []
+    },
+    {
+      "id": "1083f967868f",
+      "title": "Niger Halts Diesel, Petrol Exports to Protect Domestic Supply",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-17/niger-halts-diesel-petrol-exports-to-protect-domestic-supply",
+      "published_at": "2026-10-17T21:44:20+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Niger banned exports of diesel and premium petrol in a bid to address fuel supply challenges that the country has been facing in recent days, the ministry of trade and industry said in a statement on ",
+      "tags": []
+    },
     {
       "id": "246d36db26b1",
       "title": "Russia Sanctions Waived, AI Debt Concerns, Making 'GTA VI'",
@@ -15,7 +39,7 @@
     },
     {
       "id": "ec7d91935248",
-      "title": "India Frees ‘Cockroach’ Leader As Voter-List Row Simmers",
+      "title": "India Frees ‘Cockroach’ Leader as Voter-List Row Simmers",
       "source": "Bloomberg Markets",
       "url": "https://www.bloomberg.com/news/articles/2026-10-17/india-s-cockroach-protest-leader-faces-court-in-voter-list-row",
       "published_at": "2026-10-17T02:34:29+00:00",
@@ -98,30 +122,6 @@
       "tags": []
     },
     {
-      "id": "c01661548410",
-      "title": "By The Way: Headlines You May Have Missed",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-17/by-the-way-headlines-you-may-have-missed-video",
-      "published_at": "2026-10-17T12:51:57+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Tesla's Roadster, Zuckerberg vs pint of Guinness, retirees not spending for pleasure, and AI born false memories: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may h",
-      "tags": []
-    },
-    {
-      "id": "067245b569a9",
-      "title": "Global Aid Cuts Deepen Humanitarian Strain",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-17/global-aid-cuts-deepen-humanitarian-strain-video",
-      "published_at": "2026-10-17T12:44:18+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "International Rescue Committee President and CEO David Miliband tells Bloomberg This Weekend that cuts in US and European aid are weakening the humanitarian response as conflicts and other crises inte",
-      "tags": []
-    },
-    {
       "id": "2c9d8c1c16dd",
       "title": "Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’",
       "source": "International homepage",
@@ -182,6 +182,18 @@
       "tags": []
     },
     {
+      "id": "c8a0715fefed",
+      "title": "Protests across France spiral into riots and looting",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/bcb6c27a-f082-4867-ade4-ae6eb757b780?syn-25a6b1a6=1",
+      "published_at": "2026-10-17T22:49:57+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Violence erupts in several cities after mass demonstrations over high living costs and dissatisfaction with the education system",
+      "tags": []
+    },
+    {
       "id": "8980aa2ffe1f",
       "title": "Anthropic offers Blackstone double-digit yield in latest chip financing",
       "source": "International homepage",
@@ -206,30 +218,6 @@
       "tags": []
     },
     {
-      "id": "03314e9dd427",
-      "title": "‘Inflation will make people poor’: Airlines brace for years of pain",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/993940f2-c9a3-4e20-8c0a-f73d448f090d?syn-25a6b1a6=1",
-      "published_at": "2026-10-17T04:00:11+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Carriers fear customers may be unwilling to stomach more price rises if energy costs stoke further inflation",
-      "tags": []
-    },
-    {
-      "id": "f12a8de3bf12",
-      "title": "Rich make millions by flipping private jets",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/35db7c20-ba9f-4ceb-ba14-5c62ce316028?syn-25a6b1a6=1",
-      "published_at": "2026-10-16T20:00:07+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Strong demand for private air travel combined with production delays boosts prices",
-      "tags": []
-    },
-    {
       "id": "ad757aa81b40",
       "title": "Israeli settlers attack European diplomats in the West Bank",
       "source": "International homepage",
@@ -239,6 +227,18 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Belgian foreign minister says his government will ‘press for EU sanctions against those responsible for this violence’",
+      "tags": []
+    },
+    {
+      "id": "81ddec1be4f4",
+      "title": "Houthis encircle new target in conflict with Saudi-backed forces",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/73329157-1277-42f5-802e-fc339415b5ce?syn-25a6b1a6=1",
+      "published_at": "2026-10-17T04:00:30+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Iran-backed rebels surround Taiz, one of Yemen’s largest cities, as conflict with Riyadh and its local allies escalates",
       "tags": []
     },
     {
@@ -482,6 +482,54 @@
       "tags": []
     },
     {
+      "id": "8d86ed89ad95",
+      "title": "PDS Biotechnology Corporation (PDSB) Discusses PDS-0301 Immunocytokine and Its Role in Treating Metastatic Colorectal Cancer - Slideshow",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4955005-pds-biotechnology-corporation-pdsb-discusses-pdsminus-0301-immunocytokine-and-its-role-in?source=feed_all_articles",
+      "published_at": "2026-10-17T23:04:51+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "PDS Biotechnology Corporation (PDSB) Discusses PDS-0301 Immunocytokine and Its Role in Treating Metastatic Colorectal Cancer - Slideshow",
+      "tags": []
+    },
+    {
+      "id": "7ac65492e425",
+      "title": "HDFC Bank Limited (HDB) Q2 2027 Earnings Call Transcript",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4954993-hdfc-bank-limited-hdb-q2-2027-earnings-call-transcript?source=feed_all_articles",
+      "published_at": "2026-10-17T20:34:39+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "HDFC Bank Limited (HDB) Q2 2027 Earnings Call Transcript",
+      "tags": []
+    },
+    {
+      "id": "2e901304e989",
+      "title": "HDFC Bank Limited 2027 Q2 - Results - Earnings Call Presentation",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4955004-hdfc-bank-limited-2027-q2-results-earnings-call-presentation?source=feed_all_articles",
+      "published_at": "2026-10-17T20:30:48+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "HDFC Bank Limited 2027 Q2 - Results - Earnings Call Presentation",
+      "tags": []
+    },
+    {
+      "id": "1639f729db21",
+      "title": "Axis Bank Limited (AXBKY) Q2 2027 Earnings Call Transcript",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4954999-axis-bank-limited-axbky-q2-2027-earnings-call-transcript?source=feed_all_articles",
+      "published_at": "2026-10-17T20:14:40+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Axis Bank Limited (AXBKY) Q2 2027 Earnings Call Transcript",
+      "tags": []
+    },
+    {
       "id": "448b43476db7",
       "title": "BOK Financial Corporation's Drop Opens A Door To An Upgrade",
       "source": "All Articles on Seeking Alpha",
@@ -551,54 +599,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "AeroVironment: The Crash Made It Fair, Not Cheap",
-      "tags": []
-    },
-    {
-      "id": "410a63c76aef",
-      "title": "EIDO: Indonesia Like Pakistan In 2008, With A Delisting Risk That Can't Be Ignored",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4954997-eido-indonesia-like-pakistan-in-2008-with-a-delisting-risk-that-cant-be-ignored?source=feed_all_articles",
-      "published_at": "2026-10-17T15:31:09+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "EIDO: Indonesia Like Pakistan In 2008, With A Delisting Risk That Can't Be Ignored",
-      "tags": []
-    },
-    {
-      "id": "7afc16ac43d7",
-      "title": "M&T Bank: Upside Case Remains Intact After Q3",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4954996-m-and-t-bank-upside-case-remains-intact-after-q3?source=feed_all_articles",
-      "published_at": "2026-10-17T15:14:52+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "M&T Bank: Upside Case Remains Intact After Q3",
-      "tags": []
-    },
-    {
-      "id": "68b08b002f31",
-      "title": "Meta, Tesla Headline Earnings In Busy Week For Markets",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4954881-meta-tesla-headline-earnings-in-busy-week-for-markets?source=feed_all_articles",
-      "published_at": "2026-10-17T15:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Meta, Tesla Headline Earnings In Busy Week For Markets",
-      "tags": []
-    },
-    {
-      "id": "1f470d117c61",
-      "title": "It's Y2K Again: Why Income Investments Win As The Fed Repeats A Dot-Com Error",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4954817-its-y2k-again-why-income-investments-win-as-the-fed-repeats-a-dot-com-error?source=feed_all_articles",
-      "published_at": "2026-10-17T14:30:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "It's Y2K Again: Why Income Investments Win As The Fed Repeats A Dot-Com Error",
       "tags": []
     }
   ]
