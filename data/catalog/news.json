@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-19T05:39:59Z",
-  "snapshot_date": "2026-10-19",
+  "generated_at": "2026-10-20T05:39:33Z",
+  "snapshot_date": "2026-10-20",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+      "url": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-18T16:15:00+00:00",
-      "summary": "”I earn $110,000 a year.”",
-      "sentiment": "bearish",
-      "sentiment_score": -0.5106,
+      "published_at": "2026-10-19T21:15:00+00:00",
+      "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
+      "sentiment": "bullish",
+      "sentiment_score": 0.2263,
       "tags": [
         "AI"
       ],
@@ -20,13 +20,76 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
-      "url": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
+      "title": "SpaceX earnings will be all about AI — for better or for worse",
+      "url": "https://www.marketwatch.com/story/spacex-earnings-will-be-all-about-ai-for-better-or-for-worse-89bbc772?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-18T13:00:00+00:00",
-      "summary": "The idea that the AI trade has been mostly immune to rising bond yields isn’t quite right, one strategist notes.",
+      "published_at": "2026-10-19T21:02:00+00:00",
+      "summary": "SpaceX has been renting out access to computing power, which is a big source of revenue growth but also one that comes at a high cost.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.1779,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Why the midterm elections are likely to become a strong tailwind for the stock market",
+      "url": "https://www.marketwatch.com/story/why-the-midterm-elections-are-likely-to-become-a-strong-tailwind-for-the-stock-market-3edfca6c?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-10-19T21:00:00+00:00",
+      "summary": "The six months subsequent to midterm elections have seen strong gains, historically",
       "sentiment": "bullish",
-      "sentiment_score": 0.6369,
+      "sentiment_score": 0.8402,
+      "tags": [
+        "Election",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Anthropic is AI trade's last big hope for a major IPO this year",
+      "url": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-10-19T16:42:14+00:00",
+      "summary": "On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0516,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
+      "url": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-10-19T12:34:01+00:00",
+      "summary": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.25,
+      "tags": [
+        "Defense",
+        "AI",
+        "Supply Chain"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "China’s economy grows faster than forecast after AI boom boosts exports",
+      "url": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-19T09:27:04+00:00",
+      "summary": "<p>Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demand</p><p>Roaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending.</p><p>China’s GDP grew by 4.5% year-on-year between July and September, the National Bureau of Statistics of China reported on Monday. The figures were better than economists had expected and up from the second quarter’s growth rate of 4.3%.</p> <a href=\"https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8779,
       "tags": [
         "AI"
       ],
@@ -95,21 +158,6 @@
       ],
       "signal": "watch",
       "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
-      "url": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-17T20:53:00+00:00",
-      "summary": "Tau Robotics’ humanoids vacuumed my floors and wiped my counters — with some help from humans behind the scenes.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.4019,
-      "tags": [
-        "Robotics"
-      ],
-      "signal": "watch",
-      "category": "markets",
       "source_repo": "financenews"
     },
     {
@@ -344,37 +392,6 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Bad news for Trump ahead of the midterms: it’s still the economy, stupid",
-      "url": "https://www.theguardian.com/business/2026/oct/15/trump-economy-midterm-elections",
-      "source": "The Guardian Economics",
-      "published_at": "2026-10-15T12:00:12+00:00",
-      "summary": "<p>Voters’ opposition to the state of Trump’s economy is well established – despite his desperate attempts to deflect</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/15/what-is-your-personal-recession-indicator\">Tell us: what is your personal ‘recession indicator’?</a></p></li></ul><p>It’s indisputable that the political polarization of our time has reduced (and confused) the influence of economic conditions on US elections.</p><p>In September of 2024, in the waning weeks of the Joe Biden presidency, 65% of Republicans believed the US economy was getting worse. About six months later, as Donald Trump launched a trade war on the rest of the world with his “liberation day” tariffs, the share of Republican pessimists had dropped to 33%.</p> <a href=\"https://www.theguardian.com/business/2026/oct/15/trump-economy-midterm-elections\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9088,
-      "tags": [
-        "Election",
-        "Trade War"
-      ],
-      "signal": "watch",
-      "category": "markets",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "John Healey vows to give ‘breathing space’ to consumers and businesses in first budget",
-      "url": "https://www.theguardian.com/politics/2026/oct/15/john-healey-first-budget-breathing-space-consumers-businesses-imf-living-costs",
-      "source": "The Guardian Economics",
-      "published_at": "2026-10-15T11:47:32+00:00",
-      "summary": "<p>Speaking at IMF meeting, chancellor says he will stick to fiscal rules while recognising business and living costs</p><p>John Healey has promised to use his first budget in a fortnight’s time to offer consumers and businesses a “breathing space” while sticking to Labour’s fiscal rules.</p><p>Speaking to journalists in Bangkok, where he has been attending the International Monetary Fund annual meetings, the chancellor said he was conscious of rising costs.</p> <a href=\"https://www.theguardian.com/politics/2026/oct/15/john-healey-first-budget-breathing-space-consumers-businesses-imf-living-costs\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3612,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
       "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
       "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
       "source": "CNBC Finance",
@@ -448,21 +465,6 @@
       ],
       "signal": "watch",
       "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
-      "url": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-10-13T01:26:41+00:00",
-      "summary": "Singapore is a bastion of safety amid global turmoil, according to the CEO of DBS.",
-      "sentiment": "neutral",
-      "sentiment_score": -0.1655,
-      "tags": [
-        "Oil"
-      ],
-      "signal": "watch",
-      "category": "energy",
       "source_repo": "financenews"
     }
   ]
