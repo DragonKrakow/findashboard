@@ -1,19 +1,18 @@
 {
-  "generated_at": "2026-10-22T05:39:50Z",
-  "snapshot_date": "2026-10-22",
+  "generated_at": "2026-10-23T05:39:28Z",
+  "snapshot_date": "2026-10-23",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Trump says data centers should generate their own electricity — but experts say only states can mandate that",
-      "url": "https://www.marketwatch.com/story/trump-says-data-centers-should-generate-their-own-electricity-but-experts-say-only-states-can-mandate-that-415dcaad?mod=mw_rss_topstories",
+      "title": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
+      "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-21T21:31:00+00:00",
-      "summary": "The president’s statement comes as a voter backlash against the facilities intensifies ahead of the midterm elections.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
+      "published_at": "2026-10-22T23:15:00+00:00",
+      "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
+      "sentiment": "bearish",
+      "sentiment_score": -0.4767,
       "tags": [
-        "Election",
         "AI"
       ],
       "signal": "watch",
@@ -21,13 +20,73 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
-      "url": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
+      "title": "The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash",
+      "url": "https://www.marketwatch.com/story/the-u-s-stock-market-is-fracturing-into-two-camps-and-its-leaving-investors-with-a-brutal-case-of-whiplash-e8580a99?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-21T21:14:00+00:00",
-      "summary": "Oil flows out of the Persian Gulf in October nearly returned to levels seen before the start of the Iran war, but traders remain wary about a fragile recovery.",
+      "published_at": "2026-10-22T22:17:00+00:00",
+      "summary": "The artificial-intelligence trade is on the ropes. CNN’s “Fear & Greed” index is screaming fear, and the yield on the 10-year Treasury note just clinched its biggest daily drop since the collapse of Silicon Valley Bank.",
       "sentiment": "bearish",
-      "sentiment_score": -0.4854,
+      "sentiment_score": -0.9246,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "3 big reasons Micron and other chip stocks fell hard on Thursday",
+      "url": "https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-10-22T21:19:00+00:00",
+      "summary": "Investors are spooked by Tesla’s lower spending target, Lam Research’s weaker-than-expected forecast and a fresh reminder that the AI boom relies on outside funding.",
+      "sentiment": "neutral",
+      "sentiment_score": -0.0772,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze",
+      "url": "https://www.marketwatch.com/story/oil-prices-approach-iran-war-highs-as-soaring-tanker-rates-trigger-a-second-energy-squeeze-2d726982?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-10-22T20:46:00+00:00",
+      "summary": "Wall Street may be starting to price in the scenario everyone fears: a full-scale regional conflict that could further choke off global energy supplies and unleash a fresh wave of turmoil across financial markets.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.6808,
+      "tags": [
+        "Oil"
+      ],
+      "signal": "watch",
+      "category": "energy",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Is getting a wedding band from Quince a bad idea? It’s a third of the price of a local jeweler.",
+      "url": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-10-22T19:25:00+00:00",
+      "summary": "“I am slightly anxious about purchasing something so big” from an online retailer known for cut-price duplicates of popular clothes and accessories.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.3415,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "‘No indications’ PHP code flaw has led to government systems being hacked, cyber security official says – as it happened",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-22T16:16:40+00:00",
+      "summary": "<p>Some 32 government services are offline while work is carried out to address potential cybersecurity issues, a minister has said</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/oct/22/tell-us-small-business-have-you-been-affected-by-the-php-code-flaw\">Tell us: have you been affected by the PHP code flaw?</a></p></li></ul><p>The <strong>Office for National Statistics</strong> has also published <a href=\"https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/genderpaygapintheuk/2026\">a report on the gender pay gap</a>. It says:</p><p>The gender pay gap for full-time employees has continued to decline in the UK. It was 6.8% in April 2026, down from 7.2% in April 2025. This compares with 9.4% a decade ago and 16.4% 25 years ago.</p><p>Secondly, I asked <strong>Healey</strong> whether he sees the banks as making excessive profits, which would be the coherent justification for him to increase the surcharge on bank profits – as he is expected to do in the Budget next week.</p><p>He said: “You know the banks are the engine of investment in this country. The banks are doing well at the moment and that is good to see.</p> <a href=\"https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.836,
       "tags": [
         "Oil",
         "AI"
@@ -37,18 +96,35 @@
       "source_repo": "financenews"
     },
     {
-      "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
-      "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-21T20:31:00+00:00",
-      "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
-      "sentiment": "bullish",
-      "sentiment_score": 0.296,
+      "title": "Too little, too late: Trump takes on gas prices as fuel costs hamper his midterm hopes",
+      "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-high-gas-prices-midterms-cycle",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-22T11:00:40+00:00",
+      "summary": "<p>Polls show US voters are deeply upset by high gas prices and are likely to punish Republicans in the midterms as a result</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/oct/21/immigration-ice-mass-deportation-trump-midterm-elections\">How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your questions</a></p></li></ul><p>With fewer than two weeks until the <a href=\"https://www.theguardian.com/us-news/us-midterm-elections-2026\">midterm</a>s, US voters are unlikely to see relief on one of this election cycle’s main issues: gas prices.</p><p>Airing up her car’s tires at a Speedway in Perrysburg, <a href=\"https://www.theguardian.com/us-news/ohio\">Ohio</a>, Toledo resident Sharie Smith, 41, says soaring costs are having a direct impact on her life.</p> <a href=\"https://www.theguardian.com/us-news/2026/oct/22/trump-high-gas-prices-midterms-cycle\">Continue reading...</a>",
+      "sentiment": "neutral",
+      "sentiment_score": -0.101,
       "tags": [
+        "Election",
         "AI"
       ],
       "signal": "watch",
       "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "French borrowing costs overtake US amid budget turmoil",
+      "url": "https://www.theguardian.com/world/2026/oct/22/french-borrowing-costs-overtake-us-amid-budget-turmoil",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-22T08:40:36+00:00",
+      "summary": "<p>France’s bond market hit by another bout of selling as country recovers from weekend protests</p><p>French borrowing costs continued to rise on Thursday, as investors fret that France’s government is struggling to pass a federal budget after public protests gripped the country.</p><p>France’s bond market was hit with another bout of selling, with the difference between French and German 10-year borrowing costs – a metric for the risk premium attached to French debt – rising to its highest level in almost 15 years.</p> <a href=\"https://www.theguardian.com/world/2026/oct/22/french-borrowing-costs-overtake-us-amid-budget-turmoil\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.8689,
+      "tags": [
+        "Fed",
+        "Oil"
+      ],
+      "signal": "watch",
+      "category": "energy",
       "source_repo": "financenews"
     },
     {
@@ -382,82 +458,6 @@
       "summary": "<p>Supporters of planned tax, however, say banks were bailed out by taxpayers during financial crisis and can afford to pay more now</p><ul><li><p><a href=\"https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget\">John Healey poised to raise taxes on banks in budget</a></p></li></ul><p>The International Monetary Fund has urged John Healey to target savings on pensions and welfare, instead of taxing Britain’s banks at the budget later this month.</p><p>Helge Berger, deputy director of the IMF’s European department, was asked about bank taxes after the <a href=\"https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget\">Guardian revealed Healey plans to tap the sector</a> for additional revenue.</p> <a href=\"https://www.theguardian.com/business/2026/oct/16/target-pensions-or-welfare-not-banks-imf-tells-john-healey\">Continue reading...</a>",
       "sentiment": "bearish",
       "sentiment_score": -0.5423,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "For restaurants Covid-19 was a crisis – pandemic loans are proving a disaster",
-      "url": "https://www.theguardian.com/environment/2026/oct/16/restaurant-pandemic-loans",
-      "source": "The Guardian Economics",
-      "published_at": "2026-10-16T13:00:11+00:00",
-      "summary": "<p>Low-interest loans kept many eateries afloat. But the industry never recovered enough for them to repay the debt</p><p>For almost 20 years, Jai Mazumdar has served vegetarian curries, samosas, gulab jamun and other Indian delicacies at Spice N Curry, a cafe and grocery nestled inside a modest strip mall near Florida International University (FIU) in Miami. When the Covid-19 pandemic devastated his business, as it did with so many restaurants, Mazumdar took out a $370,000 economic injury disaster loan (EIDL) from the federal government in early 2021.</p><p>At the time, it provided a desperately needed lifeline. He was confident that once business returned to normal he could begin repaying the 30-year loan, which came with a low 3.75% interest rate and a 30-month deferment period. But when his business didn’t recover, the disaster loan turned out to be a disaster of its own.</p> <a href=\"https://www.theguardian.com/environment/2026/oct/16/restaurant-pandemic-loans\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9849,
-      "tags": [
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Repairing Brexit economic damage should be Burnham’s top priority, business chief says",
-      "url": "https://www.theguardian.com/business/2026/oct/16/brexit-economic-damage-andy-burnham-uk-business-eu-trading-relationship",
-      "source": "The Guardian Economics",
-      "published_at": "2026-10-16T05:00:51+00:00",
-      "summary": "<p>Shevaun Haviland argues PM is right to revisit Labour’s EU red lines as current trading relationship is bad for business</p><p>Repairing the economic damage of Brexit should be the top priority for Andy Burnham as he reconsiders Labour’s red lines on EU membership, the head of one of Britain’s leading business groups has said.</p><p>Shevaun Haviland, the director general of the British Chambers of Commerce (BCC), said she welcomed the prime minister <a href=\"https://www.theguardian.com/politics/2026/sep/30/andy-burnham-uk-could-go-all-the-way-rejoining-eu\">reopening the Brexit battle lines</a> despite the uncertainty it could create, arguing that the UK’s current trading relationship with the EU was bad for business.</p> <a href=\"https://www.theguardian.com/business/2026/oct/16/brexit-economic-damage-andy-burnham-uk-business-eu-trading-relationship\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9255,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "‘People’s dignity, and democracy, is at stake’: meet the economist ditching ideology for reality",
-      "url": "https://www.theguardian.com/business/2026/oct/16/isabella-weber-anti-fascist-economics",
-      "source": "The Guardian Economics",
-      "published_at": "2026-10-16T04:00:50+00:00",
-      "summary": "<p>Exclusive: Isabella Weber prescribes a common-sense solution to poverty, inequality and fascism – making life’s essentials affordable for all</p><p>The trouble with economists, Isabella Weber believes, is they do not behave like dentists. They obsess over ideological purity and are inflexible when searching for solutions, regardless of society’s symptoms. Dentists have no such pretensions – patients have little patience for dogma when in insufferable pain.</p><p>John Maynard Keynes, Weber clarifies in the canteen of the <em>Wissenschaftskolleg zu Berlin</em> (Berlin’s Institute for Advanced Study), was the first to draw this dental comparison – and she is running with it. As she sees it, the symptoms could not be more severe. “The status quo for the majority is entirely unbearable,” while extreme inequality and corporate concentration has reached levels “simply incompatible with democracy” worldwide. This is exacerbated by a climate crisis that “generates massive windfall profits” for big business as the “ecological foundations of our lives disintegrate”. All the while the far right is making hay.</p> <a href=\"https://www.theguardian.com/business/2026/oct/16/isabella-weber-anti-fascist-economics\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.6135,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "People in China are spending nearly as much of their income as Americans on healthcare",
-      "url": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-10-15T23:00:01+00:00",
-      "summary": "Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6597,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-      "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-10-14T20:06:28+00:00",
-      "summary": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.",
-      "sentiment": "neutral",
-      "sentiment_score": -0.1531,
       "tags": [
         "AI"
       ],
