@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-23T05:39:28Z",
-  "snapshot_date": "2026-10-23",
+  "generated_at": "2026-10-24T05:38:14Z",
+  "snapshot_date": "2026-10-24",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
-      "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+      "title": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
+      "url": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-22T23:15:00+00:00",
-      "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
-      "sentiment": "bearish",
-      "sentiment_score": -0.4767,
+      "published_at": "2026-10-23T22:00:00+00:00",
+      "summary": "If market pressures keep building, Anthropic “could reasonably decide it is better to stay private and wait for a better opportunity,” one portfolio manager says.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5423,
       "tags": [
         "AI"
       ],
@@ -20,28 +20,28 @@
       "source_repo": "financenews"
     },
     {
-      "title": "The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash",
-      "url": "https://www.marketwatch.com/story/the-u-s-stock-market-is-fracturing-into-two-camps-and-its-leaving-investors-with-a-brutal-case-of-whiplash-e8580a99?mod=mw_rss_topstories",
+      "title": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out.",
+      "url": "https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-22T22:17:00+00:00",
-      "summary": "The artificial-intelligence trade is on the ropes. CNN’s “Fear & Greed” index is screaming fear, and the yield on the 10-year Treasury note just clinched its biggest daily drop since the collapse of Silicon Valley Bank.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9246,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "3 big reasons Micron and other chip stocks fell hard on Thursday",
-      "url": "https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-22T21:19:00+00:00",
-      "summary": "Investors are spooked by Tesla’s lower spending target, Lam Research’s weaker-than-expected forecast and a fresh reminder that the AI boom relies on outside funding.",
+      "published_at": "2026-10-23T21:46:00+00:00",
+      "summary": "Traders making bullish bets on chip stocks are getting walloped this month, as renewed fears emerged about investment returns on the buildout of artificial intelligence.",
       "sentiment": "neutral",
-      "sentiment_score": -0.0772,
+      "sentiment_score": 0.0772,
+      "tags": [
+        "Artificial Intelligence"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
+      "url": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-10-23T21:13:00+00:00",
+      "summary": "A company beating earnings expectations by 36% and revenue expectations by 15% would usually see a postresults bump. But not for Bloom Energy, the fuel-cell maker that has flourished due to data-center demand.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.6087,
       "tags": [
         "AI"
       ],
@@ -50,14 +50,60 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze",
-      "url": "https://www.marketwatch.com/story/oil-prices-approach-iran-war-highs-as-soaring-tanker-rates-trigger-a-second-energy-squeeze-2d726982?mod=mw_rss_topstories",
+      "title": "The mobile ambitions of SpaceX are hitting telecom stocks again. Here’s what the latest developments mean.",
+      "url": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-22T20:46:00+00:00",
-      "summary": "Wall Street may be starting to price in the scenario everyone fears: a full-scale regional conflict that could further choke off global energy supplies and unleash a fresh wave of turmoil across financial markets.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.6808,
+      "published_at": "2026-10-23T21:11:00+00:00",
+      "summary": "Reports of Starlink’s discussions with cell-tower owners were noticed by shareholders of Verizon, AT&amp;T and T-Mobile.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
       "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "The real test for Moderna’s cancer vaccine isn’t about beating Keytruda. It’s keeping cancer from coming back in the long term.",
+      "url": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-10-23T21:06:00+00:00",
+      "summary": "The first Phase 3 data for a cancer vaccine has raised questions about whether the potential new treatment is needed.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.9531,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Some Republicans are opposing Trump on tariffs. Maine’s Susan Collins just got him to back down on Canadian levies.",
+      "url": "https://www.marketwatch.com/story/some-republicans-are-opposing-trump-on-tariffs-maines-susan-collins-just-got-him-to-back-down-on-canadian-levies-02b202ae?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-10-23T20:50:00+00:00",
+      "summary": "As she faces a tough midterm race, the five-term GOP senator is touting her successful lobbying effort against certain tariffs on Canada",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5267,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Oil markets are on edge ahead of the weekend, as midterm elections near and fresh U.S. strikes on Iran are predicted",
+      "url": "https://www.marketwatch.com/story/oil-markets-are-on-edge-ahead-of-the-weekend-as-midterm-elections-near-and-fresh-u-s-strikes-on-iran-are-predicted-8c27e634?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-10-23T20:19:00+00:00",
+      "summary": "Oil has climbed back to an Iran-war high and may soon go higher, if the U.S. and Israel strike Iran after their respective voters go to the polls in the coming days.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.2732,
+      "tags": [
+        "Election",
         "Oil"
       ],
       "signal": "watch",
@@ -65,13 +111,28 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Is getting a wedding band from Quince a bad idea? It’s a third of the price of a local jeweler.",
-      "url": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-22T19:25:00+00:00",
-      "summary": "“I am slightly anxious about purchasing something so big” from an online retailer known for cut-price duplicates of popular clothes and accessories.",
+      "title": "Is a job guarantee the solution to mass AI unemployment?",
+      "url": "https://www.theguardian.com/technology/2026/oct/23/job-guarantee-ai-mass-unemployment",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-23T10:00:30+00:00",
+      "summary": "<p>An old idea springs anew as a chorus of influential voices predicts that AI may trigger crises of vast magnitude</p><p>In a preface to his book Capitalism and Freedom, the American economist Milton Friedman famously observed that a crisis can propel once-fringe ideas into the political mainstream.</p><p>“Only a crisis – actual or perceived – produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around,” he wrote. The job of intellectuals, thinktanks and economists, he argued, is to refine the quality of these ambient ideas, so that good ones are ready when disaster strikes.</p> <a href=\"https://www.theguardian.com/technology/2026/oct/23/job-guarantee-ai-mass-unemployment\">Continue reading...</a>",
       "sentiment": "bearish",
-      "sentiment_score": -0.3415,
+      "sentiment_score": -0.8187,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "UK consumer confidence falls at fastest rate since Brexit vote as cost of living bites",
+      "url": "https://www.theguardian.com/business/2026/oct/23/uk-consumer-confidence-falls-fastest-since-covid-cost-of-living",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-23T07:25:57+00:00",
+      "summary": "<p>Economic fallout from war in Middle East adds to pressures on consumers and on chancellor before budget</p><p>Consumer confidence in the UK has fallen at the fastest rate outside the Covid pandemic since the 2016 Brexit vote as the escalating economic damage from the war in the Middle East hits Britain.</p><p>With less than a week before John Healey’s first budget, the latest barometer from the data company GfK indicated confidence plunged by 11 percentage points in October to -24 amid pressure on consumers from the rising cost of living.</p> <a href=\"https://www.theguardian.com/business/2026/oct/23/uk-consumer-confidence-falls-fastest-since-covid-cost-of-living\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.7964,
       "tags": [
         "AI"
       ],
@@ -398,66 +459,6 @@
       "summary": "<p>For more than three decades, Michael Gove has been a leading figure in British Conservatism. As a journalist, government minister and now editor of the Tory bible, the Spectator, he has helped shape the right even as it has moved further rightwards. In the latest episode of Radical Thinking, Gove joins Aditya Chakrabortty to discuss the future of the right, his record on Brexit and austerity, and the Spectator’s position on Islam</p><p>Watch the full episode with Michael Gove <a href=\"https://youtu.be/cIGXagkUFr8\">here</a>.\n <br />\n <br />\n Aditya’s suggested reading:</p><p>To read the fruits of Michael Gove’s dalliance with the Marxism Today gang, look up his essay in a 1998 collection called The Moderniser’s Dilemma: Radical Politics in the Age of Blair</p><p>For slalom ride through Michael Gove’s years in power, read <a href=\"https://www.lrb.co.uk/the-paper/v41/n17/richard-j.-evans/the-demented-dalek\">The Demented Dalek</a> by the historian Richard J Evans in the London Review of Books</p><p>To learn more on what’s become of the British right, there’s a <a href=\"https://www.theguardian.com/commentisfree/2024/sep/12/tory-leadership-jenrick-tugendhat-cleverly-badenoch\">column by me </a>for the Guardian</p><p>Just why the most successful political party is now failing is analysed in-depth by Phil Burton-Cartledge in his book <a href=\"https://guardianbookshop.com/the-partys-over-9781839760372/\">The Party’s Over: The Rise and Fall of the Conservatives from Thatcher to Sunak</a></p><p>Phil also writes a very good blog on British politics, which keeps a close eye on how each party is trying to marshall a coalition of voters. <a href=\"https://averypublicsociologist.blogspot.com/2026/10/the-clear-blue-water-strategy.html\">Here</a> he is on Kemi Badenoch</p><p>Geoffrey Wheatcroft does an entertaining short narrative in <a href=\"https://guardianbookshop.com/bloody-panico-9781804295755/\">Bloody Panico!:</a></p><p><a href=\"https://guardianbookshop.com/bloody-panico-9781804295755/\">or, Whatever Happened to The Tory Party</a></p><p>For more on the economics of the Cameron years, <a href=\"https://foundationaleconomy.com/wp-content/uploads/2017/01/wp87.pdf\">this paper</a> is acute on how the Tories failed to move the UK away from being a country of renters towards a country of makers. Two of its authors will join us for a podcast later in the series.</p><p>And if you want to read how Brexit may have cost the UK 8% of GDP, there’s <a href=\"https://www.nber.org/papers/w34459?st_source=ai_overview\">this paper</a> based on data from the Bank of England</p><p>Finally, on the Spectator read Nesrine Malik’s recent column in The Guardian</p><p><a href=\"https://www.theguardian.com/commentisfree/2026/jul/20/islamophobia-spectator-britain-oldest-political-magazine\">Why has Britain’s oldest political magazine become such a rabid cheerleader for Islamophobia?</a></p> <a href=\"https://www.theguardian.com/politics/commentisfree/audio/2026/oct/17/austerity-is-inevitably-painful-how-michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty-podcast\">Continue reading...</a>",
       "sentiment": "bullish",
       "sentiment_score": 0.9118,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-      "url": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-10-16T16:46:18+00:00",
-      "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.2023,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Extreme heatwaves in Europe not changing Britons’ holiday plans, say travel bosses",
-      "url": "https://www.theguardian.com/business/2026/oct/16/extreme-heatwaves-in-europe-not-changing-brits-holiday-plans-say-travel-bosses",
-      "source": "The Guardian Economics",
-      "published_at": "2026-10-16T16:16:25+00:00",
-      "summary": "<p>Hot summer getaways are still popular – but tourism industry fears impact of rising jet fuel costs and squeezed household incomes</p><p>After a year marked by extreme heat and war sending fuel prices skywards, British travel executives hoped for solace in Madeira’s benign subtropical climate, separated by hundreds of miles of blue sea from the overtourism protests and six-hour EU-entry queues seen on the Portuguese mainland.</p><p>As bosses admitted, holidays will be ever less affordable, AI is coming for their jobs, and the visitable world is shrinking – not least those parts where tourists remain welcome.</p> <a href=\"https://www.theguardian.com/business/2026/oct/16/extreme-heatwaves-in-europe-not-changing-brits-holiday-plans-say-travel-bosses\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.2902,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "IMF suggests UK should cut spending rather than raise taxes on banks, as Healey prepares budget raid – as it happened",
-      "url": "https://www.theguardian.com/business/live/2026/oct/16/john-healey-set-to-raise-bank-taxes-shares-profits-stock-markets-imf-latest-news-updates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-10-16T15:42:59+00:00",
-      "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget\"><strong>John Healey poised to raise taxes on banks in budget</strong></a></p></li></ul><p><br /></p><p>Elsewhere in the markets today, South Korea’s <strong>Kospi</strong> share index has recorded its biggest weekly loss since October 2008, down 14.5% this week.</p><p>Although the <strong>Kospi</strong> did rise today (+2%), it was still a bad week for technology stocks – as investors worried about the borrowing, spending commitments and future profitability of AI companies.</p><p>The reality is that while companies embraced AI aggressively as it first emerged, now they are figuring out how to use it effectively while keeping AI costs under control. A slowing, more careful, path towards corporate adoption has been missed by the market which remained wildly frothy about valuations.</p><p>“A UK bank tax risk is now a base case. If it is confirmed on 28 October, it’ll be the size and timing that will be key.</p><p>If Healey does go ahead, shares of Lloyds and NatWest, which are almost entirely exposed to the UK, would likely be impacted most, and you are seeing this already in the share price reaction today. Barclays is partly exposed. HSBC is least exposed in the mix.”</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/16/john-healey-set-to-raise-bank-taxes-shares-profits-stock-markets-imf-latest-news-updates\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.2039,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Target pensions or welfare, not banks, IMF tells John Healey",
-      "url": "https://www.theguardian.com/business/2026/oct/16/target-pensions-or-welfare-not-banks-imf-tells-john-healey",
-      "source": "The Guardian Economics",
-      "published_at": "2026-10-16T15:33:29+00:00",
-      "summary": "<p>Supporters of planned tax, however, say banks were bailed out by taxpayers during financial crisis and can afford to pay more now</p><ul><li><p><a href=\"https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget\">John Healey poised to raise taxes on banks in budget</a></p></li></ul><p>The International Monetary Fund has urged John Healey to target savings on pensions and welfare, instead of taxing Britain’s banks at the budget later this month.</p><p>Helge Berger, deputy director of the IMF’s European department, was asked about bank taxes after the <a href=\"https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget\">Guardian revealed Healey plans to tap the sector</a> for additional revenue.</p> <a href=\"https://www.theguardian.com/business/2026/oct/16/target-pensions-or-welfare-not-banks-imf-tells-john-healey\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.5423,
       "tags": [
         "AI"
       ],
