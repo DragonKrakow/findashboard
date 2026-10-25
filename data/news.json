@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-10-25T00:28:27.744086+00:00",
+  "generated_at": "2026-10-25T04:11:03.826934+00:00",
   "articles": [
+    {
+      "id": "7be0f4ef4a47",
+      "title": "Brazil Election: Lula Rallies Supporters for One Last Comeback",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-25/brazil-election-lula-rallies-supporters-for-one-last-comeback",
+      "published_at": "2026-10-25T02:02:19+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Luiz Inácio Lula da Silva wasn’t going down without a fight. And his fans weren’t ready to give up on him. Here, marching down Sao Paulo’s most iconic avenue, they were bearing witness to what may tur",
+      "tags": []
+    },
+    {
+      "id": "42fcedab55d7",
+      "title": "Singapore Expands Haze Inquiries to 10 Locally Based Firms",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-24/singapore-expands-haze-investigation-to-10-locally-based-firms",
+      "published_at": "2026-10-24T03:20:42+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Singapore expanded its investigation into haze-creating fires in Indonesia that have blanketed the city-state in smog, requesting information from 10 locally registered companies.",
+      "tags": []
+    },
     {
       "id": "8459e42a61a8",
       "title": "Saudi Arabia Suggests Riyadh Airport May Reopen on Sunday",
@@ -98,42 +122,6 @@
       "tags": []
     },
     {
-      "id": "fdd2f30c3b0f",
-      "title": "Dalmore Said to Express Interest in Cinven-Owned UK Supplier JLA",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-24/dalmore-said-to-express-interest-in-cinven-owned-uk-supplier-jla",
-      "published_at": "2026-10-24T14:08:54+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Dalmore Capital is among parties that have expressed interest in acquiring UK commercial equipment supplier and services provider JLA Group from buyout firm Cinven, according to people with knowledge ",
-      "tags": []
-    },
-    {
-      "id": "371d4ada1303",
-      "title": "How This County Made the Data Center Boom Pay Off",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-24/how-this-county-made-the-data-center-boom-pay-off-video",
-      "published_at": "2026-10-24T14:03:23+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "AI is driving a wave of new data centers, but communities are increasingly asking what they get in return. Virginia’s Loudoun County turned the industry into a major tax base that helped fund schools,",
-      "tags": []
-    },
-    {
-      "id": "a9382a848351",
-      "title": "US executives quit $25bn gas venture over claims of secret Russian control",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b?syn-25a6b1a6=1",
-      "published_at": "2026-10-24T00:22:20+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Former CEO of Polar Train LNG tells FT that energy giant Novatek financed and held reins of strategic Alaska project without Washington’s approval",
-      "tags": []
-    },
-    {
       "id": "a7babf33fd33",
       "title": "France is looking ungovernable. And it’s going to get worse",
       "source": "International homepage",
@@ -146,6 +134,18 @@
       "tags": []
     },
     {
+      "id": "04554d760568",
+      "title": "Why 17 is not the magic number in industrial policy",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/3e405824-a44a-4cb7-bc80-acc5bc3b5b59?syn-25a6b1a6=1",
+      "published_at": "2026-10-25T01:00:09+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "A lack of focus threatens to hobble Japanese premier Sanae Takaichi’s growth strategy",
+      "tags": []
+    },
+    {
       "id": "2c8c0ead3aa9",
       "title": "Tucker Carlson: ‘I so overstated my power it was embarrassing’",
       "source": "International homepage",
@@ -155,18 +155,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Does Trump’s loudest critic still have his finger on America’s pulse?",
-      "tags": []
-    },
-    {
-      "id": "d5c09ac9e667",
-      "title": "The young are conformists in denial",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/70280c68-2ae0-4656-b013-281eb75a197a?syn-25a6b1a6=1",
-      "published_at": "2026-10-24T04:00:23+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The reassuringly bourgeois values behind a rebellious generation",
       "tags": []
     },
     {
@@ -194,39 +182,27 @@
       "tags": []
     },
     {
-      "id": "4766db4629d8",
-      "title": "Intelligence memo warns Iran is plotting to kill Americans in Middle East",
+      "id": "ec045cb0a47d",
+      "title": "SoftBank-backed drone maker wants every farmer to ‘have their own robot’",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/e2e82393-c7ca-4bc1-b270-022b3702d9e7?syn-25a6b1a6=1",
-      "published_at": "2026-10-24T15:09:52+00:00",
+      "url": "https://www.ft.com/content/9fe60016-1520-4bfd-bcfc-f30caa0b1600?syn-25a6b1a6=1",
+      "published_at": "2026-10-25T01:00:09+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Plans against US citizens have reached ‘advanced stages’ as tensions rise in region, according to document",
+      "summary": "Chinese start-up XAG believes pilotless crop sprayers are the answer to a dwindling workforce and rising temperatures",
       "tags": []
     },
     {
-      "id": "7111b366597a",
-      "title": "Israeli central bank rejects Netanyahu’s plan to use crypto to evade sanctions",
+      "id": "f3300260aa32",
+      "title": "Co-operate to avoid being hostage to geopolitics, Australia tells ‘middle powers’",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215?syn-25a6b1a6=1",
-      "published_at": "2026-10-24T19:19:48+00:00",
+      "url": "https://www.ft.com/content/653f5a48-94f5-4e92-86dd-7d118e8849a8?syn-25a6b1a6=1",
+      "published_at": "2026-10-25T01:00:09+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Critics say prime minister’s proposal would turn country into an economic pariah",
-      "tags": []
-    },
-    {
-      "id": "e1c1e24aba15",
-      "title": "Gadi Eisenkot, the Israeli ex-military chief challenging Netanyahu",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/5e9fc2a9-975b-46eb-ab5a-11615ca40459?syn-25a6b1a6=1",
-      "published_at": "2026-10-24T04:00:33+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "The grizzled 66-year-old who heads the centrist Yashar party is in a knife-edge race to oust the premier",
+      "summary": "Jim Chalmers argues economic security and bolstering supply chains would benefit consumers",
       "tags": []
     },
     {
@@ -470,6 +446,78 @@
       "tags": []
     },
     {
+      "id": "0d18e29cea97",
+      "title": "Politics And The Markets 10/25/26",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4950167-politics-and-the-markets-102526?source=feed_all_articles",
+      "published_at": "2026-10-25T04:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Politics And The Markets 10/25/26",
+      "tags": []
+    },
+    {
+      "id": "d74b8ac063de",
+      "title": "Protagonist Therapeutics: The Opt-Out That Turned A Biotech Into A Royalty Compounder",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4957287-protagonist-therapeutics-the-opt-out-that-turned-a-biotech-into-a-royalty-compounder?source=feed_all_articles",
+      "published_at": "2026-10-25T03:45:55+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Protagonist Therapeutics: The Opt-Out That Turned A Biotech Into A Royalty Compounder",
+      "tags": []
+    },
+    {
+      "id": "b1c56eb3dc3b",
+      "title": "Bloom Energy: Strong Results Not Sufficient To Overcome Deteriorating Big Picture",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4957285-bloom-energy-strong-results-not-sufficient-to-overcome-deteriorating-big-picture?source=feed_all_articles",
+      "published_at": "2026-10-25T01:52:29+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Bloom Energy: Strong Results Not Sufficient To Overcome Deteriorating Big Picture",
+      "tags": []
+    },
+    {
+      "id": "9a49ad7a1842",
+      "title": "IDEX Corporation Is Growing Nicely, But Not Enough To Justify A Bullish Rating",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4957284-idex-corporation-is-growing-nicely-but-not-enough-to-justify-bullish-rating?source=feed_all_articles",
+      "published_at": "2026-10-25T01:40:28+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "IDEX Corporation Is Growing Nicely, But Not Enough To Justify A Bullish Rating",
+      "tags": []
+    },
+    {
+      "id": "aa0ac3236913",
+      "title": "IVES: Dan Ives' Top Picks Are Strong, And Surprisingly Cheap",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4957282-ives-dan-ives-top-picks-are-strong-and-surprisingly-cheap?source=feed_all_articles",
+      "published_at": "2026-10-25T01:05:06+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "IVES: Dan Ives' Top Picks Are Strong, And Surprisingly Cheap",
+      "tags": []
+    },
+    {
+      "id": "cce127d93e3d",
+      "title": "FDN: Mixed Performance, Factor Disadvantages, Welcome A Skeptical View",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4957280-fdn-mixed-performance-factor-disadvantages-welcome-a-skeptical-view?source=feed_all_articles",
+      "published_at": "2026-10-25T00:35:03+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "FDN: Mixed Performance, Factor Disadvantages, Welcome A Skeptical View",
+      "tags": []
+    },
+    {
       "id": "9c914d3fffc3",
       "title": "The 1-Minute Market Report October 24, 2026",
       "source": "All Articles on Seeking Alpha",
@@ -515,78 +563,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Amgen Inc. (AMGN) Presents at 2026 European Society for Medical Oncology (ESMO) Annual Congress Transcript",
-      "tags": []
-    },
-    {
-      "id": "200f2eeffb13",
-      "title": "Navient Corporation (NAVI) Discusses Corporate Reorganization and Strategic Realignment of Business Structure - Slideshow",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4957278-navient-corporation-navi-discusses-corporate-reorganization-and-strategic-realignment-of?source=feed_all_articles",
-      "published_at": "2026-10-24T23:16:45+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Navient Corporation (NAVI) Discusses Corporate Reorganization and Strategic Realignment of Business Structure - Slideshow",
-      "tags": []
-    },
-    {
-      "id": "666fa7cb1e9a",
-      "title": "Vinci Compass Investments Ltd. (VINP) Vinci Compass Investments Ltd. - M&A Call - Slideshow",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4957277-vinci-compass-investments-ltd-vinp-vinci-compass-investments-ltd-m-and-a-call-slideshow?source=feed_all_articles",
-      "published_at": "2026-10-24T23:16:34+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Vinci Compass Investments Ltd. (VINP) Vinci Compass Investments Ltd. - M&A Call - Slideshow",
-      "tags": []
-    },
-    {
-      "id": "a9fc0c846621",
-      "title": "Fnac Darty SA (GRUPF) Q3 2026 Sales/ Trading Statement Call - Slideshow",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4957276-fnac-darty-sa-grupf-q3-2026-sales-trading-statement-call-slideshow?source=feed_all_articles",
-      "published_at": "2026-10-24T23:16:19+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Fnac Darty SA (GRUPF) Q3 2026 Sales/ Trading Statement Call - Slideshow",
-      "tags": []
-    },
-    {
-      "id": "ee045dd8003b",
-      "title": "Roivant Sciences Ltd. (ROIV) Discusses Phase 3 Results for Brepocitinib in Non-Infectious Uveitis - Slideshow",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4957274-roivant-sciences-ltd-roiv-discusses-phase-3-results-for-brepocitinib-in-non-infectious?source=feed_all_articles",
-      "published_at": "2026-10-24T23:16:09+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Roivant Sciences Ltd. (ROIV) Discusses Phase 3 Results for Brepocitinib in Non-Infectious Uveitis - Slideshow",
-      "tags": []
-    },
-    {
-      "id": "fcffa3cdfa7f",
-      "title": "Dynavox Group AB (publ) 2026 Q3 - Results - Earnings Call Presentation",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4957273-dynavox-group-ab-publ-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
-      "published_at": "2026-10-24T23:15:47+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Dynavox Group AB (publ) 2026 Q3 - Results - Earnings Call Presentation",
-      "tags": []
-    },
-    {
-      "id": "84af9ef0d507",
-      "title": "Lexeo Therapeutics, Inc. (LXEO) Discusses Clinical Assessment and Unmet Need in PKP2 Arrhythmogenic Cardiomyopathy - Slideshow",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4957272-lexeo-therapeutics-inc-lxeo-discusses-clinical-assessment-and-unmet-need-in-pkp2?source=feed_all_articles",
-      "published_at": "2026-10-24T23:15:03+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Lexeo Therapeutics, Inc. (LXEO) Discusses Clinical Assessment and Unmet Need in PKP2 Arrhythmogenic Cardiomyopathy - Slideshow",
       "tags": []
     }
   ]
