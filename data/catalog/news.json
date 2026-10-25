@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-24T05:38:14Z",
-  "snapshot_date": "2026-10-24",
+  "generated_at": "2026-10-25T05:38:15Z",
+  "snapshot_date": "2026-10-25",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
-      "url": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories",
+      "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+      "url": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-23T22:00:00+00:00",
-      "summary": "If market pressures keep building, Anthropic “could reasonably decide it is better to stay private and wait for a better opportunity,” one portfolio manager says.",
+      "published_at": "2026-10-24T20:00:00+00:00",
+      "summary": "“My late father bought our house for $250,000 in the 1990s.”",
       "sentiment": "bullish",
-      "sentiment_score": 0.5423,
+      "sentiment_score": 0.25,
       "tags": [
         "AI"
       ],
@@ -20,28 +20,13 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out.",
-      "url": "https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories",
+      "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
+      "url": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-23T21:46:00+00:00",
-      "summary": "Traders making bullish bets on chip stocks are getting walloped this month, as renewed fears emerged about investment returns on the buildout of artificial intelligence.",
+      "published_at": "2026-10-24T19:45:00+00:00",
+      "summary": "“He wants to buy something for $600,000 now that we are empty-nesters.”",
       "sentiment": "neutral",
-      "sentiment_score": 0.0772,
-      "tags": [
-        "Artificial Intelligence"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
-      "url": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-23T21:13:00+00:00",
-      "summary": "A company beating earnings expectations by 36% and revenue expectations by 15% would usually see a postresults bump. But not for Bloom Energy, the fuel-cell maker that has flourished due to data-center demand.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.6087,
+      "sentiment_score": -0.0772,
       "tags": [
         "AI"
       ],
@@ -50,64 +35,18 @@
       "source_repo": "financenews"
     },
     {
-      "title": "The mobile ambitions of SpaceX are hitting telecom stocks again. Here’s what the latest developments mean.",
-      "url": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
+      "title": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
+      "url": "https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-23T21:11:00+00:00",
-      "summary": "Reports of Starlink’s discussions with cell-tower owners were noticed by shareholders of Verizon, AT&amp;T and T-Mobile.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "The real test for Moderna’s cancer vaccine isn’t about beating Keytruda. It’s keeping cancer from coming back in the long term.",
-      "url": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-23T21:06:00+00:00",
-      "summary": "The first Phase 3 data for a cancer vaccine has raised questions about whether the potential new treatment is needed.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9531,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Some Republicans are opposing Trump on tariffs. Maine’s Susan Collins just got him to back down on Canadian levies.",
-      "url": "https://www.marketwatch.com/story/some-republicans-are-opposing-trump-on-tariffs-maines-susan-collins-just-got-him-to-back-down-on-canadian-levies-02b202ae?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-23T20:50:00+00:00",
-      "summary": "As she faces a tough midterm race, the five-term GOP senator is touting her successful lobbying effort against certain tariffs on Canada",
+      "published_at": "2026-10-24T16:18:00+00:00",
+      "summary": "Store aisles are getting a digital makeover.",
       "sentiment": "bullish",
-      "sentiment_score": 0.5267,
+      "sentiment_score": 0.4588,
       "tags": [
         "AI"
       ],
       "signal": "watch",
       "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Oil markets are on edge ahead of the weekend, as midterm elections near and fresh U.S. strikes on Iran are predicted",
-      "url": "https://www.marketwatch.com/story/oil-markets-are-on-edge-ahead-of-the-weekend-as-midterm-elections-near-and-fresh-u-s-strikes-on-iran-are-predicted-8c27e634?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-23T20:19:00+00:00",
-      "summary": "Oil has climbed back to an Iran-war high and may soon go higher, if the U.S. and Israel strike Iran after their respective voters go to the polls in the coming days.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.2732,
-      "tags": [
-        "Election",
-        "Oil"
-      ],
-      "signal": "watch",
-      "category": "energy",
       "source_repo": "financenews"
     },
     {
@@ -459,6 +398,66 @@
       "summary": "<p>For more than three decades, Michael Gove has been a leading figure in British Conservatism. As a journalist, government minister and now editor of the Tory bible, the Spectator, he has helped shape the right even as it has moved further rightwards. In the latest episode of Radical Thinking, Gove joins Aditya Chakrabortty to discuss the future of the right, his record on Brexit and austerity, and the Spectator’s position on Islam</p><p>Watch the full episode with Michael Gove <a href=\"https://youtu.be/cIGXagkUFr8\">here</a>.\n <br />\n <br />\n Aditya’s suggested reading:</p><p>To read the fruits of Michael Gove’s dalliance with the Marxism Today gang, look up his essay in a 1998 collection called The Moderniser’s Dilemma: Radical Politics in the Age of Blair</p><p>For slalom ride through Michael Gove’s years in power, read <a href=\"https://www.lrb.co.uk/the-paper/v41/n17/richard-j.-evans/the-demented-dalek\">The Demented Dalek</a> by the historian Richard J Evans in the London Review of Books</p><p>To learn more on what’s become of the British right, there’s a <a href=\"https://www.theguardian.com/commentisfree/2024/sep/12/tory-leadership-jenrick-tugendhat-cleverly-badenoch\">column by me </a>for the Guardian</p><p>Just why the most successful political party is now failing is analysed in-depth by Phil Burton-Cartledge in his book <a href=\"https://guardianbookshop.com/the-partys-over-9781839760372/\">The Party’s Over: The Rise and Fall of the Conservatives from Thatcher to Sunak</a></p><p>Phil also writes a very good blog on British politics, which keeps a close eye on how each party is trying to marshall a coalition of voters. <a href=\"https://averypublicsociologist.blogspot.com/2026/10/the-clear-blue-water-strategy.html\">Here</a> he is on Kemi Badenoch</p><p>Geoffrey Wheatcroft does an entertaining short narrative in <a href=\"https://guardianbookshop.com/bloody-panico-9781804295755/\">Bloody Panico!:</a></p><p><a href=\"https://guardianbookshop.com/bloody-panico-9781804295755/\">or, Whatever Happened to The Tory Party</a></p><p>For more on the economics of the Cameron years, <a href=\"https://foundationaleconomy.com/wp-content/uploads/2017/01/wp87.pdf\">this paper</a> is acute on how the Tories failed to move the UK away from being a country of renters towards a country of makers. Two of its authors will join us for a podcast later in the series.</p><p>And if you want to read how Brexit may have cost the UK 8% of GDP, there’s <a href=\"https://www.nber.org/papers/w34459?st_source=ai_overview\">this paper</a> based on data from the Bank of England</p><p>Finally, on the Spectator read Nesrine Malik’s recent column in The Guardian</p><p><a href=\"https://www.theguardian.com/commentisfree/2026/jul/20/islamophobia-spectator-britain-oldest-political-magazine\">Why has Britain’s oldest political magazine become such a rabid cheerleader for Islamophobia?</a></p> <a href=\"https://www.theguardian.com/politics/commentisfree/audio/2026/oct/17/austerity-is-inevitably-painful-how-michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty-podcast\">Continue reading...</a>",
       "sentiment": "bullish",
       "sentiment_score": 0.9118,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
+      "url": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-10-16T16:46:18+00:00",
+      "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.2023,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Extreme heatwaves in Europe not changing Britons’ holiday plans, say travel bosses",
+      "url": "https://www.theguardian.com/business/2026/oct/16/extreme-heatwaves-in-europe-not-changing-brits-holiday-plans-say-travel-bosses",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-16T16:16:25+00:00",
+      "summary": "<p>Hot summer getaways are still popular – but tourism industry fears impact of rising jet fuel costs and squeezed household incomes</p><p>After a year marked by extreme heat and war sending fuel prices skywards, British travel executives hoped for solace in Madeira’s benign subtropical climate, separated by hundreds of miles of blue sea from the overtourism protests and six-hour EU-entry queues seen on the Portuguese mainland.</p><p>As bosses admitted, holidays will be ever less affordable, AI is coming for their jobs, and the visitable world is shrinking – not least those parts where tourists remain welcome.</p> <a href=\"https://www.theguardian.com/business/2026/oct/16/extreme-heatwaves-in-europe-not-changing-brits-holiday-plans-say-travel-bosses\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.2902,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "People in China are spending nearly as much of their income as Americans on healthcare",
+      "url": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-10-15T23:00:01+00:00",
+      "summary": "Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6597,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+      "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-10-14T20:06:28+00:00",
+      "summary": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.",
+      "sentiment": "neutral",
+      "sentiment_score": -0.1531,
       "tags": [
         "AI"
       ],
