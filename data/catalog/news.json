@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-30T05:33:41Z",
-  "snapshot_date": "2026-10-30",
+  "generated_at": "2026-10-31T05:33:03Z",
+  "snapshot_date": "2026-10-31",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "A Starbucks turnaround is brewing — but perhaps not quickly enough for investors",
-      "url": "https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories",
+      "title": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
+      "url": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-30T00:14:00+00:00",
-      "summary": "The coffee chain beat expectations on a key sales metric, but its stock was still moving lower.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.4215,
+      "published_at": "2026-10-30T23:14:00+00:00",
+      "summary": "Friday’s big plunge raises disturbing parallels with the top of the dot-com bubble",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
       "tags": [
         "AI"
       ],
@@ -20,29 +20,154 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
-      "url": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-29T21:52:00+00:00",
-      "summary": "Several proposals consider changing the way retirees receive inflation protection. Here’s what it could cost you.",
+      "title": "How will the US midterms affect Australian markets?",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/31/how-will-the-us-midterms-affect-australian-markets",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-30T23:00:26+00:00",
+      "summary": "<p>Polling suggests Republicans’ chances of retaining both houses have waned. Here’s how the vote could steer demand for renewables, deflate AI stocks and spark volatility</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Donald Trump’s fight to retain control of Congress in the 3 November US midterms will carry direct consequences for Australian markets, whatever the outcome.</p><p>Democrats <a href=\"https://www.theguardian.com/us-news/2026/oct/26/what-are-midterm-elections\">must flip four seats</a> in both the House of Representatives and Senate to overturn narrow Republican majorities. Polls favour the Democrats to reclaim the house, but the Senate contest is too close to call.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/31/how-will-the-us-midterms-affect-australian-markets\">Continue reading...</a>",
       "sentiment": "bullish",
-      "sentiment_score": 0.34,
+      "sentiment_score": 0.316,
       "tags": [
-        "AI"
+        "Election",
+        "AI",
+        "Renewables"
       ],
       "signal": "watch",
       "category": "technology",
       "source_repo": "financenews"
     },
     {
-      "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-      "url": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+      "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
+      "url": "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-29T20:45:00+00:00",
-      "summary": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
+      "published_at": "2026-10-30T21:30:00+00:00",
+      "summary": "Safe-haven gold fell to its lowest price in a year, despite jitters around the potential for fresh Middle East attacks following the U.S. midterm elections on Tuesday",
+      "sentiment": "bearish",
+      "sentiment_score": -0.7003,
+      "tags": [
+        "Election",
+        "Gold"
+      ],
+      "signal": "watch",
+      "category": "markets",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
+      "url": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-10-30T21:23:00+00:00",
+      "summary": "More interest-rate hikes are needed to fight inflation, Fed officials say.",
       "sentiment": "bearish",
       "sentiment_score": -0.3818,
       "tags": [
+        "Fed"
+      ],
+      "signal": "watch",
+      "category": "macro",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "In a wild October for markets, these stocks were the biggest winners and losers",
+      "url": "https://www.marketwatch.com/story/in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-3736f043?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-10-30T20:52:00+00:00",
+      "summary": "Many Big Tech stocks were hit hard but the S&amp;P 500 showed strength under the surface, with a majority of stocks showing gains for the month.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7935,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Reddit’s stock logs its biggest one-day drop ever. It’s not the last of the bad news, analysts say.",
+      "url": "https://www.marketwatch.com/story/reddit-shares-on-track-for-largest-ever-one-day-drop-and-analysts-say-the-bad-news-hasnt-ended-25d46284?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-10-30T20:42:00+00:00",
+      "summary": "Reddit’s stock plunged on Friday after the community-discussion forum said its search referral traffic was down significantly in the third quarter.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.6808,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Microsoft is winning the cloud wars and becoming Wall Street’s new golden child",
+      "url": "https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-10-30T20:29:00+00:00",
+      "summary": "Various factors indicate that Microsoft is in a better financial position than its cloud rivals, analysts say.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.4019,
+      "tags": [
+        "Gold"
+      ],
+      "signal": "watch",
+      "category": "geopolitical",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "AMD’s stock slides after Intel earnings reveal two big issues",
+      "url": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-10-30T20:28:00+00:00",
+      "summary": "Intel is struggling to make enough AI server chips and dealing with a weak PC market. Investors will soon find out the degree to which AMD may be suffering from the same problems.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.8885,
+      "tags": [
+        "Chips",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-30T20:24:25+00:00",
+      "summary": "<p>This live blog is now closed.</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/30/crypto-heist-binance-who-did-it-are-investments-safe\">How big a deal is the $6.3bn Binance crypto heist, who did it, and are investments safe?</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/oct/30/tell-us-have-you-been-affected-by-the-binance-hack\">Tell us: have you been affected by the Binance hack?</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack\">Full story: North Korean group blamed for biggest ever crypto heist</a></p></li></ul><p><br /></p><p>Most major cryptocurrencies have fallen in value since news of the Binance theft broke, <a href=\"https://coinmarketcap.com/\">Coinmarketcap data shows</a>.</p><p>That includes:</p><p><strong>Bitcoin</strong>: -2.35% over the last 24 hours, to $77,940</p><p><strong>Ethereum</strong>: -3.6%, to $2,227</p><p><strong>BNB</strong>: -5.6%, to $706</p><p><strong>Solana</strong>: -2.67%, to $97</p><p><strong>Chainlink</strong>: -3.1%, to $11.02</p><p>Temporarily suspended withdrawals while we complete a security revamp of the withdrawal service and its related addresses</p><p>Revoked the affected address authorizations</p><p>Engaged law enforcement and blockchain intelligence partners to trace and recover funds</p><p>Our team hasn’t stopped. We’re working closely with law enforcement to ensure the matter is handled appropriately - and I’ll share what I can, as soon as I can.</p> <a href=\"https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.7524,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "How do we make new economic ideas a reality? – Aditya Chakrabortty answered your questions",
+      "url": "https://www.theguardian.com/community/live/2026/oct/29/reader-qa-aditya-chakrabortty-answers-your-questions",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-30T16:21:29+00:00",
+      "summary": "<p>Guardian columnist, senior economics commentator and host of the new Radical Thinking podcast Aditya Chakrabortty answered your questions on the big ideas around economics, society and democracy, and his new podcast</p><p></p><p><strong><a href=\"https://www.theguardian.com/community/live/2026/oct/29/reader-qa-aditya-chakrabortty-answers-your-questions#comment-175924011\">thegreatfatsby</a> asks</strong>: Do you think the fact that Gabriel Zucman, who is a recognised authority on wealth tax is given more respect, time and attention by the mainstream media than Gary Stevenson, who has worked eloquently and tirelessly to spread the debate about the terrible consequences of inequality and whose ideas and analysis are almost identical is because of our cultural fixation on class prejudice?</p><p><strong>Aditya says: </strong>I’ve followed <a href=\"https://guardianbookshop.com/we-need-to-tax-billionaires-9781399839600/\">Gabriel Zucman</a> (and Emmanuel Saez and <a href=\"https://guardianbookshop.com/search.php?search_query=Thomas+Piketty\">Thomas Piketty</a>) for a long time, and find his work rigorous and thought provoking. I don’t always agree, but I appreciate their acceptance that taxes on wealth are part of the fight against ever-increasing inequality.\n <br />\n <br />\n I think <a href=\"https://guardianbookshop.com/the-trading-game-9781802062731/\">Gary Stevenson </a>is eloquent and compelling and is fighting a good fight. His book tells a story very well. But I don’t accept the insistence on a ‘wealth tax’ (as opposed to taxes on wealth) as being the only way we fight everything from inequality to the far right. We have to look at workers’ rights, housing, public ownership, greater democracy in economics and politics as well.</p><p>In the age of algorithm, simple, strong messages cut through. But the truth is often more complex.</p><p><strong>Aditya says: </strong>What a nice question, Marija. I try to read a lot and write a diary. Unfortunately, I have the handwriting of a GP so I can’t read old entries. The other thing is I try to shirk my mobile phone.</p> <a href=\"https://www.theguardian.com/community/live/2026/oct/29/reader-qa-aditya-chakrabortty-answers-your-questions\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.9813,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Trump vowed to reduce prices, but his policies have fueled US inflation  | Steven Greenhouse",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/30/trump-tariffs-inflation-election-promise",
+      "source": "The Guardian Economics",
+      "published_at": "2026-10-30T10:00:50+00:00",
+      "summary": "<p>‘Even though economists warned that tariffs would be inflationary, Trump has enthusiastically embraced them’</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> successfully campaigned for his second term two years ago promising to <a href=\"https://finance.yahoo.com/news/trump-said-d-lower-grocery-110057971.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL2NvbW1lbnRpc2ZyZWUvMjAyNi9qYW4vMjMvZG9uYWxkLXRydW1wLWxpZXMtaWNl&amp;guce_referrer_sig=AQAAAKoVJAuMtxB8lRTGzL0JQStMU3jkVNwd3MCZ11E0-bvBC8C8PgbGktPwwVwwOc1JcHSFQ9S2OYPNqMVWneEXBSUZzWo-PeFFAB4FS-9FCUm-KI-m2iLw4wNoJ0h-UCq3Ff2Oop48Mjz7RPlDYJW1TLOKIU-P-Fr1_7I-geSp_jhR\">reduce prices on day one</a>, but ever since he returned to the White House, he has done little to fight inflation or reduce prices. Instead, some of his most important policy decisions – most notably his <a href=\"https://www.theguardian.com/world/us-israel-war-on-iran\">war against Iran</a> and his tariff wars – have increased inflation instead of reducing it. This helps explain <a href=\"https://www.washingtonpost.com/politics/2026/10/25/about-one-five-trump-voters-no-longer-back-him-they-key-midterms/?utm_campaign=wp_main&amp;utm_source=facebook&amp;utm_medium=social&amp;fbclid=IwY2xjawVLLKZleHRuA2FlbQIxMQBwZG9mBWJyaWQRMUFhSWh5QjRYVWhEcEJ6WFVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe0ja5aLw_WJ9u8yHKQC0DXuPO3hfFaEKVUKLy5tkbf7R-DeUc6vcfNCPWuHI_aem_6EZyEi9toBP2In1-wYUjhg\">why more than one in five Americans who voted for Trump</a> now disapprove of the job he’s doing.</p><p>Even though economists warned that tariffs would be inflationary, Trump has enthusiastically embraced them during his second term. Indeed, the “<a href=\"https://www.theguardian.com/us-news/2025/apr/02/trump-new-tariffs-liberation-day\">liberation day</a>” tariffs he imposed soon after returning to office increased the price of hundreds of goods, including <a href=\"https://www.washingtonpost.com/business/2025/11/29/food-price-inflation-trump-tariffs/\">citrus fruits</a>, steel, bananas, beef and auto parts. When the supreme court overturned those tariffs as illegal, Trump immediately imposed <a href=\"https://www.reuters.com/world/us/scotus-live-us-supreme-court-rules-legality-trumps-tariffs-2026-02-20/\">new 10% across-the-board tariffs</a> that again helped push up prices (a lower court <a href=\"https://www.courthousenews.com/trump-dealt-second-blow-as-trade-court-rules-10-global-tariffs-illegal/\">found those tariffs unlawful, too</a>). Time and again, Trump has slapped on new tariffs even though they inherently push up prices because tariffs are a tax on imported goods. Little wonder that a Fox News poll this month found that <a href=\"https://www.youtube.com/watch?v=EUogMO_yI9c&amp;t=1s\">77% of Americans disapprove</a> of how Trump has handled tariffs.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/oct/30/trump-tariffs-inflation-election-promise\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.9354,
+      "tags": [
+        "Election",
         "AI"
       ],
       "signal": "watch",
@@ -84,24 +209,9 @@
       "url": "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early",
       "source": "The Guardian Economics",
       "published_at": "2026-10-29T16:05:50+00:00",
-      "summary": "<p>Possible candidate to run World Economic Forum departs ECB nine months early, saying she wants to speak her mind about world affairs</p><p>Christine Lagarde, the eurozone’s top central banker, has said she is stepping down nine months early to speak her mind about world affairs and confront the “misrepresentation of the truth”.</p><p>Ending months of speculation about her future at the European Central Bank, Lagarde said she would quit her role as president in March rather than October next year because the rules of neutrality that governed her job prevented her from influencing debate about financial and economics affairs.</p> <a href=\"https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early\">Continue reading...</a>",
+      "summary": "<p>Possible candidate to run World Economic Forum departs ECB nine months early, saying she wants to speak her mind about world affairs</p><p>Christine Lagarde, the eurozone’s top central banker, has said she is stepping down nine months early to speak her mind about world affairs and confront the “misrepresentation of the truth”.</p><p>Ending months of speculation about her future at the European Central Bank, Lagarde said she would quit her role as president next February rather than October next year because the rules of neutrality that governed her job prevented her from influencing debate about financial and economics affairs.</p> <a href=\"https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early\">Continue reading...</a>",
       "sentiment": "neutral",
       "sentiment_score": 0.0516,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Reader Q&A: Send a question to Guardian columnist Aditya Chakrabortty",
-      "url": "https://www.theguardian.com/community/live/2026/oct/29/reader-qa-aditya-chakrabortty-answers-your-questions",
-      "source": "The Guardian Economics",
-      "published_at": "2026-10-29T15:31:25+00:00",
-      "summary": "<p>Guardian columnist, senior economics commentator and host of the new Radical Thinking podcast Aditya Chakrabortty will be online at 2pm GMT (9am EDT) on Friday to answer your questions on the big ideas around economics, society and democracy</p><p><strong>Send your questions to </strong><a href=\"mailto:conversations@theguardian.com\"><strong>conversations@theguardian.com</strong></a><strong> or join the discussion on Friday from 8am</strong></p><p>Aditya Chakrabortty is the Guardian’s award-winning senior economics commentator. Through his regular opinion column, he shares his thoughts on the economy and its impact on society and earlier this year he was awarded an MBE for services to public understanding of the economy and wider social issues.</p><p>This month he launched a new Saturday podcast Radical Thinking, where he interviews major thinkers about the ideas that have shaped our times. He has conducted conversations with Yanis Varoufakis on democracy and the Eurozone crisis and Naomi Klein and Astra Taylor on Gaza, fascism and climate chaos.</p> <a href=\"https://www.theguardian.com/community/live/2026/oct/29/reader-qa-aditya-chakrabortty-answers-your-questions\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3612,
       "tags": [
         "AI"
       ],
@@ -278,52 +388,6 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Electricity, insurance and eggs: see how life in Australia has got more expensive",
-      "url": "https://www.theguardian.com/business/ng-interactive/2026/oct/29/electricity-insurance-and-eggs-see-how-has-life-in-australia-got-more-expensive",
-      "source": "The Guardian Economics",
-      "published_at": "2026-10-28T14:00:05+00:00",
-      "summary": "<p>Our inflation explorer tracks how prices have risen – or fallen – since 2022</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>It has been nearly five years since inflation crashed on to Australia’s shores, as a rebounding post-Covid economy collided with a world of constrained supply.</p><p>The global cost-of-living crisis – or affordability crisis, as the Americans call it – has shaped our world from 2022 onwards.</p> <a href=\"https://www.theguardian.com/business/ng-interactive/2026/oct/29/electricity-insurance-and-eggs-see-how-has-life-in-australia-got-more-expensive\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9092,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Budget 2026: key points at a glance",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-key-points-john-healey",
-      "source": "The Guardian Economics",
-      "published_at": "2026-10-28T12:40:45+00:00",
-      "summary": "<p>John Healey has announced his first budget – here are the main points, with political analysis</p><ul><li><p><a href=\"https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-john-healey-offers-100-payment-to-households-to-help-navigate-global-economic-storms\">Healey offers £100 payment to households to help navigate ‘global economic storms’</a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/oct/28/obr-slashes-uk-growth-forecast-for-2027-despite-healey-budget-measures\">UK growth forecast for 2027 slashed despite Healey’s budget measures</a></p><p></p></li></ul><p>John Healey starts by saying that his budget is “delivered at a time when global uncertainties and pressures are swirling worldwide and hitting people here at home”.</p><p>Healey says he will meet the fiscal rule that day-to-day spending must be covered by tax receipts, and the investment rule that government debt, defined as public sector net financial liabilities, must be falling as a percentage of GDP in the third year of the forecast.</p><p>The government will have £15bn of headroom in 2029-30 and £22bn in 2030-31, according to the Office for Budget Responsibility, the government’s forecaster.</p><p>Government borrowing will be 4.2% of GDP this year, 3.4% next year, then 2.9%, 2.1% and 1.8% by 2030-31, the OBR says.</p><p>Predictions of slowing growth were wrong, Healey says. The OBR says GDP will grow by 1.2% this year, 1% next year, 1.6% in 2028, 1.8% in 2029, 1.7% in 2030 and 1.6% in 2031. In March the OBR had predicted GDP growth of 1.1% in 2026, rising to 1.6% in 2027 and 2028, and dropping to 1.5% in 2029 and 2030.</p><p>Government debt is forecast to be 83.2% of GDP this year, 83.8% next year then falling to 83.1%, 82.3% and 81.7% in the following years.</p><p>Labour’s priority is cheaper energy, Healey says. He announces a series of measures to try to cut bills, including scrapping a levy on bills to fund hydrogen to lower bills and moving older renewables onto fixed-price contracts.</p><p>Healey says the government will extend a VAT cut through the winter and spring to July, taking £50 pounds off the annual price cap.</p><p>He confirms the government is abolishing standing charges on gas bills for 23m homes in a move it says will save two-thirds of households an average of £45 a year.</p><p>He says 20m households in council tax bands A to D will receive a £100 energy payment paid directly into bank accounts. It will cost £2.6bn, he says.</p> <a href=\"https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-key-points-john-healey\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.6808,
-      "tags": [
-        "AI",
-        "Renewables"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "What to expect from John Healey’s first budget: who wins, who pays?",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/28/what-to-expect-from-john-healeys-first-budget-who-wins-who-pays",
-      "source": "The Guardian Economics",
-      "published_at": "2026-10-28T06:00:02+00:00",
-      "summary": "<p>Struggling households, new homebuyers and small shops stand to gain, while banks and online marketplaces could face higher levies</p><ul><li><p><a href=\"https://www.theguardian.com/uk-news/ng-interactive/2026/oct/22/uk-budget-game-2026-john-healey-labour-andy-burnham\">You be the chancellor: play our budget game to see if you can balance the books</a></p></li></ul><p>John Healey will present his first budget on Wednesday, which will set the tone for Andy Burnham’s premiership.</p><p>Despite the chancellor’s promises in the summer that the tax and spending event would not be beset by the leaks that preceded those of his predecessor, Rachel Reeves, <a href=\"https://www.theguardian.com/uk-news/2026/oct/25/john-healey-chancellor-budget-secrecy\">both official and unofficial sources</a> have indicated much of what Healey is likely to announce. Here’s what to expect:</p> <a href=\"https://www.theguardian.com/uk-news/2026/oct/28/what-to-expect-from-john-healeys-first-budget-who-wins-who-pays\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.9022,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
       "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
       "url": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
       "source": "CNBC Finance",
@@ -399,66 +463,6 @@
       ],
       "signal": "watch",
       "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-      "url": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-10-16T16:46:18+00:00",
-      "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.2023,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "People in China are spending nearly as much of their income as Americans on healthcare",
-      "url": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-10-15T23:00:01+00:00",
-      "summary": "Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6597,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-      "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-10-14T20:06:28+00:00",
-      "summary": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.",
-      "sentiment": "neutral",
-      "sentiment_score": -0.1531,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
-      "url": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-10-13T23:05:12+00:00",
-      "summary": "Sluggish consumer demand in China has pushed many companies, such as electric car brands, to accelerate plans for entering other countries.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3182,
-      "tags": [
-        "Gold"
-      ],
-      "signal": "watch",
-      "category": "markets",
       "source_repo": "financenews"
     }
   ]
