@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T05:33:15Z",
-  "snapshot_date": "2026-11-01",
+  "generated_at": "2026-11-02T05:33:36Z",
+  "snapshot_date": "2026-11-02",
   "source": "financenews",
   "count": 30,
   "articles": [
@@ -8,10 +8,10 @@
       "title": "Is the government really on an ‘out-of-control’ spending splurge? It’s complicated",
       "url": "https://www.theguardian.com/business/2026/nov/01/is-the-government-really-on-an-out-of-control-spending-splurge-its-complicated",
       "source": "The Guardian Economics",
-      "published_at": "2026-10-31T23:00:03+00:00",
-      "summary": "<p>Defence, the NDIS and health responsible for much of increased government outlays and treasurer Jim Chalmers has few levers to pull</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>“Will the prime minister acknowledge reality … and admit Labor’s out-of-control spending is forcing families and small businesses to pay more for everything?”</p><p>That was the opposition leader, Angus Taylor, kicking off parliamentary question time on Wednesday.</p> <a href=\"https://www.theguardian.com/business/2026/nov/01/is-the-government-really-on-an-out-of-control-spending-splurge-its-complicated\">Continue reading...</a>",
+      "published_at": "2026-11-01T23:24:39+00:00",
+      "summary": "<p>Defence, the NDIS and health responsible for much of increased government outlays and treasurer Jim Chalmers has few levers to pull</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>“Will the prime minister acknowledge reality … and admit Labor’s out-of-control spending is forcing families and small businesses to pay more for everything?”</p><p>That was the opposition leader, Angus Taylor, kicking off parliamentary question time on Wednesday.</p><p>This story was amended 2 November 2026. An earlier version said an interest rate hike on Tuesday would be the fourth in 2026 – in fact, it would be the fifth.</p> <a href=\"https://www.theguardian.com/business/2026/nov/01/is-the-government-really-on-an-out-of-control-spending-splurge-its-complicated\">Continue reading...</a>",
       "sentiment": "bullish",
-      "sentiment_score": 0.7399,
+      "sentiment_score": 0.8504,
       "tags": [
         "AI"
       ],
@@ -20,13 +20,13 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
-      "url": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
+      "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+      "url": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-31T18:33:00+00:00",
-      "summary": "Several proposals consider changing the way retirees receive inflation protection. Here’s what it could cost you.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.34,
+      "published_at": "2026-11-01T20:00:00+00:00",
+      "summary": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
+      "sentiment": "bearish",
+      "sentiment_score": -0.3818,
       "tags": [
         "AI"
       ],
@@ -35,13 +35,92 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
-      "url": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-10-31T17:26:00+00:00",
-      "summary": "Medicare is testing the use of AI to conduct prior authorizations to target wasteful medical spending",
+      "title": "How Rachel Reeves has mapped out the economic agenda for Andy Burnham’s government",
+      "url": "https://www.theguardian.com/politics/2026/nov/01/how-reeves-has-mapped-out-the-agenda-for-burnhams-government",
+      "source": "The Guardian Economics",
+      "published_at": "2026-11-01T17:47:42+00:00",
+      "summary": "<p>On Brexit, devolution and investment, the former chancellor is eerily in tune with the man who sacked her</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/nov/01/rachel-reeves-uk-future-is-in-eu-andy-burnham-brexit\">Reeves says UK’s future is in the EU</a></p></li></ul><p>Which senior politician has argued that “Brexit did deep damage” and that the government seeks “not to turn back the clock but to look toward a new and stable, future relationship?”</p><p>It was not Andy Burnham, who has been the torchbearer for thinking the unthinkable on Brexit since he became prime minister. Instead, these are the words of the former chancellor Rachel Reeves, in <a href=\"https://www.gov.uk/government/speeches/mais-lecture-2026\">a lecture</a> six months ago.</p> <a href=\"https://www.theguardian.com/politics/2026/nov/01/how-reeves-has-mapped-out-the-agenda-for-burnhams-government\">Continue reading...</a>",
       "sentiment": "bullish",
-      "sentiment_score": 0.2732,
+      "sentiment_score": 0.2617,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
+      "url": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-01T16:35:00+00:00",
+      "summary": "After waiting 13 years for this videogame, almost one-fifth of workers plan to take the day off to play ‘Grand Theft Auto VI’ when it drops on Nov. 19",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5423,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "This is the biggest threat to the AI-powered bull market",
+      "url": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-01T14:00:00+00:00",
+      "summary": "Blockbuster earnings growth has helped to power the stock market higher in 2026. In 2027, that engine might stall.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.3182,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
+      "url": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
+      "source": "The Guardian Economics",
+      "published_at": "2026-11-01T12:00:12+00:00",
+      "summary": "<p>A truce has cooled the trade conflict, but neither country has done anything to limit the outbreak of new hostilities</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s trade wars have largely fallen off the headlines. Fears of new tariffs flare up from time to time when the US president goes off the rails – for instance, threatening to end US trade with countries with which it has a deficit unless the <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a> cuts interest rates. But the sense that the world’s two largest economies are plowing ahead into an overt economic conflagration has taken a back seat to other, more salient fears, about Trump ending American democracy, AI killing us all and stuff like that.</p><p>The sense of calm is misleading. Under the radar, the world is marching toward an economic war of potentially epic proportions, one that, history suggests, could well spill over into the real thing.</p> <a href=\"https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.9882,
+      "tags": [
+        "Interest Rates",
+        "Trade War",
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Affordability top of mind for voters in final sprint to midterms: ‘I have to pick between medicine or groceries’",
+      "url": "https://www.theguardian.com/us-news/2026/nov/01/affordability-voters-final-sprint-midterms",
+      "source": "The Guardian Economics",
+      "published_at": "2026-11-01T12:00:11+00:00",
+      "summary": "<p>Cost of living has loomed over this election cycle as workers and unions champion candidates fighting for higher wages and tackling rising prices</p><p>For millions of Americans heading to the polls on Tuesday, affordability is a constant and worsening issue, and it’s been a prevailing concern this election cycle.</p><p>In Lorain county, Ohio, Gina Jones and her co-workers at the Lorain county job and family services have been on strike since February 2026, the longest public sector strike in Ohio history and on pace to break the US record for longest public sector strike.</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/01/affordability-voters-final-sprint-midterms\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.4404,
+      "tags": [
+        "Election",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Why politicians chasing economic growth is a lie | Radical Thinking with Aditya Chakrabortty – podcast",
+      "url": "https://www.theguardian.com/news/audio/2026/nov/01/why-politicians-chasing-economic-growth-is-a-lie-radical-thinking-with-aditya-chakrabortty-podcast",
+      "source": "The Guardian Economics",
+      "published_at": "2026-11-01T08:00:07+00:00",
+      "summary": "<p>What if someone told you the truth about the economy? For years, governments have tried spending more, spending less, cutting red tape, Brexit, levelling up – and still failed to increase growth per person in the UK. So what’s the lesson from the great British fairytale? On the latest episode of Radical Thinking with Aditya Chakrabortty, rebel economists Karel Williams and Sukhdev Johal explain why they believe praying for growth is a fool’s dream – and why it won’t improve your life</p><p><strong>You can watch previous episodes of Radical Thinking <a href=\"https://www.youtube.com/watch?v=MJ725uqMC3o&amp;list=PLVj3lUUoaRkM\">here</a>\n  <br />\n  <br />Aditya’s suggested reading list for this episode:</strong>\n <br />\n <br />\n As we say in the podcast, I’ve championed the work of Karel and Sukhdev and their colleagues for many years in the Guardian, and some of my columns are a good introduction to their approach.</p><p>In our conversation we look at what life after growth looks like for towns and suburbs, and what it should look like. <a href=\"https://www.theguardian.com/commentisfree/2016/nov/22/just-about-managing-pontypool-south-wales-poverty-post-industrial-truth-britain?st_source=ai_overview\">This report</a> from south Wales in 2016 examines the present-day reality.</p><p>For a broader analysis of how the UK has become highly unequal and increasingly stagnant, try <a href=\"https://www.theguardian.com/commentisfree/2023/jun/23/britain-dorian-gray-economy-tony-blair-george-osborne\">this</a>.</p><p>As part of the Foundational Economy Collective, Williams and Johal put a lot of their analysis into freely available working papers. That circumvents the leisureliness and expense of academic publishing and gets their arguments in front of a wider public. A good example is <a href=\"https://foundationaleconomy.com/wp-content/uploads/2023/08/market-entitlement-fe4-and-cost-of-living-crisis-19-aug-2023.pdf\">this one on the cost of living crisis</a>.</p><p>More recently, they’ve focused on the broken water system of England and Wales in a book called <a href=\"https://guardianbookshop.com/murky-water-9781526188700/\">Murky Water: Challenging an Unsustainable System</a>.</p> <a href=\"https://www.theguardian.com/news/audio/2026/nov/01/why-politicians-chasing-economic-growth-is-a-lie-radical-thinking-with-aditya-chakrabortty-podcast\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.9829,
       "tags": [
         "AI"
       ],
@@ -266,66 +345,6 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Budget briefing: the key questions answered by Heather Stewart and Pippa Crerar",
-      "url": "https://www.theguardian.com/money/2026/oct/28/budget-briefing-the-key-questions-answered-by-heather-stewart-and-pippa-crerar",
-      "source": "The Guardian Economics",
-      "published_at": "2026-10-28T19:33:04+00:00",
-      "summary": "<p>Our economics and political editors dissect John Healey’s maiden budget</p><p>The Guardian’s economics editor, Heather Stewart, and political editor, Pippa Crerar, assess the chancellor’s budget: what he said, why – and what he left out.</p> <a href=\"https://www.theguardian.com/money/2026/oct/28/budget-briefing-the-key-questions-answered-by-heather-stewart-and-pippa-crerar\">Continue reading...</a>",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Budget 2026: £100 energy payment for millions and rise in bank tax as watchdog warns on stalling living standards – as it happened",
-      "url": "https://www.theguardian.com/uk-news/live/2026/oct/28/budget-2026-latest-updates-john-healey-andy-burnham-labour-uk-politics",
-      "source": "The Guardian Economics",
-      "published_at": "2026-10-28T18:24:25+00:00",
-      "summary": "<p>OBR says that living standards are forecast to rise by just 1% over the whole post-Covid decade</p><ul><li><p><a href=\"https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-key-points-john-healey\">Budget 2026: key points at a glance</a></p></li></ul><p><strong>Martin Lewis</strong> <a href=\"https://x.com/MartinSLewis/status/2115360340720353765\">said</a> that, when he met John Healey this morning, the chancellor said that, having removed standing charges from gas bills, he would also like to get rid of them from electricity bills. Lewis said:</p><p>The chancellor said he will be talking to Ofgem about how they get rid of the charge on electricity as well, but that is ‘trickier’ apparently and will take longer.</p> <a href=\"https://www.theguardian.com/uk-news/live/2026/oct/28/budget-2026-latest-updates-john-healey-andy-burnham-labour-uk-politics\">Continue reading...</a>",
-      "sentiment": "neutral",
-      "sentiment_score": 0.1779,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Budget winners and losers: pensioners and households gain as banks and betting shops hit",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/28/budget-winners-and-losers-pensioners-and-households-gain-as-bankers-and-betting-shops-hit",
-      "source": "The Guardian Economics",
-      "published_at": "2026-10-28T17:37:02+00:00",
-      "summary": "<p>How the Burnham government’s first attempt to ease cost of living pressure pans out for key stakeholders<br /><a href=\"https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-key-points-john-healey\">Budget 2026: key points at a glance</a></p><p>Every budget has its winners and losers, and John Healey’s first as chancellor was no exception. While some gained from tax breaks and rule tweaks, others will either pay more, or had their hopes of reforms dashed. Here are some of those with reason to cheer, or sigh:</p> <a href=\"https://www.theguardian.com/uk-news/2026/oct/28/budget-winners-and-losers-pensioners-and-households-gain-as-bankers-and-betting-shops-hit\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8481,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Healey gives households £100 to help navigate ‘global economic storms’",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-john-healey-offers-100-payment-to-households-to-help-navigate-global-economic-storms",
-      "source": "The Guardian Economics",
-      "published_at": "2026-10-28T16:40:50+00:00",
-      "summary": "<p>Payments to 20m homes part of package to cut energy bills and ease cost of living crisis, paid for by bank windfall tax</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/28/obr-slashes-uk-growth-forecast-for-2027-despite-healey-budget-measures\">‘A pretty grim picture’: outlook for UK living standards slashed despite Healey’s budget</a></p></li><li><p><a href=\"https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-key-points-john-healey\">Budget 2026: key points at a glance</a></p><p></p></li></ul><p>John Healey promised to steer Britain through “global economic storms” as he announced an energy giveaway of £100 to 80% of households in England, funded by a smaller than expected windfall tax on banks.</p><p>In his first budget, the chancellor said 20 million households in council tax bands A to D would receive a £100 payment – a measure he said would cost £2.6bn.</p> <a href=\"https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-john-healey-offers-100-payment-to-households-to-help-navigate-global-economic-storms\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3182,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
       "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
       "url": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
       "source": "CNBC Finance",
@@ -446,21 +465,6 @@
       ],
       "signal": "watch",
       "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
-      "url": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-10-13T23:05:12+00:00",
-      "summary": "Sluggish consumer demand in China has pushed many companies, such as electric car brands, to accelerate plans for entering other countries.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3182,
-      "tags": [
-        "Gold"
-      ],
-      "signal": "watch",
-      "category": "markets",
       "source_repo": "financenews"
     }
   ]
