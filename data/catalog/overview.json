@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T05:33:36Z",
-  "snapshot_date": "2026-11-02",
+  "generated_at": "2026-11-03T05:33:35Z",
+  "snapshot_date": "2026-11-03",
   "totals": {
     "catalog_instruments": 39,
     "signals": 139,
@@ -12,8 +12,8 @@
     "unknown": 2
   },
   "signal_summary": {
-    "neutral": 116,
-    "bullish": 22,
+    "neutral": 120,
+    "bullish": 18,
     "bearish": 1
   },
   "source_status": {
