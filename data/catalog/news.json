@@ -1,47 +1,17 @@
 {
-  "generated_at": "2026-11-06T05:33:22Z",
-  "snapshot_date": "2026-11-06",
+  "generated_at": "2026-11-07T05:33:23Z",
+  "snapshot_date": "2026-11-07",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Cloudflare’s stock mounts a big comeback after fastest sales surge in nearly 4 years",
-      "url": "https://www.marketwatch.com/story/cloudflares-stock-mounts-a-big-comeback-after-fastest-sales-surge-in-nearly-4-years-d80d994d?mod=mw_rss_topstories",
+      "title": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
+      "url": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-05T23:50:00+00:00",
-      "summary": "Demand for automated AI protection is on the rise — and manifesting in Cloudflare’s earnings results.",
-      "sentiment": "neutral",
-      "sentiment_score": -0.128,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Here are the 2027 capital-gains tax rates for each income level",
-      "url": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-05T23:48:00+00:00",
-      "summary": "How much will you pay in capital-gains taxes next year? The IRS just released this crucial  information.",
-      "sentiment": "neutral",
-      "sentiment_score": -0.1027,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Tech stocks log worst day since 2020 as carnage comes to the AI trade",
-      "url": "https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-05T22:48:00+00:00",
-      "summary": "The S&amp;P 500 lost an estimated $2.9 trillion in market capitalization, the largest one-day loss of market value on record.",
+      "published_at": "2026-11-06T21:37:00+00:00",
+      "summary": "AI debt issuance this year overwhelmed investor portfolios, and has disappointed from a performance perspective. The funding need won’t get any better with Democrats in control of Congress.",
       "sentiment": "bearish",
-      "sentiment_score": -0.743,
+      "sentiment_score": -0.8689,
       "tags": [
         "AI"
       ],
@@ -50,13 +20,13 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Buy the dip or wait it out? Young investors react as retail stock selling hits one of its highest levels since COVID crash.",
-      "url": "https://www.marketwatch.com/story/buy-the-dip-or-wait-it-out-young-investors-react-as-retail-stock-selling-hits-one-of-its-highest-levels-since-covid-crash-610d8087?mod=mw_rss_topstories",
+      "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
+      "url": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-05T21:44:00+00:00",
-      "summary": "Some see another buying opportunity. Others fear the worst isn’t over. A market rout is testing the instincts of a generation raised on quick rebounds.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.802,
+      "published_at": "2026-11-06T21:24:00+00:00",
+      "summary": "Analysts warn of further volatility ahead, although there are several new factors that work in the AI trade’s favor.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7964,
       "tags": [
         "AI"
       ],
@@ -65,13 +35,13 @@
       "source_repo": "financenews"
     },
     {
-      "title": "The ‘Musk selloff’ deepens as Tesla and SpaceX combine for $456 billion two-day wipeout",
-      "url": "https://www.marketwatch.com/story/the-musk-selloff-deepens-as-tesla-and-spacex-combine-for-450-billion-two-day-wipeout-d300ab4f?mod=mw_rss_topstories",
+      "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+      "url": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-05T21:43:00+00:00",
-      "summary": "Investors worry a divided Washington could derail “Elon, Inc.”",
-      "sentiment": "bearish",
-      "sentiment_score": -0.6249,
+      "published_at": "2026-11-06T21:15:00+00:00",
+      "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5267,
       "tags": [
         "AI"
       ],
@@ -80,13 +50,28 @@
       "source_repo": "financenews"
     },
     {
-      "title": "After tech-stock rout, October jobs report could bring relief — or more pain",
-      "url": "https://www.marketwatch.com/story/after-tech-stock-rout-october-jobs-report-could-bring-relief-or-more-pain-db93357e?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-05T21:39:00+00:00",
-      "summary": "After a tech-led meltdown in the stock market, the October jobs report on Friday morning could bring investors some encouraging news — or add to their misery.",
+      "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
+      "url": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-11-06T19:05:00+00:00",
+      "summary": "San Francisco Fed President Mary Daly called Friday's jobs report \"good news for American workers,\" but noted the pressure inflation is exerting on household finances",
       "sentiment": "bearish",
-      "sentiment_score": -0.2006,
+      "sentiment_score": -0.2144,
+      "tags": [
+        "Fed"
+      ],
+      "signal": "watch",
+      "category": "macro",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Cybertruck’s run comes to an end as Musk kills off pricey pet project",
+      "url": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-06T18:54:00+00:00",
+      "summary": "The Cybertruck failed to catch on with car buyers due to high prices and some notable recalls.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.7783,
       "tags": [
         "AI"
       ],
@@ -95,15 +80,78 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Is this ‘the big one’ for the stock market? Wall Street sounds off as tech plunges.",
-      "url": "https://www.marketwatch.com/story/is-this-the-big-one-for-the-stock-market-wall-street-sounds-off-as-tech-plunges-185df529?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-05T21:37:00+00:00",
-      "summary": "A punishing selloff in the tech space caused carnage in the stock market Thursday, one day after equities saw a big bounce after the Democrats swept Tuesday’s midterm elections.",
+      "title": "US tech stocks post modest recovery on Wall Street after worst day in 19 months – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-11-06T17:28:11+00:00",
+      "summary": "<p>European and Asia-Pacific markets slide after Wall Street rout, while latest US jobs report beats forecasts</p><ul><li><p><a href=\"https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest\"><strong>Could the AI bubble burst after Democrats’ midterms sweep? - The Latest</strong></a></p></li></ul><p><strong>Despite the sharp losses suffered on global stock markets around the world, most indices are still up for the year.</strong></p><p>The <strong>Nasdaq</strong> <strong>Composite</strong> index, for example, is still up 4.6% since the start of January – even though it’s more than 10% below its peak.</p><p>“The tech sell-off has intensified, with the pain of the brutal sell-off on Wall Street carried straight through to Asia and knocking sentiment in Europe.</p><p>Big worries are colliding – the build-out of data centres looks set to slow, which risks shredding the spending spree underpinning the boom, right at the time that investors have become super nervous about returns on this massive investment.</p> <a href=\"https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates\">Continue reading...</a>",
       "sentiment": "bearish",
-      "sentiment_score": -0.5574,
+      "sentiment_score": -0.959,
       "tags": [
-        "Election"
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-11-06T17:09:53+00:00",
+      "summary": "Coreweave's steep yields reflect stress in the AI debt markets as investors worry about a data center slowdown. What comes next.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.5994,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Could the AI bubble burst after Democrats' midterms sweep? - The Latest",
+      "url": "https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest",
+      "source": "The Guardian Economics",
+      "published_at": "2026-11-06T17:04:41+00:00",
+      "summary": "<p>Global tech stocks have plunged after the Democrats’ victory in the US midterm elections, with fears of a slowdown in AI development. Major tech corporations including Apple, Tesla and Nvidia shed about $1tn in a single trading session. Is this stock market jitters, or a sign the AI bubble might be about to burst? Lucy Hough speaks to senior economics correspondent Richard Partington</p> <a href=\"https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.4871,
+      "tags": [
+        "Election",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Could the AI bubble burst after Democrats’ midterms sweep? – The Latest",
+      "url": "https://www.theguardian.com/news/audio/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest",
+      "source": "The Guardian Economics",
+      "published_at": "2026-11-06T16:49:19+00:00",
+      "summary": "<p>Global tech stocks have plunged after the Democrats’ victory in the US midterm elections, with fears of a slowdown in AI development. Major tech corporations including Apple, Tesla and Nvidia shed about $1tn in a single trading session. Is this stock market jitters, or a sign the AI bubble might be about to burst? Lucy Hough speaks to senior economics correspondent Richard Partington <strong>– </strong><a href=\"https://www.youtube.com/@todayinfocuspodcast\"><strong>watch on YouTube</strong></a></p> <a href=\"https://www.theguardian.com/news/audio/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.4871,
+      "tags": [
+        "Election",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "US job growth exceeds expectations in October despite economic uncertainty",
+      "url": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october",
+      "source": "The Guardian Economics",
+      "published_at": "2026-11-06T13:42:26+00:00",
+      "summary": "<p>‘Low-hire, low-fire’ labor market shows sluggish growth but few layoffs, with an interest rate hike expected in December</p><p>The US added 165,000 jobs to the economy in October, a sign of resilience in the labor market amid ongoing war in the Middle East and inflation, according to new data released on Friday.</p><p>Economists had said the labor market has been stuck in a “low-hire, low-fire” state, in which job growth is sluggish but layoffs also remain low, but October’s data surpassed economist expectations. The <a href=\"https://www.theguardian.com/business/usemployment\">unemployment rate</a> went down slightly to 4.1%, the Bureau of Labor Statistics (BLS) reported.</p> <a href=\"https://www.theguardian.com/business/2026/nov/06/us-job-growth-october\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.6577,
+      "tags": [
+        "AI"
       ],
       "signal": "watch",
       "category": "technology",
@@ -146,7 +194,7 @@
       "url": "https://www.theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates",
       "source": "The Guardian Economics",
       "published_at": "2026-11-05T17:24:07+00:00",
-      "summary": "<p>UK hit by first interest rate rise in three years, as Bank predicts inflation will approach 5% by middle of 2027</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/nov/05/interest-rate-rise-in-midst-of-cost-of-living-crisis-will-leave-many-incredulous\">Interest rate rise in midst of cost of living crisis will leave many incredulous</a></p></li></ul><p><strong>UK government bond prices are also rallying today.</strong></p><p>This has pushed down the yield, or rate of return, on UK 10-year gilts by 4 basis points (0.04 of a percentage point) to the lowest since August 28, below 5.1%.</p> <a href=\"https://www.theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates\">Continue reading...</a>",
+      "summary": "<p>UK hit by first interest rate rise in three years, as Bank predicts inflation will approach 5% by middle of 2027</p><ul><li><p><a href=\"https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest\"><strong>Could the AI bubble burst after Democrats’ midterms sweep? - The Latest</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/nov/05/interest-rate-rise-in-midst-of-cost-of-living-crisis-will-leave-many-incredulous\">Interest rate rise in midst of cost of living crisis will leave many incredulous</a></p></li></ul><p><strong>UK government bond prices are also rallying today.</strong></p><p>This has pushed down the yield, or rate of return, on UK 10-year gilts by 4 basis points (0.04 of a percentage point) to the lowest since August 28, below 5.1%.</p> <a href=\"https://www.theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates\">Continue reading...</a>",
       "sentiment": "bearish",
       "sentiment_score": -0.8225,
       "tags": [
@@ -419,53 +467,6 @@
       "summary": "<p>Reserve Bank of Australia increases official cash rate to 4.85%, bringing it to highest level since 2008</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Reserve Bank governor Michele Bullock has said that “some pain now will prevent even worse pain down the track”, after lifting official interest rates to an 18-year high of 4.85% in a bid to combat persistent inflation.</p><p>The RBA’s decision to hit mortgage holders for a fifth time in 2026 will intensify pressure on indebted households, but there were signs that the central bank will at least now wait through summer to gauge the impact of higher interest rates on the economy.</p><p><strong><a href=\"https://www.theguardian.com/australia-news/2026/aug/28/politics-really-newsletter-guardian-australia-free-best-daily-auspol-email-subscribe?CMP=copyembed\">Sign up for Guardian Australia’s Politics, really newsletter here</a></strong></p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia\">Continue reading...</a>",
       "sentiment": "bearish",
       "sentiment_score": -0.2824,
-      "tags": [
-        "Interest Rates",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
-      "url": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-11-03T06:46:36+00:00",
-      "summary": "Blackstone President Jon Gray says AI infrastructure needs more equity as debt investors face concentration risks amid massive spending plans.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.8158,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "The RBA has hiked interest rates. Use our loan calculator to check how it could affect you",
-      "url": "https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator",
-      "source": "The Guardian Economics",
-      "published_at": "2026-11-03T03:40:04+00:00",
-      "summary": "<p>Reserve Bank of Australia announces fifth hike this year, adding to the cost of monthly mortgage repayments</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Reserve Bank of Australia hiked <a href=\"https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia\">interest rates to an 18-year high</a> on Tuesday – the fifth rate hike this year.</p><p>For someone with an <a href=\"https://www.abs.gov.au/statistics/economy/finance/lending-indicators/latest-release\">average-sized new mortgage</a> of $731,000, paying a <a href=\"https://www.rba.gov.au/statistics/interest-rates/\">typical rate</a> of 6.2%, a 0.25 percentage point rate increase would add about $119 to their $4,596 monthly repayments.</p> <a href=\"https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6868,
-      "tags": [
-        "Interest Rates",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "‘Sharper, longer slowdown’ predicted for Australian economy as fifth interest rate hike looms",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/02/australia-economy-fifth-interest-rate-hike-looms",
-      "source": "The Guardian Economics",
-      "published_at": "2026-11-02T06:57:29+00:00",
-      "summary": "<p>Australia’s central bank expected to hit mortgage holders again on Tuesday, as war in Middle East combines with collapsing house prices</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/nov/03/rba-interest-rates-meeting-today-latest-news-australia-reserve-bank-cash-rate-announcement-decision-live-updates\">RBA interest rates live updates: Reserve Bank cash rate decision</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australia’s economy is set for a “sharper, longer slowdown”, major bank economists say, as the Reserve Bank is forced to keep interest rates higher to rid the nation of persistent inflationary pressures.</p><p><a href=\"https://www.theguardian.com/australia-news/2026/nov/02/minns-warns-rba-rate-rise-job-losses-economy\">The RBA is widely expected to hit mortgage holders with a fifth rate hike</a> on Tuesday, in a move that will push the cash rate to its highest since 2008 amid rising worries the economy could even be tipped into recession.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/02/australia-economy-fifth-interest-rate-hike-looms\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.594,
       "tags": [
         "Interest Rates",
         "AI"
