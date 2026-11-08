@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-07T05:33:23Z",
-  "snapshot_date": "2026-11-07",
+  "generated_at": "2026-11-08T05:33:14Z",
+  "snapshot_date": "2026-11-08",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
-      "url": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
+      "title": "Here are the 2027 capital-gains tax rates for each income level",
+      "url": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-06T21:37:00+00:00",
-      "summary": "AI debt issuance this year overwhelmed investor portfolios, and has disappointed from a performance perspective. The funding need won’t get any better with Democrats in control of Congress.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.8689,
+      "published_at": "2026-11-07T19:48:00+00:00",
+      "summary": "How much will you pay in capital-gains taxes next year? The IRS just released this crucial  information.",
+      "sentiment": "neutral",
+      "sentiment_score": -0.1027,
       "tags": [
         "AI"
       ],
@@ -20,28 +20,88 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
-      "url": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
+      "title": "Democrats’ big election win revives a difficult Social Security question: Who pays?",
+      "url": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-06T21:24:00+00:00",
-      "summary": "Analysts warn of further volatility ahead, although there are several new factors that work in the AI trade’s favor.",
+      "published_at": "2026-11-07T17:43:00+00:00",
+      "summary": "There are many ideas for saving Social Security. All of them will hurt.",
       "sentiment": "bullish",
-      "sentiment_score": 0.7964,
+      "sentiment_score": 0.6486,
       "tags": [
-        "AI"
+        "Election"
       ],
       "signal": "watch",
-      "category": "technology",
+      "category": "markets",
       "source_repo": "financenews"
     },
     {
       "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
       "url": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-06T21:15:00+00:00",
+      "published_at": "2026-11-07T17:01:00+00:00",
       "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
       "sentiment": "bullish",
       "sentiment_score": 0.5267,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+      "url": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-07T16:40:00+00:00",
+      "summary": "The large-cap index is nowhere near as diversified as you think.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.5106,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
+      "url": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-11-07T16:02:33+00:00",
+      "summary": "Healthcare stocks may struggle to find momentum as the Democrats get ready to take over Congress.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.25,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+      "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-11-07T15:23:46+00:00",
+      "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6249,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Trump may have lost but don’t bet Democrats can fix the economy",
+      "url": "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis",
+      "source": "The Guardian Economics",
+      "published_at": "2026-11-07T11:00:08+00:00",
+      "summary": "<p>There’s not much they can do over the next couple of years to alleviate angry voters’ stress over prices</p><p>It was the economy, again. Although Donald Trump largely ignored it, voters’ acute concerns over the rising cost of living fuelled a political upheaval for the ages that is likely to deliver the biggest swing toward Democrats since Watergate, granting them the largest House majority in nearly four decades alongside their biggest edge in the Senate since 2008.</p><p>Still, having come to power promising to restore affordability, the new crop of Democrats are soon to discover that there is not much they can do over the next couple of years to alleviate angry voters’ stress over pricey gas and groceries, exorbitant mortgages and unaffordable healthcare.</p><p>Eduardo Porter is a journalist focused on economics and politics. He writes the newsletter <a href=\"https://eduardoelreportero.substack.com/\">Being There</a> on Substack</p> <a href=\"https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.8481,
       "tags": [
         "AI"
       ],
@@ -62,21 +122,6 @@
       ],
       "signal": "watch",
       "category": "macro",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Cybertruck’s run comes to an end as Musk kills off pricey pet project",
-      "url": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-06T18:54:00+00:00",
-      "summary": "The Cybertruck failed to catch on with car buyers due to high prices and some notable recalls.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.7783,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
       "source_repo": "financenews"
     },
     {
@@ -422,53 +467,6 @@
       "sentiment": "bullish",
       "sentiment_score": 0.9396,
       "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
-      "url": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-11-03T13:33:11+00:00",
-      "summary": "Prediction markets still show the Republican incumbent favored to win a fourth term, but the odds have narrowed in recent weeks.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.9274,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "‘In the trenches’: Wisconsin’s struggling small businesses could turn a Trump ally’s district blue",
-      "url": "https://www.theguardian.com/us-news/2026/nov/03/small-business-economy-wisconsin-house-race",
-      "source": "The Guardian Economics",
-      "published_at": "2026-11-03T11:00:57+00:00",
-      "summary": "<p>Affordability and small businesses’ economic woes feature heavily in the House race for Wisconsin’s third district</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates\">US midterms 2026 live – latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races\">Track live results from all 50 states</a></p></li></ul><p>After 18 years in business, Erin Klaus is closing her storefront, a handmade artisan market in downtown Eau Claire, Wisconsin, at the end of the year.</p><p>She opened Tangled Up in Hue amid a recession, during a time when downtown was “kind of a ghost town”, weathering construction and the pandemic. But the current economic crisis proved too much. She’s seen a downward trend in sales for two years, and was dipping into her own pocket from her other job, as the executive director of the business non-profit Downtown Eau Claire Inc, to pay staff.</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/03/small-business-economy-wisconsin-house-race\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.9127,
-      "tags": [
-        "Election",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "RBA interest rates: Bullock says ‘pain now’ will prevent worse later as Reserve Bank hikes rates for fifth time",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia",
-      "source": "The Guardian Economics",
-      "published_at": "2026-11-03T07:36:42+00:00",
-      "summary": "<p>Reserve Bank of Australia increases official cash rate to 4.85%, bringing it to highest level since 2008</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Reserve Bank governor Michele Bullock has said that “some pain now will prevent even worse pain down the track”, after lifting official interest rates to an 18-year high of 4.85% in a bid to combat persistent inflation.</p><p>The RBA’s decision to hit mortgage holders for a fifth time in 2026 will intensify pressure on indebted households, but there were signs that the central bank will at least now wait through summer to gauge the impact of higher interest rates on the economy.</p><p><strong><a href=\"https://www.theguardian.com/australia-news/2026/aug/28/politics-really-newsletter-guardian-australia-free-best-daily-auspol-email-subscribe?CMP=copyembed\">Sign up for Guardian Australia’s Politics, really newsletter here</a></strong></p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.2824,
-      "tags": [
-        "Interest Rates",
         "AI"
       ],
       "signal": "watch",
