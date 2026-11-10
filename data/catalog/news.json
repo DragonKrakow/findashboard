@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-09T05:33:31Z",
-  "snapshot_date": "2026-11-09",
+  "generated_at": "2026-11-10T05:33:28Z",
+  "snapshot_date": "2026-11-10",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-      "url": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+      "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+      "url": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-09T00:02:00+00:00",
-      "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
+      "published_at": "2026-11-09T22:49:00+00:00",
+      "summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
       "sentiment": "bullish",
-      "sentiment_score": 0.5267,
+      "sentiment_score": 0.5423,
       "tags": [
         "AI"
       ],
@@ -20,28 +20,120 @@
       "source_repo": "financenews"
     },
     {
-      "title": "A new setback for the AI trade: Nvidia’s board is probing CEO Huang’s relationship with alleged spy",
-      "url": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
+      "title": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet.",
+      "url": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-08T23:05:00+00:00",
-      "summary": "Jensen Huang will remain in his role and cooperate with the investigation, though analysts say the matter could cloud over Nvidia’s stock for some time.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0258,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Two months after my father’s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?",
-      "url": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-08T17:30:00+00:00",
-      "summary": "“About two months after his funeral, my stepmother called and said she wanted the money back.”",
+      "published_at": "2026-11-09T21:52:00+00:00",
+      "summary": "“It took one election and a poor Nvidia headline to go from D.C. being a tailwind to D.C. as a potential headwind,” says strategist.",
       "sentiment": "bearish",
-      "sentiment_score": -0.2732,
+      "sentiment_score": -0.4767,
+      "tags": [
+        "Election",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
+      "url": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-09T21:43:00+00:00",
+      "summary": "The chip makers’ shares were posting big gains Monday — but those companies could also be subject to greater scrutiny over their sales practices, analysts say.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6858,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
+      "url": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-09T21:24:00+00:00",
+      "summary": "Tuesday’s CPI inflation report and a heavy lineup of Federal Reserve speakers could test the rotation trade’s resilience",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "Fed"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "A failed trial for a heart drug casts shadow over rivals developing similar therapies",
+      "url": "https://www.marketwatch.com/story/a-failed-trial-for-a-heart-drug-casts-shadow-over-rivals-developing-similar-therapies-2d9bd79f?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-09T21:21:00+00:00",
+      "summary": "The full data from the closely watched clinical trial showed that the drug had no cardiovascular benefit even though it reduced Lp(a) levels.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.4176,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Nvidia’s value tumbles by $330bn after ‘honeytrap’ investigation launched, as China denies spying claims – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-11-09T21:14:02+00:00",
+      "summary": "<p>Shares in world’s most valuable company hit seven-month low after CEO Huang admits to affair, after allegations of relationship with Chinese spy</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk\">Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy</a></p></li><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/09/who-is-alice-huang-the-woman-linked-to-nvidias-ceo\">Who is Alice Huang, the woman linked to Nvidia’s CEO?</a></p></li><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/09/nvidia-affair-huang-trump-national-security\">The AI poster boy, the ‘Chinese spy’ and Trump: how an affair may have harmed US security</a></p></li></ul><p><strong>Huang is receiving support from some fellow tech executives, including Elon Musk.</strong></p><p>Musk commented “I agree” on a post by ​Sequoia partner Shaun Maguire that said Huang “did something incredibly dumb” that was “bad for America” but that “Jensen is irreplaceable for America’s AI leadership”.</p><p>“While Nvidia has sought to reassure us all, ​there are several layers here, beginning with the unfortunate timing.</p><p>“For example: The company is systemically important for tech, markets and the economy; Investors tend to struggle to price in key-person and governance issues; and there are fluid national security and geopolitical dynamics.”</p> <a href=\"https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.3708,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Why prediction markets and Wall Street pros so often fail to see what’s coming",
+      "url": "https://www.marketwatch.com/story/why-prediction-markets-and-wall-street-pros-so-often-fail-to-see-whats-coming-c516b6e3?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-09T21:14:00+00:00",
+      "summary": "The probabilities make it almost certain that macro forecasts will be wrong far more often than right.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.7245,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
+      "url": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-11-09T18:14:47+00:00",
+      "summary": "Goldman CEO David Solomon says investor appetite for AI infrastructure remains strong despite a reset in AI stocks and political uncertainty around data centers.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6369,
+      "tags": [
+        "Gold",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "The rise and rise of the family farm",
+      "url": "https://www.theguardian.com/environment/2026/nov/09/family-farming-agritainment",
+      "source": "The Guardian Economics",
+      "published_at": "2026-11-09T13:00:10+00:00",
+      "summary": "<p>As prices go up but grain prices stagante, more farming families are turning to ‘agritainment’ to make a living</p><p>On any given Saturday at this time of year in south-west Ohio, the Lucas Brothers Fall Festival is the place to be.</p><p>There’s a hayride into the woods, an inflatable obstacle course, a go-kart track and a corn maze linked to a game that visitors can play on their phones.</p> <a href=\"https://www.theguardian.com/environment/2026/nov/09/family-farming-agritainment\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.631,
       "tags": [
         "AI"
       ],
@@ -173,13 +265,13 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Could the AI bubble burst after Democrats’ midterms sweep? – The Latest",
+      "title": "Tech stock crash: is the AI bubble bursting? – The Latest",
       "url": "https://www.theguardian.com/news/audio/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest",
       "source": "The Guardian Economics",
       "published_at": "2026-11-06T16:49:19+00:00",
       "summary": "<p>Global tech stocks have plunged after the Democrats’ victory in the US midterm elections, with fears of a slowdown in AI development. Major tech corporations including Apple, Tesla and Nvidia shed about $1tn in a single trading session. Is this stock market jitters, or a sign the AI bubble might be about to burst? Lucy Hough speaks to senior economics correspondent Richard Partington <strong>– </strong><a href=\"https://www.youtube.com/@todayinfocuspodcast\"><strong>watch on YouTube</strong></a></p> <a href=\"https://www.theguardian.com/news/audio/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest\">Continue reading...</a>",
       "sentiment": "bearish",
-      "sentiment_score": -0.4871,
+      "sentiment_score": -0.7059,
       "tags": [
         "Election",
         "AI"
@@ -193,7 +285,7 @@
       "url": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october",
       "source": "The Guardian Economics",
       "published_at": "2026-11-06T13:42:26+00:00",
-      "summary": "<p>‘Low-hire, low-fire’ labor market shows sluggish growth but few layoffs, with an interest rate hike expected in December</p><p>The US added 165,000 jobs to the economy in October, a sign of resilience in the labor market amid ongoing war in the Middle East and inflation, according to new data released on Friday.</p><p>Economists had said the labor market has been stuck in a “low-hire, low-fire” state, in which job growth is sluggish but layoffs also remain low, but October’s data surpassed economist expectations. The <a href=\"https://www.theguardian.com/business/usemployment\">unemployment rate</a> went down slightly to 4.1%, the Bureau of Labor Statistics (BLS) reported.</p> <a href=\"https://www.theguardian.com/business/2026/nov/06/us-job-growth-october\">Continue reading...</a>",
+      "summary": "<p>‘Low-hire, low-fire’ labor market shows sluggish growth but few layoffs, with an interest rate hike expected in December</p><p>The US added 165,000 jobs to the economy in October, a sign of resilience in the labor market amid war in the Middle East and inflation, according to new data released on Friday.</p><p>Economists had said the labor market has been stuck in a “low-hire, low-fire” state, in which job growth is sluggish but layoffs also remain low, but October’s data surpassed economist expectations. The <a href=\"https://www.theguardian.com/business/usemployment\">unemployment rate</a> went down slightly to 4.1%, the Bureau of Labor Statistics (BLS) reported.</p> <a href=\"https://www.theguardian.com/business/2026/nov/06/us-job-growth-october\">Continue reading...</a>",
       "sentiment": "bearish",
       "sentiment_score": -0.6577,
       "tags": [
@@ -370,104 +462,6 @@
       "sentiment_score": 0.8779,
       "tags": [
         "Election",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "After the US midterms, what will a lame duck Trump mean for the global economy?",
-      "url": "https://www.theguardian.com/us-news/2026/nov/04/explainer-midterms-trump-us-global-economy-markets",
-      "source": "The Guardian Economics",
-      "published_at": "2026-11-04T15:56:30+00:00",
-      "summary": "<p>Republicans’ crushing setback will play out in stock markets, inflation, interest rates and economic growth</p><p>Donald Trump’s <a href=\"https://www.theguardian.com/us-news/2026/nov/04/democrats-house-midterm-elections-results\">loss of control</a> of the House of Representatives and the Senate has put the world economy on notice for an unpredictable final two years of his presidential term.</p><p>After Democrats swept aside his Republican party in the midterm elections, analysts said the prospect of a highly erratic lame-duck president would have significant implications for financial markets, growth, inflation, government borrowing costs and living standards.</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/04/explainer-midterms-trump-us-global-economy-markets\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8126,
-      "tags": [
-        "Interest Rates",
-        "Election",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "The RBA says there is ‘excess demand’ in the economy. Households doing it tough might disagree | Greg Jericho",
-      "url": "https://www.theguardian.com/business/grogonomics/2026/nov/04/the-rba-says-there-is-excess-demand-in-the-economy-households-doing-it-tough-might-disagree",
-      "source": "The Guardian Economics",
-      "published_at": "2026-11-04T14:00:37+00:00",
-      "summary": "<p>The problem with inflation driven by factors such as wars and supply side shocks is that interest rate rises don’t do much</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>On Tuesday this week came the biggest news regarding inflation. No, not the Reserve Bank’s decision to <a href=\"https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia\">raise interest rates</a>; that will do barely anything (although it will most certainly raise unemployment). No, the most important news for inflation was that the <a href=\"https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island\">US had launched limited strikes</a> on ​Iran’s Qeshm Island.</p><p>This announcement came after word from the Iranian government that talks were under way to end the conflict – news that caused the price of oil to drop 11%. But the strike sent prices rising again, before traders took an optimistic stance ahead of Wednesday’s US midterm elections:</p> <a href=\"https://www.theguardian.com/business/grogonomics/2026/nov/04/the-rba-says-there-is-excess-demand-in-the-economy-households-doing-it-tough-might-disagree\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.5021,
-      "tags": [
-        "Interest Rates",
-        "Election",
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "UK interest rates increase expected after services sector activity accelerates",
-      "url": "https://www.theguardian.com/business/2026/nov/04/uk-interest-rates-increase-expected-service-sector-activity-accelerates-pmi",
-      "source": "The Guardian Economics",
-      "published_at": "2026-11-04T13:53:38+00:00",
-      "summary": "<p>Purchasing manager’s index at eight-month high, bolstered by spending on AI as firms regain momentum lost to Iran war</p><p>The Bank of England is expected to raise interest rates on Thursday after a closely watched survey showed growth across the UK’s services sector leapt last month to an eight-month high, bolstered by spending on artificial intelligence.</p><p>S&amp;P Global’s survey of the services sector in October showed businesses regained much of the momentum they lost after the start of the Iran war, but also felt the impact of a renewed spurt of input price inflation, which accelerated to a five-month high.</p> <a href=\"https://www.theguardian.com/business/2026/nov/04/uk-interest-rates-increase-expected-service-sector-activity-accelerates-pmi\">Continue reading...</a>",
-      "sentiment": "neutral",
-      "sentiment_score": 0.1779,
-      "tags": [
-        "Interest Rates",
-        "AI",
-        "Artificial Intelligence"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "The Guardian view on Labour’s growth obsession: a different economics is possible | Editorial",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/03/the-guardian-view-on-labours-growth-obsession-a-different-economics-is-possible",
-      "source": "The Guardian Economics",
-      "published_at": "2026-11-03T18:30:56+00:00",
-      "summary": "<p>The latest edition of Radical Thinking, the Guardian’s new podcast, should be required listening at a Treasury still stifled by outdated orthodoxies</p><p>As prime ministers have come and gone at bewildering speed in recent years, the search for elusive economic growth has become the overriding fixation of the British political class. In the lead-up to the 2024 general election, Sir Keir Starmer <a href=\"https://x.com/Keir_Starmer/status/1731679006112571450\">declared</a> that “growth must become Labour’s obsession”, given the financial constraints that any new government would be under. The scale of Labour’s progressive offer, it was made clear, would be umbilically linked to its ability to generate a significant uptick in GDP.</p><p>“Growth in every postcode” is also the early <a href=\"https://www.gov.uk/government/news/prime-minister-pledges-growth-in-every-postcode-across-whole-of-uk-as-he-visits-scotland\">mantra</a> of Andy Burnham’s government. The prime minister swept to power partly by running on Greater Manchester’s record as the UK’s fastest-growing city region while he was mayor. Echoing Mr Starmer’s approach, Mr Burnham’s chancellor, John Healey, <a href=\"https://tribunemag.co.uk/2026/10/the-left-after-growth\">told</a> the Labour party conference in September: “Without growth, there is no social democracy.”</p> <a href=\"https://www.theguardian.com/commentisfree/2026/nov/03/the-guardian-view-on-labours-growth-obsession-a-different-economics-is-possible\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.91,
-      "tags": [
-        "Election",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Stock market after midterm elections: What S&P 500 history shows",
-      "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-11-03T18:21:05+00:00",
-      "summary": "Midterms historically precede a strong year for the S&amp;P 500. What to know if Democrats win back Congress",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7964,
-      "tags": [
-        "Election"
-      ],
-      "signal": "watch",
-      "category": "markets",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Give us all a share of  Rolls-Royce’s profits | Brief letters",
-      "url": "https://www.theguardian.com/business/2026/nov/03/give-us-all-a-share-of-rolls-royce-profits",
-      "source": "The Guardian Economics",
-      "published_at": "2026-11-03T17:49:43+00:00",
-      "summary": "<p>Government should invest, not subsidise | Size matters | ‘Ferritin face’ | Train announcements | Reform UK’s newspaper</p><p>Rather than give Rolls-Royce a £1.25bn subsidy to develop the next-generation narrow-body jet airliner programme (<a href=\"https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/29/hold-your-nose-125bn-subsidy-rolls-royces-engine-justified-budget\">Nils Pratley on finance, 29 October</a>), would it not be more advantageous to the Treasury, and thus the taxpayer, me included, to invest £1.25bn in shares in the company? That way, we all get a share of the prospective profits, and&nbsp;in the long run pay lower taxes.\n <br />\n <strong>Patrick Billingham</strong>\n <br />\n <em>Brighton, East Sussex</em></p><p>• You say the Rothbury estate covers “an area the size of Athens” (<a href=\"https://www.theguardian.com/environment/2026/oct/30/wildlife-trusts-northumberland-nature-recovery-rothbury-estate\">Wildlife Trusts hit £30m target to buy and rewild huge Northumberland estate, 30 October</a>). When did you move to measuring land area in terms of the Greek capital rather than the traditional British measures of Greater Londons or Wales (or parts thereof)?\n <br />\n <strong>John Hubbard</strong>\n <br />\n <em>Chislehurst, Kent</em></p> <a href=\"https://www.theguardian.com/business/2026/nov/03/give-us-all-a-share-of-rolls-royce-profits\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.9396,
-      "tags": [
         "AI"
       ],
       "signal": "watch",
