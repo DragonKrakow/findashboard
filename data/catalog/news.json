@@ -1,9 +1,146 @@
 {
-  "generated_at": "2026-11-11T05:33:28Z",
-  "snapshot_date": "2026-11-11",
+  "generated_at": "2026-11-12T05:33:34Z",
+  "snapshot_date": "2026-11-12",
   "source": "financenews",
   "count": 30,
   "articles": [
+    {
+      "title": "Your holiday credit-card bills are going up. What you can do to ease the pain.",
+      "url": "https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-11T23:30:00+00:00",
+      "summary": "The government may have lost a month of inflation data, but don’t expect your credit card’s annual percentage rate to decline because of it.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.4939,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade",
+      "url": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-11T22:05:00+00:00",
+      "summary": "CoreWeave’s improved AI economics and its vow to show some discipline around debt are sparking a broad rally across the chip sector.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.1531,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Opening trading-card packs has become a $2 billion market. New apps are trying to cash in.",
+      "url": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-11T21:55:00+00:00",
+      "summary": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their “slot-like payoff” raises risks.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.3919,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Falling oil prices are no longer enough to bring down borrowing costs in the world’s most important bond market",
+      "url": "https://www.marketwatch.com/story/falling-oil-prices-are-no-longer-enough-to-bring-down-borrowing-costs-in-the-worlds-most-important-bond-market-3176d25a?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-11T21:42:00+00:00",
+      "summary": "The tight trading relationship between oil prices and Treasury yields has broken down. It’s a sign that inflation concerns are extending beyond the energy shock.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.5434,
+      "tags": [
+        "Oil"
+      ],
+      "signal": "watch",
+      "category": "energy",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Sandisk’s stock just staged a big gain. Here’s how it could march even higher.",
+      "url": "https://www.marketwatch.com/story/sandisks-stock-is-soaring-and-these-three-trends-could-send-it-even-higher-b0d7d5ec?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-11T21:40:00+00:00",
+      "summary": "Various “structural changes” afoot in the memory industry could help Sandisk shares more than double from here, according to an Evercore analyst.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8074,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Why this ‘big idea’ to fix Social Security relies on a massive stock-market gamble",
+      "url": "https://www.marketwatch.com/story/why-this-big-idea-to-fix-social-security-relies-on-a-massive-stock-market-gamble-5423f50f?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-11T21:21:00+00:00",
+      "summary": "From a long-term perspective, the past 50 years of strong market gains are the exception rather than the rule",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7964,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
+      "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-11-11T16:49:02+00:00",
+      "summary": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.6908,
+      "tags": [
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Nvidia hires major US law firm to investigate spying claims; UK chancellor ‘dismayed’ by budget leak – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-11-11T16:37:45+00:00",
+      "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>After two days of losses, Nvidia’s stock is expected to recover some lost ground today.</strong></p><p>Nvidia’s shares are up almost 5% in premarket trading, ahead of the Wall Street open in just over four hour’s time.</p><p>“The FTSE 100 advanced 0.8% to 10,835, putting it ever closer to hitting the magic 11,000 level. It only needs to rise a further 1.5% to win the prize. Hitting 11,000 would have psychological benefits, and doing so could help win over naysayers who say the UK market has nothing to offer.”</p> <a href=\"https://www.theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.9266,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Democrats’ US election sweep brings the price of their promised social contract into focus",
+      "url": "https://www.theguardian.com/business/2026/nov/11/democrats-election-medicaid-costs",
+      "source": "The Guardian Economics",
+      "published_at": "2026-11-11T11:00:46+00:00",
+      "summary": "<p>‘The post-election wish list is about to run into harsh fiscal reality: there is no money’</p><p>Is this an opportunity for a new America? As the Reagan revolution four decades ago launched US society down the path to low taxes and meager solidarity, perhaps the Republican bloodbath last week could turn US politics toward building a new social contract anchored on an aspiration to equitable prosperity.</p><p>One can sense the ambition of the bumper new crop of <a href=\"https://www.theguardian.com/us-news/democrats\">Democrats</a> ushered to power last week, calling for support for programs for children and their parents; emphatically endorsing the long-held dream of Medicare for All. The project includes rolling back <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s cuts to Medicaid and food stamps, and restoring subsidies for health insurance under the Affordable Care Act that Republicans allowed to expire. And that’s just the start.</p> <a href=\"https://www.theguardian.com/business/2026/nov/11/democrats-election-medicaid-costs\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.886,
+      "tags": [
+        "Election",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
     {
       "title": "Bank of England’s inflation response ‘risks higher interest rates for longer’",
       "url": "https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer",
@@ -14,52 +151,6 @@
       "sentiment_score": 0.7184,
       "tags": [
         "Interest Rates",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-      "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-10T23:25:00+00:00",
-      "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
-      "sentiment": "bearish",
-      "sentiment_score": -0.6428,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
-      "url": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-10T22:37:00+00:00",
-      "summary": "It’s one thing for money to shift between stocks,  but it’s another thing for customers to shift their supplier relationships.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.1531,
-      "tags": [
-        "Oil"
-      ],
-      "signal": "watch",
-      "category": "energy",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Stocks fall as the 10-year Treasury yield nears 5% mark",
-      "url": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-10T21:42:00+00:00",
-      "summary": "“I don’t think they should be raising another 25 basis points,” one portfolio manager said about the Federal Reserve’s benchmark interest rate.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5859,
-      "tags": [
-        "Fed",
         "AI"
       ],
       "signal": "watch",
@@ -373,99 +464,6 @@
       "sentiment_score": -0.8225,
       "tags": [
         "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
-      "url": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-11-05T16:34:33+00:00",
-      "summary": "In a CNBC interview, the policymaker expressed concern over inflation and said monetary policy will need to adjust.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.25,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Debt of poorest countries at record $9.4tn high, World Bank data shows",
-      "url": "https://www.theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data",
-      "source": "The Guardian Economics",
-      "published_at": "2026-11-05T14:30:25+00:00",
-      "summary": "<p>Cost of servicing external debt is preventing developing countries from investing for future</p><p>Debt owed by developing countries rose to a record $9.4tn (£7tn) last year, with the poorest paying the highest interest rates since the late 1980s, World Bank data shows.</p><p>The UK government is <a href=\"https://www.theguardian.com/commentisfree/2026/oct/30/british-people-slave-trade-reparations-andy-burnham\">preparing to champion a “new drive on debt”</a> as part of its presidency of the G20 next year – a move the prime minister, Andy Burnham, has linked to confronting the legacy of slavery.</p> <a href=\"https://www.theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.7003,
-      "tags": [
-        "Interest Rates"
-      ],
-      "signal": "watch",
-      "category": "markets",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Interest rate rise in midst of cost of living crisis will leave many incredulous",
-      "url": "https://www.theguardian.com/business/2026/nov/05/interest-rate-rise-in-midst-of-cost-of-living-crisis-will-leave-many-incredulous",
-      "source": "The Guardian Economics",
-      "published_at": "2026-11-05T13:10:44+00:00",
-      "summary": "<p>Bank’s decision goes contrary to analysis from Office for Budget Responsibility that predicts lower inflation and little impetus for wage growth</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years\"><strong>Bank of England raises interest rates to 4%</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates\"><strong>Business live – latest updates</strong></a></p></li></ul><p>An interest rate rise by the Bank of England to 4% is a big call when households are suffering from a second <a href=\"https://www.theguardian.com/business/cost-of-living-crisis\">cost of living crisis</a> in four years.</p><p>Many people will be incredulous when they hear of the decision to increase the cost of borrowing by 0.25 percentage points, looking around their neighbourhood for signs of a booming economy.</p> <a href=\"https://www.theguardian.com/business/2026/nov/05/interest-rate-rise-in-midst-of-cost-of-living-crisis-will-leave-many-incredulous\">Continue reading...</a>",
-      "sentiment": "neutral",
-      "sentiment_score": 0.1779,
-      "tags": [
-        "Interest Rates",
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "What the Democratic midterms sweep changes for U.S.-China relations",
-      "url": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-11-05T12:57:10+00:00",
-      "summary": "Analysts note the growing risks around U.S. President Donald Trump's ability to maintain a fragile trade truce.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.2263,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Rural voters were feeling left behind before the midterms, poll shows",
-      "url": "https://www.theguardian.com/business/2026/nov/05/former-trump-voters-economy",
-      "source": "The Guardian Economics",
-      "published_at": "2026-11-05T11:00:22+00:00",
-      "summary": "<p>Polling done for the Guardian shows plummeting support from a former key constituency of Donald Trump’s base</p><ul><li><p><a href=\"https://www.theguardian.com/community/live/2026/nov/05/what-happens-after-the-blue-wave-our-reporters-answer-your-midterm-election-results-questions\">Q&amp;A: Ask your questions about Democrats’ win in the midterms</a></p></li></ul><p>Polling conducted by the Harris Poll for the Guardian before the election shows just how angry voters were and points to one key reason Republicans lost so badly: plummeting support from rural voters, once a key constituency of Donald Trump’s base.</p><p>Over the summer, 95% of Americans indicated they believed there was an <a href=\"https://www.theguardian.com/business/2026/jul/07/cost-of-living-poll-groceries-gas\">affordability crisis</a>, particularly because of steep gas and grocery prices. By October, 61% of voters <a href=\"https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll\">believed</a> the country was experiencing a recession, even though technically it wasn’t.</p> <a href=\"https://www.theguardian.com/business/2026/nov/05/former-trump-voters-economy\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.3458,
-      "tags": [
-        "Election"
-      ],
-      "signal": "watch",
-      "category": "markets",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Thursday briefing: ‘A dignified life for all must be the north star’: economist Isabella Weber answers your questions",
-      "url": "https://www.theguardian.com/world/2026/nov/05/thursday-briefing-a-dignified-life-for-all-must-be-the-north-star-economist-isabella-weber-answers-your-questions",
-      "source": "The Guardian Economics",
-      "published_at": "2026-11-05T06:44:54+00:00",
-      "summary": "<p>In today’s newsletter: From the cost of living to the AI bubble and the fight against fascism, Weber answers Guardian readers’ questions on how to build a fairer economy and world</p><p>Good morning. As stateside celebrations die down, the Democratic party will be forced to confront a (deceptively) simple question: now what? Their colossal midterm successes will curtail Trump’s power during his remaining time in office, but the battle to shape the Democratic platform heading into next year’s presidential primaries is only just getting started.</p><p>While rallying against Trump is one thing, sustaining support by making a tangible difference to the lives of voters struggling with the cost of living is another. It’s a challenge for progressive parties facing down the far right across the world.</p><p><em><strong>UK </strong></em>| Cocaine has overtaken heroin as the <a href=\"https://www.theguardian.com/society/2026/nov/04/cocaine-overtakes-heroin-drug-deaths-england-wales\">biggest cause of drug deaths</a> in England and Wales, figures from the Office for National Statistics show.</p><p><em><strong>France </strong></em>| Hundreds of thousands are expected to <a href=\"https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living\">march in demonstrations across France</a> as trade unions call for a nationwide strike expected to extend to hospital workers, air traffic control, the post office, teachers and rail staff.</p><p><em><strong>Commonwealth summit </strong></em>| The UK has agreed to “structured dialogue” in the next year <a href=\"https://www.theguardian.com/world/2026/nov/04/debt-relief-aid-no-replacement-slavery-reparations-uk-told-caribbean\">with Caribbean nations affected by the slave trade</a> and its legacy, Commonwealth leaders have said.</p><p><em><strong>US news </strong></em>| Pete Hegseth <a href=\"https://www.theguardian.com/us-news/2026/nov/04/pete-hegseth-republicans-midterm-losses\">is increasingly looking</a> like he may take the fall for Republicans’ midterm losses, despite Donald Trump’s vocal support for his defense secretary, even calling him a champion of war.</p><p><em><strong>Ebola </strong></em>| A British healthcare worker with Ebola<a href=\"https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows\"> is being evacuated</a> from the Democratic Republic of the Congo to the UK for medical treatment, it has been confirmed.</p> <a href=\"https://www.theguardian.com/world/2026/nov/05/thursday-briefing-a-dignified-life-for-all-must-be-the-north-star-economist-isabella-weber-answers-your-questions\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7269,
-      "tags": [
-        "Defense",
         "AI"
       ],
       "signal": "watch",
