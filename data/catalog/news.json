@@ -1,17 +1,33 @@
 {
-  "generated_at": "2026-11-12T05:33:34Z",
-  "snapshot_date": "2026-11-12",
+  "generated_at": "2026-11-13T05:33:32Z",
+  "snapshot_date": "2026-11-13",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Your holiday credit-card bills are going up. What you can do to ease the pain.",
-      "url": "https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446?mod=mw_rss_topstories",
+      "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+      "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-11-13T00:01:19+00:00",
+      "summary": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.836,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
+      "url": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-11T23:30:00+00:00",
-      "summary": "The government may have lost a month of inflation data, but don’t expect your credit card’s annual percentage rate to decline because of it.",
+      "published_at": "2026-11-12T22:57:00+00:00",
+      "summary": "As Nvidia’s board seeks a new CEO, experts say that person will need a rare balance of tech vision and business savvy",
       "sentiment": "bullish",
-      "sentiment_score": 0.4939,
+      "sentiment_score": 0.25,
       "tags": [
         "AI"
       ],
@@ -20,25 +36,10 @@
       "source_repo": "financenews"
     },
     {
-      "title": "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade",
-      "url": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-11T22:05:00+00:00",
-      "summary": "CoreWeave’s improved AI economics and its vow to show some discipline around debt are sparking a broad rally across the chip sector.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.1531,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Opening trading-card packs has become a $2 billion market. New apps are trying to cash in.",
+      "title": "Opening trading-card packs has become a $2 billion market",
       "url": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-11T21:55:00+00:00",
+      "published_at": "2026-11-12T22:38:00+00:00",
       "summary": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their “slot-like payoff” raises risks.",
       "sentiment": "bearish",
       "sentiment_score": -0.3919,
@@ -50,28 +51,29 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Falling oil prices are no longer enough to bring down borrowing costs in the world’s most important bond market",
-      "url": "https://www.marketwatch.com/story/falling-oil-prices-are-no-longer-enough-to-bring-down-borrowing-costs-in-the-worlds-most-important-bond-market-3176d25a?mod=mw_rss_topstories",
+      "title": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
+      "url": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-11T21:42:00+00:00",
-      "summary": "The tight trading relationship between oil prices and Treasury yields has broken down. It’s a sign that inflation concerns are extending beyond the energy shock.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.5434,
+      "published_at": "2026-11-12T22:16:00+00:00",
+      "summary": "Fed Chair Warsh’s quiet style of communicating interest-rate policy has led to more volatile markets.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
       "tags": [
-        "Oil"
+        "Fed",
+        "AI"
       ],
       "signal": "watch",
-      "category": "energy",
+      "category": "technology",
       "source_repo": "financenews"
     },
     {
-      "title": "Sandisk’s stock just staged a big gain. Here’s how it could march even higher.",
-      "url": "https://www.marketwatch.com/story/sandisks-stock-is-soaring-and-these-three-trends-could-send-it-even-higher-b0d7d5ec?mod=mw_rss_topstories",
+      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+      "url": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-11T21:40:00+00:00",
-      "summary": "Various “structural changes” afoot in the memory industry could help Sandisk shares more than double from here, according to an Evercore analyst.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8074,
+      "published_at": "2026-11-12T21:30:00+00:00",
+      "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0258,
       "tags": [
         "AI"
       ],
@@ -80,13 +82,77 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Why this ‘big idea’ to fix Social Security relies on a massive stock-market gamble",
-      "url": "https://www.marketwatch.com/story/why-this-big-idea-to-fix-social-security-relies-on-a-massive-stock-market-gamble-5423f50f?mod=mw_rss_topstories",
+      "title": "The bond market now has an even bigger fear than AI fallout",
+      "url": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-11T21:21:00+00:00",
-      "summary": "From a long-term perspective, the past 50 years of strong market gains are the exception rather than the rule",
+      "published_at": "2026-11-12T20:44:00+00:00",
+      "summary": "Carnage in tech stocks made Treasurys look more attractive in recent weeks, but fears of more Fed rate hikes are now driving yields higher",
+      "sentiment": "bearish",
+      "sentiment_score": -0.5724,
+      "tags": [
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+      "url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-11-12T19:05:25+00:00",
+      "summary": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
       "sentiment": "bullish",
-      "sentiment_score": 0.7964,
+      "sentiment_score": 0.4588,
+      "tags": [
+        "Interest Rates",
+        "Fed"
+      ],
+      "signal": "watch",
+      "category": "macro",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "AI helped UK defy expectations – but will economy’s resilience fizzle out?",
+      "url": "https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey",
+      "source": "The Guardian Economics",
+      "published_at": "2026-11-12T13:08:12+00:00",
+      "summary": "<p>Despite John Healey’s defiance, the economy faces threats from a tech slowdown and energy bills this winter</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp\">AI helps UK economy grow at fastest pace for more than two years</a></p></li></ul><p>The forecasters were clear when John Healey became chancellor in July: Britain’s resilience to the war in the Middle East would not last. The global economic headwinds were too strong, inflation was beginning to rise and growth would slow to a trickle.</p><p>Four months into the job, the economy is continuing to defy expectations after <a href=\"https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp\">growing by 0.7% in the third quarter</a> – the fastest expansion in two and a half years. It puts the UK on course to be the second-fastest growing G7 economy this year.</p> <a href=\"https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8519,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "AI helps UK economy grow at fastest pace for more than two years",
+      "url": "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp",
+      "source": "The Guardian Economics",
+      "published_at": "2026-11-12T09:12:52+00:00",
+      "summary": "<p>GDP ‘grew robustly’ by 0.7% in third quarter and by 0.2% month on month in September despite high oil prices</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey\">AI helped the UK defy expectations – but will Britain’s resilience fizzle out?</a></p></li></ul><p>The UK economy grew by 0.7% in the third quarter, its fastest expansion in two and a half years, as the rollout of AI services increased activity.</p><p>The Office for National Statistics reported that the economy “grew robustly” in the July to September quarter, almost entirely due to strong and widespread growth in the services sector, led by the IT sector.</p> <a href=\"https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.9135,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
+      "url": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-11-12T07:28:48+00:00",
+      "summary": "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5859,
       "tags": [
         "AI"
       ],
@@ -401,69 +467,6 @@
       "sentiment_score": -0.7059,
       "tags": [
         "Election",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "US job growth exceeds expectations in October despite economic uncertainty",
-      "url": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october",
-      "source": "The Guardian Economics",
-      "published_at": "2026-11-06T13:42:26+00:00",
-      "summary": "<p>‘Low-hire, low-fire’ labor market shows sluggish growth but few layoffs, with an interest rate hike expected in December</p><p>The US added 165,000 jobs to the economy in October, a sign of resilience in the labor market amid war in the Middle East and inflation, according to new data released on Friday.</p><p>Economists had said the labor market has been stuck in a “low-hire, low-fire” state, in which job growth is sluggish but layoffs also remain low, but October’s data surpassed economist expectations. The <a href=\"https://www.theguardian.com/business/usemployment\">unemployment rate</a> went down slightly to 4.1%, the Bureau of Labor Statistics (BLS) reported.</p> <a href=\"https://www.theguardian.com/business/2026/nov/06/us-job-growth-october\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.6577,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
-      "url": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-11-05T20:17:16+00:00",
-      "summary": "Democratic winners and progressive lawmakers are calling for tougher limits on AI and data centers after the 2026 midterm elections.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6808,
-      "tags": [
-        "Election",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Bank of England raises interest rates to 4%, the first increase for more than three years",
-      "url": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
-      "source": "The Guardian Economics",
-      "published_at": "2026-11-05T18:00:28+00:00",
-      "summary": "<p>Base rate increases from 3.75% and Bank governor signals another rise in near future to combat rising inflation</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/nov/05/interest-rate-rise-in-midst-of-cost-of-living-crisis-will-leave-many-incredulous\">Analysis: Interest rate rise in midst of cost of living crisis will leave many incredulous</a></p></li></ul><p>The Bank of England has raised interest rates for the first time in three years and warned of another increase to combat inflationary pressure unleashed by the Iran war.</p><p>Eight members of the Bank’s monetary policy committee (MPC) voted for the rise, which takes the base rate from 3.75% to 4%. The ninth member, Catherine Mann, preferred a more dramatic half-point increase.</p> <a href=\"https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years\">Continue reading...</a>",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0516,
-      "tags": [
-        "Interest Rates",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Today’s UK interest rate rise unlikely to be the last unless Iran war ends; Wall Street slides on AI fears as ‘panic sets in’ – as it happened",
-      "url": "https://www.theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-11-05T17:24:07+00:00",
-      "summary": "<p>UK hit by first interest rate rise in three years, as Bank predicts inflation will approach 5% by middle of 2027</p><ul><li><p><a href=\"https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest\"><strong>Could the AI bubble burst after Democrats’ midterms sweep? - The Latest</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/business/2026/nov/05/interest-rate-rise-in-midst-of-cost-of-living-crisis-will-leave-many-incredulous\">Interest rate rise in midst of cost of living crisis will leave many incredulous</a></p></li></ul><p><strong>UK government bond prices are also rallying today.</strong></p><p>This has pushed down the yield, or rate of return, on UK 10-year gilts by 4 basis points (0.04 of a percentage point) to the lowest since August 28, below 5.1%.</p> <a href=\"https://www.theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.8225,
-      "tags": [
-        "Oil",
         "AI"
       ],
       "signal": "watch",
