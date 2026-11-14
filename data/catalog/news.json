@@ -1,9 +1,115 @@
 {
-  "generated_at": "2026-11-13T05:33:32Z",
-  "snapshot_date": "2026-11-13",
+  "generated_at": "2026-11-14T05:33:23Z",
+  "snapshot_date": "2026-11-14",
   "source": "financenews",
   "count": 30,
   "articles": [
+    {
+      "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
+      "url": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-13T22:04:00+00:00",
+      "summary": "It’s official: the world is expected to soon have more oil than it needs for the first time since the Iran war began in February. But more oil doesn’t automatically lead to lower diesel prices.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.765,
+      "tags": [
+        "Oil"
+      ],
+      "signal": "watch",
+      "category": "energy",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "‘She has a history of financial mismanagement’: My brother cut our sister out of his will. I’ll get everything. Do I tell her?",
+      "url": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-13T21:32:00+00:00",
+      "summary": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
+      "sentiment": "bullish",
+      "sentiment_score": 0.4588,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang",
+      "url": "https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-13T21:10:00+00:00",
+      "summary": "At first, it looked like Nvidia’s pain might be the rest of the chip sector’s gain. But now, investors aren’t so sure.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6991,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "UK-EU deal will ‘dissolve’ £60m a year of costs for plant trade, says Angela Eagle",
+      "url": "https://www.theguardian.com/business/2026/nov/13/uk-eu-deal-plant-trade-angela-eagle",
+      "source": "The Guardian Economics",
+      "published_at": "2026-11-13T16:00:19+00:00",
+      "summary": "<p>Signing of agreement to smooth movement of food, plants and animals next week will not recoup huge sums firms were forced to spend</p><p>The removal of border checks and paperwork on plant imports will “dissolve” £60m of annual costs for the horticulture industry when the UK and EU’s new post-Brexit deal comes in, the environment secretary has said.</p><p>Before the <a href=\"https://www.theguardian.com/politics/2026/nov/03/deal-finalised-remove-brexit-checks-food-animal-products\">UK-EU summit on 20 November</a>, Angela Eagle said she hoped paperwork headaches for importers would “disappear” after the changes, although the move would not help businesses recoup the large sums they spent to deal with border controls.</p> <a href=\"https://www.theguardian.com/business/2026/nov/13/uk-eu-deal-plant-trade-angela-eagle\">Continue reading...</a>",
+      "sentiment": "neutral",
+      "sentiment_score": -0.1078,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
+      "url": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-11-13T14:22:07+00:00",
+      "summary": "The policymaker expressed concern about the latest inflation data, telling CNBC that the central bank likely will need to take action.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.4019,
+      "tags": [
+        "Fed"
+      ],
+      "signal": "watch",
+      "category": "macro",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "World is now in ‘age of electricity’, energy agency chief says",
+      "url": "https://www.theguardian.com/environment/2026/nov/13/cop-31-electricity-energy-fossil-fuels-fatih-birol-iea",
+      "source": "The Guardian Economics",
+      "published_at": "2026-11-13T05:00:11+00:00",
+      "summary": "<p>Exclusive: Fossil fuels no longer dominant energy source, IEA leader says, as summit considers electrification pledge</p><p>The world has left behind the age of coal, oil and gas and is now firmly in “the age of electricity”, the world’s leading energy economist has said.</p><p>Fatih Birol, the executive director of the International Energy Agency (IEA), said more than twice as much electricity generation would be added to the global economy in the next decade than in the last, as countries scramble to secure their energy supplies against fossil fuel price volatility and supply shocks, such as the Iran war.</p> <a href=\"https://www.theguardian.com/environment/2026/nov/13/cop-31-electricity-energy-fossil-fuels-fatih-birol-iea\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7269,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
+      "url": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-11-13T02:56:35+00:00",
+      "summary": "The political climate heading into next week's Trump-Xi summit is drastically different from the last meeting in September.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
     {
       "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
       "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
@@ -14,83 +120,6 @@
       "sentiment_score": -0.836,
       "tags": [
         "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
-      "url": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-12T22:57:00+00:00",
-      "summary": "As Nvidia’s board seeks a new CEO, experts say that person will need a rare balance of tech vision and business savvy",
-      "sentiment": "bullish",
-      "sentiment_score": 0.25,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Opening trading-card packs has become a $2 billion market",
-      "url": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-12T22:38:00+00:00",
-      "summary": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their “slot-like payoff” raises risks.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.3919,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
-      "url": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-12T22:16:00+00:00",
-      "summary": "Fed Chair Warsh’s quiet style of communicating interest-rate policy has led to more volatile markets.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0,
-      "tags": [
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-      "url": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-12T21:30:00+00:00",
-      "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0258,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "The bond market now has an even bigger fear than AI fallout",
-      "url": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-12T20:44:00+00:00",
-      "summary": "Carnage in tech stocks made Treasurys look more attractive in recent weeks, but fears of more Fed rate hikes are now driving yields higher",
-      "sentiment": "bearish",
-      "sentiment_score": -0.5724,
-      "tags": [
-        "Fed",
         "AI"
       ],
       "signal": "watch",
@@ -435,38 +464,6 @@
       "sentiment": "bearish",
       "sentiment_score": -0.5994,
       "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Could the AI bubble burst after Democrats' midterms sweep? - The Latest",
-      "url": "https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest",
-      "source": "The Guardian Economics",
-      "published_at": "2026-11-06T17:04:41+00:00",
-      "summary": "<p>Global tech stocks have plunged after the Democrats’ victory in the US midterm elections, with fears of a slowdown in AI development. Major tech corporations including Apple, Tesla and Nvidia shed about $1tn in a single trading session. Is this stock market jitters, or a sign the AI bubble might be about to burst? Lucy Hough speaks to senior economics correspondent Richard Partington</p> <a href=\"https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.4871,
-      "tags": [
-        "Election",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Tech stock crash: is the AI bubble bursting? – The Latest",
-      "url": "https://www.theguardian.com/news/audio/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest",
-      "source": "The Guardian Economics",
-      "published_at": "2026-11-06T16:49:19+00:00",
-      "summary": "<p>Global tech stocks have plunged after the Democrats’ victory in the US midterm elections, with fears of a slowdown in AI development. Major tech corporations including Apple, Tesla and Nvidia shed about $1tn in a single trading session. Is this stock market jitters, or a sign the AI bubble might be about to burst? Lucy Hough speaks to senior economics correspondent Richard Partington <strong>– </strong><a href=\"https://www.youtube.com/@todayinfocuspodcast\"><strong>watch on YouTube</strong></a></p> <a href=\"https://www.theguardian.com/news/audio/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.7059,
-      "tags": [
-        "Election",
         "AI"
       ],
       "signal": "watch",
