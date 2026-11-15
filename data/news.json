@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T00:18:54.809790+00:00",
+  "generated_at": "2026-11-15T04:07:44.991126+00:00",
   "articles": [
     {
       "id": "93d077f33f10",
@@ -146,15 +146,15 @@
       "tags": []
     },
     {
-      "id": "d7c388f60ae2",
-      "title": "Record polar vortex breakdown raises cold weather risk",
+      "id": "1fc1ab3d8d2b",
+      "title": "The world according to China",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/576640c4-8d35-4504-b1a5-f01c0ca1f5bc?syn-25a6b1a6=1",
-      "published_at": "2026-11-14T05:00:38+00:00",
+      "url": "https://www.ft.com/content/fb667289-ae81-42c7-8eb8-ebda09dceff7?syn-25a6b1a6=1",
+      "published_at": "2026-11-15T03:00:02+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "The early collapse of wind system that traps Arctic air is latest extreme atmospheric event",
+      "summary": "The Apec summit in Shenzhen this week will showcase China’s ambition to reshape the global order on its own terms",
       "tags": []
     },
     {
@@ -338,15 +338,27 @@
       "tags": []
     },
     {
+      "id": "daf79c0a1040",
+      "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+      "published_at": "2026-11-15T02:50:57+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+      "tags": []
+    },
+    {
       "id": "4c13227ad7d7",
-      "title": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave",
+      "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
       "published_at": "2026-11-14T16:33:29+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave",
+      "summary": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
       "tags": []
     },
     {
@@ -446,15 +458,87 @@
       "tags": []
     },
     {
-      "id": "fe360f290624",
-      "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
-      "published_at": "2026-11-13T17:05:43+00:00",
+      "id": "b407f7cb8aea",
+      "title": "Brookfield: Building On The Berkshire Playbook",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4968338-brookfield-stock-building-on-the-berkshire-playbook?source=feed_all_articles",
+      "published_at": "2026-11-15T03:52:49+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
+      "summary": "Brookfield: Building On The Berkshire Playbook",
+      "tags": []
+    },
+    {
+      "id": "051b83f29e6f",
+      "title": "Zeta Global: Way Ahead Of Schedule",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4968337-zeta-global-way-ahead-of-schedule?source=feed_all_articles",
+      "published_at": "2026-11-15T03:52:04+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Zeta Global: Way Ahead Of Schedule",
+      "tags": []
+    },
+    {
+      "id": "74b38e8aa795",
+      "title": "Pinterest: Evidence Of AI Disruption Emerges",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4968336-pinterest-evidence-of-ai-disruption-emerges?source=feed_all_articles",
+      "published_at": "2026-11-15T03:42:17+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Pinterest: Evidence Of AI Disruption Emerges",
+      "tags": []
+    },
+    {
+      "id": "47bb44c8b3ab",
+      "title": "Analog Devices: Way Too Expensive And Vulnerable To AI Slowdown",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4968335-analog-devices-way-too-expensive-and-vulnerable-to-ai-slowdown?source=feed_all_articles",
+      "published_at": "2026-11-15T03:35:06+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Analog Devices: Way Too Expensive And Vulnerable To AI Slowdown",
+      "tags": []
+    },
+    {
+      "id": "cb3afd8ae9d1",
+      "title": "Ollie's Bargain Outlet Holdings Has Finally Fallen Enough For An Upgrade",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4968333-ollies-bargain-outlet-holdings-has-finally-fallen-enough-for-an-upgrade?source=feed_all_articles",
+      "published_at": "2026-11-15T03:04:31+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Ollie's Bargain Outlet Holdings Has Finally Fallen Enough For An Upgrade",
+      "tags": []
+    },
+    {
+      "id": "5188021093ec",
+      "title": "Goldman Sachs BDC: Unacceptable Credit Quality Deterioration",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4968332-goldman-sachs-bdc-unacceptable-credit-quality-deterioration?source=feed_all_articles",
+      "published_at": "2026-11-15T03:00:06+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Goldman Sachs BDC: Unacceptable Credit Quality Deterioration",
+      "tags": []
+    },
+    {
+      "id": "21bbdf739236",
+      "title": "CEF Weekly Review: RSF Goes Big On SPACs",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4968330-cef-weekly-review-rsf-goes-big-on-spacs?source=feed_all_articles",
+      "published_at": "2026-11-15T02:42:06+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "CEF Weekly Review: RSF Goes Big On SPACs",
       "tags": []
     },
     {
@@ -491,90 +575,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Link Real Estate Investment Trust 2027 Q2 - Results - Earnings Call Presentation",
-      "tags": []
-    },
-    {
-      "id": "c24a57fa3e3c",
-      "title": "Grand City Properties S.A. 2026 Q3 - Results - Earnings Call Presentation",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4968326-grand-city-properties-s-a-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
-      "published_at": "2026-11-15T00:08:39+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Grand City Properties S.A. 2026 Q3 - Results - Earnings Call Presentation",
-      "tags": []
-    },
-    {
-      "id": "6348848b2901",
-      "title": "Sumitomo Metal Mining Co., Ltd. 2027 Q2 - Results - Earnings Call Presentation",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4968325-sumitomo-metal-mining-co-ltd-2027-q2-results-earnings-call-presentation?source=feed_all_articles",
-      "published_at": "2026-11-15T00:07:59+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Sumitomo Metal Mining Co., Ltd. 2027 Q2 - Results - Earnings Call Presentation",
-      "tags": []
-    },
-    {
-      "id": "c3b64eb847dc",
-      "title": "AT & S Austria Technologie & Systemtechnik Aktiengesellschaft 2027 Q2 - Results - Earnings Call Presentation",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4968324-at-and-s-austria-technologie-and-systemtechnik-aktiengesellschaft-2027-q2-results-earnings?source=feed_all_articles",
-      "published_at": "2026-11-15T00:07:23+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "AT & S Austria Technologie & Systemtechnik Aktiengesellschaft 2027 Q2 - Results - Earnings Call Presentation",
-      "tags": []
-    },
-    {
-      "id": "5e724fb65c80",
-      "title": "PT Bank Rakyat Indonesia (Persero) Tbk 2026 Q3 - Results - Earnings Call Presentation",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4968323-pt-bank-rakyat-indonesia-persero-tbk-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
-      "published_at": "2026-11-15T00:07:09+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "PT Bank Rakyat Indonesia (Persero) Tbk 2026 Q3 - Results - Earnings Call Presentation",
-      "tags": []
-    },
-    {
-      "id": "d54cef24ee64",
-      "title": "Koç Holding A.S. 2026 Q3 - Results - Earnings Call Presentation",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4968322-koc-holding-a-s-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
-      "published_at": "2026-11-15T00:05:55+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Koç Holding A.S. 2026 Q3 - Results - Earnings Call Presentation",
-      "tags": []
-    },
-    {
-      "id": "8767238ee985",
-      "title": "WH Smith PLC 2026 Q4 - Results - Earnings Call Presentation",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4968321-wh-smith-plc-2026-q4-results-earnings-call-presentation?source=feed_all_articles",
-      "published_at": "2026-11-15T00:05:33+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "WH Smith PLC 2026 Q4 - Results - Earnings Call Presentation",
-      "tags": []
-    },
-    {
-      "id": "236088f881b5",
-      "title": "JGC Holdings Corporation 2027 Q2 - Results - Earnings Call Presentation",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4968320-jgc-holdings-corporation-2027-q2-results-earnings-call-presentation?source=feed_all_articles",
-      "published_at": "2026-11-15T00:04:52+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "JGC Holdings Corporation 2027 Q2 - Results - Earnings Call Presentation",
       "tags": []
     }
   ]
