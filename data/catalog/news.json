@@ -1,32 +1,17 @@
 {
-  "generated_at": "2026-11-14T05:33:23Z",
-  "snapshot_date": "2026-11-14",
+  "generated_at": "2026-11-15T05:33:31Z",
+  "snapshot_date": "2026-11-15",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
-      "url": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
+      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+      "url": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-13T22:04:00+00:00",
-      "summary": "It’s official: the world is expected to soon have more oil than it needs for the first time since the Iran war began in February. But more oil doesn’t automatically lead to lower diesel prices.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.765,
-      "tags": [
-        "Oil"
-      ],
-      "signal": "watch",
-      "category": "energy",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "‘She has a history of financial mismanagement’: My brother cut our sister out of his will. I’ll get everything. Do I tell her?",
-      "url": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-13T21:32:00+00:00",
-      "summary": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
-      "sentiment": "bullish",
-      "sentiment_score": 0.4588,
+      "published_at": "2026-11-14T21:00:00+00:00",
+      "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0258,
       "tags": [
         "AI"
       ],
@@ -35,14 +20,92 @@
       "source_repo": "financenews"
     },
     {
-      "title": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang",
-      "url": "https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories",
+      "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+      "url": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-13T21:10:00+00:00",
-      "summary": "At first, it looked like Nvidia’s pain might be the rest of the chip sector’s gain. But now, investors aren’t so sure.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6991,
+      "published_at": "2026-11-14T20:00:00+00:00",
+      "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
+      "sentiment": "neutral",
+      "sentiment_score": 0.128,
       "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+      "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-14T19:30:00+00:00",
+      "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
+      "sentiment": "bearish",
+      "sentiment_score": -0.6428,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+      "url": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-14T17:50:00+00:00",
+      "summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5423,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "A rapid interest rate rise seems inevitable – and households are expected to pick up the tab",
+      "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy",
+      "source": "The Guardian Economics",
+      "published_at": "2026-11-14T16:00:48+00:00",
+      "summary": "<p>Raising borrowing costs too far risks laying waste to whatever growth there is in the economy</p><p>A head of steam is building up behind the Bank of England raising interest rates again. With the latest forecasts by the central bank showing inflation rising to 5% next spring, another increase in the cost of borrowing seems inevitable, and may come as soon as next month.</p><p>A growing number of analysts predict the Bank’s policymakers will don Scrooge masks when they meet on 17 December to deliver a message of austerity and sacrifice.</p> <a href=\"https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7906,
+      "tags": [
+        "Interest Rates",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+      "url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-11-14T15:50:43+00:00",
+      "summary": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.3612,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Interest rate rises likely in coming months, Bank of England’s chief economist says",
+      "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
+      "source": "The Guardian Economics",
+      "published_at": "2026-11-14T14:42:27+00:00",
+      "summary": "<p>‘We have further to go,’ says Huw Pill after increase to 4% this month as Bank seeks to tackle rising inflation</p><p>The Bank of England will probably need to raise interest rates next month and again in early 2027 to combat rising inflation, its chief economist has said.</p><p>Signalling a sharp rise in mortgage payments for an estimated <a href=\"https://www.theguardian.com/money/2026/nov/02/mortgage-payments-rise-2027-interest-rates\">2.3 million homeowners</a> who will have to refinance their loans next year, Huw Pill said that while the decision to nudge interest rates from 3.75% to 4% earlier this month was a “significant step” towards getting monetary policy into a better place, “we ⁠have further to go”.</p> <a href=\"https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8957,
+      "tags": [
+        "Interest Rates",
         "AI"
       ],
       "signal": "watch",
@@ -402,67 +465,6 @@
       "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
       "sentiment": "bullish",
       "sentiment_score": 0.6249,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Trump may have lost but don’t bet Democrats can fix the economy",
-      "url": "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis",
-      "source": "The Guardian Economics",
-      "published_at": "2026-11-07T11:00:08+00:00",
-      "summary": "<p>There’s not much they can do over the next couple of years to alleviate angry voters’ stress over prices</p><p>It was the economy, again. Although Donald Trump largely ignored it, voters’ acute concerns over the rising cost of living fuelled a political upheaval for the ages that is likely to deliver the biggest swing toward Democrats since Watergate, granting them the largest House majority in nearly four decades alongside their biggest edge in the Senate since 2008.</p><p>Still, having come to power promising to restore affordability, the new crop of Democrats are soon to discover that there is not much they can do over the next couple of years to alleviate angry voters’ stress over pricey gas and groceries, exorbitant mortgages and unaffordable healthcare.</p><p>Eduardo Porter is a journalist focused on economics and politics. He writes the newsletter <a href=\"https://eduardoelreportero.substack.com/\">Being There</a> on Substack</p> <a href=\"https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.8481,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
-      "url": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-11-06T19:05:00+00:00",
-      "summary": "San Francisco Fed President Mary Daly called Friday's jobs report \"good news for American workers,\" but noted the pressure inflation is exerting on household finances",
-      "sentiment": "bearish",
-      "sentiment_score": -0.2144,
-      "tags": [
-        "Fed"
-      ],
-      "signal": "watch",
-      "category": "macro",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "US tech stocks post modest recovery on Wall Street after worst day in 19 months – as it happened",
-      "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-11-06T17:28:11+00:00",
-      "summary": "<p>European and Asia-Pacific markets slide after Wall Street rout, while latest US jobs report beats forecasts</p><ul><li><p><a href=\"https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest\"><strong>Could the AI bubble burst after Democrats’ midterms sweep? - The Latest</strong></a></p></li></ul><p><strong>Despite the sharp losses suffered on global stock markets around the world, most indices are still up for the year.</strong></p><p>The <strong>Nasdaq</strong> <strong>Composite</strong> index, for example, is still up 4.6% since the start of January – even though it’s more than 10% below its peak.</p><p>“The tech sell-off has intensified, with the pain of the brutal sell-off on Wall Street carried straight through to Asia and knocking sentiment in Europe.</p><p>Big worries are colliding – the build-out of data centres looks set to slow, which risks shredding the spending spree underpinning the boom, right at the time that investors have become super nervous about returns on this massive investment.</p> <a href=\"https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.959,
-      "tags": [
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
-      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-11-06T17:09:53+00:00",
-      "summary": "Coreweave's steep yields reflect stress in the AI debt markets as investors worry about a data center slowdown. What comes next.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.5994,
       "tags": [
         "AI"
       ],
