@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T08:20:53.963498+00:00",
+  "generated_at": "2026-11-16T12:13:51.771311+00:00",
   "portfolio_summary": {
     "total_assets": 10,
     "buy_count": 3,
@@ -143,8 +143,8 @@
       "name": "Ethereum",
       "sector": "Crypto",
       "type": "crypto",
-      "price": 1807.25,
-      "change_pct": -1.5388,
+      "price": 1791.0,
+      "change_pct": -2.4242,
       "signal": "hold",
       "note": "ETF decision in Q3; staking yield at 4.2%",
       "sparkline": [
@@ -161,7 +161,7 @@
         1927.5889,
         1769.1205,
         1835.4952,
-        1807.25
+        1791.0
       ]
     },
     {
