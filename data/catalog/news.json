@@ -1,29 +1,14 @@
 {
-  "generated_at": "2026-11-15T05:33:31Z",
-  "snapshot_date": "2026-11-15",
+  "generated_at": "2026-11-16T05:34:17Z",
+  "snapshot_date": "2026-11-16",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-      "url": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-14T21:00:00+00:00",
-      "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
-      "sentiment": "neutral",
-      "sentiment_score": 0.0258,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
       "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
       "url": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-14T20:00:00+00:00",
+      "published_at": "2026-11-15T23:30:00+00:00",
       "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
       "sentiment": "neutral",
       "sentiment_score": 0.128,
@@ -35,10 +20,55 @@
       "source_repo": "financenews"
     },
     {
+      "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
+      "url": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-15T22:15:00+00:00",
+      "summary": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5739,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Budget airlines are going upscale with first-class seats and faster wifi",
+      "url": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-15T21:31:00+00:00",
+      "summary": "Forget no-frills: Frontier and JetBlue are chasing luxury flyers, and Wall Street is buying in.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.2263,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+      "url": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-15T20:30:00+00:00",
+      "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0258,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
       "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
       "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-14T19:30:00+00:00",
+      "published_at": "2026-11-15T15:00:00+00:00",
       "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
       "sentiment": "bearish",
       "sentiment_score": -0.6428,
@@ -50,13 +80,28 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
-      "url": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-14T17:50:00+00:00",
-      "summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
+      "title": "Bad jobs or benefits? Milburn should force employers to help the young | Richard Partington",
+      "url": "https://www.theguardian.com/business/2026/nov/15/firms-labour-youth-employment-push",
+      "source": "The Guardian Economics",
+      "published_at": "2026-11-15T13:47:43+00:00",
+      "summary": "<p>Long-awaited final report will call for benefit cuts but lack of entry-level jobs is also driving the crisis</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/nov/15/young-people-stress-seeking-a-job-mental-physical-health\">‘I’m scared about my future’: young people on the stress and desperation of jobseeking</a></p></li></ul><p>A generation is being sold short. Almost a million young people are not in education, employment or training (Neet). Austerity and the Covid pandemic cast a lengthy shadow, AI is upending the jobs market, and the cost of living is soaring – all under the microscope of the social media age.</p><p>On Tuesday, Alan Milburn’s final report on young people and work will bring Britain to a fork in the road: either continue on this path of state and market failure or sharply change direction.</p> <a href=\"https://www.theguardian.com/business/2026/nov/15/firms-labour-youth-employment-push\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.9593,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Who’s duping whom? Cut-price versions of luxury items are Christmas hit",
+      "url": "https://www.theguardian.com/money/2026/nov/15/christmas-dupes-gift-aldi-candles-quince-cashmere-jumpers-price",
+      "source": "The Guardian Economics",
+      "published_at": "2026-11-15T13:00:14+00:00",
+      "summary": "<p>From Aldi candles to Quince’s cashmere jumpers, cheaper dupes of high-end goods have gone mainstream. But is it fair?</p><p>For fans of the festive season nothing is more Christmassy than lighting a super-sized botanical candle with its trim of orange slices and berries.</p><p>But as the notes of cinnamon and clove fill the room will you be burning money spent on the White Company’s £95 “winter indulgence” candle that customers describe as the “scent of Christmas”. Or have you followed TikTok’s advice and bought the Aldi “dupe” for £25.</p> <a href=\"https://www.theguardian.com/money/2026/nov/15/christmas-dupes-gift-aldi-candles-quince-cashmere-jumpers-price\">Continue reading...</a>",
       "sentiment": "bullish",
-      "sentiment_score": 0.5423,
+      "sentiment_score": 0.6553,
       "tags": [
         "AI"
       ],
@@ -419,52 +464,6 @@
       "summary": "<p>As prices go up but grain prices stagante, more farming families are turning to ‘agritainment’ to make a living</p><p>On any given Saturday at this time of year in south-west Ohio, the Lucas Brothers Fall Festival is the place to be.</p><p>There’s a hayride into the woods, an inflatable obstacle course, a go-kart track and a corn maze linked to a game that visitors can play on their phones.</p> <a href=\"https://www.theguardian.com/environment/2026/nov/09/family-farming-agritainment\">Continue reading...</a>",
       "sentiment": "bullish",
       "sentiment_score": 0.631,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
-      "url": "https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash",
-      "source": "The Guardian Economics",
-      "published_at": "2026-11-08T12:05:58+00:00",
-      "summary": "<p>Election results appear to have turbo-charged an already growing social, political and financial market rethink about AI</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence\">‘AI clog’: UK battles onslaught of chatbot-generated complaints</a></p></li><li><p><a href=\"https://www.theguardian.com/commentisfree/2026/nov/06/the-guardian-view-on-the-ai-backlash-american-voters-want-a-say-in-their-future\">Editorial: the AI backlash – Silicon Valley’s political power is cracking</a></p></li></ul><p></p><p></p><p>Last week’s midterms may not have cowed Donald Trump, but they should be a wake-up call for the grinning tech broligarchs who lined up at his inauguration two chaotic years ago.</p><p>Clearly, the cost of living squeeze unleashed by Trump’s war in Iran was a big driver of the Democrat wave. But AI was also on the ballot – in many places, literally.</p> <a href=\"https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.8338,
-      "tags": [
-        "Election",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
-      "url": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-11-07T16:02:33+00:00",
-      "summary": "Healthcare stocks may struggle to find momentum as the Democrats get ready to take over Congress.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.25,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
-      "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-11-07T15:23:46+00:00",
-      "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6249,
       "tags": [
         "AI"
       ],
