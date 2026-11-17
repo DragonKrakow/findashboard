@@ -1,14 +1,104 @@
 {
-  "generated_at": "2026-11-16T05:34:17Z",
-  "snapshot_date": "2026-11-16",
+  "generated_at": "2026-11-17T05:33:35Z",
+  "snapshot_date": "2026-11-17",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
+      "title": "United Airlines resolves system outage that delayed flights Monday",
+      "url": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-16T23:42:00+00:00",
+      "summary": "The outage came just days after an FAA ground stop disrupted air travel nationally.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.1027,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Do Amazon’s Black Friday deals really save you money? A new report casts doubt.",
+      "url": "https://www.marketwatch.com/story/do-amazons-black-friday-deals-really-save-you-money-03859cf3?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-16T23:04:00+00:00",
+      "summary": "Almost a third of Amazon Black Friday deals “provided no savings at all” in the last two years, a report says. The retailer is pushing back.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.1263,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
+      "url": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-11-16T23:01:19+00:00",
+      "summary": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+      "url": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-16T23:00:00+00:00",
+      "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+      "sentiment": "bullish",
+      "sentiment_score": 0.25,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "U.S. dollar’s AI-driven breakout could become a stock-market wrecking ball",
+      "url": "https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-16T22:46:00+00:00",
+      "summary": "The dollar recently climbed to its strongest level in a year and a half.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.4404,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
+      "url": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-11-16T22:19:02+00:00",
+      "summary": "Oil prices are falling as forecasts project a surplus in oil in the fourth quarter",
+      "sentiment": "bearish",
+      "sentiment_score": -0.6486,
+      "tags": [
+        "Oil"
+      ],
+      "signal": "watch",
+      "category": "energy",
+      "source_repo": "financenews"
+    },
+    {
       "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
       "url": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-15T23:30:00+00:00",
+      "published_at": "2026-11-16T22:08:00+00:00",
       "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
       "sentiment": "neutral",
       "sentiment_score": 0.128,
@@ -20,29 +110,15 @@
       "source_repo": "financenews"
     },
     {
-      "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
-      "url": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+      "title": "Nvidia’s stock extends decline following harsh words from the U.S. government",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-15T22:15:00+00:00",
-      "summary": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5739,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Budget airlines are going upscale with first-class seats and faster wifi",
-      "url": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-15T21:31:00+00:00",
-      "summary": "Forget no-frills: Frontier and JetBlue are chasing luxury flyers, and Wall Street is buying in.",
+      "published_at": "2026-11-16T21:53:00+00:00",
+      "summary": "The Commerce Department announced a new rule aimed at restricting China’s remote access to advanced chips.",
       "sentiment": "bearish",
-      "sentiment_score": -0.2263,
+      "sentiment_score": -0.4588,
       "tags": [
+        "Chips",
         "AI"
       ],
       "signal": "watch",
@@ -50,13 +126,29 @@
       "source_repo": "financenews"
     },
     {
-      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-      "url": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-15T20:30:00+00:00",
-      "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
+      "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
+      "url": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-11-16T18:46:07+00:00",
+      "summary": "",
       "sentiment": "neutral",
-      "sentiment_score": 0.0258,
+      "sentiment_score": -0.0644,
+      "tags": [
+        "Fed",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Several companies are using Trump tariff refunds for corporate bonuses",
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/companies-trump-tariff-refunds-corporate-bonuses",
+      "source": "The Guardian Economics",
+      "published_at": "2026-11-16T17:52:13+00:00",
+      "summary": "<p>Some firms are directing refunds to corporate leadership instead of reimbursing consumers, ProPublica finds </p><p>Several companies that received refunds for paying <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s <a href=\"https://www.theguardian.com/us-news/trump-tariffs\">tariffs</a> have put those funds towards corporate bonuses instead of reimbursing consumers, <a href=\"https://www.propublica.org/article/trump-tariff-refunds-corporate-bonuses\">an investigation</a> from ProPublica has found.</p><p>After analyzing securities filings and earnings calls, ProPublica identified at least nine companies who said they are receiving tariff refunds and noted they are directing some of those funds to their leadership.</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/16/companies-trump-tariff-refunds-corporate-bonuses\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8555,
       "tags": [
         "AI"
       ],
@@ -65,13 +157,46 @@
       "source_repo": "financenews"
     },
     {
-      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-      "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-15T15:00:00+00:00",
-      "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
+      "title": "Trump says he wouldn’t mind Jensen Huang being reinstated as Nvidia CEO, as its shares fall again – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/nov/16/ai-sell-off-resumes-jensen-huang-discusses-comeback-nvidia-ceo-dollar-stock-markets-latest-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-11-16T15:43:06+00:00",
+      "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/nov/09/insurance-industry-workers-how-is-climate-related-risk-managed-in-your-company\"><strong>Insurance industry workers: how is climate-related risk managed in your company?</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo\"><strong>Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter</strong></a></p></li></ul><p>Britain’s main share index isn’t been dragged back by the AI sell-off.</p><p>The <strong>FTSE</strong> <strong>100</strong> share index rose by as much as 29 points, or 0.25%, to 10,931 points.</p><p>“London’s Footsie has started the week as a resilient player despite the risk-off sentiment reverberating amid the ongoing tech sell-off. The blue-chip index made tentative steps forward in early trade as its tech-lite nature makes it more insulated from the AI jitters. However, disappointing economic data from China and Japan, have raised global growth concerns and look set to hold back significant gains for the internationally focused index.</p><p>Mining stocks are on the back foot in early trade in London as investors reassess demand for an array of industrial metals.</p> <a href=\"https://www.theguardian.com/business/live/2026/nov/16/ai-sell-off-resumes-jensen-huang-discusses-comeback-nvidia-ceo-dollar-stock-markets-latest-news-updates\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.7906,
+      "tags": [
+        "Mining",
+        "Metals",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+      "url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-11-16T12:13:23+00:00",
+      "summary": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
       "sentiment": "bearish",
-      "sentiment_score": -0.6428,
+      "sentiment_score": -0.3612,
+      "tags": [
+        "Oil",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+      "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-11-16T03:53:59+00:00",
+      "summary": "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.6764,
       "tags": [
         "AI"
       ],
@@ -119,22 +244,6 @@
       "sentiment_score": 0.7906,
       "tags": [
         "Interest Rates",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
-      "url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-11-14T15:50:43+00:00",
-      "summary": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.3612,
-      "tags": [
-        "Oil",
         "AI"
       ],
       "signal": "watch",
@@ -354,117 +463,6 @@
       "sentiment_score": 0.7184,
       "tags": [
         "Interest Rates",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
-      "url": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-11-10T17:13:44+00:00",
-      "summary": "The policymaker said he \"is leaning toward\" a rate increase in December and could support a half-point hike depending on inflation data.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.743,
-      "tags": [
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Inquiry launched into UK budget bank tax leak; Wall Street hit by US inflation data – as it happened",
-      "url": "https://www.theguardian.com/business/live/2026/nov/10/nvidia-shareholder-lawsuit-jensen-huang-relationship-suspected-chinese-spy-fbi-trump-bank-of-england-latest-news-updates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-11-10T17:12:54+00:00",
-      "summary": "<p>Rolling coverage of the latest economic and financial news, including live coverage of the Bank of England Watchers conference in London</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/nov/10/young-people-uk-economy-bank-of-england-clare-lombardelli\"><strong>Young people in UK hit by ‘low-gear economy’, warns Bank of England deputy</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/09/nvidia-affair-huang-trump-national-security\">The AI poster boy, the ‘Chinese spy’ and Trump: how an affair may have harmed US security</a></p></li><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/09/jensen-huang-image-nvidia\">Jensen Huang’s image has been shattered. Could he be pushed out at Nvidia?</a></p></li></ul><p><strong>A senior US central banker is calling for a hike in interest rates next month.</strong></p><p>Federal Reserve governor Christopher Waller is arguing that the Fed should raise short-term borrowing costs next month even if government data shows inflation cooling.</p><p>“While I am hoping for an improvement over September, even if this occurs, I would still support a 25 basis point increase in the FOMC’s policy rate at our December meeting.”</p><p>“The affair itself is unlikely to be the central issue for shareholders. What matters is whether shareholders have suffered loss due to Nvidia failing to disclose material information, particularly given the sensitivities surrounding China, AI chips and US export controls.</p><p>“US plaintiff lawyers will be looking closely at matters such as what Nvidia and its board knew and when, what was said publicly and whether any material information was withheld from the market. For example, if previously undisclosed information is subsequently revealed to the market and may have caused investors significant losses, the ingredients for shareholder litigation could begin to emerge. But there is a considerable distance between reputational controversy and proving actionable shareholder claims.”</p> <a href=\"https://www.theguardian.com/business/live/2026/nov/10/nvidia-shareholder-lawsuit-jensen-huang-relationship-suspected-chinese-spy-fbi-trump-bank-of-england-latest-news-updates\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.6124,
-      "tags": [
-        "Interest Rates",
-        "Fed",
-        "Chips",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Nvidia’s value tumbles after ‘honeytrap’ investigation launched, as China denies spying claims – as it happened",
-      "url": "https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-11-10T06:51:17+00:00",
-      "summary": "<p>Shares in world’s most valuable company hit seven-month low after CEO Huang admits to affair, after allegations of relationship with Chinese spy</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk\">Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy</a></p></li><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/09/who-is-alice-huang-the-woman-linked-to-nvidias-ceo\">Who is Alice Huang, the woman linked to Nvidia’s CEO?</a></p></li><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/09/nvidia-affair-huang-trump-national-security\">The AI poster boy, the ‘Chinese spy’ and Trump: how an affair may have harmed US security</a></p></li></ul><p><strong>Huang is receiving support from some fellow tech executives, including Elon Musk.</strong></p><p>Musk commented “I agree” on a post by ​Sequoia partner Shaun Maguire that said Huang “did something incredibly dumb” that was “bad for America” but that “Jensen is irreplaceable for America’s AI leadership”.</p><p>“While Nvidia has sought to reassure us all, ​there are several layers here, beginning with the unfortunate timing.</p><p>“For example: The company is systemically important for tech, markets and the economy; Investors tend to struggle to price in key-person and governance issues; and there are fluid national security and geopolitical dynamics.”</p> <a href=\"https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3708,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Young people in UK hit by ‘low-gear economy’, warns Bank of England deputy",
-      "url": "https://www.theguardian.com/business/2026/nov/10/young-people-uk-economy-bank-of-england-clare-lombardelli",
-      "source": "The Guardian Economics",
-      "published_at": "2026-11-10T06:00:30+00:00",
-      "summary": "<p>Exclusive: Iran war has fuelled energy price rise and clouded outlook, driving up unemployment, says Clare Lombardelli</p><p>Young people in Britain are bearing the brunt of a “low-gear economy” as employers hold back from hiring amid the fallout from the war in the Middle East, a deputy governor of the <a href=\"https://www.theguardian.com/business/bankofenglandgovernor\">Bank of England</a> has warned.</p><p>Clare Lombardelli, the Bank’s deputy governor for monetary policy, said the unfolding conflict, which has triggered a surge in energy prices and clouded the outlook for the economy, was contributing to an increase in youth unemployment.</p> <a href=\"https://www.theguardian.com/business/2026/nov/10/young-people-uk-economy-bank-of-england-clare-lombardelli\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.8519,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "EU manufacturers could give up on competing with China by 2030, warns commerce chief",
-      "url": "https://www.theguardian.com/business/2026/nov/10/eu-manufacturers-china-jens-eskelund",
-      "source": "The Guardian Economics",
-      "published_at": "2026-11-10T06:00:30+00:00",
-      "summary": "<p>Jens Eskelund says Europe may need to allow its companies to become part of Chinese firms’ supply chains</p><p>Europe’s manufacturers could give up on attempting to compete with their Chinese counterparts by the end of the decade if current trends continue amid fears over mass job losses, the head of the European Union Chamber of Commerce in China has warned.</p><p>In a case of “if you can’t beat them, join them”, Jens Eskelund said European companies operating in China were now thinking “Made in China for China” could be replaced by a philosophy of “Made in China for the world”.</p> <a href=\"https://www.theguardian.com/business/2026/nov/10/eu-manufacturers-china-jens-eskelund\">Continue reading...</a>",
-      "sentiment": "bearish",
-      "sentiment_score": -0.4215,
-      "tags": [
-        "AI",
-        "Supply Chain"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
-      "url": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-11-09T18:14:47+00:00",
-      "summary": "Goldman CEO David Solomon says investor appetite for AI infrastructure remains strong despite a reset in AI stocks and political uncertainty around data centers.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6369,
-      "tags": [
-        "Gold",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "The rise and rise of the family farm",
-      "url": "https://www.theguardian.com/environment/2026/nov/09/family-farming-agritainment",
-      "source": "The Guardian Economics",
-      "published_at": "2026-11-09T13:00:10+00:00",
-      "summary": "<p>As prices go up but grain prices stagante, more farming families are turning to ‘agritainment’ to make a living</p><p>On any given Saturday at this time of year in south-west Ohio, the Lucas Brothers Fall Festival is the place to be.</p><p>There’s a hayride into the woods, an inflatable obstacle course, a go-kart track and a corn maze linked to a game that visitors can play on their phones.</p> <a href=\"https://www.theguardian.com/environment/2026/nov/09/family-farming-agritainment\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.631,
-      "tags": [
         "AI"
       ],
       "signal": "watch",
