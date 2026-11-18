@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-17T05:33:35Z",
-  "snapshot_date": "2026-11-17",
+  "generated_at": "2026-11-18T05:33:35Z",
+  "snapshot_date": "2026-11-18",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "United Airlines resolves system outage that delayed flights Monday",
-      "url": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-16T23:42:00+00:00",
-      "summary": "The outage came just days after an FAA ground stop disrupted air travel nationally.",
-      "sentiment": "neutral",
-      "sentiment_score": 0.1027,
+      "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+      "url": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-11-17T23:30:13+00:00",
+      "summary": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.3182,
       "tags": [
         "AI"
       ],
@@ -20,13 +20,180 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Do Amazon’s Black Friday deals really save you money? A new report casts doubt.",
-      "url": "https://www.marketwatch.com/story/do-amazons-black-friday-deals-really-save-you-money-03859cf3?mod=mw_rss_topstories",
+      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+      "url": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
       "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-16T23:04:00+00:00",
-      "summary": "Almost a third of Amazon Black Friday deals “provided no savings at all” in the last two years, a report says. The retailer is pushing back.",
+      "published_at": "2026-11-17T23:30:00+00:00",
+      "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+      "sentiment": "bullish",
+      "sentiment_score": 0.25,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Costco is benefiting from ‘apocalyptic concerns’ as customers stock up on goods, analysts say",
+      "url": "https://www.marketwatch.com/story/costco-is-benefiting-from-apocalyptic-concerns-as-customers-stock-up-on-goods-analysts-say-24f611ab?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-17T22:46:00+00:00",
+      "summary": "Mizuho analysts have seen an “acceleration on emergency prep sales” at the warehouse chain following the Microsoft outage and nationwide flight stoppage.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.3818,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
+      "url": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-17T22:30:00+00:00",
+      "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
       "sentiment": "neutral",
-      "sentiment_score": 0.1263,
+      "sentiment_score": 0.1531,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks?",
+      "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-17T22:15:00+00:00",
+      "summary": "“Real estate here in Florida seems to be presenting some interesting opportunities.”",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0516,
+      "tags": [
+        "Oil"
+      ],
+      "signal": "watch",
+      "category": "energy",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Want to earn 5% on shorter-term Treasurys again? Watch for this shift.",
+      "url": "https://www.marketwatch.com/story/want-to-earn-5-on-shorter-term-treasurys-again-watch-for-this-shift-d6ff42f2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-17T22:08:00+00:00",
+      "summary": "Don’t rule out a half-point interest-rate hike in December, BofA Global’s rates team said.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0772,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything instead. Do I tell her?",
+      "url": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-17T21:30:00+00:00",
+      "summary": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
+      "sentiment": "bullish",
+      "sentiment_score": 0.5739,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Why Salesforce’s stock led the S&P 500’s decliners amid tech jitters",
+      "url": "https://www.marketwatch.com/story/why-salesforces-stock-is-leading-s-p-500-decliners-amid-tech-jitters-17510caf?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-17T21:12:00+00:00",
+      "summary": "A series of technology outages has investors concerned that software companies could prove “particularly vulnerable” to AI misuse, an analyst says.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "‘Can I pick your brain?’ and other terrible things to say in a networking email",
+      "url": "https://www.marketwatch.com/story/nows-the-perfect-time-for-networking-heres-how-to-send-a-cringe-free-email-73ad34ea?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-17T21:11:00+00:00",
+      "summary": "Hiring for white-collar jobs usually dips in November and December, so try sending “cold emails” to your network instead.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.4767,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+      "url": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-17T21:00:00+00:00",
+      "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
+      "sentiment": "neutral",
+      "sentiment_score": 0.128,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Markets drop ahead of Nvidia’s results; Jensen Huang says he’d be ‘honoured’ to return as CEO – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-11-17T16:54:21+00:00",
+      "summary": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement\"><strong>Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/global/2026/nov/16/jensen-huang-nvidia-ceo-china\"><strong>Jensen Huang’s departure as Nvidia CEO becomes a political proxy war</strong></a></p></li></ul><p><strong>China has threatened to retaliate against the US after Washington tightened restrictions on remote access to AI chips and servers.</strong></p><p>At a press conference on Tuesday, China’s foreign ministry spokesperson <strong>Guo</strong> <strong>Jiakun</strong> said Beijing would take “necessary measures” to safeguard its own interests, saying:</p><p>“The US has repeatedly overstretched the concept of national security, abused export controls and even interfered in China’s normal trade and technological cooperation with other countries, unjustifiably suppressing the development of China’s high-tech industries.”</p><p>“This is the worst situation possible for China because the last thing they want to see is any new restrictions on their access to chips.”</p><p>“Export controls are what upset them practically more than anything else right now other than maybe Taiwan.”</p><p>Deutsche plotted an expansion of its <a href=\"https://www.ft.com/content/bf775dda-4148-49f9-a8b4-a4a02f44207e\">notorious Russia business</a> under chief executive Christian Sewing, over-ruling the fears of its compliance team about the bank’s Kremlin-connected clientele as geopolitical storm clouds gathered.</p><p>The bank <a href=\"https://www.ft.com/content/784cbdc7-c852-4081-b1e5-390779e9fad1\">accidentally leaked Trump’s tax statements</a> during his first presidential term and kept the mistake secret from the White House, with Sewing briefed on its handling of the crisis.</p><p>Deutsche processed almost $600mn of suspicious <a href=\"https://www.ft.com/content/72ac6fee-55f3-4db5-a1e3-873ef39c0b96\">payments linked to Jeffrey Epstein</a>, a far higher figure than previously known.</p><p>A <a href=\"https://www.ft.com/content/4f8dae68-bfec-43bd-bef6-b830815ec538\">catalogue</a> of compliance deficiencies, governance weaknesses, ineptitude and technology failings, including a confession to regulators that Deutsche was in effect “operating outside of law and order”.</p> <a href=\"https://www.theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.9692,
+      "tags": [
+        "Fed",
+        "Chips",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Is £750m a week the real cost of rejoining the EU – or the Brexit bus myth all over again?",
+      "url": "https://www.theguardian.com/politics/2026/nov/17/cost-of-rejoining-eu-vote-leave-brexit-bus-myth-again",
+      "source": "The Guardian Economics",
+      "published_at": "2026-11-17T06:00:05+00:00",
+      "summary": "<p>A new analysis from some of the architects of the Vote Leave campaign is very selective with its figures</p><p>A new analysis from some of the architects of the Vote Leave campaign has claimed rejoining the EU would cost Britain £750m a week. How did they arrive at these figures – and are they any more reliable than the ones on the side of the bus?</p> <a href=\"https://www.theguardian.com/politics/2026/nov/17/cost-of-rejoining-eu-vote-leave-brexit-bus-myth-again\">Continue reading...</a>",
+      "sentiment": "neutral",
+      "sentiment_score": -0.1926,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Who are the Neets? UK youth job crisis in five charts",
+      "url": "https://www.theguardian.com/society/2026/nov/17/who-are-neets-uk-youth-job-crisis-charts",
+      "source": "The Guardian Economics",
+      "published_at": "2026-11-17T05:00:04+00:00",
+      "summary": "<p>Bringing the number not in education, employment or training down from a decade high will be tough. Here’s why</p><ul><li><p><a href=\"https://www.theguardian.com/society/2026/nov/16/alan-milburn-urges-burnham-spend-billions-new-deal-young-people-youth-jobs-crisis-welfare-employment\">Alan Milburn urges Burnham to spend billions on ‘new deal’ for young people</a></p></li></ul><p>Almost a million young people – one in eight – in the UK are not in education, employment or training (Neet).</p><p>Having reached the highest level in a decade, the government is seeking to bring that number down after the recommendations made in Alan Milburn’s landmark report.</p> <a href=\"https://www.theguardian.com/society/2026/nov/17/who-are-neets-uk-youth-job-crisis-charts\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.5106,
       "tags": [
         "AI"
       ],
@@ -50,36 +217,6 @@
       "source_repo": "financenews"
     },
     {
-      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-      "url": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-16T23:00:00+00:00",
-      "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
-      "sentiment": "bullish",
-      "sentiment_score": 0.25,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "U.S. dollar’s AI-driven breakout could become a stock-market wrecking ball",
-      "url": "https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-16T22:46:00+00:00",
-      "summary": "The dollar recently climbed to its strongest level in a year and a half.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.4404,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
       "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
       "url": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
       "source": "CNBC Finance",
@@ -92,37 +229,6 @@
       ],
       "signal": "watch",
       "category": "energy",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
-      "url": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-16T22:08:00+00:00",
-      "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
-      "sentiment": "neutral",
-      "sentiment_score": 0.128,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Nvidia’s stock extends decline following harsh words from the U.S. government",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-16T21:53:00+00:00",
-      "summary": "The Commerce Department announced a new rule aimed at restricting China’s remote access to advanced chips.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.4588,
-      "tags": [
-        "Chips",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
       "source_repo": "financenews"
     },
     {
@@ -146,7 +252,7 @@
       "url": "https://www.theguardian.com/us-news/2026/nov/16/companies-trump-tariff-refunds-corporate-bonuses",
       "source": "The Guardian Economics",
       "published_at": "2026-11-16T17:52:13+00:00",
-      "summary": "<p>Some firms are directing refunds to corporate leadership instead of reimbursing consumers, ProPublica finds </p><p>Several companies that received refunds for paying <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s <a href=\"https://www.theguardian.com/us-news/trump-tariffs\">tariffs</a> have put those funds towards corporate bonuses instead of reimbursing consumers, <a href=\"https://www.propublica.org/article/trump-tariff-refunds-corporate-bonuses\">an investigation</a> from ProPublica has found.</p><p>After analyzing securities filings and earnings calls, ProPublica identified at least nine companies who said they are receiving tariff refunds and noted they are directing some of those funds to their leadership.</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/16/companies-trump-tariff-refunds-corporate-bonuses\">Continue reading...</a>",
+      "summary": "<p>Some firms are directing refunds to corporate leadership instead of reimbursing consumers, ProPublica finds </p><p>Several companies that received refunds for paying <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s <a href=\"https://www.theguardian.com/us-news/trump-tariffs\">tariffs</a> have put those funds towards corporate bonuses instead of reimbursing consumers, <a href=\"https://www.propublica.org/article/trump-tariff-refunds-corporate-bonuses\">an investigation</a> from ProPublica has found.</p><p>After analyzing securities filings and earnings calls, ProPublica identified at least nine companies who said they were receiving tariff refunds and noted they were directing some of those funds to their leadership.</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/16/companies-trump-tariff-refunds-corporate-bonuses\">Continue reading...</a>",
       "sentiment": "bullish",
       "sentiment_score": 0.8555,
       "tags": [
@@ -357,116 +463,6 @@
       ],
       "signal": "watch",
       "category": "macro",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "AI helped UK defy expectations – but will economy’s resilience fizzle out?",
-      "url": "https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey",
-      "source": "The Guardian Economics",
-      "published_at": "2026-11-12T13:08:12+00:00",
-      "summary": "<p>Despite John Healey’s defiance, the economy faces threats from a tech slowdown and energy bills this winter</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp\">AI helps UK economy grow at fastest pace for more than two years</a></p></li></ul><p>The forecasters were clear when John Healey became chancellor in July: Britain’s resilience to the war in the Middle East would not last. The global economic headwinds were too strong, inflation was beginning to rise and growth would slow to a trickle.</p><p>Four months into the job, the economy is continuing to defy expectations after <a href=\"https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp\">growing by 0.7% in the third quarter</a> – the fastest expansion in two and a half years. It puts the UK on course to be the second-fastest growing G7 economy this year.</p> <a href=\"https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8519,
-      "tags": [
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "AI helps UK economy grow at fastest pace for more than two years",
-      "url": "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp",
-      "source": "The Guardian Economics",
-      "published_at": "2026-11-12T09:12:52+00:00",
-      "summary": "<p>GDP ‘grew robustly’ by 0.7% in third quarter and by 0.2% month on month in September despite high oil prices</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey\">AI helped the UK defy expectations – but will Britain’s resilience fizzle out?</a></p></li></ul><p>The UK economy grew by 0.7% in the third quarter, its fastest expansion in two and a half years, as the rollout of AI services increased activity.</p><p>The Office for National Statistics reported that the economy “grew robustly” in the July to September quarter, almost entirely due to strong and widespread growth in the services sector, led by the IT sector.</p> <a href=\"https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.9135,
-      "tags": [
-        "Oil",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
-      "url": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-11-12T07:28:48+00:00",
-      "summary": "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5859,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
-      "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-11-11T16:49:02+00:00",
-      "summary": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.6908,
-      "tags": [
-        "Fed",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Nvidia hires major US law firm to investigate spying claims; UK chancellor ‘dismayed’ by budget leak – as it happened",
-      "url": "https://www.theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates",
-      "source": "The Guardian Economics",
-      "published_at": "2026-11-11T16:37:45+00:00",
-      "summary": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>After two days of losses, Nvidia’s stock is expected to recover some lost ground today.</strong></p><p>Nvidia’s shares are up almost 5% in premarket trading, ahead of the Wall Street open in just over four hour’s time.</p><p>“The FTSE 100 advanced 0.8% to 10,835, putting it ever closer to hitting the magic 11,000 level. It only needs to rise a further 1.5% to win the prize. Hitting 11,000 would have psychological benefits, and doing so could help win over naysayers who say the UK market has nothing to offer.”</p> <a href=\"https://www.theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.9266,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Democrats’ US election sweep brings the price of their promised social contract into focus",
-      "url": "https://www.theguardian.com/business/2026/nov/11/democrats-election-medicaid-costs",
-      "source": "The Guardian Economics",
-      "published_at": "2026-11-11T11:00:46+00:00",
-      "summary": "<p>‘The post-election wish list is about to run into harsh fiscal reality: there is no money’</p><p>Is this an opportunity for a new America? As the Reagan revolution four decades ago launched US society down the path to low taxes and meager solidarity, perhaps the Republican bloodbath last week could turn US politics toward building a new social contract anchored on an aspiration to equitable prosperity.</p><p>One can sense the ambition of the bumper new crop of <a href=\"https://www.theguardian.com/us-news/democrats\">Democrats</a> ushered to power last week, calling for support for programs for children and their parents; emphatically endorsing the long-held dream of Medicare for All. The project includes rolling back <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s cuts to Medicaid and food stamps, and restoring subsidies for health insurance under the Affordable Care Act that Republicans allowed to expire. And that’s just the start.</p> <a href=\"https://www.theguardian.com/business/2026/nov/11/democrats-election-medicaid-costs\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.886,
-      "tags": [
-        "Election",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Bank of England’s inflation response ‘risks higher interest rates for longer’",
-      "url": "https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer",
-      "source": "The Guardian Economics",
-      "published_at": "2026-11-11T00:01:23+00:00",
-      "summary": "<p>Thinktank Niesr says timid rate rise last week likely to make inflation more persistent feature of UK economy</p><p>The Bank of England is risking higher interest rates for longer after a <a href=\"https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years\">hesitant response to rising inflation</a>, according to leading thinktank.</p><p>In a searing critique of the central bank’s tactics, the National Institute of Economic and Social Research (Niesr) said a timid increase in interest rates last week was likely to mean inflation staying above the Bank’s 2% target until at least 2030.</p> <a href=\"https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer\">Continue reading...</a>",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7184,
-      "tags": [
-        "Interest Rates",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
       "source_repo": "financenews"
     }
   ]
