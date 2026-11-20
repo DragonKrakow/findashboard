@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T00:16:36.958051+00:00",
+  "generated_at": "2026-11-20T04:07:45.763408+00:00",
   "portfolio_summary": {
     "total_assets": 10,
     "buy_count": 3,
@@ -66,23 +66,23 @@
       "sector": "Technology",
       "type": "stock",
       "price": 498.3,
-      "change_pct": -1.9654,
+      "change_pct": -1.776,
       "signal": "buy",
       "note": "Azure AI growth accelerating; Copilot adoption exceeding estimates",
       "sparkline": [
-        507.12,
-        520.99,
-        555.8,
-        535.93,
-        530.61,
-        545.18,
-        533.16,
-        521.13,
-        523.0,
-        523.88,
-        517.99,
-        506.24,
-        508.29,
+        506.1422,
+        519.9855,
+        554.7284,
+        534.8967,
+        529.587,
+        544.1288,
+        532.132,
+        520.1252,
+        521.9916,
+        522.8699,
+        516.9913,
+        505.2639,
+        507.31,
         498.3
       ]
     },
@@ -117,8 +117,8 @@
       "name": "Bitcoin",
       "sector": "Crypto",
       "type": "crypto",
-      "price": 61996.3789,
-      "change_pct": -1.5732,
+      "price": 61760.2695,
+      "change_pct": -1.948,
       "signal": "watch",
       "note": "Above $90k resistance; ETF inflows strong",
       "sparkline": [
@@ -135,7 +135,7 @@
         64855.8438,
         64893.9453,
         62987.2656,
-        61996.3789
+        61760.2695
       ]
     },
     {
@@ -143,8 +143,8 @@
       "name": "Ethereum",
       "sector": "Crypto",
       "type": "crypto",
-      "price": 1758.09,
-      "change_pct": -0.9387,
+      "price": 1733.01,
+      "change_pct": -2.3518,
       "signal": "hold",
       "note": "ETF decision in Q3; staking yield at 4.2%",
       "sparkline": [
@@ -161,7 +161,7 @@
         1819.2759,
         1822.9613,
         1774.7491,
-        1758.09
+        1733.01
       ]
     },
     {
@@ -195,8 +195,8 @@
       "name": "20yr+ Treasury ETF",
       "sector": "Fixed Income",
       "type": "etf",
-      "price": 80.4,
-      "change_pct": 0.2244,
+      "price": 80.35,
+      "change_pct": 0.1621,
       "signal": "watch",
       "note": "Rate cut expectations lifting long bonds",
       "sparkline": [
@@ -213,7 +213,7 @@
         79.38,
         79.55,
         80.22,
-        80.4
+        80.35
       ]
     },
     {
