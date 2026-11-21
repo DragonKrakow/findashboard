@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-11-21T16:06:32.418869+00:00",
+  "generated_at": "2026-11-21T20:05:42.788089+00:00",
   "articles": [
+    {
+      "id": "85babae9bd20",
+      "title": "Russian Cargo Ship Attacked By Drones in Gulf of Finland",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland",
+      "published_at": "2026-11-21T11:44:46+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Russia said a cargo ship bound for its Kaliningrad exclave was targeted in international waters in the Gulf of Finland, highlighting growing risks to the country’s energy and food exports through crit",
+      "tags": []
+    },
+    {
+      "id": "04caad9705b6",
+      "title": "Anthropic Fails to Calm AI Jitters, Ditching the Kitchen for Thanksgiving",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-21/bloomberg-this-weekend-11-21-2026-video",
+      "published_at": "2026-11-21T17:01:32+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by",
+      "tags": []
+    },
     {
       "id": "9a0b7242d286",
       "title": "Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers",
@@ -15,7 +39,7 @@
     },
     {
       "id": "cbf1c0fc8b8a",
-      "title": "Goldman’s SpaceX Pitch Helps Solve AI Debt Puzzle: Credit Weekly",
+      "title": "Goldman Sachs, Apollo Price $32 Billion SpaceX Bonds to Fund AI Chip Purchases",
       "source": "Bloomberg Markets",
       "url": "https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly",
       "published_at": "2026-11-21T15:31:22+00:00",
@@ -62,18 +86,6 @@
       "tags": []
     },
     {
-      "id": "85babae9bd20",
-      "title": "Russia Says Cargo Ship Attacked By Drones in Gulf of Finland",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland",
-      "published_at": "2026-11-21T11:44:46+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Russia said a cargo ship bound for its Kaliningrad exclave was targeted in international waters in the Gulf of Finland, highlighting growing risks to the country’s energy and food exports through crit",
-      "tags": []
-    },
-    {
       "id": "f43837bcf481",
       "title": "Shenzhen Wants to Become a Cultural Capital",
       "source": "Bloomberg Markets",
@@ -110,39 +122,27 @@
       "tags": []
     },
     {
-      "id": "c3c530771baf",
-      "title": "Just Ice Tea Builds on Honest Tea’s Legacy",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-21/just-ice-tea-builds-on-honest-tea-s-legacy-video",
-      "published_at": "2026-11-21T13:19:50+00:00",
+      "id": "0ce21a65d79f",
+      "title": "Alice Huang’s links to the chip underworld",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1",
+      "published_at": "2026-11-21T17:00:10+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Just Ice Tea co-founders Seth Goldman and Spike Mendelsohn tell Bloomberg This Weekend how they built the organic tea brand after Coca-Cola discontinued Honest Tea and are expanding with Awaken, a col",
+      "summary": "Chinese executive in romantic relationship with former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China",
       "tags": []
     },
     {
-      "id": "067287614b44",
-      "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
+      "id": "f293a77b9cbd",
+      "title": "Nvidia affair puts Chinese spies in spotlight",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
-      "published_at": "2026-11-20T21:52:25+00:00",
+      "url": "https://www.ft.com/content/77a283dd-b7af-4e72-8d83-9b53ab86f3e0?syn-25a6b1a6=1",
+      "published_at": "2026-11-21T03:58:46+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Shares in Anthropic and Nvidia tumble as fears over the AI spending boom grip Wall Street",
-      "tags": []
-    },
-    {
-      "id": "ce7a1b6d0571",
-      "title": "Donald Trump threatens ‘tremendous’ tax on data centres built outside US",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240?syn-25a6b1a6=1",
-      "published_at": "2026-11-20T20:17:29+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "President says fight is about preventing Beijing from taking the lead in developing AI technology",
+      "summary": "Western officials and analysts say China’s Ministry of State Security is formidable in scale and technological capability",
       "tags": []
     },
     {
@@ -194,11 +194,35 @@
       "tags": []
     },
     {
+      "id": "067287614b44",
+      "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
+      "published_at": "2026-11-20T21:52:25+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Shares in Anthropic and Nvidia tumble as fears over the AI spending boom grip Wall Street",
+      "tags": []
+    },
+    {
+      "id": "ce7a1b6d0571",
+      "title": "Donald Trump threatens ‘tremendous’ tax on data centres built outside US",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240?syn-25a6b1a6=1",
+      "published_at": "2026-11-20T20:17:29+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "President says fight is about preventing Beijing from taking the lead in developing AI technology",
+      "tags": []
+    },
+    {
       "id": "1fbcc30d501f",
       "title": "Navy budget pick has family investments in Trump Jr-linked contractor",
       "source": "International homepage",
       "url": "https://www.ft.com/content/145e6fab-d93a-412d-8670-0554064fdf98?syn-25a6b1a6=1",
-      "published_at": "2026-11-21T12:00:08+00:00",
+      "published_at": "2026-11-21T16:19:19+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
@@ -206,39 +230,15 @@
       "tags": []
     },
     {
-      "id": "c3de1be8109a",
-      "title": "CVC claims accounting manipulation in €3bn Advent pastry ingredients deal",
+      "id": "85b79d3a409f",
+      "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/06999b01-07f1-44a1-8eab-a5d5e7ecd70f?syn-25a6b1a6=1",
-      "published_at": "2026-11-21T05:00:26+00:00",
+      "url": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1",
+      "published_at": "2026-11-21T17:21:36+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "US firm denies allegations that Irca’s financial performance was overstated before it agreed to sell Italian business",
-      "tags": []
-    },
-    {
-      "id": "fc95db84209a",
-      "title": "Traders start to move US copper to China as Trump tariff fears ease",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1",
-      "published_at": "2026-11-21T12:00:08+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Acute Chinese shortage and high local premium create lucrative arbitrage",
-      "tags": []
-    },
-    {
-      "id": "0de5e82b74b2",
-      "title": "Russia and Ukraine’s drone war sends optical fibre prices soaring",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/339c3a72-bce5-44ed-bc6c-c8a8199cfb40?syn-25a6b1a6=1",
-      "published_at": "2026-11-21T05:00:08+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Kyiv’s drone advantage is threatened by sixfold price surge in key anti-jamming commodity",
+      "summary": "Acquisition would help AWS compete with Nvidia in race for computing power",
       "tags": []
     },
     {
@@ -362,6 +362,30 @@
       "tags": []
     },
     {
+      "id": "90c3140a626b",
+      "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+      "published_at": "2026-11-21T17:50:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+      "tags": []
+    },
+    {
+      "id": "677a3da37b8c",
+      "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
+      "published_at": "2026-11-21T16:41:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+      "tags": []
+    },
+    {
       "id": "589660e4913c",
       "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
@@ -458,27 +482,39 @@
       "tags": []
     },
     {
-      "id": "a20e7d4b47b8",
-      "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
-      "published_at": "2026-11-20T14:38:30+00:00",
+      "id": "94edbd14bd62",
+      "title": "Lithium Americas: Capex Reset May Be Overlooking The Ownership Upside",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4970858-lithium-americas-capex-reset-may-be-overlooking-the-ownership-upside?source=feed_all_articles",
+      "published_at": "2026-11-21T17:54:26+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
+      "summary": "Lithium Americas: Capex Reset May Be Overlooking The Ownership Upside",
       "tags": []
     },
     {
-      "id": "93f92c17ab1e",
-      "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
-      "published_at": "2026-11-20T14:25:57+00:00",
+      "id": "5d10745b88a7",
+      "title": "Nvidia: This Has Gone Too Far",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4970693-nvidia-this-has-gone-too-far?source=feed_all_articles",
+      "published_at": "2026-11-21T17:00:00+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "U.S. Senate passes bill to ban prediction market bets on war and death",
+      "summary": "Nvidia: This Has Gone Too Far",
+      "tags": []
+    },
+    {
+      "id": "e5268a491f9d",
+      "title": "Federal Agricultural Mortgage: Preferred Stock Now Yielding North Of 8%",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4969785-federal-agricultural-mortgage-preferred-stock-now-yielding-north-of-8-percent?source=feed_all_articles",
+      "published_at": "2026-11-21T16:35:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Federal Agricultural Mortgage: Preferred Stock Now Yielding North Of 8%",
       "tags": []
     },
     {
@@ -563,42 +599,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "CoreWeave Crashed: AI Reset Meets Durable & Diversified Compute Demand",
-      "tags": []
-    },
-    {
-      "id": "8b3117415187",
-      "title": "HACK Vs. CIBR: Pure-Play Beats Diversified For 2027",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4969929-hack-vs-cibr-pure-play-beats-diversified-for-2027?source=feed_all_articles",
-      "published_at": "2026-11-21T15:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "HACK Vs. CIBR: Pure-Play Beats Diversified For 2027",
-      "tags": []
-    },
-    {
-      "id": "9758e5cca8ed",
-      "title": "Graco: Dividend Growth And Safety At A Discount",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4970840-graco-dividend-growth-and-safety-at-a-discount?source=feed_all_articles",
-      "published_at": "2026-11-21T14:36:19+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Graco: Dividend Growth And Safety At A Discount",
-      "tags": []
-    },
-    {
-      "id": "f1fe10785a20",
-      "title": "Endeavour Silver Corp. (EDR:CA) Discusses Pitarrilla Feasibility Study and Long-Term Silver Production - Slideshow",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4970856-endeavour-silver-corp-edr-ca-discusses-pitarrilla-feasibility-study-and-long-term-silver?source=feed_all_articles",
-      "published_at": "2026-11-21T14:31:26+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Endeavour Silver Corp. (EDR:CA) Discusses Pitarrilla Feasibility Study and Long-Term Silver Production - Slideshow",
       "tags": []
     }
   ]
