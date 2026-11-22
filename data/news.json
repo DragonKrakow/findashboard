@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-11-22T08:08:01.101037+00:00",
+  "generated_at": "2026-11-22T12:08:52.140979+00:00",
   "articles": [
+    {
+      "id": "8b93a8b1cdb2",
+      "title": "US Power Advantage Over China Shrinks Further on Iran War Effect",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/us-power-advantage-over-china-shrinks-further-on-iran-war-effect",
+      "published_at": "2026-11-22T11:30:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The advantage the US has over China in influencing the course of international events has shrunk to the smallest level since 2018, with the Iran war and unilateralism undermining its military and dipl",
+      "tags": []
+    },
+    {
+      "id": "f8726b85df42",
+      "title": "China Lowers Margin Requirement to 80% to Boost Stock Liquidity",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
+      "published_at": "2026-11-22T11:06:19+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "China loosened margin requirements for stock financing, seeking to boost liquidity and support stability in the nation’s equity market as leveraged trading activity declined.",
+      "tags": []
+    },
+    {
+      "id": "68247af25ec1",
+      "title": "From Squeezes to Meltdown, a Week of Mayhem Rocks Metals Markets",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/from-squeezes-to-meltdown-a-week-of-mayhem-rocks-metals-markets",
+      "published_at": "2026-11-22T11:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "As the copper industry gathered in Shanghai last week, Grace Li was struck by the overwhelmingly bearish mood over the outlook for demand. She agreed with the pessimism. In fact, she came close to pul",
+      "tags": []
+    },
+    {
+      "id": "3b2e8bfdafbc",
+      "title": "UBS Capital Fight Enters Final Round as Lawmakers Resume Debate",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/ubs-capital-fight-enters-final-round-as-lawmakers-resume-debate",
+      "published_at": "2026-11-22T10:00:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "The argument over UBS Group AG’s future capital requirements is headed for a showdown, with the odds tilted toward defeat for the global wealth manager.",
+      "tags": []
+    },
+    {
+      "id": "a7a743fc5247",
+      "title": "S. Korea Rolls Out Phased Measures to Stabilize Volatile Markets",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/s-korea-rolls-out-phased-measures-to-stabilize-volatile-markets",
+      "published_at": "2026-11-22T10:16:45+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "South Korea announced phased measures to calm markets amid rising volatility, including ensuring a stock stabilization fund is in place to respond when needed, top financial officials said after an em",
+      "tags": []
+    },
     {
       "id": "b291d01c02f3",
       "title": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet",
@@ -62,66 +122,6 @@
       "tags": []
     },
     {
-      "id": "9e127640d055",
-      "title": "Thanksgiving Dinner Is Moving to Restaurants",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-21/thanksgiving-dinner-is-moving-to-restaurants-video",
-      "published_at": "2026-11-21T15:28:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Bloomberg Pursuits Food Editor Kate Krader tells Bloomberg This Weekend that more Americans are choosing restaurants for Thanksgiving as higher grocery costs, cooking stress and cleanup make dining ou",
-      "tags": []
-    },
-    {
-      "id": "4efde37d0d8d",
-      "title": "The 1982 War Still Haunts the Middle East",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-21/the-1982-war-still-haunts-the-middle-east-video",
-      "published_at": "2026-11-21T15:19:32+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Journalist and author Kim Ghattas tells Bloomberg This Weekend how the violence that engulfed Lebanon in 1982 helped set the US, Israel, Iran and the wider Middle East on a trajectory that continues t",
-      "tags": []
-    },
-    {
-      "id": "0eccf28caf93",
-      "title": "Is AI a Bubble? History Offers Some Clues",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-21/is-ai-a-bubble-history-offers-some-clues-video",
-      "published_at": "2026-11-21T15:09:32+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Bloomberg Opinion columnist Justin Fox tells Bloomberg This Weekend that history offers warning signs for financial bubbles, but little reliable guidance about exactly when they will burst, making deb",
-      "tags": []
-    },
-    {
-      "id": "f43837bcf481",
-      "title": "Shenzhen Wants to Become a Cultural Capital",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-21/shenzhen-wants-to-become-a-cultural-capital-video",
-      "published_at": "2026-11-21T14:24:08+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Bloomberg’s Tiffany Ap tells Bloomberg This Weekend how Shenzhen is spending billions on museums as the technology and manufacturing hub tries to establish itself as a cultural destination and attract",
-      "tags": []
-    },
-    {
-      "id": "9ea73486e6ed",
-      "title": "Trump’s Putin Outreach Tests Ukraine Talks",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-21/trump-s-putin-outreach-tests-ukraine-talks-video",
-      "published_at": "2026-11-21T13:56:40+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Bloomberg White House and National Security Editor Michelle Jamrisko tells Bloomberg This Weekend that President Donald Trump’s summit with Vladimir Putin and Xi Jinping reinforced his approach to dip",
-      "tags": []
-    },
-    {
       "id": "0ce21a65d79f",
       "title": "Alice Huang’s links to the chip underworld",
       "source": "International homepage",
@@ -131,6 +131,18 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Chinese executive in romantic relationship with former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China",
+      "tags": []
+    },
+    {
+      "id": "afa2e7faae45",
+      "title": "Did Anthropic and its bankers get a key call wrong after IPO?",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/d501198c-14a4-4b96-8880-c3997545902e",
+      "published_at": "2026-11-22T11:00:05+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Share price weakness raises questions about hasty exercise of ‘greenshoe’ option to issue more stock",
       "tags": []
     },
     {
@@ -158,18 +170,6 @@
       "tags": []
     },
     {
-      "id": "8413f886b221",
-      "title": "The ‘austere’ conservative poised to lead Spain with the far right",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/cd179793-2880-4c4c-8bdd-9924b2eac12a?syn-25a6b1a6=1",
-      "published_at": "2026-11-22T05:00:06+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Alberto Núñez Feijóo is on course to become the country’s next prime minister — but only with the backing of the Vox party",
-      "tags": []
-    },
-    {
       "id": "21fbdb30f95c",
       "title": "Tech suppliers raise AI server prices up to 45% months after deals are signed",
       "source": "International homepage",
@@ -182,27 +182,51 @@
       "tags": []
     },
     {
-      "id": "35f530420f0a",
-      "title": "Amazon’s AI resistance: workers ready for battle over data centres",
+      "id": "801c6a2b1583",
+      "title": "Nscale slows hiring and curtails spending ahead of planned $35bn IPO",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/d194e93b-8d3c-42eb-85dd-46d58c4f2a80?syn-25a6b1a6=1",
-      "published_at": "2026-11-22T05:00:06+00:00",
+      "url": "https://www.ft.com/content/98f5aa90-5581-45ed-8e9b-d72217c56df8",
+      "published_at": "2026-11-22T11:32:52+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Tech company’s plans for rapid expansion face opposition from the public and its own employees",
+      "summary": "UK data centre operator pauses hiring for all but critical roles",
       "tags": []
     },
     {
-      "id": "40aa442bd61d",
-      "title": "Argentina’s borrowing costs jump as Milei’s falling popularity rattles investors",
+      "id": "144e08c44d38",
+      "title": "Democrats will seek to unwind Trump’s tax and tariff policies",
       "source": "International homepage",
-      "url": "https://www.ft.com/content/f3ecede4-74a3-431a-89c5-a06fcd30812a?syn-25a6b1a6=1",
-      "published_at": "2026-11-22T05:00:14+00:00",
+      "url": "https://www.ft.com/content/8af97161-2ae0-4655-9f8b-a560f9227359?syn-25a6b1a6=1",
+      "published_at": "2026-11-22T11:00:05+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Libertarian’s financing plans and declining approval ratings damp spirits ahead of re-election bid",
+      "summary": "Top lawmaker Richard Neal vows hearings into the president’s flagship economic measures",
+      "tags": []
+    },
+    {
+      "id": "bcb7d7247c00",
+      "title": "The American dream of home ownership recedes as mortgage rates surge",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/168a7d3f-6e70-44da-9860-623bcf4fc023?syn-25a6b1a6=1",
+      "published_at": "2026-11-22T11:00:06+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Donald Trump pledged to lower homeowners’ borrowing costs to 3% but the benchmark rate has surged to over 7%",
+      "tags": []
+    },
+    {
+      "id": "cb8a06db38e4",
+      "title": "US ports face cyber attack onslaught as hackers target vital trade routes",
+      "source": "International homepage",
+      "url": "https://www.ft.com/content/c269cf3e-2275-4244-9a86-f412c8521b4f?syn-25a6b1a6=1",
+      "published_at": "2026-11-22T12:00:06+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "America’s biggest crude oil export hub reports thousands of attempted hacks each day as shipping companies battle breaches",
       "tags": []
     },
     {
@@ -218,15 +242,27 @@
       "tags": []
     },
     {
-      "id": "80fd1f517e7d",
-      "title": "Cheap Chinese ecommerce parcels flood the UK",
-      "source": "International homepage",
-      "url": "https://www.ft.com/content/2b2824e2-16b9-4621-85a0-7dad220644d5?syn-25a6b1a6=1",
-      "published_at": "2026-11-22T05:00:14+00:00",
+      "id": "78f7a83e386d",
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-11-22T11:25:27+00:00",
       "category": "other",
       "sentiment": "neutral",
       "signal": "watch",
-      "summary": "Value of small imported packages rose fourfold in the past two years as purchases from Asian online retail groups and platforms boomed",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c",
+      "tags": []
+    },
+    {
+      "id": "1b941225a591",
+      "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-11-22T09:33:06+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin briefly drops to $17K on Kraken, exchange upholds trades\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me",
       "tags": []
     },
     {
@@ -251,18 +287,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Chainflip confirms $12M hack, offers attacker 10% bounty\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti",
-      "tags": []
-    },
-    {
-      "id": "78f7a83e386d",
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-11-21T11:18:52+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-c",
       "tags": []
     },
     {
@@ -335,18 +359,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin falls below $60K for first time since July amid broader market selloff\" class=\"type:primaryImage\" src=\"https://s3-images",
-      "tags": []
-    },
-    {
-      "id": "170e6d7f2c85",
-      "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-11-20T15:55:22+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Senate advances prediction market restrictions with DEATH BETS Act\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.",
       "tags": []
     },
     {
@@ -470,6 +482,114 @@
       "tags": []
     },
     {
+      "id": "4fe3bf25339d",
+      "title": "United Airlines Is Torn By Powerful Competing Forces",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4970918-united-airlines-is-torn-by-powerful-competing-forces?source=feed_all_articles",
+      "published_at": "2026-11-22T11:51:28+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "United Airlines Is Torn By Powerful Competing Forces",
+      "tags": []
+    },
+    {
+      "id": "48638e556fe9",
+      "title": "Comcast: The NBCUniversal Spin-Off Is Why I'm Upgrading To Buy (Rating Upgrade)",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4970917-comcast-stock-nbcuniversal-spin-off-is-why-upgrading-to-buy-rating-upgrade?source=feed_all_articles",
+      "published_at": "2026-11-22T11:39:19+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Comcast: The NBCUniversal Spin-Off Is Why I'm Upgrading To Buy (Rating Upgrade)",
+      "tags": []
+    },
+    {
+      "id": "95b45dbe419e",
+      "title": "Solid Power: Sell This Value Trap (Rating Downgrade)",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4970916-solid-power-stock-sell-this-value-trap?source=feed_all_articles",
+      "published_at": "2026-11-22T11:21:37+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Solid Power: Sell This Value Trap (Rating Downgrade)",
+      "tags": []
+    },
+    {
+      "id": "84b976ef1d55",
+      "title": "Wall Street Week Ahead",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4970920-wall-street-week-ahead?source=feed_all_articles",
+      "published_at": "2026-11-22T11:21:37+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Wall Street Week Ahead",
+      "tags": []
+    },
+    {
+      "id": "fe2a111b15d2",
+      "title": "Munich RE: A High-Quality Reinsurer Trading Near Fair Value Following Q3 Earnings",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4970915-munich-re-a-high-quality-reinsurer-trading-near-fair-value-following-q3-earnings?source=feed_all_articles",
+      "published_at": "2026-11-22T11:10:39+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Munich RE: A High-Quality Reinsurer Trading Near Fair Value Following Q3 Earnings",
+      "tags": []
+    },
+    {
+      "id": "726752713d9c",
+      "title": "Standard Nuclear: Real Fuel Sales, But The Backlog Is Mostly Options",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4970913-standard-nuclear-real-fuel-sales-but-the-backlog-is-mostly-options?source=feed_all_articles",
+      "published_at": "2026-11-22T10:24:27+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Standard Nuclear: Real Fuel Sales, But The Backlog Is Mostly Options",
+      "tags": []
+    },
+    {
+      "id": "127b7f763054",
+      "title": "Anthropic: Following The Palantir Playbook",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4970912-anthropic-following-the-palantir-playbook?source=feed_all_articles",
+      "published_at": "2026-11-22T10:07:24+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Anthropic: Following The Palantir Playbook",
+      "tags": []
+    },
+    {
+      "id": "9e40570e6219",
+      "title": "Cargojet: Buy And Unlock Value Without Significant Earnings Growth",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4970910-cargojet-buy-and-unlock-value-without-significant-earnings-growth?source=feed_all_articles",
+      "published_at": "2026-11-22T09:16:38+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Cargojet: Buy And Unlock Value Without Significant Earnings Growth",
+      "tags": []
+    },
+    {
+      "id": "371b1ab991a0",
+      "title": "Week Ahead: Will The Dollar's Resilience In The Face Of Falling Stocks And Rates Be Challenged?",
+      "source": "All Articles on Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4970911-week-ahead-will-dollars-resilience-in-face-of-falling-stocks-and-rates-be-challenged?source=feed_all_articles",
+      "published_at": "2026-11-22T09:05:00+00:00",
+      "category": "other",
+      "sentiment": "neutral",
+      "signal": "watch",
+      "summary": "Week Ahead: Will The Dollar's Resilience In The Face Of Falling Stocks And Rates Be Challenged?",
+      "tags": []
+    },
+    {
       "id": "eea017aaa24c",
       "title": "Pair Trade Opportunity From Brunswick Corporation: Long BC.PR.C Vs. Short OTC Bonds",
       "source": "All Articles on Seeking Alpha",
@@ -479,114 +599,6 @@
       "sentiment": "neutral",
       "signal": "watch",
       "summary": "Pair Trade Opportunity From Brunswick Corporation: Long BC.PR.C Vs. Short OTC Bonds",
-      "tags": []
-    },
-    {
-      "id": "2c7cefa0e9a1",
-      "title": "Alibaba: AI Monetization Accelerates, Export Control Does Not Reset The Bullish Thesis",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4970907-alibaba-ai-monetization-accelerates-export-control-does-not-reset-bullish-thesis?source=feed_all_articles",
-      "published_at": "2026-11-22T07:33:02+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Alibaba: AI Monetization Accelerates, Export Control Does Not Reset The Bullish Thesis",
-      "tags": []
-    },
-    {
-      "id": "81b6214971bd",
-      "title": "AI Bubble Or Market Reset? 5 Reasons I'm Not Buying Yet",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4970906-ai-bubble-or-market-reset-5-reasons-im-not-buying-yet?source=feed_all_articles",
-      "published_at": "2026-11-22T07:23:49+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "AI Bubble Or Market Reset? 5 Reasons I'm Not Buying Yet",
-      "tags": []
-    },
-    {
-      "id": "369821229592",
-      "title": "Titan Machinery Will Continue To Underperform The Market",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4970905-titan-machinery-will-continue-to-underperform-the-market?source=feed_all_articles",
-      "published_at": "2026-11-22T07:10:13+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Titan Machinery Will Continue To Underperform The Market",
-      "tags": []
-    },
-    {
-      "id": "3584d9ae5d0d",
-      "title": "Yext's Enterprise Pivot Improves Profitability, But Overall Growth Remains Challenging",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4970902-yexts-enterprise-pivot-improves-profitability-but-overall-growth-remains-challenging?source=feed_all_articles",
-      "published_at": "2026-11-22T05:57:29+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Yext's Enterprise Pivot Improves Profitability, But Overall Growth Remains Challenging",
-      "tags": []
-    },
-    {
-      "id": "812fff31169d",
-      "title": "Walmart: A Boringly Solid Business At A Not-So-Boring Price",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4970900-walmart-stock-boringly-solid-business-at-not-so-boring-price?source=feed_all_articles",
-      "published_at": "2026-11-22T05:23:36+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Walmart: A Boringly Solid Business At A Not-So-Boring Price",
-      "tags": []
-    },
-    {
-      "id": "6c88e40f5dc2",
-      "title": "Vistance Networks: A Bargain Valuation Isn't Enough To Stay Bullish (Rating Downgrade)",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4970899-vistance-networks-stock-bargain-valuation-not-enough-to-stay-bullish-rating-downgrade?source=feed_all_articles",
-      "published_at": "2026-11-22T05:10:53+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Vistance Networks: A Bargain Valuation Isn't Enough To Stay Bullish (Rating Downgrade)",
-      "tags": []
-    },
-    {
-      "id": "4babbfb7ef09",
-      "title": "Politics And The Markets 11/22/26",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4960830-politics-and-the-markets-112226?source=feed_all_articles",
-      "published_at": "2026-11-22T05:00:00+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Politics And The Markets 11/22/26",
-      "tags": []
-    },
-    {
-      "id": "6d8942ef2c7d",
-      "title": "Yellow Cake Hit A 30% Discount To Its NAV",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4970898-yellow-cake-stock-hit-a-30-percent-discount-to-its-nav?source=feed_all_articles",
-      "published_at": "2026-11-22T04:38:01+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "Yellow Cake Hit A 30% Discount To Its NAV",
-      "tags": []
-    },
-    {
-      "id": "fd2a5ab1a16c",
-      "title": "ADTRAN: The Growth Of Optical Networks Has Not Offset The Rise In Component Costs",
-      "source": "All Articles on Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4970897-adtran-stock-growth-of-optical-networks-has-not-offset-rise-in-component-costs?source=feed_all_articles",
-      "published_at": "2026-11-22T04:30:25+00:00",
-      "category": "other",
-      "sentiment": "neutral",
-      "signal": "watch",
-      "summary": "ADTRAN: The Growth Of Optical Networks Has Not Offset The Rise In Component Costs",
       "tags": []
     }
   ]
