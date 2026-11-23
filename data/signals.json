@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T16:06:58.385927+00:00",
+  "generated_at": "2026-11-23T20:06:01.920223+00:00",
   "portfolio_summary": {
     "total_assets": 10,
     "buy_count": 3,
@@ -13,8 +13,8 @@
       "name": "NVIDIA Corporation",
       "sector": "Technology",
       "type": "stock",
-      "price": 168.48,
-      "change_pct": 34.2149,
+      "price": 165.22,
+      "change_pct": 31.6179,
       "signal": "buy",
       "note": "Record earnings beat; data-centre momentum intact",
       "sparkline": [
@@ -31,7 +31,7 @@
         150.96,
         145.98,
         125.53,
-        168.48
+        165.22
       ]
     },
     {
@@ -39,8 +39,8 @@
       "name": "Apple Inc.",
       "sector": "Technology",
       "type": "stock",
-      "price": 349.195,
-      "change_pct": 1.9369,
+      "price": 350.07,
+      "change_pct": 2.1923,
       "signal": "hold",
       "note": "WWDC catalyst expected in June; AI Siri could re-rate",
       "sparkline": [
@@ -57,7 +57,7 @@
         352.45,
         349.21,
         342.56,
-        349.195
+        350.07
       ]
     },
     {
@@ -65,8 +65,8 @@
       "name": "Microsoft Corporation",
       "sector": "Technology",
       "type": "stock",
-      "price": 500.1375,
-      "change_pct": 3.2233,
+      "price": 496.4,
+      "change_pct": 2.4519,
       "signal": "buy",
       "note": "Azure AI growth accelerating; Copilot adoption exceeding estimates",
       "sparkline": [
@@ -83,7 +83,7 @@
         507.31,
         498.3,
         484.52,
-        500.1375
+        496.4
       ]
     },
     {
@@ -91,8 +91,8 @@
       "name": "S&P 500 ETF",
       "sector": "Broad Market",
       "type": "etf",
-      "price": 724.32,
-      "change_pct": 5.0028,
+      "price": 722.34,
+      "change_pct": 4.7158,
       "signal": "hold",
       "note": "Breadth improving; watch 530 resistance",
       "sparkline": [
@@ -109,7 +109,7 @@
         730.2,
         715.87,
         689.81,
-        724.32
+        722.34
       ]
     },
     {
@@ -117,8 +117,8 @@
       "name": "Bitcoin",
       "sector": "Crypto",
       "type": "crypto",
-      "price": 62710.2617,
-      "change_pct": 2.5316,
+      "price": 61150.8086,
+      "change_pct": -0.0182,
       "signal": "watch",
       "note": "Above $90k resistance; ETF inflows strong",
       "sparkline": [
@@ -135,7 +135,7 @@
         58798.9805,
         60094.0898,
         61161.9102,
-        62710.2617
+        61150.8086
       ]
     },
     {
@@ -169,8 +169,8 @@
       "name": "Gold ETF",
       "sector": "Commodities",
       "type": "etf",
-      "price": 335.99,
-      "change_pct": 4.0636,
+      "price": 333.49,
+      "change_pct": 3.2892,
       "signal": "buy",
       "note": "Safe-haven demand rising on macro uncertainty",
       "sparkline": [
@@ -187,7 +187,7 @@
         341.19,
         335.18,
         322.87,
-        335.99
+        333.49
       ]
     },
     {
@@ -195,8 +195,8 @@
       "name": "20yr+ Treasury ETF",
       "sector": "Fixed Income",
       "type": "etf",
-      "price": 81.52,
-      "change_pct": 0.0859,
+      "price": 81.665,
+      "change_pct": 0.264,
       "signal": "watch",
       "note": "Rate cut expectations lifting long bonds",
       "sparkline": [
@@ -213,7 +213,7 @@
         80.22,
         80.35,
         81.45,
-        81.52
+        81.665
       ]
     },
     {
@@ -221,8 +221,8 @@
       "name": "Exxon Mobil",
       "sector": "Energy",
       "type": "stock",
-      "price": 158.12,
-      "change_pct": -1.1688,
+      "price": 157.53,
+      "change_pct": -1.5376,
       "signal": "sell",
       "note": "OPEC+ supply boost pressures energy names",
       "sparkline": [
@@ -239,7 +239,7 @@
         160.58,
         158.93,
         159.99,
-        158.12
+        157.53
       ]
     },
     {
@@ -247,8 +247,8 @@
       "name": "ASML Holding",
       "sector": "Technology",
       "type": "stock",
-      "price": 1396.595,
-      "change_pct": 10.2964,
+      "price": 1378.3199,
+      "change_pct": 8.8531,
       "signal": "watch",
       "note": "EUV lithography demand strong; export-control risk from US policy",
       "sparkline": [
@@ -265,7 +265,7 @@
         1395.27,
         1356.2,
         1266.22,
-        1396.595
+        1378.3199
       ]
     }
   ]
