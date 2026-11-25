@@ -1,9 +1,161 @@
 {
-  "generated_at": "2026-11-24T05:33:45Z",
-  "snapshot_date": "2026-11-24",
+  "generated_at": "2026-11-25T05:33:23Z",
+  "snapshot_date": "2026-11-25",
   "source": "financenews",
   "count": 30,
   "articles": [
+    {
+      "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+      "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-25T00:05:00+00:00",
+      "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
+      "sentiment": "bearish",
+      "sentiment_score": -0.5927,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Dell’s stock rises as the AI boom helps sales more than double",
+      "url": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-24T23:34:00+00:00",
+      "summary": "Dell says its backlog is “rigorously vetted for customer quality and access to capital, land and power.”",
+      "sentiment": "bullish",
+      "sentiment_score": 0.3818,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
+      "url": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-11-24T23:03:24+00:00",
+      "summary": "The product, the first one beyond event contracts, was introduced in May.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.2023,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "HPE just posted its strongest growth ever — but its stock is sinking",
+      "url": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-24T21:45:00+00:00",
+      "summary": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8658,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Micron’s stock falls as an analyst warns about a future supply glut",
+      "url": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
+      "source": "MarketWatch Top Stories",
+      "published_at": "2026-11-24T21:22:00+00:00",
+      "summary": "A BNP Paribas analyst says the risk of an  “oversupply scenario is mounting” for memory chips, and that could threaten Micron’s pricing power.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.6249,
+      "tags": [
+        "Chips"
+      ],
+      "signal": "watch",
+      "category": "geopolitical",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
+      "url": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-11-24T20:45:57+00:00",
+      "summary": "Co-founders of the prediction market platform were slated to appear in a state district court in December.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.8225,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Fact-checking the '£750m a week' cost to rejoin the EU – video",
+      "url": "https://www.theguardian.com/politics/video/2026/nov/24/fact-checking-750m-a-week-cost-to-rejoin-eu-video",
+      "source": "The Guardian Economics",
+      "published_at": "2026-11-24T15:49:10+00:00",
+      "summary": "<p>In response to Andy Burnham wanting to forge closer ties with the European Union, a campaign group called Stay Out has launched, made up of Brexit supporters who claim it will cost the UK £750m a week to rejoin the bloc. Some of their assumptions are questionable, however, and their sums do not factor in what Brexit continues to cost us. The Guardian's Brussels correspondent, Jennifer Rankin, fact-checks the claim</p><p></p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/nov/17/cost-of-rejoining-eu-vote-leave-brexit-bus-myth-again\">Is £750m a week the real cost of rejoining the EU – or the Brexit bus myth all over again?</a></p></li></ul> <a href=\"https://www.theguardian.com/politics/video/2026/nov/24/fact-checking-750m-a-week-cost-to-rejoin-eu-video\">Continue reading...</a>",
+      "sentiment": "bullish",
+      "sentiment_score": 0.296,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Tech sell-off resumes as Nvidia shares drop 5% and Anthropic tumbles below IPO price – as it happened",
+      "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+      "source": "The Guardian Economics",
+      "published_at": "2026-11-24T15:36:28+00:00",
+      "summary": "<p>Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates\"><strong>Democrats hit out at Nvidia and Trump over Huang’s return – US politics live</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/24/have-you-downloaded-metas-ai-assistant-muse-or-do-you-plan-to\"><strong>Have you downloaded Meta’s AI assistant Muse or do you plan to?</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/guardian-live-events/2026/sep/30/the-ai-doomsday-threat-distinguishing-facts-from-fear\"><strong>The AI doomsday threat: Distinguishing facts from fear</strong></a></p></li></ul><p><strong>Jensen Huang’s return to Nvidia, despite concerns over his conduct and the supply of AI chips to China, may show that AI – and Huang himself – are ‘too big to fail’.</strong></p><p>That phrase was on everyone’s lips almost 20 years ago when the Global Financial Crisis struck, and several major banks were bailed out.</p><p>Given Nvidia’s pivotal role in the AI capex rollout, the implications of Huang’s reinstatement could be profound. Borrowing from the GFC, are some technology CEOs now so systemically important to the future of AI and US leadership in the latest technology revolution that they cannot be fired?</p><p>Questions around the scale of financing required and future monetisation remain, and the dependence on Huang for the future success of AI may paradoxically heighten those concerns especially given Anthropic fell despite yesterday’s broad market rally.</p><p>“We must investigate these actions. No president who has invested in a private company should be involved in their board decisions. Congress must come together in swift bipartisan action and demand answers immediately.”</p> <a href=\"https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.8652,
+      "tags": [
+        "Chips",
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+      "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-11-24T13:33:26+00:00",
+      "summary": "The influential central banker expressed confidence that inflation will get closer to the Fed's 2% target in 2027.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.8481,
+      "tags": [
+        "Interest Rates",
+        "Fed"
+      ],
+      "signal": "watch",
+      "category": "macro",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "A slash-and-burn budget update could push Australia into a recession. Jim Chalmers has a fine line to tread | Patrick Commins",
+      "url": "https://www.theguardian.com/business/2026/nov/24/mid-year-budget-cuts-recession-inflation-unemployment-australia-jim-chalmers",
+      "source": "The Guardian Economics",
+      "published_at": "2026-11-24T01:51:56+00:00",
+      "summary": "<p>Labor has been complacent. But deep cuts designed to kill inflation would come at least six months too late</p><p>A pivot towards austerity in next month’s mid-year budget would come far too late in the battle against inflation and risk pushing Australia into a recession we don’t need to have.</p><p>This is a truth that Jim Chalmers came halfway to articulating in <a href=\"https://www.theguardian.com/australia-news/2026/nov/23/unemployment-to-surpass-5-and-things-will-get-a-bit-harder-treasurer-jim-chalmers-warns\">Monday’s special economic statement</a>, delivered during question time.</p> <a href=\"https://www.theguardian.com/business/2026/nov/24/mid-year-budget-cuts-recession-inflation-unemployment-australia-jim-chalmers\">Continue reading...</a>",
+      "sentiment": "bearish",
+      "sentiment_score": -0.9354,
+      "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
     {
       "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
       "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
@@ -17,143 +169,6 @@
       ],
       "signal": "watch",
       "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Nvidia’s stock is surging again. What to know before chasing the AI rally.",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-is-surging-again-what-to-know-before-chasing-the-ai-rally-226688d7?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-23T22:04:00+00:00",
-      "summary": "Jensen Huang’s return to Nvidia was the good news that the AI trade needed, but investors should prepare for more volatility",
-      "sentiment": "bullish",
-      "sentiment_score": 0.2382,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm",
-      "url": "https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-23T21:51:00+00:00",
-      "summary": "Jensen Huang’s return as CEO of Nvidia powered a massive bounce in the U.S. stock market on Monday by helping to restore faith in the artificial-intelligence trade.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.9423,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Consumer stocks, seen as safe bet amid cracks in AI trade, were among the S&P 500’s biggest losers Monday",
-      "url": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-23T21:45:00+00:00",
-      "summary": "Shares of Kroger and Tyson Foods fall, as Nvidia storms higher",
-      "sentiment": "neutral",
-      "sentiment_score": 0.1779,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "These stocks are the biggest gainers after Jensen Huang’s return to Nvidia",
-      "url": "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-23T21:36:00+00:00",
-      "summary": "Huang’s comeback offers relief to the battered AI trade and drives major boosts across the tech sector.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.6901,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Amazon may have just found a ‘cheap’ way to get a lot more out of its chips",
-      "url": "https://www.marketwatch.com/story/amazon-may-have-just-found-a-cheap-way-to-get-a-lot-more-out-of-its-chips-bd822bd5?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-23T21:33:00+00:00",
-      "summary": "Amazon’s deal for Decart’s AI technology, with a reported price of $7.5 billion, may be a relatively inexpensive way to boost the speed and efficiency of its custom chips, says an analyst.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.7096,
-      "tags": [
-        "Chips",
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "HPE just posted its strongest growth ever — but its stock is wavering",
-      "url": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-23T21:28:00+00:00",
-      "summary": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8316,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Oracle and CoreWeave stocks stage big gains as investors bet the AI cash will keep flowing",
-      "url": "https://www.marketwatch.com/story/oracle-and-coreweave-stocks-stage-big-gains-as-investors-bet-the-ai-cash-will-keep-flowing-eeb1aa85?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-23T21:24:00+00:00",
-      "summary": "Nvidia’s financing of the AI ecosystem has been crucial for cloud companies like Oracle, CoreWeave, Nebius and Iren.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.5994,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history",
-      "url": "https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-23T21:19:00+00:00",
-      "summary": "Two products aiming to profit off daily declines in Nvidia shares were nearly wiped out as the stock rallied more than 30%.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8176,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
-      "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-11-23T21:02:17+00:00",
-      "summary": "The influential central banker expressed confidence that inflation will get closer to the Fed's 2% target in 2027.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8481,
-      "tags": [
-        "Interest Rates",
-        "Fed"
-      ],
-      "signal": "watch",
-      "category": "macro",
       "source_repo": "financenews"
     },
     {
@@ -443,21 +458,6 @@
       ],
       "signal": "watch",
       "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
-      "url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
-      "source": "CNBC Finance",
-      "published_at": "2026-11-18T15:13:39+00:00",
-      "summary": "Continued inflation above the Fed's 2% target is pushing central bank officials into a more aggressive stance.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.2247,
-      "tags": [
-        "Fed"
-      ],
-      "signal": "watch",
-      "category": "macro",
       "source_repo": "financenews"
     }
   ]
