@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-25T05:33:23Z",
-  "snapshot_date": "2026-11-25",
+  "generated_at": "2026-11-26T05:33:49Z",
+  "snapshot_date": "2026-11-26",
   "source": "financenews",
   "count": 30,
   "articles": [
     {
-      "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-      "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-25T00:05:00+00:00",
-      "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
+      "title": "UK food inflation could hit 5% next year, Bank of England says",
+      "url": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
+      "source": "The Guardian Economics",
+      "published_at": "2026-11-25T19:25:57+00:00",
+      "summary": "<p>Sharp rise expected as cost pressures mount, with experts factoring in energy price cap hike and potential impact of El Niño</p><p>Food price inflation in the UK could hit 5% next year, the Bank of England has said, despite rising less sharply than feared since the onset of the Iran war.</p><p>The deputy governor Clare Lombardelli told MPs on the cross-party Treasury select committee: “Food price inflation is coming in under what we expected [it] to be, and in fact under what the industry expected it to be.”</p> <a href=\"https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england\">Continue reading...</a>",
       "sentiment": "bearish",
-      "sentiment_score": -0.5927,
+      "sentiment_score": -0.3262,
       "tags": [
         "AI"
       ],
@@ -20,14 +20,48 @@
       "source_repo": "financenews"
     },
     {
-      "title": "Dell’s stock rises as the AI boom helps sales more than double",
-      "url": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-24T23:34:00+00:00",
-      "summary": "Dell says its backlog is “rigorously vetted for customer quality and access to capital, land and power.”",
-      "sentiment": "bullish",
-      "sentiment_score": 0.3818,
+      "title": "Prediction markets push OpenAI IPO expectations later into 2027",
+      "url": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-11-25T17:08:03+00:00",
+      "summary": "Kalshi traders have cut the odds of OpenAI confirming an IPO before June 2027, as AI stocks and related markets have weakened.",
+      "sentiment": "bearish",
+      "sentiment_score": -0.5267,
       "tags": [
+        "AI"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+      "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-11-25T14:29:00+00:00",
+      "summary": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+      "sentiment": "bullish",
+      "sentiment_score": 0.6956,
+      "tags": [
+        "Semiconductors",
+        "Chips",
+        "AI",
+        "Artificial Intelligence"
+      ],
+      "signal": "watch",
+      "category": "technology",
+      "source_repo": "financenews"
+    },
+    {
+      "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
+      "url": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
+      "source": "CNBC Finance",
+      "published_at": "2026-11-25T12:26:41+00:00",
+      "summary": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh.",
+      "sentiment": "neutral",
+      "sentiment_score": -0.1779,
+      "tags": [
+        "Fed",
         "AI"
       ],
       "signal": "watch",
@@ -47,36 +81,6 @@
       ],
       "signal": "watch",
       "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "HPE just posted its strongest growth ever — but its stock is sinking",
-      "url": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-24T21:45:00+00:00",
-      "summary": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
-      "sentiment": "bullish",
-      "sentiment_score": 0.8658,
-      "tags": [
-        "AI"
-      ],
-      "signal": "watch",
-      "category": "technology",
-      "source_repo": "financenews"
-    },
-    {
-      "title": "Micron’s stock falls as an analyst warns about a future supply glut",
-      "url": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
-      "source": "MarketWatch Top Stories",
-      "published_at": "2026-11-24T21:22:00+00:00",
-      "summary": "A BNP Paribas analyst says the risk of an  “oversupply scenario is mounting” for memory chips, and that could threaten Micron’s pricing power.",
-      "sentiment": "bearish",
-      "sentiment_score": -0.6249,
-      "tags": [
-        "Chips"
-      ],
-      "signal": "watch",
-      "category": "geopolitical",
       "source_repo": "financenews"
     },
     {
